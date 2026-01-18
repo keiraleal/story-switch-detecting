@@ -1,0 +1,236 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+out,FALSE,FALSE,FALSE,FALSE,INV: did you ever spill anything ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,INV: you did ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,INV: what ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: hm: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,INV: hm: ?,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,"CHI: sometimes I had a paint set of my own <and my brother kept> [//] and my brother , he spills a_lot_of things .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: he's only three .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: he got some bubbles and he spilt my bubbles and he spilt his .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: we hadta put some of his up .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: he kept &-um filling his thing back up when [//] because he's had some .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and he kept putting water in it and he kept spilling it out .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: and so one time he spilled it and I says +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: +"" I'm not going to (.) make you no more .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: and so he starts crying and so he spills mine .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: have you ever been down south ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: I've been in Kentucky .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: that's where my grandma lives .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: oh really ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: what'd you do in Kentucky ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: we went there on Easter vacation and <we sort_of> [//] (.) we had a party and all the relatives down there came to my grandma's house so we could see everybody .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: she moved and the +//.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: well Gina and Marie are my cousins and &-um they +//.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: how do you +..?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: the glue ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: they're your cousins and they +..?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and they useta live in this house that my grandma now lives in .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: uhhuh ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: but now they live in a real(ly) neat <apartment house> [//] apartment complex .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: it's real(ly) pretty .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: uhhuh ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and &-um they (.) have a_lot_of stuff in there .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and my grandma useta &-uh live in a house with a upstairs and downstairs but now she lives in one part .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: the same but only it's bigger .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and &-um that's where &-uh &-um my cousins useta live .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and so she moved into the house .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: this is a +...,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,CHI: to Kentucky .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,CHI: one time we [//] it was a Saturday .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I think it must have been summer .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: and it was about in the middle of the night , twelve o'clock .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and Mom and Dad woke up .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: you_know that's the usual time Dad goes to work .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: they woke us kids up .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: what's the paint for ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: you're sposta paint in the background with as many kinds of paint as you want .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: they woke you kids up ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: and &-um we &-uh +//.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oh I pasted these .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"INV: that's okay , you can put them in around them .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and (.) we ate breakfast .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: every time we go down to Bella's we [/] we call her Bella .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: her real name's Anne .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: but we're not allowed to call her Anne .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and every time we go down to her house we stop at the Red_Barn to eat .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: so we ate breakfast , we got dressed , packed our suitcases , and by the time the sun was coming up we were already <about &-um to> [//] out_of our drive probably .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and (.) so we went and we got there .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: well when we got there my &-um aunt Sarah , she's retarded .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: oh .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: she hadta go to this special home in Kentucky .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: so the only ones that live there now is my grandpa , Tom , and Mike .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and Mike was at this party at Claire's .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: and she didn't know we were coming , see .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: we called Tom <for surprise> [=! whispered] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: oh .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: and so we went there and Tom told us where she was , at Claire's , at the party .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: Tom didn't wanna go .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: see , he's lazy .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: he flunked a_lot_of times .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: he just graduated .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: oh .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and so (.) we went over to Claire's and knocked on the door .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: uhhuh ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: and (.) we went in and opened the door and said +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" surprise , Mike !",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: and she goes +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" oh: !",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: so they had this game (.) for the little kids and we played it .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: me and Gina did and Dianne .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I like Dianne .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,CHI: she gots [: got] [* m:+es] real long hair and got some pink shirts .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"INV: I live in Oberlin, not far from here .",FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,INV: have you ever been there or Cleveland ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,"CHI: I been, I'm allergic to frozen orange juice, you know what I do when I eat frozen orange juice ?",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: what happens ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: then, I get si:ck, my hands are stiff like this .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: I can't walk because my feet are stiff .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: I hafta crawl on my hands and knees .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: really ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: because I [/] I only had frozen orange juice once, at my grandma's .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"CHI: and after that I got this terrible cold like that, and I hadta go to, &-um the Oberlin Hospital .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: oh you were in the hospital ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: were you ever there for anything else ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,CHI: that's where I got my tonsils out .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: have you ever been to that big hospital ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: no uhhuh ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: well that's where I got my tonsils out .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: oh really ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: what happened ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: well (.) I hadta be in this big baby crib like .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: because all the other beds were tooken [: taken] [* m] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and this man (.) he was very nice (.) and (.) he walked with me and we talked as we walked down the hall .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and <one night> [//] one time I was asleep .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and &-um (.) when I woke up <my throat hurt> [//] my throat hurted [: hurt] [* m:=ed] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: and &-um so +...,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: so this man was walking with you ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: yeah and one time I was asleep and +//.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: what comes down here ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: anything you want .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: you can paint .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: just paint a_lot_of things in the background .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: so anyway this man came with you ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: yeah and xxx and (.) one time I was sleeping .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: you know what happened ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: what ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I &-uh went to the operating room when I was asleep .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and when I wo:ke up I was out and back into the room .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: and my &-um throat hurted [: hurt] [* m:=ed] like a sore throat and I said +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" Mom is my tonsils out ?",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: <and she> [/] and she says +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yes .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: and I says +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: boy it doesn't even hu:rt that much .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: &=laughs .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and I hadta stay in there <one more time> [//] one more day and the next day Natalie was over at our house .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: Natalie was over at your house ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and Nick .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: that's my brother .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: she's his fiancé .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: and +...,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: and +..?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: they took me home .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: well you_know &-um let me see &-um +...,FALSE,TRUE,FALSE,TRUE
+ambiguous,FALSE,FALSE,FALSE,FALSE,CHI: I hadta Nick always xxx .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: have you ever seen a nurse at work ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,CHI: Paula .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: she goes to our church and she's a nurse .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: and you wanna know what ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: what ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: when I was in the hospital , that's the hospital that she works at and in the middle of the night she woke me up .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: she woke you up ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: but I couldn't see her that well because I was so tired you_know .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: you were so tired ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and (.) I hurts [* m:+es] right here .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: she put me back in be:d and I have a little doll at home that she gave me .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: oh .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: I named her Paula .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: that's the same name as she .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: and I still had that feeling of a tornado .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and we got this &-um book and [//] of the old times and xxx .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: you had a feeling of old times ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and in the old times they [//] you_know they [/] they had xxx .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and in old times when they had dreams they usually meant something .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: &=laughs .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and so I thought that my dream meant something .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: that a tornado was going to come you_know sooner or later or either that [/] that would come .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and so I told my sister that .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: and she says +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" well did you get caught ?",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: I says +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" no .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: she says +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" did you get caught in the tornado ?",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: I says +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" no .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: she says +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"CHI: +"" well then the tornado probably (i)s going to co:me [!] and the lord will protect us .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: did you ever get a shot ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: when [//] I [/] I had a watch and one time when I was at the doctor a girl told me to count but I thought she said pout@q .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: so I started pouting and all's I did it just for a little bit and I went [//] hadta get my tonsils out .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: Mommy was talking to me when the girl did that .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: gave me a shot right there and she put the band-aid over it and it [//] the nurse said that I was a very patient girl .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,CHI: then she says that my mom was a very good talker too .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: 0 .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,INV: you have two pets ?,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,CHI: Buffy and Billie .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: they're both dogs .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: they're both girls too .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: <and one time> [//] Buffy is a hunting dog and Billie's a police dog .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: and, one time we [/] we took Buffy out to hunt and (.) <there was> [//] Bob was hunting too .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and she was around our company and she thought it was our dog .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and he thought that was a rabbit .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and he shot Buffy .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and suddenly he heard this yipyipyipyip@o and so we go over and Buffy got shot &-um three times or twice in the ear .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: so we hadta rush her to [/] to the vets and Buffy was still yipping .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: I think she still had one in her ear now but she's not dead yet .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: she's not dead .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: did you ever get stuck with anything ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: except a bee sting .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: oh .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: my sister said +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: +"" no it's a thistle .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: I says +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" nuhhuh .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: I [/] I was walking out barefooted .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: I says +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" nuhhuh it was a bee on a dandelion .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" I saw it with my very own eyes !",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: but I couldn't stop myself because I hadta put my foot down .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and my grandma took it out and +...,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: Sarah and Nellie still think it's a thistle and I think it's a bee .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: I know [!] it is .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: she didn't even see it .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: one time we went to [/] &-um to my grandma's .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: that was the time when I woke up about in the middle of the night .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: uhhuh ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: but <my dad> [//] my grandma had a hornet nest right up on top of the door .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: the one that she goes to .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: uhhuh ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and my dad <took the door out> [//] opened the door and it &~disur disturbed the hornet nest .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and he walked out and all the hornets came out_of the nest and stinged [: stung] [* m:=ed] him all over the face .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and he hadta put <this stuff on> [//] this white stuff on his face .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: &-um ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I think he hadta take him to the doctor I don't know .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: but I'm glad them hornets are dead !,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: what else happened in Kentucky ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: when we went there and [//] we had a party , Sarah , me , Nellie .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and we were playing house .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: and we were making dry mud pies , dry .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and we took this side and we did crazy thing with it .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: and +..?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: we found some lipstick but we couldn't take it home because I went to show Mommy and she says +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" put it up on the shelf .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: I was infected .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: see , it had been down in the cellar for a_lot_of years and in a toybox .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: that toybox is just full of bugs and dirt and stuff .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: here , I'll show how [/] how them two people taught me how to swim .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: they said +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: +"" you_know you put one hand down and you pick the other up like that and go up and put that hand down like that and kick your feet at the same time .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: <know you> [//] then you [//] you_know you put these down and you go like that and put them down and go like that .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: I told Mom that and she said +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"CHI: +"" that is not the right way to swim &=laughs .",TRUE,TRUE,TRUE,TRUE

@@ -1,0 +1,264 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV: have you ever been in a car wreck ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: you have ?
+out,FALSE,FALSE,INV: what happened ?
+in,TRUE,FALSE,CHI: we got hit by a truck .
+out,FALSE,FALSE,INV: what [//] &~hap <how'd did> [//] how did the car wreck ?
+in,FALSE,TRUE,"CHI: a lady drove out in front of us , turned around and we didn't see her ."
+out,FALSE,FALSE,INV: a lady drove out in front of you ?
+out,FALSE,FALSE,CHI: uhhuh ?
+in,TRUE,FALSE,CHI: and the keys were out .
+out,FALSE,FALSE,INV: have you ever been to a birthday party ?
+out,FALSE,FALSE,INV: or a halloween party or anything like that ?
+in,FALSE,TRUE,CHI: &~un: yeah a birthday party at my friend's .
+out,FALSE,FALSE,INV: you were ?
+out,FALSE,FALSE,INV: what happened ?
+in,TRUE,FALSE,CHI: I never won .
+in,FALSE,TRUE,CHI: only once .
+out,FALSE,FALSE,INV: did anything like that ever happen to you ?
+out,FALSE,FALSE,CHI: no .
+in,TRUE,FALSE,CHI: but I fell out_of a tree at home .
+in,FALSE,FALSE,CHI: my whole pant [: pants] leg ripped all the way from the bottom up to here .
+out,FALSE,FALSE,INV: your whole pant [: pants] leg ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: how'd that happen ?
+in,FALSE,TRUE,CHI: I fell and I hit a brick <and I> [//] and it ripped it and then I fell down after .
+in,TRUE,FALSE,CHI: I missed it with my head and it went phhhhh@o .
+out,FALSE,FALSE,INV: did anything like that ever happen with you ?
+in,FALSE,TRUE,CHI: uhhuh (.) one time we went to this one place .
+out,FALSE,FALSE,INV: uhhuh ?
+in,TRUE,FALSE,CHI: we &-uh went on a ride and I came back home and a kid threw a rock and hit me in the head .
+out,FALSE,FALSE,INV: you [//] the kid threw a rock and hit you in the head ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: oh: (.) what happened ?
+in,FALSE,TRUE,CHI: so I threw a rock at him .
+out,FALSE,FALSE,INV: oh: .
+in,TRUE,FALSE,CHI: it was down at Findley .
+out,FALSE,FALSE,INV: what do you do there ?
+out,FALSE,FALSE,INV: what did you do ?
+in,FALSE,TRUE,CHI: and Bobby my fishing pole and some had come in the deep end .
+in,TRUE,FALSE,CHI: it's not very deep when you go way out there .
+out,FALSE,FALSE,INV: oh it isn't ?
+in,FALSE,TRUE,CHI: they got little fish and I was trying to catch them with my little thing .
+in,TRUE,FALSE,CHI: I missed all of them .
+out,FALSE,FALSE,INV: &=laughs .
+in,FALSE,TRUE,CHI: and they go way out in the deep when I couldn't find them .
+in,TRUE,FALSE,CHI: and then I waited for about a hour and then they come back in .
+out,FALSE,FALSE,INV: &=laughs .
+in,FALSE,TRUE,CHI: you_know only about that close to the shore and they +...
+in,TRUE,FALSE,CHI: shh: I miss all of them .
+out,FALSE,FALSE,INV: &=laughs (.) you missed all of them ?
+out,FALSE,FALSE,CHI: uhhuh .
+in,FALSE,TRUE,CHI: I hit one here and tap one like this &=laughs and the other one zoom .
+out,FALSE,FALSE,INV: have you ever been in the hospital ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: you have ?
+in,TRUE,FALSE,CHI: for the same thing .
+out,FALSE,FALSE,INV: really ?
+out,FALSE,FALSE,INV: (.) what happened ?
+in,FALSE,TRUE,CHI: I got my tonsils out .
+in,TRUE,FALSE,CHI: I hadta get a whole bunch of shots .
+in,FALSE,FALSE,CHI: they hurt .
+in,FALSE,TRUE,CHI: they got tempers .
+in,TRUE,FALSE,CHI: he was puking up white foam .
+out,FALSE,FALSE,INV: oh really ?
+out,FALSE,FALSE,INV: he has white foam ?
+in,FALSE,FALSE,CHI: yeah he was puking it up .
+out,FALSE,FALSE,INV: he was puking it out ?
+in,FALSE,FALSE,CHI: he had rabies or something .
+out,FALSE,FALSE,INV: yeah .
+in,FALSE,TRUE,"CHI: my brother, he took him back in the woods, he hadta shoot him ."
+out,FALSE,FALSE,INV: oh: (.) He hadta shoot him ?
+in,TRUE,FALSE,CHI: yeah hasta shoot him .
+out,FALSE,FALSE,INV: did you ever get jabbed with anything ?
+out,FALSE,FALSE,CHI: unhunh .
+in,FALSE,TRUE,CHI: I got jabbed with sticks .
+out,FALSE,FALSE,INV: with sticks ?
+out,FALSE,FALSE,CHI: uhhuh .
+in,TRUE,FALSE,CHI: one time I was helping my brother scouting and you know what ?
+in,FALSE,TRUE,CHI: and I cutted [: cut] [* m:=ed] in the chin .
+in,TRUE,FALSE,CHI: and I fell out .
+in,FALSE,TRUE,CHI: and I [//] it goes chhh@o right through there .
+out,FALSE,FALSE,INV: what was in your mouth ?
+in,TRUE,FALSE,CHI: &-um &-uh a stick was .
+out,FALSE,FALSE,INV: a stick was in your mouth ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: and you went chh@o ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: oh .
+in,FALSE,FALSE,CHI: it was just a little bleeding .
+out,FALSE,FALSE,INV: it was just a little bleeding ?
+in,FALSE,TRUE,CHI: uhhuh I still use them .
+in,TRUE,FALSE,CHI: I always chew them up .
+out,FALSE,FALSE,INV: &=laughs .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: have you ever been swimming in the ocean ?
+out,FALSE,FALSE,CHI: unhunh .
+out,FALSE,FALSE,INV: how about the lake ?
+in,FALSE,TRUE,CHI: yeah that was at Findley .
+out,FALSE,FALSE,INV: hm: ?
+in,TRUE,FALSE,CHI: that was at Findley .
+out,FALSE,FALSE,INV: oh .
+in,FALSE,TRUE,CHI: I went over to watch the boats go out and [/] and the lifeguard caught me .
+out,FALSE,FALSE,INV: and the lifeguard caught you ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what happened then ?
+in,TRUE,FALSE,CHI: nothing .
+in,FALSE,FALSE,CHI: I just went back .
+in,FALSE,FALSE,CHI: nothing happened really .
+out,FALSE,FALSE,INV: you just went back ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,FALSE,CHI: I useta go back in the woods and play around .
+out,FALSE,FALSE,INV: you did ?
+out,FALSE,FALSE,CHI: uhhuh ?
+in,FALSE,FALSE,"CHI: when I hear a bird or something in [//] &~sn fly out of a tree , then I walk across ."
+in,FALSE,TRUE,CHI: I hit it and it went away up and I go hunbo@i .
+in,TRUE,FALSE,CHI: it was scared .
+out,FALSE,FALSE,INV: &=laughs .
+in,FALSE,TRUE,CHI: there's a whole bunch of prickers in the woods .
+in,TRUE,FALSE,CHI: and they [/] they [/] they sheep came and xxx .
+in,FALSE,TRUE,CHI: I was walking a bird (woul)d fly out or something .
+in,TRUE,FALSE,CHI: I got scared .
+in,FALSE,FALSE,CHI: something came .
+out,FALSE,FALSE,INV: &=laughs .
+in,FALSE,FALSE,CHI: I still go in .
+out,FALSE,FALSE,INV: have you ever been to the museum ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: to see fossils ?
+out,FALSE,FALSE,INV: big fossils ?
+out,FALSE,FALSE,CHI: you ever seen a shark ?
+out,FALSE,FALSE,INV: no .
+in,FALSE,FALSE,CHI: I have .
+out,FALSE,FALSE,INV: you have ?
+in,FALSE,TRUE,CHI: at Toledo_Zoo .
+out,FALSE,FALSE,INV: oh you were at Toledo_Zoo ?
+out,FALSE,FALSE,CHI: ever been there ?
+out,FALSE,FALSE,INV: unhunh .
+out,FALSE,FALSE,INV: tell me about it .
+in,TRUE,FALSE,CHI: &-uh: there's a whole bunch of animals .
+out,FALSE,FALSE,INV: a whole bunch of animals ?
+out,FALSE,FALSE,CHI: uhhuh .
+in,FALSE,FALSE,CHI: and there was this monkey there and he stole somebody's hat .
+out,FALSE,FALSE,INV: he did ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: what else happened ?
+in,FALSE,FALSE,CHI: &-um: then the trainer went in there and got him and the monkey stole his hat .
+out,FALSE,FALSE,INV: &=laughs .
+in,FALSE,FALSE,CHI: and then he wouldn't give it back and they were messing around .
+out,FALSE,FALSE,INV: &=laughs .
+in,FALSE,FALSE,CHI: and then &-um he got the monkey down and then they took the hats away from him .
+out,FALSE,FALSE,INV: they put the hats away first ?
+in,FALSE,FALSE,CHI: he put one of them on .
+out,FALSE,FALSE,INV: he did ?
+out,FALSE,FALSE,INV: (.) you saw a shark ?
+out,FALSE,FALSE,CHI: yeah .
+in,FALSE,FALSE,CHI: it looked kind_of mean .
+out,FALSE,FALSE,INV: &=laughs .
+in,FALSE,FALSE,CHI: it was coming right at me .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,TRUE,CHI: it went shooooh@o .
+out,FALSE,FALSE,INV: &=laughs (.) what else happened ?
+in,TRUE,FALSE,CHI: &-um we went around .
+in,FALSE,FALSE,CHI: there was this &-um lady .
+in,FALSE,FALSE,CHI: she was washing the tiger .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,FALSE,"CHI: and the tiger , it went over there and it started roaring and the lady jumped out of there ."
+out,FALSE,FALSE,INV: &=laughs .
+in,FALSE,FALSE,CHI: it showed its teeth right at her and it go &=imit:tiger .
+out,FALSE,FALSE,INV: what happened last year ?
+out,FALSE,FALSE,INV: last time you went ?
+in,FALSE,TRUE,CHI: they had tractors and lots_of things .
+out,FALSE,FALSE,INV: they had tractors ?
+out,FALSE,FALSE,CHI: yeah .
+in,TRUE,FALSE,CHI: there was these cows there .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,FALSE,CHI: we hadta walk across them and it really stinked [: stank] [* m:=ed] .
+out,FALSE,FALSE,INV: &=laughs it stinked@c ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: what else happened ?
+in,FALSE,TRUE,CHI: &-um there was this &-um horse there .
+out,FALSE,FALSE,INV: uhhuh ?
+in,TRUE,FALSE,CHI: and this work horse and he kicked this guy in the mouth .
+out,FALSE,FALSE,INV: he kicked this guy in the mouth ?
+in,FALSE,TRUE,CHI: yeah he went like this whoooooo@o .
+out,FALSE,FALSE,INV: what did you do on fourth of July ?
+out,FALSE,FALSE,CHI: nothing .
+out,FALSE,FALSE,INV: nothing ?
+in,TRUE,FALSE,CHI: I found this [//] &-um xxx a firecracker behind the corn stalks .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,TRUE,"CHI: and we put it in the sewer and lit it and it blew in the sewer , goes boom and it stung our faces all up ."
+out,FALSE,FALSE,CHI: yeah (.) you ever been to a sandstone quarry ?
+out,FALSE,FALSE,INV: unhunh .
+out,FALSE,FALSE,INV: have you ?
+out,FALSE,FALSE,CHI: uhhuh .
+in,TRUE,FALSE,CHI: there's rocks back there .
+out,FALSE,FALSE,INV: oh tell me about it .
+in,FALSE,FALSE,CHI: one day we were back there .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,FALSE,CHI: and &-um I threw a rock in the quarry .
+in,FALSE,FALSE,CHI: it went plunk@o .
+in,FALSE,FALSE,CHI: and it sunk into the quarry .
+in,FALSE,FALSE,CHI: it went phhhh@o .
+in,FALSE,FALSE,CHI: and then I threw a big one like this in there .
+in,FALSE,FALSE,CHI: it went pohhhhhhhh@o .
+out,FALSE,FALSE,INV: &=laughs .
+in,FALSE,FALSE,CHI: made three different sounds .
+in,FALSE,TRUE,"CHI: and one time we, &-uh we, &-um went, I caught this muskrat ."
+in,TRUE,FALSE,CHI: the first time I ever caught one in Kipton .
+out,FALSE,FALSE,INV: you caught a muskrat in Kipton ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: the first time ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: you ever caught one ?
+in,FALSE,TRUE,"CHI: I hadta sneak up on my brother when he was trapping, then I was, I was stealing his traps ."
+in,TRUE,FALSE,CHI: and then I stole a muskrat and said I caught him in my trap and then I set his and put bait in there .
+out,FALSE,FALSE,INV: &=laughs what happened when you caught the muskrat ?
+in,FALSE,TRUE,CHI: nothing .
+in,TRUE,FALSE,"CHI: I was, &-um I was my brother ."
+in,FALSE,TRUE,CHI: we went home .
+in,TRUE,FALSE,"CHI: &=laughs I left my traps there, I didn't know it was still there ."
+out,FALSE,FALSE,INV: you didn't know it was still there ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what happened to the muskrat ?
+in,FALSE,TRUE,CHI: we skinned him and served the food .
+out,FALSE,FALSE,INV: did you ever get paint all over you ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: you did ?
+in,TRUE,FALSE,CHI: I spilled a whole gallon of paint on me .
+out,FALSE,FALSE,INV: you spilled a whole gallon of paint on you ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what happened ?
+in,FALSE,FALSE,CHI: then I got in trouble .
+out,FALSE,FALSE,INV: &=laughs .
+in,FALSE,FALSE,CHI: we were painting our house .
+in,FALSE,TRUE,CHI: I [/] I was [/] was climbing this tree you_know .
+out,FALSE,FALSE,INV: uhhuh ?
+in,TRUE,FALSE,CHI: with Ricky .
+in,FALSE,FALSE,"CHI: my dad , he was going to paint the [/] &~ho the thing in the house and he was leaving it <all over> [//] all around him ."
+in,FALSE,TRUE,"CHI: and [/] and he caught me back there by the dogs , trying to climb the tree ."
+out,FALSE,FALSE,INV: he caught you back there by the dogs ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: trying to climb the tree ?
+in,TRUE,FALSE,"CHI: and he said +""/."
+in,FALSE,TRUE,"CHI: +"" why don't you ?"
+in,TRUE,FALSE,CHI: I finally learned how to climb the tree .
+out,FALSE,FALSE,INV: yeah ?
+out,FALSE,FALSE,CHI: yeah .
+in,FALSE,FALSE,"CHI: couple of days ago , I think it was the day after yesterday ."
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,FALSE,CHI: and I [//] <there was> [//] <I was> [//] there was bricks there and I was climbing the tree .
+in,FALSE,FALSE,CHI: I was climbing the whole way up there .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,FALSE,CHI: it was this real(ly) big tree .
+in,FALSE,FALSE,CHI: and so I climbed back down because &-um &-um I couldn't see the mother .
+in,FALSE,TRUE,CHI: she [/] she was about that far away from me and she [/] she saw me and she goes peep_peep_peep@o .
+in,TRUE,FALSE,CHI: she screamed and peeped at me all day almost .
+out,FALSE,FALSE,INV: peeped at you all day almost ?
+in,FALSE,TRUE,CHI: <that's why I got> [/] that's why I got down and left .
+out,FALSE,FALSE,INV: &=laughs .
+in,TRUE,FALSE,CHI: and then I got down .
+in,FALSE,FALSE,CHI: <I hit> [//] I missed the brick with my foot because I hafta hang like this .
+in,FALSE,FALSE,"CHI: see , I missed the brick and the brick went shhooohh@o ."
+in,FALSE,TRUE,CHI: scratched me all up .

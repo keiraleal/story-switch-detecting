@@ -1,0 +1,251 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV2: we wanted to you if you and your Mom could write a letter together .
+out,FALSE,FALSE,@Comment: Time is 8:57
+out,FALSE,FALSE,"@Comment: Daer Uncle David , I hope you feel good. Will I see you soon? love Chi"
+out,FALSE,FALSE,@Comment: Chi decides to write to his uncle although he refers to him as the guy in the hospital. Mot dictates the rest of the letter word for word. Spelling <Uncle David> takes a really long time but the letter goes more quickly after that. Bro is extremely distracting by interrupting constantly and criticizing Chi's work
+out,FALSE,FALSE,CHI: uhoh .
+out,FALSE,FALSE,MOT: you can write it yourself Chi .
+out,FALSE,FALSE,BRO: xxx [>] .
+in,TRUE,FALSE,MOT: <I'll just help you if you need help> [<] [>] .
+in,FALSE,TRUE,CHI: <I can do it> [<] .
+out,FALSE,FALSE,CHI: what is the letter gonna [?] be about ?
+out,FALSE,FALSE,MOT: who do you wanna write to ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: &=sighs .
+in,TRUE,FALSE,MOT: think of somebody far away .
+in,FALSE,FALSE,MOT: or somebody close .
+in,FALSE,FALSE,MOT: you can write to a friend in school .
+out,FALSE,FALSE,CHI: (.) &=sniffles .
+out,FALSE,FALSE,MOT: you don't know who to write to ?
+out,FALSE,FALSE,BRO: Chi xxx .
+out,FALSE,FALSE,MOT: who do you wanna write to ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,BRO: <Grandma and Grandpa> [>] !
+in,FALSE,FALSE,CHI: <oh (.) <I got> [/] I got> [<] the guy in the hospital .
+in,FALSE,TRUE,MOT: you want (.) Uncle David ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,BRO: <Uncle David> [=! whispering] .
+out,FALSE,FALSE,CHI: okay what is it gotta be about ?
+out,FALSE,FALSE,MOT: well how do you wanna start it ?
+out,FALSE,FALSE,CHI: I dunno [: don't know] .
+in,TRUE,FALSE,MOT: wanna say dear Uncle David or <hi Uncle> [>] David ?
+out,FALSE,FALSE,CHI: okay [<] .
+in,FALSE,TRUE,CHI: <I'm not> [>] (.) in front of his face .
+out,FALSE,FALSE,BRO: d@l [<] .
+out,FALSE,FALSE,MOT: do you write dear@q .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,CHI: d@l .
+out,FALSE,FALSE,BRO: a@l .
+out,FALSE,FALSE,CHI: shut up .
+out,FALSE,FALSE,CHI: will you be quiet ?
+out,FALSE,FALSE,MOT: what's that ?
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: oh yeah +/.
+in,TRUE,FALSE,CHI: <xxx look like a u@l> [>] .
+out,FALSE,FALSE,BRO: <it [/] (.) it> [<] +/.
+out,FALSE,FALSE,MOT: &~Dav .
+out,FALSE,FALSE,CHI: look !
+out,FALSE,FALSE,CHI: look !
+in,FALSE,RUE,CHI: it's a u@l .
+out,FALSE,FALSE,BRO: xxx .
+out,FALSE,FALSE,BRO: yyy .
+out,FALSE,FALSE,CHI: e@l e@l e@l .
+out,FALSE,FALSE,CHI: +^ right ?
+out,FALSE,FALSE,MOT: yeah e@l .
+in,TRUE,FALSE,MOT: oh you spelt it wrong .
+in,FALSE,FALSE,MOT: but that's alright .
+in,FALSE,FALSE,MOT: she just wants to see how good you do .
+out,FALSE,FALSE,BRO: www [>] .
+out,FALSE,FALSE,CHI: <e@l r@l xxx> [<] .
+out,FALSE,FALSE,MOT: <it's alright> [>] .
+out,FALSE,FALSE,CHI: <<e@l r@l> [/] (.) <e@l r@l> [/] e@l> [<] .
+in,FALSE,FALSE,MOT: just pretend you didn't make a mistake .
+out,FALSE,FALSE,CHI: okay then what [>] ?
+in,FALSE,TRUE,MOT: <if you> [<] had a pencil you could fix it but that's alright .
+out,FALSE,FALSE,CHI: <now what> [>] ?
+out,FALSE,FALSE,BRO: www &=noises [<] .
+out,FALSE,FALSE,MOT: r@l .
+out,FALSE,FALSE,MOT: dear .
+out,FALSE,FALSE,CHI: dear .
+out,FALSE,FALSE,BRO: ow .
+out,FALSE,FALSE,BRO: talk to me .
+out,FALSE,FALSE,CHI: dear Uncle .
+out,FALSE,FALSE,MOT: capital u@l for [/] for uncle@q .
+out,FALSE,FALSE,BRO: dear .
+out,FALSE,FALSE,MOT: you wanna go to your room ?
+out,FALSE,FALSE,BRO: nope .
+out,FALSE,FALSE,BRO: whoa !
+in,TRUE,TRUE,CHI: whoa that's giant .
+in,TRUE,FALSE,MOT: I think you like writing with this pen .
+in,FALSE,TRUE,MOT: +^ that's a felt tip you know .
+out,FALSE,FALSE,INV2: mhm [>] .
+out,FALSE,FALSE,CHI: now [<] what ?
+out,FALSE,FALSE,BRO: www &=noises .
+out,FALSE,FALSE,MOT: uncle .
+out,FALSE,FALSE,MOT: u@l n@l (.) c@l .
+out,FALSE,FALSE,BRO: u@l ?
+out,FALSE,FALSE,BRO: n@l [>] c@l .
+out,FALSE,FALSE,MOT: <kAl@u (.) u@l> [<] .
+out,FALSE,FALSE,CHI: will you just get outta [: out_of] here Bro ?
+out,FALSE,FALSE,MOT: l@l e@l .
+out,FALSE,FALSE,CHI: mm .
+out,FALSE,FALSE,MOT: mm .
+out,FALSE,FALSE,MOT: David@q .
+out,FALSE,FALSE,MOT: capital d@l .
+out,FALSE,FALSE,CHI: b@l [>] ?
+out,FALSE,FALSE,BRO: <d@l a@l> [<] .
+out,FALSE,FALSE,MOT: d@l .
+out,FALSE,FALSE,CHI: you said d@l [>] a@l r@l .
+out,FALSE,FALSE,CHI: d@l [<] .
+out,FALSE,FALSE,BRO: d@l a@l r@l .
+out,FALSE,FALSE,CHI: just shut up .
+out,FALSE,FALSE,BRO: dear .
+out,FALSE,FALSE,BRO: dear Abe [?] .
+out,FALSE,FALSE,CHI: dear .
+in,TRUE,FALSE,BRO: there's [>] an e@l at the end .
+out,FALSE,FALSE,CHI: <David@q> [<] .
+out,FALSE,FALSE,CHI: David &=laughs .
+out,FALSE,FALSE,BRO: dear Uncle David .
+in,FALSE,FALSE,BRO: David@q is easy to spell .
+out,FALSE,FALSE,BRO: +^ d@l a@l +//.
+out,FALSE,FALSE,BRO: oh xxx +//.
+out,FALSE,FALSE,CHI: e@l [>] !
+out,FALSE,FALSE,MOT: i@l [<] .
+out,FALSE,FALSE,MOT: i@l d@l .
+out,FALSE,FALSE,BRO: i@l .
+out,FALSE,FALSE,BRO: i@l .
+out,FALSE,FALSE,MOT: David !
+out,FALSE,FALSE,MOT: Id@u .
+out,FALSE,FALSE,MOT: not Ed@u .
+in,FALSE,TRUE,CHI: and there's a &~d and +/.
+out,FALSE,FALSE,BRO: David .
+out,FALSE,FALSE,MOT: David@q .
+in,TRUE,FALSE,BRO: you make a d@l weird [>] .
+in,FALSE,FALSE,MOT: <he likes> [<] to <make (.) like> [>] a g@l &=laughs .
+in,FALSE,TRUE,BRO: <you make a (.) &~y yeah> [//] you [/] you put the y@l <in the xxx like that> [>] .
+out,FALSE,FALSE,CHI: xxx [=! whining softly] [<] .
+in,TRUE,FALSE,MOT: <that's alright (.) make a little comma> [<] [>] now .
+in,FALSE,FALSE,BRO: you're supposed <to go> [>] www [=! mark making noises] .
+out,FALSE,FALSE,CHI: comma [<] .
+in,FALSE,TRUE,MOT: and then down here write something xxx .
+out,FALSE,FALSE,CHI: <I dunno [: don't know]> [>] .
+in,TRUE,TRUE,BRO: <he puts his> [<] d@l-s like this .
+in,TRUE,FALSE,MOT: well whatcha [: what do you] wanna <say to him> [>] ?
+out,FALSE,FALSE,BRO: www [=! sound effects] [<] .
+in,FALSE,TRUE,MOT: +^ you know you wanted to talk to him .
+in,TRUE,TRUE,BRO: I [!] do d@l-s like that .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,CHI: www &=noises [>] .
+out,FALSE,FALSE,BRO: <messy writing mister> [<] !
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,MOT: go dear Uncle David what ?
+out,FALSE,FALSE,MOT: I hope you feel better ?
+out,FALSE,FALSE,CHI: okay [>] .
+out,FALSE,FALSE,BRO: www [<] &=noises .
+in,TRUE,TRUE,CHI: you did a good idea !
+out,FALSE,FALSE,MOT: 0 [=! laughs softly] .
+out,FALSE,FALSE,CHI: &-uh [//] oh I hope .
+out,FALSE,FALSE,CHI: &-uh hope@q .
+out,FALSE,FALSE,CHI: &-uh (.) how do you spell hope@q ?
+tout,FALSE,FALSE,BRO: xxx .
+out,FALSE,FALSE,MOT: h@l o@l .
+out,FALSE,FALSE,MOT: o@l [>] .
+out,FALSE,FALSE,CHI: &=sneezes [<] .
+out,FALSE,FALSE,MOT: p@l e@l .
+out,FALSE,FALSE,CHI: h@l .
+out,FALSE,FALSE,CHI: o@l .
+out,FALSE,FALSE,CHI: o@l [!] [>] (.) p@l +/.
+out,FALSE,FALSE,MOT: p@l [<] .
+in,TRUE,TRUE,MOT: +^ make it into a p@l .
+out,FALSE,FALSE,CHI: p@l-s this one ?
+out,FALSE,FALSE,MOT: yes .
+out,FALSE,FALSE,MOT: h@l (.) o@l (.) p@l (.) e@l .
+out,FALSE,FALSE,CHI: stop it !
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,CHI: www .
+out,FALSE,FALSE,MOT: e@l .
+out,FALSE,FALSE,CHI: www .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,CHI: +^ hope (.) you .
+out,FALSE,FALSE,CHI: (.) take away [?] !
+out,FALSE,FALSE,CHI: (..) hey !
+out,FALSE,FALSE,CHI: +^ Ma !
+out,FALSE,FALSE,CHI: (..) yoohoo !
+in,TRUE,FALSE,BRO: I want (.) in there !
+in,FALSE,TRUE,BRO: I'm goin(g) in there !
+out,FALSE,FALSE,CHI: xxx hi .
+out,FALSE,FALSE,MOT: feel .
+out,FALSE,FALSE,MOT: <e@l e@l> [//] f@l e@l e@l l@l .
+out,FALSE,FALSE,CHI: f@l +...
+out,FALSE,FALSE,BRO: hi !
+out,FALSE,FALSE,CHI: feel (.) good .
+out,FALSE,FALSE,INV2: maybe you can do a picture with him [= Bro] or something .
+out,FALSE,FALSE,INV1: well (.) xxx .
+out,FALSE,FALSE,BRO: xxx .
+out,FALSE,FALSE,MOT: alright .
+out,FALSE,FALSE,MOT: +^ good@q would be g@l o@l o@l .
+in,TRUE,FALSE,MOT: +^ so you hafta squeeze another o@l in there .
+in,FALSE,FALSE,MOT: just right in there .
+in,FALSE,FALSE,MOT: or else it says God@q .
+out,FALSE,FALSE,MOT: there you go .
+in,FALSE,FALSE,MOT: <I hope you> [>] <feel good> [>] .
+out,FALSE,FALSE,BRO: xxx [<] !
+out,FALSE,FALSE,CHI: www &=noise [<] .
+out,FALSE,FALSE,CHI: good ?
+out,FALSE,FALSE,MOT: right .
+in,FALSE,TRUE,MOT: I hope you feel good .
+out,FALSE,FALSE,MOT: period right ?
+out,FALSE,FALSE,BRO: there xxx .
+out,FALSE,FALSE,MOT: well .
+out,FALSE,FALSE,CHI: &=gasps .
+in,TRUE,TRUE,MOT: don't [!] (.) get that [= ink] on your shirt .
+out,FALSE,FALSE,MOT: &-um I think (.) Fran called .
+in,TRUE,FALSE,MOT: I didn't ask .
+in,FALSE,FALSE,MOT: but it sounded like her .
+in,FALSE,FALSE,MOT: I hope you feel good .
+in,FALSE,TRUE,CHI: I hope you feel (.) good .
+out,FALSE,FALSE,CHI: <what next [?]> [>] ?
+out,FALSE,FALSE,MOT: <will I> [<] see you soon ?
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,MOT: love Chi .
+out,FALSE,FALSE,CHI: (.) will@q +...
+out,FALSE,FALSE,CHI: I@q +...
+in,TRUE,FALSE,MOT: <well you> [//] in school you don't do it like that right ?
+in,FALSE,FALSE,MOT: (be)cause now your dot's connecting with that .
+in,FALSE,TRUE,MOT: don't you skip a line before you do that ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: whatever .
+out,FALSE,FALSE,MOT: go ahead .
+out,FALSE,FALSE,MOT: +^ finish .
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,CHI: (..) is it (.) s@l e@l e@l ?
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: (..) p@l .
+out,FALSE,FALSE,MOT: soon .
+out,FALSE,FALSE,CHI: soon .
+out,FALSE,FALSE,CHI: soon how do you spell soon@q ?
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,MOT: oon@k .
+out,FALSE,FALSE,MOT: soo@k it's soo:n .
+out,FALSE,FALSE,CHI: (.) xxx .
+in,TRUE,TRUE,MOT: (..) he's a neat freak .
+out,FALSE,FALSE,INV2: &=laughs .
+out,FALSE,FALSE,INV2: I know .
+out,FALSE,FALSE,INV2: that's great .
+out,FALSE,FALSE,INV2: can you read it back to me ?
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,INV2: okay .
+in,TRUE,FALSE,CHI: dear Uncle David .
+in,FALSE,FALSE,CHI: I hope you feel good .
+in,FALSE,TRUE,CHI: will [/] (.) will I see (.) you (.) soon .
+out,FALSE,FALSE,CHI: love Chi .
+out,FALSE,FALSE,MOT: uhoh !
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,MOT: isn't that a question ?
+out,FALSE,FALSE,MOT: will I see you soon ?
+out,FALSE,FALSE,CHI: question .
+out,FALSE,FALSE,INV2: (.) great .
+out,FALSE,FALSE,INV2: thank you .
+out,FALSE,FALSE,CHI: okay just one xxx ?
+out,FALSE,FALSE,INV2: yeah .

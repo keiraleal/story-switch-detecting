@@ -1,0 +1,304 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+out,FALSE,FALSE,FALSE,FALSE,MOT: what happened when you went to the bird sanctuary ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: what ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: how was the (.) bird sanctuary ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oh that was fun .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: whatcha [: what did you] do ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: well [//] we &-um +/.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,MOT: I saw that your boots were disgusting [!] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: +^ they had mud all inside of (th)em .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I know .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: I know .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: <&=laughs > [>] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <&=coughs > [<] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: whatcha [: what did you] do ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: well we [/] we looked at birds .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: <you know what> [//] (.) there was a bird's nest ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: mhm .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: <and but> [//] (.) we tried to get close to it .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: but every time we got close to it the bird would fly away .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: was it a baby bird or an adult bird ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: <it's an adult> [//] it was a mama bird .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: <and if> [//] in a few weeks it's [/] (.) it's gonna have (.) I don't know how [!] many babies .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: yeah ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: so how did the mud [!] get in your boots ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: &~th that's my question .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: <you have (.) ow> [//] you hafta walk in this (.) like [/] (.) like (.) this quicksand stuff .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: +^ but it's not quicksand .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: it's muddy too .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: yeah ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: it has water in it .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: so <does the> [//] does Skip live [!] at the sanctuary ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: <I don't> [>] +/.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <or does his> [<] parents just run it ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,CHI: he lives [!] there .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: oh .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: well that's pretty neat .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and he also has a <&~hou in> [//] house in New(t)on <but he> [/] but he uses the one in Cape Cod .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <oh so they go there> [//] so that's where his parents work ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: <what do you mean> [>] ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: <they [/] they run> [<] [/] they run the bird sanctuary .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: and they live there sometimes .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,MOT: and sometimes when I guess during the winter when the sanctuary doesn't needta be taken care of they live at [//] in Newton .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: oh okay .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: I get it .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: I thought they lived in Newton too but the address on the sanctuary was Cape Cod .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: so what did you do ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: +^ how was the trip ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: it was fun .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: yeah ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah [>] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <what did> [<] you do on the bus ride down ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: and was it long ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: pretty [!] long .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: yeah ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: who did you sit with ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: <I &~s> [//] well I sat with two different people .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: you sat with who ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: two different people .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: who did you sit with on the way down ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: all the way down I sat with two different people .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: who ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: Jennifer (.) and Elizabeth .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: who's Jennifer ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: a girl in my class .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: which one ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: what do you mean ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: which girl is she ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: <I mean I (.) I> [//] when I go in I say hi@q to all these kids and they don't say hi to me .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: +^ I [/] <I don't know> [>] [?] .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: <she has> [<] brown hair (.) short .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: her mother has brown hair .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: kind of blondish brown ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: +^ she has like kind of brownish light eyes ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no [>] .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: like [<] her <eyes and> [>] her hair are kind of the same color ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: <no she> [<] +/.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: no .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: sometimes she has a teddy_bear outfit on .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: that sounds like the girl who asked me if she could come to your party .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,MOT: remember I told you this little girl ran up to me [>] ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah [<] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: and she said can I come to Chi's party and I said sure@q and I said I didn't know who (.) she was ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: I didn't know her name ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: but I knew she was in your class .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,MOT: +^ it sounds like that girl .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and (..) she laughs [!] a lot .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: alright .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: that could be her .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and [/] (..) and her mother (.) well she useta have long hair .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I think [?] you've seen her in kindergarten walk by a few times .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: I remember .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: hm: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: so you sat with her and who else ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,CHI: and Elizabeth .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &~s www [= name] .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: www [= name] .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: you know her .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: yeah .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: so was it a long trip ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: was it boring ?,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,MOT: <you didn't> [/] you didn't seem to look like you played with any of your stuff on the way down .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I didn't .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: you didn't have time to play with it or you just +/.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: no (be)cause <I played> [/] (.) I played &-um +...,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: you know that thing that you hafta push xxx <the the> [/] the little (.) plastic thing down and the dice (.) jumps in it and then you go that many spaces ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: the blue thing ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: is it blue ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: +^ yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: what game is that by the way ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: I don't know it's (.) &~tr double trouble no .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: who brought it ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: Jennifer .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: oh [>] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: it's [<] Trouble@q .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: (.) we played that .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: and [!] we all sang in the bus .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: whatcha [: what did you] sing ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,CHI: a song that <it's> [//] makes no sense .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: what song was it ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: the sailor song .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: +^ I don't know the name of it so we all call it the sailor song .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: how does it go ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: (.) I think you heard it before .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: it goes +/.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: a sailor went to sea sea sea to see what he &=sings +/.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <oh I know> [<] that one .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: I useta sing that one when I [!] was a kid .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oh .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: doesn't make any sense !,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: no it doesn't .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: but <it's fun> [/] it's fun to sing .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: +^ it's one of those <long bus> [>] songs .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah [<] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: I'm amazed you didn't sing <the &-um > [//] The Wheels on the Bus .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: www &=noise .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: did you ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,MOT: (be)cause that's a long bus song too .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: well (.) I'm glad you had a good time .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oop !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: how long did it take you to get down there ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: do you have any idea ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: was it a long long time or a short time ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: two hours or so .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: it did ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,MOT: that's a long time .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: and you_all didn't get bored ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: yeah we kept on asking are we almost there .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: yeah I bet .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: and there's a song [!] named Are We Almost There so we kept on singing are we almost there too .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: oh okay .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: how many adults went ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: Daniel's father is one .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: but Skip and his parents went before us so (.) I can't count them .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: okay .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: (be)cause they stayed there and waiting for you .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: no <they went> [/] they went the night before .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: oh (.) okay .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and stayed there .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and then <in the &~mor (.) in the> [//] (.) you know .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: okay .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: Daniel's father (.) Miss Marazo (.) Miss Skouth (.) Mister Galley (..) Miss Malone (.) and the bus driver .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: oh .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: that's <pretty xxx> [>] .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: <the bus> [<] driver stayed all day in the truck .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: he did ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: he didn't get out or anything ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: nope !,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: wow .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,MOT: I bet he had a sore butt when he [!] got home .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: hm: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: (.) oh well .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: so what else did you do ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: +^ where did you have lunch ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: we had lunch <on [/] on their> [//] on the grassy part .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: <like like> [//] it's sort of like (.) like (.) &~th it's shells then you get on a little garden part .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: we had lunch there .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: yeah ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: that's where we had snack too .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,MOT: (.) and you had lots_of good junk food .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: and <did the> [/] did the other kids bring junk food too ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,MOT: when I was a kid I useta love [!] field trips .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: mostly because (.) you didn't hafta eat at school <and you didn't> [//] and you gotta bring a really big lunch .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: and a lot [!] of it because the bus was hot .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <you know so xxx> [>] +/.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: <we didn't eat> [<] [//] we didn't get to eat anything [!] on the bus .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: you didn't ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: oh well .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: we were all starving too .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: <I think part> [//] you know one of the best parts of (.) going on field trips was eating on the bus .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah &=laughs .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,MOT: <so that's too bad you didn't get to (.) eat on the bus> [>] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs [<] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: well .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <went so &~wh> [//] any idea (.) what field trips you're gonna [: going to] go on next year ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: this is sort of a test .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: it was a test ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <what kind of test> [>] ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: <see if we could go> [<] on <field xxx next> [//] field trips [!] next year .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: was it really ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: who said it was a test ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: Miss Marazo .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: oh .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: she told us .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: well <that's interesting> [>] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: <and she> [<] always says when we go anywhere (.) be on your best behavior .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: alright .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: like you .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,MOT: well I tell you be respectful (.) behave (..) and be quiet !,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: (.) hm: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: well so you might go on some really neat you know trips next year ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: when I get in fifth grade (.) we'll take the bus to the gym .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: <at the> [>] upper school .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: really [<] ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: <they use> [>] the gym at the upper school .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <xxx because xxx> [<] +/.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: oh .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: that's pretty neat .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and <they go on to field trips> [//] they went on a one field trip to Egypt [!] I think or <something like> [>] that .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <did they really> [<] ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: for (.) two weeks .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: that's pretty nice .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: yeah ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: not second grade !,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,MOT: no fifth grade I know .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: <and fifth grade> [//] doesn't fifth grade also go like to [/] to New Hampshire or something ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,MOT: <for a couple weeks> [>] ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: <I don't know> [<] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,MOT: (.) I think that <the science> [/] the science department takes them (.) and they study plant life and +//.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: it's pretty neat .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,CHI: there were all kinds of weird birds at the estuary .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: sanctuary .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: oh (.) sanctuary@q .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: sanctuary it's a bird sanctuary .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,MOT: that's where birds &-um (.) are protected .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: and you know no one can hunt them and (.) you know .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,MOT: +^ they just kind of protect them so_that they grow and they [/] they have eggs and they roost and do all that .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: you know what ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: what ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: there was this rock (.) &~s at in the middle (.) of the sea thing .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and we all stepped over it (.) all the rock .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and it was a big [!] rock so (.) we all stepped on all the rocks and we gotta the big rock in the middle .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: did you really ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: was it fun ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: did you climb on the rock ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: but there's one [!] thing (.) (be)cause there were three people at [//] on the rock at a time .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: there was one [!] thing those three people hadta remember .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: what's that ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: try not to slip .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: well yeah <that would> [=! laughing] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: that's pretty important .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: (.) well +/.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and (.) tide came in (.) so the rest of the people couldn't get on .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: oh .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: (.) I wonder if those people who were standing on it stayed there ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: if the water would go over their heads ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: no .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: no .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,MOT: <well I it> [//] I guess it depends on how high (.) the high tide gets .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,MOT: remember that story we saw on the news where that boy went on that rock ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,MOT: and it was really low tide and <he and> [>] his friends were playing on the rock ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah [<] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: and then the electric plant let out their water (be)cause it has (.) you know a dam .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,MOT: it's a hydroelectric plant .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: +^ they use water to [/] to (.) make energy ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: and they let out their [!] water <and the> [//] all &~th his friends left him and he got stuck in that big rock with (.) you know (.) water spewing [!] by him really really hard ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,MOT: and he couldn't get off .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: <couldn't he> [>] swim ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <and xxx> [<] +/.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: no no no the water was way [!] to strong for him to swim .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,MOT: he would've drowned if he would've jumped into the water so it was really smart of him just to stay [!] there .,TRUE,TRUE,TRUE,TRUE

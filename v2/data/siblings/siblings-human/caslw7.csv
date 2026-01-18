@@ -1,0 +1,25 @@
+in/out/ambiguous,start,end,Transcript
+in,TRUE,TRUE,MOT: you can use the (.) two spaces if you want .
+out,FALSE,FALSE,@Comment: Time is 4:55
+out,FALSE,FALSE,"@Comment: MOT and Chi are sitting shoulder to shoulder on the couch; Chi has the paper on a book on his lap. Chi is very focused; Mot watches with her hands in her lap , and has to spend some time fending off baby brother; although Mot is paying attention to Chi , she doesn't interrupt him at all; Chi looks up to think , then returns to writing , still focused; Chi finishes and looks up when Mot says 'nice name' (Chi signed in cursive); EXP phrases instructions to Chi to 'write a letter with your Mom' (so Mot knows she CAN be involved)"
+out,FALSE,FALSE,@Comment: Dear mame than you for the Raiders hat and the purite one. The baseball cards were grat and the purite team cards. And for When you came back Last year and the prasins you brot back. from Chi
+in,TRUE,TRUE,MOT: like your green paper that you do your handwriting on .
+out,FALSE,FALSE,MOT: (..) wow .
+out,FALSE,FALSE,MOT: nice [/] nice name .
+out,FALSE,FALSE,CHI: 0 .
+in,TRUE,TRUE,MOT: you signed it nice .
+out,FALSE,FALSE,MOT: in script xxx .
+out,FALSE,FALSE,INV: could you read it for us ?
+out,FALSE,FALSE,CHI: dear xxx [>] .
+out,FALSE,FALSE,BRO2: &=cries [<] .
+out,FALSE,FALSE,CHI: xxx Mamie ?
+out,FALSE,FALSE,MOT: Mamie@q .
+out,FALSE,FALSE,MOT: say [>] +/.
+out,FALSE,FALSE,CHI: dear [<] Mamie .
+in,TRUE,FALSE,CHI: thank you for the Raiders hat and the Pirate one .
+in,FALSE,FALSE,CHI: the baseball cards were great (.) and the Pirate team cards .
+in,FALSE,FALSE,CHI: and for when you came back last year and the (..) pirate [//] (.) presents [!] you brought back .
+in,FALSE,TRUE,CHI: mm that's it .
+out,FALSE,FALSE,INV: wow .
+out,FALSE,FALSE,CHI: from Chi .
+out,FALSE,FALSE,MOT: great .

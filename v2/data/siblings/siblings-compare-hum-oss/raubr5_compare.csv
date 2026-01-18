@@ -1,0 +1,55 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+out,FALSE,FALSE,FALSE,FALSE,MOT: okay .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,@Comment: Time is 0:18,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,"@Comment: Chi and Mot sit facing one another with little Bro standing behind Mot. Chi decodes well and enunciates clearly , though his delivery sounds a bit choppy. He omits one line toward the beginning of the story. Mot corrects Chi once , but otherwise stays in the background and allows Chi to take ownership of the book reading. A good deal of Mot's attention goes toward quieting Bro who tries to participate in book reading",FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,@Situation: Chi holds book on own,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &-uh for my sister Christa .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: (.) come on .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,CHI: in the (.) light of the moon a little egg lay on a leaf .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,BRO: &~h I'm good at this .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: excuse us .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,BRO: &=laughs .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: excuse us .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: shh !,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,CHI: he started to look for some food .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: <one Monday> [//] on Monday he ate through &~a one apple but he was still hungry .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: on Tuesday he ate through two peas but he [>] +/.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: nope [<] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <two [/] two &~p> [>] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: <two pears> [<] but he was still hungry .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: on Wednesday he ate through three plums (.) but he was still hungry .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: on Thursday he ate through four strawberries but he was still hungry .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: on Friday he ate through five oranges (.) but he was still hungry .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: on Saturday he ate through one piece of chocolate cake (.) one icecream cone (.) one pickle [>] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,BRO: <one pickle> [<] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: one slice of Swiss cheese (.) one slice of &~sal (.) &~s +...,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,BRO: salami [>] !,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: salami [<] .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,BRO: how do you know ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: I know .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: one lollipop [/] lollipop (.) one piece of (.) cherry pie .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: stop !,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,CHI: one &~sh (.) sausage (.) one cupcake (.) and one <slice of> [>] (.) watermelon .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,BRO: <you forgot this> [<] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,BRO: you forgot this !,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: no I didn't .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,MOT: he got it right .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,CHI: that night he had a stomachache .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: &~aw I think he ate it .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV1: &=laughs .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,BRO: he ate through a leaf .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,CHI: <the next day he [/] he was> [//] the next day was Sunday again .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,CHI: the (.) caterpillar ate through (.) one nice green leaf and after that he felt (.) much better .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: now he wasn't hungry any more (.) and he wasn't a little caterpillar any more .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: he was a big (.) fat [!] caterpillar .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,CHI: he built a small house called a cocoon (.) around himself .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: he stayed inside for more than two weeks .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,CHI: then he nibbled a hole (.) in the cocoon (.) pushed [/] (.) pushed his way out +...,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,BRO: here's the little butterfly .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV1: &=laughs .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: he was a beautiful butterfly .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: yup .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: the end .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV2: that was <very good> [>] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: good [<] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV1: good job .,FALSE,TRUE,FALSE,TRUE

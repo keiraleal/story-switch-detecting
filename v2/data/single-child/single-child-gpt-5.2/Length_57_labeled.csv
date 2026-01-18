@@ -1,0 +1,300 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,MOT: &=gasps okay okay mm .
+out,FALSE,FALSE,MOT: it says
+out,FALSE,FALSE,"MOT: +"" who can ?"
+out,FALSE,FALSE,MOT: look !
+out,FALSE,FALSE,MOT: you needta look at the pictures .
+out,FALSE,FALSE,MOT: see all the people ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: no .
+out,FALSE,FALSE,MOT: let's find out what they're gonna do .
+out,FALSE,FALSE,"MOT: +"" 0 ."
+out,FALSE,FALSE,"MOT: +"" who can take out the trash ?"
+out,FALSE,FALSE,CHI: I can do that .
+out,FALSE,FALSE,MOT: you can do that ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: is she doing it too ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: what do you think (i)s in there ?
+out,FALSE,FALSE,CHI: trash .
+out,FALSE,FALSE,MOT: trash .
+out,FALSE,FALSE,MOT: just stuff ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: what's this ?
+out,FALSE,FALSE,CHI: a garbage can .
+out,FALSE,FALSE,MOT: yeah
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: what's this ?
+out,FALSE,FALSE,CHI: a wall .
+out,FALSE,FALSE,MOT: yeah just a wall ?
+out,FALSE,FALSE,MOT: is it her house or the garage or somethin(g) else ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,MOT: I don't know .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: you wanna read ?
+out,FALSE,FALSE,CHI: no
+out,FALSE,FALSE,"MOT: +"" 0 ."
+out,FALSE,FALSE,"MOT: +"" who can catch frogs ?"
+in,TRUE,FALSE,CHI: I can !
+out,FALSE,FALSE,MOT: you can ?
+in,FALSE,FALSE,CHI: no I can't .
+out,FALSE,FALSE,MOT: you can't ?
+in,FALSE,TRUE,CHI: no they ju:mp too fast .
+out,FALSE,FALSE,MOT: do they ?
+in,TRUE,FALSE,CHI: and I can't catch frogs .
+out,FALSE,FALSE,MOT: you can't catch frogs ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: did you touch them ?
+out,FALSE,FALSE,CHI: yuh@i .
+out,FALSE,FALSE,MOT: at the condo ?
+out,FALSE,FALSE,CHI: no I can't .
+in,FALSE,TRUE,MOT: yeah we touched em .
+out,FALSE,FALSE,MOT: do you think he's gonna be able to catch that frog ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: no .
+out,FALSE,FALSE,CHI: he might slip on something .
+out,FALSE,FALSE,MOT: yeah they're fast .
+out,FALSE,FALSE,MOT: pretty slippery ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: yup .
+out,FALSE,FALSE,MOT: hey do you think he'll jump in and swim after the frog .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: &=head:no the pond kinda yucky .
+out,FALSE,FALSE,MOT: this says
+out,FALSE,FALSE,"MOT: +"" who can do aerobics ?"
+out,FALSE,FALSE,CHI: what's aerobics ?
+in,TRUE,FALSE,MOT: aerobics is exercise like to music .
+out,FALSE,FALSE,MOT: can you exercise to music .
+in,FALSE,FALSE,CHI: &=head:no I never did that .
+in,FALSE,FALSE,CHI: I never did that before .
+in,FALSE,FALSE,MOT: you've exercised to music before .
+out,FALSE,FALSE,MOT: talk louder so they can hear you .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,MOT: okay .
+in,FALSE,FALSE,MOT: and they usually have mirrors .
+out,FALSE,FALSE,MOT: you think you could exercise to music ?
+out,FALSE,FALSE,CHI: no !
+out,FALSE,FALSE,MOT: no ?
+out,FALSE,FALSE,CHI: neah@i [= no] .
+out,FALSE,FALSE,MOT: I bet you could .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: I like her sparkly .
+out,FALSE,FALSE,MOT: it's pretty .
+out,FALSE,FALSE,MOT: we'll hafta do some a aerobics when we get home .
+out,FALSE,FALSE,CHI: &=head:no .
+out,FALSE,FALSE,MOT: no ?
+out,FALSE,FALSE,"MOT: +"" 0 ."
+out,FALSE,FALSE,"MOT: +"" who can be a ballet dancer ?"
+out,FALSE,FALSE,CHI: I can .
+out,FALSE,FALSE,MOT: can you ?
+out,FALSE,FALSE,MOT: could you ballet dance ?
+out,FALSE,FALSE,CHI: no I I'm not a lady .
+out,FALSE,FALSE,CHI: you're a ballet dancer .
+out,FALSE,FALSE,MOT: only ladies ?
+out,FALSE,FALSE,MOT: do you think that's a lady ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: you think ?
+out,FALSE,FALSE,MOT: do you think men can be ballet dancers ?
+out,FALSE,FALSE,CHI: &=head:no .
+out,FALSE,FALSE,MOT: no ?
+out,FALSE,FALSE,MOT: men can't dance ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,CHI: but not like a ballet dance +...
+in,FALSE,TRUE,MOT: they don't wear a dress though .
+out,FALSE,FALSE,CHI: &=head:no .
+in,TRUE,FALSE,MOT: but there's men that dance .
+out,FALSE,FALSE,CHI: oh .
+in,FALSE,FALSE,MOT: and there's a ballet they can do stuff like that .
+out,FALSE,FALSE,CHI: oh okay .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: think you'd like to do that ?
+out,FALSE,FALSE,CHI: &-uh &=thinks no .
+out,FALSE,FALSE,MOT: no .
+out,FALSE,FALSE,"MOT: +"" 0 ."
+out,FALSE,FALSE,"MOT: +"" who can play hopscotch ?"
+out,FALSE,FALSE,CHI: &=gasps me &=raises:hand me !
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: what's that honey ?
+in,FALSE,FALSE,CHI: and I jump here one jump two one jump two one .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: what number's under here ?
+in,FALSE,FALSE,CHI: four .
+out,FALSE,FALSE,MOT: &=nods yeah ?
+out,FALSE,FALSE,MOT: what is this stuff ?
+in,FALSE,FALSE,CHI: chalk .
+out,FALSE,FALSE,MOT: yeah .
+in,FALSE,FALSE,MOT: do you remember we useta make draw that in the garage .
+out,FALSE,FALSE,CHI: yeah .
+in,FALSE,FALSE,MOT: on the cement ?
+out,FALSE,FALSE,CHI: yup .
+in,FALSE,FALSE,MOT: in the garage ?
+in,FALSE,FALSE,MOT: and make a hopscotch .
+in,FALSE,FALSE,CHI: yup I can ah only up to ten .
+out,FALSE,FALSE,MOT: to ten ?
+in,FALSE,FALSE,CHI: yup I can do only up to ten .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: how come there's a bench there ?
+out,FALSE,FALSE,CHI: because it's a park .
+out,FALSE,FALSE,MOT: ah ha .
+out,FALSE,FALSE,MOT: ah ha .
+out,FALSE,FALSE,"MOT: +"" 0 ."
+out,FALSE,FALSE,"MOT: +"" who can drive a truck ?"
+out,FALSE,FALSE,CHI: not me &=laughs !
+out,FALSE,FALSE,MOT: you can't ?
+out,FALSE,FALSE,CHI: no because not old enough .
+out,FALSE,FALSE,MOT: oh .
+out,FALSE,FALSE,MOT: could I drive a truck ?
+out,FALSE,FALSE,CHI: a course .
+out,FALSE,FALSE,MOT: of course .
+out,FALSE,FALSE,CHI: and daddy too .
+out,FALSE,FALSE,MOT: and daddy .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: how (a)bout Firstname ?
+out,FALSE,FALSE,CHI: no !
+out,FALSE,FALSE,MOT: no .
+out,FALSE,FALSE,CHI: he's only five years old .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: grownups ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,CHI: &-um .
+out,FALSE,FALSE,MOT: you ready ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: (o)kay .
+out,FALSE,FALSE,"MOT: +"" 0 ."
+out,FALSE,FALSE,"MOT: +"" who can do dusting ?"
+out,FALSE,FALSE,CHI: me !
+out,FALSE,FALSE,MOT: &=nods you wanna da@b help me dust ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: who else dusts ?
+out,FALSE,FALSE,CHI: Firstname ss@i Firstname seven .
+out,FALSE,FALSE,MOT: I know you told me .
+out,FALSE,FALSE,MOT: who is this dusting right here ?
+out,FALSE,FALSE,CHI: a boy .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: does daddy dust ?
+out,FALSE,FALSE,CHI: &=head:no .
+out,FALSE,FALSE,MOT: &=looks:questioning .
+out,FALSE,FALSE,CHI: not really .
+out,FALSE,FALSE,MOT: yeah .
+in,FALSE,TRUE,MOT: daddy dusts all the stereo stuff and the tv and all the shelf with
+in,TRUE,FALSE,CHI: sometimes I one time I da@b dust the tv a little bit .
+in,FALSE,FALSE,MOT: yeah (be)cause it gets dusty .
+in,FALSE,FALSE,MOT: it's the static on the screen .
+out,FALSE,FALSE,CHI: yeah .
+in,FALSE,TRUE,MOT: I dust my shelves .
+in,TRUE,FALSE,MOT: and daddy does all the stairwell stuff .
+out,FALSE,FALSE,CHI: turn the page .
+out,FALSE,FALSE,"MOT: +"" 0 ."
+out,FALSE,FALSE,"MOT: +"" who can be a firefighter ?"
+out,FALSE,FALSE,CHI: I can .
+out,FALSE,FALSE,MOT: &=nods think it would be fun ?
+out,FALSE,FALSE,CHI: yup
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: ladies too ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: in one of my day care classes I saw a lady firefighter &=nods .
+out,FALSE,FALSE,CHI: &=nods .
+out,FALSE,FALSE,MOT: you needta be strong .
+out,FALSE,FALSE,MOT: &=nods ladies and men
+out,FALSE,FALSE,CHI: why do you needta be really strong ?
+out,FALSE,FALSE,MOT: well you hafta hold the hose .
+out,FALSE,FALSE,MOT: the hoses are very heavy when they're full of water .
+out,FALSE,FALSE,MOT: you hafta do a lot of different exercises .
+out,FALSE,FALSE,MOT: you hafta be strong .
+out,FALSE,FALSE,MOT: so ladies and men can do that .
+out,FALSE,FALSE,"MOT: +"" 0 ."
+out,FALSE,FALSE,"MOT: +"" who can paint a house ?"
+out,FALSE,FALSE,CHI: I can do that .
+out,FALSE,FALSE,MOT: can ya ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: are they painting the inside or the outside ?
+out,FALSE,FALSE,CHI: inside .
+out,FALSE,FALSE,MOT: &=nods it's inside ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: kinda looks like curtains inside then you can see the Chimney .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: what're we gonna do next week at +...
+out,FALSE,FALSE,CHI: he's painting outside .
+out,FALSE,FALSE,MOT: what're we gonna do next week at &-um gramma's ?
+out,FALSE,FALSE,MOT: you gonna paint ?
+out,FALSE,FALSE,CHI: &=head:yes .
+out,FALSE,FALSE,MOT: the back room ?
+out,FALSE,FALSE,CHI: &=head:yes .
+out,FALSE,FALSE,CHI: the solar system .
+out,FALSE,FALSE,MOT: the solar system .
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: yup .
+in,FALSE,TRUE,MOT: we painted the basement you helped us paint the basement .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: yup .
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,"MOT: +"" 0 ."
+out,FALSE,FALSE,"MOT: +"" who can pick flowers ?"
+in,TRUE,FALSE,CHI: oh we can't pick we can only pick not wild flowers .
+in,FALSE,FALSE,MOT: right not wild flowers .
+in,FALSE,FALSE,CHI: I but I can pick flowers .
+out,FALSE,FALSE,MOT: like dandelions and stuff ?
+in,FALSE,FALSE,CHI: yeah but she picking a wild flower .
+in,FALSE,FALSE,MOT: yeah they look like violets .
+in,FALSE,FALSE,MOT: I like to smell them .
+in,FALSE,FALSE,CHI: but I can +...
+in,FALSE,FALSE,MOT: you're not sposta pick wild flowers right like when you go in the
+in,FALSE,FALSE,CHI: wildflowers .
+in,FALSE,FALSE,MOT: &=head:no yeah can't pick them .
+out,FALSE,FALSE,MOT: you're right .
+out,FALSE,FALSE,CHI: you're right too &=head:yes .
+out,FALSE,FALSE,MOT: but the flowers right that daddy bought me flowers ?
+out,FALSE,FALSE,MOT: those flowers ?
+out,FALSE,FALSE,MOT: some of those are meant to be picked so you can bring them home and
+out,FALSE,FALSE,CHI: &-um are they ?
+out,FALSE,FALSE,MOT: from other states .
+out,FALSE,FALSE,CHI: from other states .
+out,FALSE,FALSE,MOT: yup .
+out,FALSE,FALSE,"MOT: +"" 0 ."
+out,FALSE,FALSE,"MOT: +"" who can be a sailor ?"
+out,FALSE,FALSE,CHI: oh I can !
+out,FALSE,FALSE,MOT: &=nods you think that'd be fun ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: steer the boat ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: is that a lady driving the boat steering the boat then ?
+out,FALSE,FALSE,CHI: of course it is .
+out,FALSE,FALSE,MOT: ladies and men ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: anybody .
+out,FALSE,FALSE,MOT: can kids ?
+out,FALSE,FALSE,CHI: sure .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: only grownups ?
+out,FALSE,FALSE,CHI: only grownups .
+out,FALSE,FALSE,MOT: yeah
+out,FALSE,FALSE,"MOT: +"" 0 ."
+out,FALSE,FALSE,"MOT: +"" who can play with toy trucks ?"
+out,FALSE,FALSE,CHI: oh that's so so easy to do .
+out,FALSE,FALSE,MOT: yeah ?
+out,FALSE,FALSE,MOT: who can do that ?
+out,FALSE,FALSE,CHI: me
+out,FALSE,FALSE,MOT: the whole family can play trucks ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: yup .
+out,FALSE,FALSE,MOT: lots of kids ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,MOT: &=head:yes .
+out,FALSE,FALSE,CHI: turn the page now .
+out,FALSE,FALSE,MOT: what kind of truck is that ?
+out,FALSE,FALSE,CHI: a dumptruck .
+out,FALSE,FALSE,MOT: yup .
+out,FALSE,FALSE,"MOT: +"" 0 ."
+out,FALSE,FALSE,"MOT: +"" who can deliver the newspaper ?"
+out,FALSE,FALSE,CHI: I can deliver the +...
+out,FALSE,FALSE,CHI: no I'm hard a doing it &+re riding on a bike throwing to the like
+out,FALSE,FALSE,MOT: that'd be hard to do try to steer your bike and throw it at the
+out,FALSE,FALSE,MOT: we have a a newspaper +...
+out,FALSE,FALSE,CHI: does that say Michigan ?
+out,FALSE,FALSE,MOT: yeah it does say Michigan !

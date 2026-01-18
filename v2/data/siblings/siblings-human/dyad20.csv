@@ -1,0 +1,145 @@
+in/out/ambiguous,start,End,Transcript
+in,TRUE,FALSE,JAC: I know what I'm gonna be (.) a pizzamaker .
+in,FALSE,FALSE,JAC: now Jon the first step (.) to being a pizza maker (.) is to get a piece of dough and cut it like this .
+in,FALSE,FALSE,JAC: then (.) you take this [!!] .
+in,FALSE,FALSE,JAC: and you (.) squash it down here (.) for shape .
+in,FALSE,FALSE,JAC: make it like this .
+in,FALSE,FALSE,JAC: then you take it out .
+in,FALSE,FALSE,JAC: you push it down here (.) with this [= roller] .
+in,FALSE,FALSE,JAC: then you squeeze it out .
+in,FALSE,FALSE,JAC: and so (.) that's the first step to make a pizza .
+in,FALSE,FALSE,JAC: you start out with this .
+in,FALSE,FALSE,JAC: then you roll it out (.) like this .
+in,FALSE,FALSE,JAC: until you have your very own homemade pizza finger slice .
+in,FALSE,FALSE,JAC: that's how our thing works .
+in,FALSE,FALSE,JAC: you can use any kind of (.) &-um dough .
+in,FALSE,TRUE,JAC: even green (.) for color .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,JAC: what .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: oh .
+out,FALSE,FALSE,JAC: what ?
+out,FALSE,FALSE,JAC: oh .
+in,TRUE,FALSE,CHI: there's nobody out there .
+in,FALSE,FALSE,JAC: yes there is John .
+in,FALSE,TRUE,JAC: yes there is John .
+out,FALSE,FALSE,INV: <you don't hafta whisper> [>] .
+out,FALSE,FALSE,CHI: &~a:h !
+out,FALSE,FALSE,JAC: &~aw cool !
+out,FALSE,FALSE,JAC: oh what happened to my big xxx ?
+out,FALSE,FALSE,JAC: now let's get all ready to build this .
+out,FALSE,FALSE,JAC: right ?
+out,FALSE,FALSE,JAC: right bud ?
+out,FALSE,FALSE,"JAC: +"" so: do I get in we can start ."
+out,FALSE,FALSE,JAC: vroom vroom@o .
+out,FALSE,FALSE,CHI: we're building xxx .
+out,FALSE,FALSE,INV: Jon can you speak up please ?
+out,FALSE,FALSE,"JAC: +"" Bud are we all ready ?"
+out,FALSE,FALSE,"JAC: +"" we just gotta get everyone here ."
+out,FALSE,FALSE,"CHI: +"" yup ."
+out,FALSE,FALSE,"JAC: +"" oh good ."
+in,TRUE,FALSE,"JAC: we'll get everyone here and be +""/."
+in,FALSE,FALSE,"JAC: +"" on our way ."
+in,FALSE,FALSE,CHI: vroom .
+in,FALSE,FALSE,CHI: brought the tools just in_case .
+in,FALSE,FALSE,"CHI: +"" oh good thinking ."
+in,FALSE,FALSE,"JAC: +"" I brought the shovel ."
+in,FALSE,FALSE,"CHI: +"" <I got> [/] <I got a> [//] I brought the other shovel too ."
+in,FALSE,FALSE,"JAC: +"" good ."
+in,FALSE,FALSE,JAC: now .
+in,FALSE,FALSE,"JAC: +"" we'll need (.) to put the ladders (.) on the dump truck I think ."
+in,FALSE,FALSE,"JAC: +"" let's get ready for our building ."
+out,FALSE,FALSE,"CHI: +"" okay ."
+in,FALSE,FALSE,"JAC: +"" I'll put the ladders here ."
+out,FALSE,FALSE,JAC: okay .
+in,FALSE,TRUE,"JAC: I brought our +""/."
+out,FALSE,FALSE,"JAC: +"" <drinking &~b> [//] a drinking barrel ."
+out,FALSE,FALSE,"JAC: +"" is there any more (.) that we need ?"
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: vroom .
+out,FALSE,FALSE,"JAC: +"" I think that's all ."
+out,FALSE,FALSE,"CHI: +"" okay ."
+out,FALSE,FALSE,"CHI: +"" I just forgot one more thing ."
+out,FALSE,FALSE,"JAC: +"" what's that ?"
+out,FALSE,FALSE,"CHI: +"" the wheelbarrow ."
+out,FALSE,FALSE,JAC: ya: !
+out,FALSE,FALSE,"JAC: +"" how could we forget that ?"
+in,TRUE,FALSE,JAC: got the two ladders .
+in,FALSE,FALSE,"JAC: +"" need these for sure ."
+in,FALSE,FALSE,JAC: xxx (.) the bucket and the other tool box .
+in,FALSE,FALSE,"JAC: +"" I've got the stuff with all our tools ."
+in,FALSE,FALSE,"JAC: +"" do you think that that's all that we needed ?"
+in,FALSE,FALSE,"CHI: +"" &-um I'm just putting the pylons here ."
+in,FALSE,FALSE,"JAC: +"" oh (.) need these !"
+in,FALSE,FALSE,"CHI: +"" the pylons you need ."
+out,FALSE,FALSE,JAC: yup .
+in,FALSE,FALSE,"JAC: +"" we need all these don't we ?"
+in,FALSE,FALSE,"JAC: +"" cement (.) pieces are in ."
+out,FALSE,FALSE,JAC: whoop .
+in,FALSE,FALSE,"JAC: +"" I guess this is all we need ."
+in,FALSE,FALSE,"JAC: +"" let's go ."
+out,FALSE,FALSE,CHI: oops .
+in,FALSE,FALSE,"CHI: +"" just one more thing !"
+in,FALSE,FALSE,"CHI: +"" we'll need one of these ."
+in,FALSE,FALSE,JAC: first aid just in_case some guy gets hurt .
+in,FALSE,TRUE,"JAC: +"" here you can put it in here [= stretcher] ."
+out,FALSE,FALSE,"CHI: +"" okay ."
+out,FALSE,FALSE,JAC: <carry xxx> [>] .
+out,FALSE,FALSE,CHI: <remember all> [<] .
+out,FALSE,FALSE,JAC: okay John you don't have any more .
+out,FALSE,FALSE,"JAC: +"" let's go ."
+out,FALSE,FALSE,JAC: <vroom@o> [>] .
+out,FALSE,FALSE,"JAC: +"" there's the place ."
+out,FALSE,FALSE,"JAC: +"" let's get the pylons out ."
+out,FALSE,FALSE,"CHI: +"" okay ."
+in,TRUE,FALSE,"JAC: +"" we'll take the tool toolbox out ."
+in,FALSE,FALSE,"JAC: +"" way to go everything's coming out ."
+in,FALSE,FALSE,CHI: brrrrr@o .
+in,FALSE,FALSE,"CHI: +"" everything's coming out ."
+out,FALSE,FALSE,CHI: vroom@o .
+out,FALSE,FALSE,JAC: vroom@o .
+out,FALSE,FALSE,CHI: okay .
+in,FALSE,TRUE,"JAC: +"" tool box is open ."
+in,FALSE,FALSE,"JAC: +"" need a sign up ."
+in,FALSE,FALSE,JAC: make sure nobody comes .
+out,FALSE,FALSE,"CHI: +"" <I'm making> [//] I'm putting the pylons around here ."
+out,FALSE,FALSE,"JAC: +"" okay I've got the fire extinguisher ."
+out,FALSE,FALSE,CHI: say these two signs say something .
+out,FALSE,FALSE,CHI: turn around .
+out,FALSE,FALSE,JAC: ouwoowoo@wp .
+out,FALSE,FALSE,JAC: dadadadum@wp .
+out,FALSE,FALSE,JAC: needta get all ready .
+out,FALSE,FALSE,JAC: dadadadum@wp .
+out,FALSE,FALSE,CHI: doo_doo .
+out,FALSE,FALSE,JAC: pow@o !
+out,FALSE,FALSE,JAC: there !
+out,FALSE,FALSE,JAC: and the rest of this stuff will go back into the tool box .
+out,FALSE,FALSE,JAC: the broom .
+in,TRUE,FALSE,"CHI: +"" I'll need this cause there's some trees around here ."
+in,FALSE,FALSE,JAC: (.) that's what we need out .
+in,FALSE,FALSE,CHI: yeah put it out because they're working .
+out,FALSE,FALSE,CHI: did you forget ?
+out,FALSE,FALSE,JAC: no .
+in,FALSE,FALSE,"JAC: +"" before we can start working ."
+in,FALSE,FALSE,"JAC: +"" all the rocks ."
+in,FALSE,FALSE,JAC: doo_doo@wp dadoodoo@wp (.) ch_ch_ch_ch@o .
+out,FALSE,FALSE,JAC: they can put [/] put into cement .
+out,FALSE,FALSE,CHI: vroom@o .
+in,FALSE,TRUE,JAC: be made for the cement .
+out,FALSE,FALSE,CHI: vroom@o .
+out,FALSE,FALSE,JAC: hey that's all .
+out,FALSE,FALSE,CHI: okay one tree down .
+out,FALSE,FALSE,CHI: temper !
+out,FALSE,FALSE,JAC: pow@o .
+out,FALSE,FALSE,CHI: this hat can come off .
+out,FALSE,FALSE,JAC: I know .
+out,FALSE,FALSE,JAC: see John look .
+in,TRUE,TRUE,JAC: see it's for the rangers to know that we're doing something .
+out,FALSE,FALSE,JAC: dodododododo@wp (.) dodododododo@wp .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,JAC: see .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,JAC: see .
+out,FALSE,FALSE,JAC: <the two> [//] <the drinking boxes> [//] <the drinking stuff> [>] .
+out,FALSE,FALSE,CHI: okay [<] .
+out,FALSE,FALSE,CHI: <I'll> [/] I'll take care of all the rocks myself .

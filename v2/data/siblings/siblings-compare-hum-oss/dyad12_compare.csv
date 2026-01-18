@@ -1,0 +1,213 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+out,FALSE,FALSE,FALSE,FALSE,NIK: let us play house Becky .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NIK: where's the tv Becky ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: a tv ?,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,CHI: this could be the baby .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NIK: and I'm gonna be the mommy .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NIK: you get baby and I get Ma [//] baby .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,NIK: I don't get daddy and you get baby too .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: tree_stump .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: that's for outside .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: there's a fireplace .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: a rocking chair .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: <where should the> [//] Becky where should the rocking chair go ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: in the bedroom ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah (.) in the bedroom .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: you know we hafta have enough room .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: <where's the bathroom> [/] where's the bathroom ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: maybe the bathroom could be sort of over here .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: here's some books to go on the shelves .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: goody [/] goody [/] goody !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: here's a little sink .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: it's neat .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: maybe you could keep their [//] a book in there .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no I don't think that would be good .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: this is for outside .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,NIK: and they even gotta fence .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: a fence ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: yeah .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NIK: it's to keep the family in .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,NIK: so the little children won't run away .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: Becky we need a whole bunch of books .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: books ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oh yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: the books could go there .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: here's another book .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: wrong way Becky .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: there now they've got lots_of books .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: what if that person gets up in the middle of the night and reads a book ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: so ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: it doesn't matter .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: lovely little drawers .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: they're cute little drawers .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: now we've gotta put the fence +...,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: we could put all of these in one room .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: no we don't (.) we can put +...,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: that could be the coffee table .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: how_about it could be the kitchen table (.) like that +...,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: no .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: this is the kitchen table .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: no we don't +...,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: where is the kitchen gonna be ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I don't know .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: there's another table .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,NIK: we hafta make room for the bedroom the bathroom the kitchen and the living_room .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: I think we could squeeze it all in .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: this could be (.) a picnic table .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: they could be picnic tables .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NIK: and here's a bench .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: here's a picnic table .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: where should we put +...,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: what's this ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: what is this Becky ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: I know .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: <the door is> [//] we already have a door .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oh a (.) door [>] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: <a window> [<] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: that could be the doormat .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: Becky what could this be ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: a dresser ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &-uh let me see what's inside it .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: I can't open it .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oh (.) it's hard to open .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: where's the little books ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: oh here they are .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oh a little rolling [>] +...,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: <I put it in upside down> [<] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: a rolling pin .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: and a board too .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: hey that could be part of the kitchen table .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I know that could be (.) like +...,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: like and here's all the pans and stuff .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: and there's the little rolling pin .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: and there's the stove .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: here's another drawer .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: Becky !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: how_about this be the picnic table ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: oh they're the same .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah they're the same .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I know that could be the front picnic table .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: how_about this could be +...,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: where is the kitchen gonna be ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: I don't know .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: maybe +...,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: wanna put it up here ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: get the bedroom kinda crowded .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: I think that's all for up in the bedroom .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: that's all for up in the bedroom .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: oh here's some chairs .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah they could go around there .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: we need a chair up here .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: no we don't need the rocking chair .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: hey Becky !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: it's even got a picture .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: in the bedroom .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &~a:h .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: and right there (.) a pitcher [= picture] of flowers .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: cute .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: that could be <a desk up in the bedroom> [>] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: xxx [<] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: hey this can't be a drawer .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: it's a sink .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I know .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: this is the one that you were talking about with a drawer .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: oh yes .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: that's a sink .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: now how do we open this ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: oh there I opened it .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: Hey Becky !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: look what it looks like inside .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I know .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: <xxx the bottom> [>] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: <where could we> [<] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: that could attach to the ground sort of .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: let's put the bathroom +/.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: right by the doors so if children are out playing +/.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: no [/] no [/] no !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: not by the door !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: I forgot the door is there .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: how_about we put this over like that .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,NIK: put the coffee table right there .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yes xxx .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and people could sit there .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: yeah .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and one person could sit there .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NIK: two .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,NIK: and then the rocking chair .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: the rocking chair goes right here .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: no !,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,NIK: that would be too crowded .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: there .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NIK: <I put the> [//] I was going to put the drawer back in together .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: here's tree stumps .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NIK: what do we need tree_stumps for ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I know the children might like to play with them .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NIK: yeah .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: here's the stove .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: a pan .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NIK: how do we open it .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: 0 .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NIK: Beck ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NIK: they're so small Becky (.) I can't open them .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NIK: very good .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: maybe they [= the bears] could open them .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NIK: I didn't think so Becky .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: this could be the whole bedroom .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: papa wants to go to sleep .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NIK: hey they even got a mirror .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oh yeah neat .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" how do I look ?",FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" do I need a haircut ?",FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" Not yet .",FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" when I go to sleep than I might need one .",FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,CHI: I knocked the book off the shelf .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: oh silly papa .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,NIK: hey two babies .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &~aw !,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: the babies can sleep on the couch .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: no .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: okay (.) the papa +/.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: <they're not big enough> [/] they're not big enough .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,NIK: papa can sleep on the couch .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: papa ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: then where will mama sleep ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NIK: mama sleep ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NIK: mama can sleep beside papa .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: then papa gets to smell stinky feet if she lies that way .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: where's the dinner table ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oh how_about that be the picnic table ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: if it's really really nice out .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: how_about we never eat inside .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: we always eat out on the picnic table .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay (.) .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: mama hasta cook now .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: okay let's put the tree_stumps back on the tree .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I know this could be +...,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: where's this +...,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: this could be sort of like [//] &-uh: like the drawer don't open .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: they just look like drawers .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: and it could really be a table and mama could cook on it .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: like put this on it and a roller .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: the cutting board on it .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: Becky !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: what ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: let's start playing with the bears now .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: where's papa ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: papa .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: where's baby bear .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NIK: baby baby bear .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oh it's cute .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" wa:h [!!] mama .",FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,NIK: xxx this one tripped over it .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"NIK: trip [!!] +""/.",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"NIK: +"" wa_wa_wa@o .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,"CHI: +"" mommy you're sposta put your things away .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,FALSE,FALSE,FALSE,FALSE

@@ -1,0 +1,88 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+out,FALSE,FALSE,FALSE,FALSE,INV: &-uh so Chi what I want you to do with thing <is (.) read> [>] it [>] (.) <to your &-um> [//] to your mommy .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,SIS: <xxx hi (.) hi> [<] .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: shh [<] .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: read .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,INV: read or [/] or tell the story however you [>] wanna do it .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,SIS: no [<] xxx [>] .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,FAT: Sis [<] .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: xxx help you .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: don't xxx .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,INV: okay sorry www &=laughs .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: read Pooh [= Chi's nickname] .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,SIS: Pooh .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,INV: you wanna read it or tell it to your mommy however you wanna do it .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,SIS: www &=noises [>] .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,MOT: <we already read that book> [<] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I read this book plenty of times .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: so you oughta know it by heart .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: so what's the problem ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: the &~cat (.) &-uh caterpillar .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: well you guys [?] in a comfortable spot ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: where do you wanna take it ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I don't know .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: well do you wanna read [>] it to your Dad here ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: Sis [<] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: xxx to read .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: <do wanna read> [>] it to your mommy ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <read it to Dad> [<] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no [>] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <read to Sis [= nickname]> [<] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: read to Sis [= nickname] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: Sis .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,XXX: you hafta move back .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: you hafta read .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: this the last part .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: read to Sis [= nickname] if you don't want me to [>] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,FAT: xxx [<] Sis [= nickname] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,FAT: www .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SIS: www .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,FAT: xxx the book though .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: <do you wanna> [//] what we would like you to do is read it aloud .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I can't .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: oh Chi you can +//.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: tell the story then .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: about a (.) <little worm> [>] [//] a little caterpillar that &~hat (.) hatched .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SIS: xxx [<] .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: then [/] then it ate a_lot_of food .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: right .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: that's the end of the story (.) right there .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: xxx [>] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: <and some food> [<] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: yeah .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: apples (.) pears .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: plums .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MOT: strawberries .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: strawberries (.) oranges .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MOT: oranges .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: strawberries and oranges .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and (..) cake icecream .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: whatchu [: what do you] like that <tastes sour> [>] ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: cucumbers [<] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: cheese .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: salami .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: a lollipop .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: piece of pie and (.) sausage .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and <a cupcake and a watermelon> [>] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SIS: www &=noises [<] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: <oh and a leaf> [>] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SIS: brother [<] .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,FAT: Sis .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: oh no .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: &=laughs .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: done .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: all done !,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: that was the quickest read I've ever heard .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: what do xxx turn into ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: <<and it> [/] and it> [>] <&~ha &~thr> [//] turns into a <big thing> [>] then it turns to a &~b butterfly that all .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: <why don't you try> [<] ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: why don't you come up and say <excuse me> [<] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: &=laughs .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: well that was licky@wp split .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: what's the name of it ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: <for just good> [//] for good +/.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: The Very Hungry Caterpillar .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: there you go you can read all the page very good .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: well if that's how you wanna do it .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: that's okay .,FALSE,TRUE,FALSE,TRUE

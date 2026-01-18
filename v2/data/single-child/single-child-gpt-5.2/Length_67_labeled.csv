@@ -1,0 +1,308 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,CHI: Mama look_it telephone !
+out,FALSE,FALSE,MOT: telephone you gonna call somebody ?
+out,FALSE,FALSE,MOT: (.) yeah .
+out,FALSE,FALSE,MOT: I like the animal xxx .
+out,FALSE,FALSE,MOT: who you gonna call ?
+out,FALSE,FALSE,CHI: I don't know but this phone don't work .
+out,FALSE,FALSE,CHI: can you get it to +/.
+out,FALSE,FALSE,MOT: oh [!] there you go .
+out,FALSE,FALSE,MOT: gotta use your muscles .
+out,FALSE,FALSE,CHI: well (.) I have two telephones see ?
+out,FALSE,FALSE,GRF: two telephones ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: two telephones <for xxx [=? nickname for herself]> [>] .
+out,FALSE,FALSE,GRF: <oh_boy> [<] you're rich .
+out,FALSE,FALSE,GRF: you got two cars .
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,CHI: no I don't !
+out,FALSE,FALSE,CHI: I have no cars .
+out,FALSE,FALSE,CHI: Mom !
+out,FALSE,FALSE,MOT: I'm sorry .
+out,FALSE,FALSE,MOT: I'm <doing it backwards (.) I'm sorry> [>] .
+out,FALSE,FALSE,GRF: <my turn though after you> [<] .
+out,FALSE,FALSE,MOT: whoo !
+out,FALSE,FALSE,CHI: no she's playing with me .
+out,FALSE,FALSE,GRF: oh she's playin(g) with you ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: look at the monkey .
+out,FALSE,FALSE,CHI: that goes +...
+out,FALSE,FALSE,CHI: +
+out,FALSE,FALSE,MOT: what's this ?
+out,FALSE,FALSE,CHI: kangaroo .
+out,FALSE,FALSE,MOT: kangaroo .
+out,FALSE,FALSE,MOT: mm I would say xxx zoo over here .
+out,FALSE,FALSE,CHI: (.) gimme [: give me] that thing [>] .
+out,FALSE,FALSE,MOT: please [<] .
+out,FALSE,FALSE,CHI: roar !
+out,FALSE,FALSE,CHI: roar roar roar !
+out,FALSE,FALSE,CHI: they're fightin(g) !
+out,FALSE,FALSE,MOT: apparently so !
+out,FALSE,FALSE,CHI: www .
+out,FALSE,FALSE,CHI: here (.) I +...
+out,FALSE,FALSE,CHI: what is that [= dinosaur egg] ?
+out,FALSE,FALSE,MOT: looks like a shell .
+out,FALSE,FALSE,CHI: looks like a nut .
+in,TRUE,FALSE,CHI: here (.) I'll get some cups .
+in,FALSE,FALSE,CHI: some nice cups and (.) pour some tea .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,CHI: whoa .
+out,FALSE,FALSE,MOT: xxx .
+in,FALSE,FALSE,CHI: we have some nice [/] (.) nice +...
+out,FALSE,FALSE,CHI: (..) okay .
+out,FALSE,FALSE,CHI: alright .
+out,FALSE,FALSE,MOT: hm: .
+in,FALSE,TRUE,CHI: we're gonna have a picnic .
+out,FALSE,FALSE,MOT: mm .
+out,FALSE,FALSE,MOT: we are huh ?
+out,FALSE,FALSE,CHI: yeah [>] !
+out,FALSE,FALSE,MOT: <what are> [<] we gonna have at this picnic ?
+in,TRUE,FALSE,CHI: candy .
+out,FALSE,FALSE,MOT: oh &=laughs .
+in,FALSE,TRUE,CHI: we're [/] we're gonna have all of that for food .
+out,FALSE,FALSE,MOT: oh .
+in,TRUE,FALSE,CHI: &~a [/] and this too .
+out,FALSE,FALSE,CHI: here's your own phone .
+out,FALSE,FALSE,MOT: mm .
+out,FALSE,FALSE,CHI: you can have your own phone and I have my own .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,CHI: Mom where are we gonna play this ?
+out,FALSE,FALSE,MOT: I dunno [: don't know] but can you hold on one second ?
+out,FALSE,FALSE,MOT: (be)cause I hafta get that [= real phone] .
+out,FALSE,FALSE,MOT: sorry .
+out,FALSE,FALSE,INV: that's okay !
+out,FALSE,FALSE,CHI: this xxx .
+out,FALSE,FALSE,CHI: Mom what's wrong [>] ?
+out,FALSE,FALSE,MOT: <xxx on the> [<] phone .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,CHI: my phone's gonna be right here .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: be careful it doesn't fall off the couch .
+out,FALSE,FALSE,MOT: who's calling ?
+out,FALSE,FALSE,CHI: I'm calling Fri .
+out,FALSE,FALSE,MOT: oh .
+out,FALSE,FALSE,GRF: &=laughs .
+in,FALSE,TRUE,CHI: <he's not home> [>] .
+in,TRUE,FALSE,MOT: <he's working second shift> [<] today .
+in,FALSE,FALSE,MOT: he's at work .
+in,FALSE,TRUE,MOT: it's probably him .
+in,TRUE,FALSE,MOT: he has probably got E@l S@l P@l .
+out,FALSE,FALSE,GRF: &=laughs .
+out,FALSE,FALSE,CHI: yeah ?
+out,FALSE,FALSE,CHI: I talk to Fri .
+out,FALSE,FALSE,MOT: very good !
+out,FALSE,FALSE,CHI: look [?] !
+out,FALSE,FALSE,CHI: his phone !
+out,FALSE,FALSE,MOT: his phone yeah .
+out,FALSE,FALSE,CHI: his [!] phone .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,MOT: very good Chi you said his last name very good .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: Mom can you xxx .
+out,FALSE,FALSE,MOT: can I (.) pick it up on mine ?
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,CHI: wait <wait wait> [>] !
+out,FALSE,FALSE,MOT: <oh I'm sorry> [<] xxx .
+in,FALSE,TRUE,CHI: I'm not picking up (.) xxx .
+in,TRUE,FALSE,CHI: bye .
+out,FALSE,FALSE,CHI: don't pick it up !
+in,FALSE,FALSE,CHI: he hanged up .
+out,FALSE,FALSE,MOT: oh sorry .
+in,FALSE,TRUE,CHI: I'm talking to my boyfriend !
+out,FALSE,FALSE,MOT: oh .
+out,FALSE,FALSE,MOT: who's your boyfriend ?
+out,FALSE,FALSE,CHI: Bro go get your phone .
+out,FALSE,FALSE,BRO2: okay .
+out,FALSE,FALSE,GRF: &=laughs .
+out,FALSE,FALSE,MOT: who's your boyfriend ?
+in,TRUE,FALSE,CHI: Danny .
+out,FALSE,FALSE,MOT: Danny who ?
+in,FALSE,FALSE,CHI: Danny with the New Kids .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,GRF: Danny ?
+out,FALSE,FALSE,MOT: oh in the New Kids .
+out,FALSE,FALSE,GRF: oh .
+out,FALSE,FALSE,CHI: Mom [>] .
+out,FALSE,FALSE,BRO2: Chi I [/] I wanna use the phone .
+out,FALSE,FALSE,CHI: okay .
+in,FALSE,TRUE,GRF: that's his [= BRO2] phone .
+out,FALSE,FALSE,CHI: I know .
+in,TRUE,FALSE,CHI: +^ I'm helping him (.) carry it !
+out,FALSE,FALSE,GRF: oh okay .
+out,FALSE,FALSE,CHI: don't put him on the picnic xxx +/.
+out,FALSE,FALSE,MOT: I know .
+out,FALSE,FALSE,MOT: it's not on .
+out,FALSE,FALSE,MOT: it's on my lap .
+out,FALSE,FALSE,CHI: here .
+out,FALSE,FALSE,CHI: you can (.) put it (.) right on the table for now .
+out,FALSE,FALSE,CHI: and you +...
+out,FALSE,FALSE,GRF: (..) oh Christ he's [= BRO2?] looking at the toys .
+out,FALSE,FALSE,MOT: yeah I know .
+out,FALSE,FALSE,MOT: he's casing out all her toys .
+out,FALSE,FALSE,MOT: +^ <oh I want some of that> [>] .
+out,FALSE,FALSE,GRF: <go xxx find the dinosaur> [<] .
+out,FALSE,FALSE,GRF: go get the dinosaur .
+out,FALSE,FALSE,GRF: go ahead get the dinosaur .
+out,FALSE,FALSE,CHI: he can play with our toys right Mom ?
+out,FALSE,FALSE,GRF: <get the dinosaur> [>] .
+out,FALSE,FALSE,MOT: <<now they're> [<] our toys> [=! laughing] ?
+out,FALSE,FALSE,INV: I wish I could leave them here .
+out,FALSE,FALSE,INV: but I needta share these with other kids .
+out,FALSE,FALSE,INV: so a few more minutes okay ?
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,MOT: you have a whole (.) toybox full of toys .
+out,FALSE,FALSE,GRF: yeah .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,CHI: we don't have one more spoon for Bro Mama .
+out,FALSE,FALSE,MOT: well make one !
+out,FALSE,FALSE,CHI: I can't make a spoon !
+out,FALSE,FALSE,MOT: sure you can .
+out,FALSE,FALSE,CHI: he can eat with this .
+out,FALSE,FALSE,MOT: yeah !
+out,FALSE,FALSE,MOT: use that as a spoon .
+out,FALSE,FALSE,CHI: wanna use this for a spoon ?
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,CHI: &-um .
+out,FALSE,FALSE,GRF: where's your dinosaur Bro ?
+out,FALSE,FALSE,CHI: which cup <you want Bro> [>] ?
+out,FALSE,FALSE,GRF: <that's the dinosaur picnic> [<] .
+out,FALSE,FALSE,CHI: what color of cup <you want> [>] ?
+out,FALSE,FALSE,GRF: <go get the dinosaur> [<] .
+out,FALSE,FALSE,GRF: attaboy@f [: that a boy] .
+out,FALSE,FALSE,MOT: Mama what color <of cup you want> [>] ?
+out,FALSE,FALSE,GRF: <what kind of dinosaur> [<] is that ?
+out,FALSE,FALSE,MOT: I'll have the yellow .
+out,FALSE,FALSE,MOT: I like yellow [>] .
+out,FALSE,FALSE,GRF: <alright> [<] .
+out,FALSE,FALSE,GRF: that's a dinosaur ?
+out,FALSE,FALSE,MOT: what am I having <to drink> [>] ?
+out,FALSE,FALSE,GRF: <where's the elephant> [<] ?
+out,FALSE,FALSE,GRF: +
+out,FALSE,FALSE,CHI: tonic [<] .
+out,FALSE,FALSE,MOT: oh tonic !
+out,FALSE,FALSE,GRF: Bro find <me xxx the elephant> [>] !
+out,FALSE,FALSE,CHI: <root beer> [<] .
+out,FALSE,FALSE,MOT: oh root beer tonic .
+out,FALSE,FALSE,GRF: find the elephant .
+out,FALSE,FALSE,CHI: I see it .
+out,FALSE,FALSE,GRF: no .
+out,FALSE,FALSE,GRF: xxx no (.) the elephant .
+out,FALSE,FALSE,CHI: here Bro .
+out,FALSE,FALSE,MOT: drink [/] drink your root beer .
+out,FALSE,FALSE,MOT: drink it !
+in,FALSE,TRUE,CHI: he puts it right in his mouth .
+in,TRUE,FALSE,CHI: that's how he catched +...
+out,FALSE,FALSE,CHI: want some more ?
+out,FALSE,FALSE,MOT: that's how you what ?
+in,FALSE,FALSE,CHI: that's how you catch germs .
+out,FALSE,FALSE,MOT: mm .
+out,FALSE,FALSE,GRF: where's the elephant Bro .
+out,FALSE,FALSE,CHI: cup .
+out,FALSE,FALSE,GRF: Bro .
+out,FALSE,FALSE,BRO2: what ?
+out,FALSE,FALSE,GRF: find the elephant .
+out,FALSE,FALSE,MOT: I'm gonna move this way .
+out,FALSE,FALSE,MOT: go see Papa .
+out,FALSE,FALSE,MOT: that one .
+out,FALSE,FALSE,MOT: go take your bike .
+out,FALSE,FALSE,GRF: xxx .
+in,FALSE,TRUE,MOT: Inv's gonna get up and she's gonna hit that .
+in,TRUE,FALSE,MOT: you gotta move that .
+out,FALSE,FALSE,MOT: is that good ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,MOT: bottomless cup huh ?
+out,FALSE,FALSE,CHI: ah !
+out,FALSE,FALSE,CHI: <I drink (.) I> [//] you know what I drink ?
+out,FALSE,FALSE,CHI: beer .
+out,FALSE,FALSE,GRF: &=laughs .
+out,FALSE,FALSE,CHI: &=laughs .
+out,FALSE,FALSE,GRF: you sound like grandfather .
+out,FALSE,FALSE,MOT: is it good ?
+out,FALSE,FALSE,CHI: now I'm gonna drink all of this .
+out,FALSE,FALSE,GRF: &=laughs .
+out,FALSE,FALSE,MOT: back up xxx .
+out,FALSE,FALSE,CHI: now I'm drunk !
+out,FALSE,FALSE,MOT: Chi !
+out,FALSE,FALSE,CHI: I'm all done .
+out,FALSE,FALSE,BRO2: xxx gimme [: give me] .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,CHI: take some beer .
+out,FALSE,FALSE,CHI: &=laughs .
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,MOT: go get your cup .
+out,FALSE,FALSE,MOT: bring it .
+out,FALSE,FALSE,MOT: now [?] .
+out,FALSE,FALSE,CHI: no it's right there .
+out,FALSE,FALSE,MOT: no .
+out,FALSE,FALSE,MOT: his cup is blue .
+out,FALSE,FALSE,MOT: there's another one .
+out,FALSE,FALSE,MOT: don't put your mouth on that .
+in,FALSE,TRUE,CHI: I spilled it .
+in,TRUE,FALSE,CHI: I hafta make some more .
+out,FALSE,FALSE,CHI: one +...
+out,FALSE,FALSE,MOT: ice cubes .
+out,FALSE,FALSE,CHI: yeah ice cubes .
+out,FALSE,FALSE,CHI: what did you think I'm putting it in ?
+out,FALSE,FALSE,MOT: oh I'm sorry .
+out,FALSE,FALSE,CHI: bananas ?
+out,FALSE,FALSE,CHI: &~t .
+out,FALSE,FALSE,MOT: honey xxx .
+out,FALSE,FALSE,CHI: &-um .
+out,FALSE,FALSE,CHI: now the cover fell off .
+out,FALSE,FALSE,CHI: Mama look_it this goes to here .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,MOT: the cover .
+out,FALSE,FALSE,CHI: excuse me what do you want ?
+out,FALSE,FALSE,CHI: want a drink ?
+out,FALSE,FALSE,CHI: let me shake xxx .
+out,FALSE,FALSE,CHI: wanna taste some ?
+out,FALSE,FALSE,CHI: (.) there's your cup .
+out,FALSE,FALSE,MOT: okay keep going .
+out,FALSE,FALSE,CHI: no it willn't cove(r) .
+out,FALSE,FALSE,MOT: xxx the cover .
+out,FALSE,FALSE,CHI: when I xxx [>] .
+out,FALSE,FALSE,MOT: see [<] ?
+out,FALSE,FALSE,MOT: she's a very good teacher .
+out,FALSE,FALSE,MOT: he was on (.) <he was very xxx> [>] .
+out,FALSE,FALSE,CHI: <I'm a teacher> [<] !
+out,FALSE,FALSE,MOT: xxx I mean (.) he [/] he xxx twice and xxx [>] and she's been on the funny [?] side the whole time xxx .
+out,FALSE,FALSE,CHI: <want ice cube in it> [<] ?
+out,FALSE,FALSE,MOT: xxx [>] .
+out,FALSE,FALSE,CHI: <hey Bro you want ice cube> [<] ?
+out,FALSE,FALSE,CHI: want ice cube ?
+out,FALSE,FALSE,MOT: what do you say ?
+out,FALSE,FALSE,MOT: (.) what do you say ?
+out,FALSE,FALSE,CHI: I put some of these in them .
+out,FALSE,FALSE,BRO2: thank you .
+out,FALSE,FALSE,MOT: thank you .
+out,FALSE,FALSE,CHI: you're welcome .
+out,FALSE,FALSE,CHI: you're welcome banana head .
+out,FALSE,FALSE,CHI: I'm not even playing with him ?
+out,FALSE,FALSE,CHI: banana head's not !
+out,FALSE,FALSE,MOT: what else [?] ?
+in,FALSE,FALSE,CHI: now this is is a lot .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,CHI: what color you want now ?
+in,FALSE,FALSE,CHI: (be)cause he's drinking out_of your cup .
+out,FALSE,FALSE,MOT: green .
+out,FALSE,FALSE,CHI: green ?
+out,FALSE,FALSE,MOT: Bro .
+out,FALSE,FALSE,MOT: back up .
+in,FALSE,FALSE,CHI: those is totally getting wrong .
+out,FALSE,FALSE,MOT: totally wrong ?
+out,FALSE,FALSE,MOT: how's that ?
+in,FALSE,FALSE,CHI: (be)cause .
+in,FALSE,FALSE,CHI: (.) I got two cups .
+out,FALSE,FALSE,MOT: it's okay .
+out,FALSE,FALSE,CHI: time to call .
+out,FALSE,FALSE,MOT: who are you calling ?
+in,FALSE,FALSE,CHI: nobody you know .
+in,FALSE,TRUE,CHI: I'm calling Michelle .
+out,FALSE,FALSE,MOT: xxx .
+in,TRUE,FALSE,CHI: you know Michelle because she [//] you walk with her .
+out,FALSE,FALSE,MOT: oh .
+out,FALSE,FALSE,MOT: Michelle .
+out,FALSE,FALSE,CHI: (..) I didn't do that .
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,CHI: it did it by itself .

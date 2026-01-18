@@ -1,0 +1,220 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+out,FALSE,FALSE,FALSE,FALSE,JOA: Marie ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah ?,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,JOA: that's part of a tree .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: no it isn't .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: it's a bed .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: we haven't got a bed for the children so it's a bed .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,JOA: they can sleep on the couch .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &-uh huh .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: here .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,JOA: I'll show you something .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: nope they're beds .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: okay .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: that's a tree .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: this is a bed .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: alright .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,CHI: oh it willn't fit in there .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: how bout they sleep in the living room ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: on the couch .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,JOA: cause see this is a tree .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: that one will hafta go inside somewhere .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: no .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,JOA: it's outside (o)kay ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: I want it inside !,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: xxx it will hafta be .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: it can be outside .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: yeah .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,JOA: now let's get the tree .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: that's down .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: there .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,JOA: the tree's cut down .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,CHI: I've got a way to set it up Joanna .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: xxx .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,JOA: where did the doll go ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I don't see it anywhere .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,JOA: here it is .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: okay .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,JOA: let's get playing now .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: one sec .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,CHI: I'm gonna put this in (.) the mother's room .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,JOA: okay let's pretend that it's bedtime now (o)kay ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,JOA: mother and father (.) hafta get to bed now .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JOA: get the father in .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JOA: these two little ones hafta sleep together .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: how do we get these [= character and bed] ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: xxx .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: xxx .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: take the bed out and get more [?] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: they can lay that way .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &-um (.) there .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,JOA: why don't ya just get the kids in there first ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: xxx how do I get this out ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JOA: Marie (.) how bout we take this out and get +...,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: xxx the dresser drawer .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,JOA: (o)kay now (.) take the bed out .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: xxx .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: you get it .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: the dresser drawer xxx .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: xxx need another one .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,JOA: what did this [= drawer from dresser] come out (.) of ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: probably that other thing .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: this thing .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,JOA: where is the other two ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I don't know we lost em .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,JOA: no we didn't .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: here .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,JOA: xxx there's (.) two drawers (.) here .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: okay now (.) put this one in here .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: xxx .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JOA: I'll get (.) the drawers in the right way .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yup .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: &=laughs .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: there ya got the drawers in .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,CHI: now I'm gonna put the children .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: this one to bed .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: okay .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,JOA: Marie (.) &-uh (.) I'm gonna get the mother and father out_of bed now .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,JOA: put the bed in first then I'll get the xxx in .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,JOA: the drawers fell out again .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: &=laughs .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: are they backwards ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: O .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JOA: I'll put them in again .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JOA: I'll put the dresser in right here .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: that's as far as it can go Joanna .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: I know that .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JOA: and get that one right there .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,JOA: there now &-um (.) put the fence up .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: what is that [= toy cement mixer] ?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I don't know xxx .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JOA: xxx .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JOA: now (.) okay .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,JOA: I'll get the ladder up .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,JOA: now do you wanna pretend it's morning now Marie ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JOA: &=laughs .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,JOA: I knew that was going to happen .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,JOA: the tree fell .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: xxx <there this> [>] damn tree .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: <come on Joanna> [<] .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" hey sis .",FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,JOA: &-um the mom and dad aren't up yet .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,JOA: Marie don't do that (o)kay ?,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,"JOA: +"" hey sister do you wanna make breakfast for mommy and daddy ?",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yeah you make breakfast for daddy .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" I'll make breakfast for mommy .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,"JOA: no I make breakfast for mommy and you make breakfast +""/.",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" <for daddy> [>] .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" <no me> [<] (.) mom .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" okay .",FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,"CHI: +"" here you go mom .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" well I'm just getting up .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,"CHI: +"" <here you go> [/] here you go daddy .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: xxx .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: xxx ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,JOA: cause I act out a boy and you act out a girl .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JOA: and a boy .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" oh thank_you sweetie xxx .",FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,"JOA: +"" dya [: do you] wanna go for a walk ?",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yeah !",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" okay .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" (o)kay let's go .",FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: +"" okay I'm holding onto father's hand he's going to lift me up (.) and carry me .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"JOA: +"" mommy's going to carry me .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"JOA: +"" and anyways we hafta wait til our porridge cools off .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yup .",TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"JOA: +"" hey [/] hey where's our porridge ?",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yeh especially mine .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" I want my porridge back [/] back mommy .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" me too mommy .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,"CHI: +"" I haven't touched it .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" me neither .",FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: +"" maybe there's somebody in the house .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" let's go and check in my bedroom .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" there is !",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" get out get out !",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"JOA: +"" no there isn't you're just joking .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,"CHI: +"" I (.) know I am .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"JOA: +"" let's just eat our porridge .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"JOA: +"" mommy will make us more .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" (o)kay there's our porridge .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yum yum yum .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yum yum yum .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" yum yum yum .",FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,"JOA: +"" okay let's let mommy and daddy eat now .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yeah .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" they could eat .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: +"" I'll put daddy in my chair .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"JOA: +"" mommy gets to sit in my chair .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" xxx daddy (.) daddy big bear .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: &=laughs .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,"JOA: +"" can you move the table over honey ?",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" what table ?",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" this table .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JOA: I can't fit my chair in .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"JOA: +"" there now push the table in .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" now I got a whole [!!] thing .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: &=laughs .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,"CHI: +"" now <I got a whole thing> [>] to myself .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,JOA: <he fell down the stairs> [<] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" there .",FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" xxx .",FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,"JOA: +"" (o)kay I'm going to write a letter .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" I don't wanna write a letter .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,"CHI: +"" me hates writing letters .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" we hafta .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" no we don't .",FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"JOA: +"" mommy said didn't you mommy ?",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" yes (.) honey .",TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"CHI: +"" well father didn't say for me .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" honey you hafta .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" no I don't wanna .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" okay .",FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: +"" brother will hafta write two notes .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: one from sis and one from brother .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"JOA: +"" okay sister you hafta tell me what [/] what you want me to write though .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,"CHI: +"" no you can write anything you want on my paper .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" me don't care .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" okay .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" &-um dear (.) whoever +...",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" no not dear whoever (.) dear +...",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" dear .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yeah .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" dear Nannie .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yeah .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JOA: &-um .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: +"" are we writing a letter to Nannie ?",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" uhhuh .",TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" yeah I want dear Nannie .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"JOA: +"" thank_you for (.) &-um (.) giving us (.) the desk .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yeah .",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" and +...",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" the (.) bed .",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" and +...",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" and the <&~sh> [//] no and the rocking chair .",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" and (.) the (.) dresser drawers .",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yeah .",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"JOA: +"" the two dresser drawers .",TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"JOA: +"" but we don't know which one [/] one that goes (.) whichever way .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" I think <it goes> [>] .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,"JOA: +"" <which way> [<] (.) it goes this way .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: xxx .,FALSE,TRUE,FALSE,TRUE

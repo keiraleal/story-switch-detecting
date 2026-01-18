@@ -1,0 +1,300 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,NAN: remember I can't see this so you hafta tell me all about this picture .
+in,TRUE,FALSE,CHI: and <they was baking> [*] a cake .
+out,FALSE,FALSE,NAN: mhm .
+in,FALSE,FALSE,CHI: and put the eggs in and stir it up .
+in,FALSE,FALSE,CHI: and mix it and put it in the stove .
+in,FALSE,FALSE,CHI: then they got the cake and they put it in (.) went in the oven .
+out,FALSE,FALSE,NAN: mhm .
+in,FALSE,TRUE,CHI: and it came out and it was a cake .
+out,FALSE,FALSE,NAN: good job !
+out,FALSE,FALSE,NAN: do the same thing with this picture [^c] .
+out,FALSE,FALSE,NAN: tell me all about it [^c] .
+in,TRUE,FALSE,CHI: it <0is> [*] at the playground [^c] .
+out,FALSE,FALSE,NAN: mhm [^c] .
+in,FALSE,FALSE,CHI: and the kids are playing [^c] .
+out,FALSE,FALSE,NAN: mhm [^c] .
+in,FALSE,FALSE,CHI: and a kid slides down <(.)> [>] the slidingboard [^c] .
+out,FALSE,FALSE,NAN: mhm [>] [^c] .
+out,FALSE,FALSE,NAN: mhm [^c] .
+in,FALSE,FALSE,CHI: and the girl is on the horse going back and forth [^c] .
+out,FALSE,FALSE,NAN: mhm [^c] .
+in,FALSE,FALSE,CHI: and the girl is going up [^c] .
+in,FALSE,FALSE,CHI: and the girl is swinging [^c] .
+in,FALSE,FALSE,CHI: and the boy is pushing her [^c] .
+out,FALSE,FALSE,NAN: mhm [^c] .
+in,FALSE,FALSE,CHI: and she's going back and forth [^c] .
+out,FALSE,FALSE,NAN: mhm [^c] .
+in,FALSE,FALSE,CHI: and [/] and [^c] +...
+in,FALSE,TRUE,CHI: and the girl is going down the slidingboard [^c] .
+out,FALSE,FALSE,NAN: mhm [^c] .
+out,FALSE,FALSE,CHI: and that's it [^c] .
+out,FALSE,FALSE,NAN: and that's it [^c] .
+out,FALSE,FALSE,NAN: Cal what's this ?
+out,FALSE,FALSE,CHI: a bag .
+out,FALSE,FALSE,NAN: and what do you think came in here ?
+out,FALSE,FALSE,CHI: Mcnuggets .
+out,FALSE,FALSE,NAN: you are really good at this game .
+out,FALSE,FALSE,NAN: what came in there ?
+out,FALSE,FALSE,CHI: coffee .
+out,FALSE,FALSE,NAN: mhm .
+out,FALSE,FALSE,CHI: a knife .
+out,FALSE,FALSE,CHI: french_fries .
+out,FALSE,FALSE,CHI: french_fries .
+out,FALSE,FALSE,CHI: cheeseburger .
+out,FALSE,FALSE,NAN: did you read that word ?
+out,FALSE,FALSE,CHI: 0 . [+ trn]
+out,FALSE,FALSE,NAN: it looked like you were reading that word .
+out,FALSE,FALSE,NAN: did you recognize that word ?
+out,FALSE,FALSE,CHI: 0 . [+ trn]
+out,FALSE,FALSE,NAN: I think you might have .
+out,FALSE,FALSE,CHI: spoon .
+out,FALSE,FALSE,CHI: fork .
+out,FALSE,FALSE,NAN: do you know what came inside of here ?
+out,FALSE,FALSE,NAN: a straw .
+out,FALSE,FALSE,CHI: straw . [+ i]
+out,FALSE,FALSE,NAN: a straw .
+out,FALSE,FALSE,NAN: do you know what came in there ?
+out,FALSE,FALSE,CHI: apple .
+out,FALSE,FALSE,NAN: an apple what ?
+out,FALSE,FALSE,NAN: an apple pie ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,NAN: do you wanna help me put everything back in here Cal ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,NAN: okay .
+out,FALSE,FALSE,NAN: what should you put away first ?
+out,FALSE,FALSE,CHI: 0 . [+ r]
+out,FALSE,FALSE,NAN: oh you're putting away the Mcnuggets away first .
+out,FALSE,FALSE,CHI: 0 . [+ trn]
+out,FALSE,FALSE,NAN: no ?
+out,FALSE,FALSE,NAN: what was that ?
+out,FALSE,FALSE,CHI: coffee .
+out,FALSE,FALSE,NAN: oh now you're putting away the Mcnuggets .
+out,FALSE,FALSE,NAN: oh bye Mcnuggets .
+out,FALSE,FALSE,CHI: 0 . [+ trn]
+out,FALSE,FALSE,NAN: oh that wasn't the Mcnuggets either ?
+out,FALSE,FALSE,NAN: what was it ?
+out,FALSE,FALSE,CHI: hamburger .
+out,FALSE,FALSE,NAN: a hamburger (.) you're right !
+out,FALSE,FALSE,NAN: now you're putting away the Mcnuggets .
+out,FALSE,FALSE,NAN: was I right ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,NAN: oh good .
+out,FALSE,FALSE,NAN: oh I got some coffee again .
+out,FALSE,FALSE,CHI: french_fries .
+out,FALSE,FALSE,NAN: more french_fries .
+out,FALSE,FALSE,CHI: a straw .
+out,FALSE,FALSE,NAN: should I +/.
+out,FALSE,FALSE,NAN: a straw .
+out,FALSE,FALSE,CHI: apple pie .
+out,FALSE,FALSE,NAN: good job .
+out,FALSE,FALSE,CHI: knife .
+out,FALSE,FALSE,NAN: mhm .
+out,FALSE,FALSE,CHI: spoon .
+out,FALSE,FALSE,CHI: a fork .
+out,FALSE,FALSE,CHI: paper bag .
+out,FALSE,FALSE,NAN: terrific job .
+out,FALSE,FALSE,NAN: okay (.) Cal (.) this is what we hafta do next .
+out,FALSE,FALSE,NAN: I want you to tell me what happens when you go to McDonalds from the first thing you hafta to do to the next thing you hafta do to the next thing you hafta do until you're all done at McDonalds .
+in,TRUE,FALSE,CHI: you get your food .
+out,FALSE,FALSE,NAN: good job .
+in,FALSE,FALSE,CHI: eat it .
+out,FALSE,FALSE,NAN: mhm .
+in,FALSE,FALSE,CHI: throw it away .
+in,FALSE,TRUE,CHI: go home .
+out,FALSE,FALSE,NAN: you did it !
+out,FALSE,FALSE,NAN: what do you think this is ?
+out,FALSE,FALSE,NAN: it's for your hair .
+out,FALSE,FALSE,CHI: shampoo .
+out,FALSE,FALSE,NAN: you got it .
+out,FALSE,FALSE,CHI: toothbrush .
+out,FALSE,FALSE,CHI: another toothbrush .
+out,FALSE,FALSE,NAN: this isn't a toothbrush .
+out,FALSE,FALSE,NAN: it kind of looks like it .
+out,FALSE,FALSE,CHI: toothpaste .
+out,FALSE,FALSE,NAN: that's right .
+out,FALSE,FALSE,CHI: towel .
+out,FALSE,FALSE,CHI: baby powder .
+out,FALSE,FALSE,NAN: that's right .
+out,FALSE,FALSE,NAN: so what room in my house do you think I might find these things in ?
+out,FALSE,FALSE,CHI: bathroom .
+out,FALSE,FALSE,NAN: what room ?
+out,FALSE,FALSE,CHI: bathtub .
+out,FALSE,FALSE,NAN: so these might be things you use to take a shower or a bath ?
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,NAN: good job .
+out,FALSE,FALSE,NAN: you wanna put them back in here for me ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,CHI: toothbrush .
+out,FALSE,FALSE,NAN: mhm .
+out,FALSE,FALSE,CHI: tooth [/] toothpaste .
+out,FALSE,FALSE,NAN: mhm .
+out,FALSE,FALSE,CHI: baby powder .
+out,FALSE,FALSE,NAN: mhm .
+out,FALSE,FALSE,CHI: shampoo and a towel .
+out,FALSE,FALSE,NAN: good job .
+out,FALSE,FALSE,NAN: okay (.) Cal (.) this is like our last game .
+out,FALSE,FALSE,NAN: I want you to tell me what happens when you go to take a shower or a bath the first thing then the next thing and the next thing until you're all done .
+in,TRUE,FALSE,CHI: first you take your clothes off .
+out,FALSE,FALSE,NAN: mhm .
+in,FALSE,FALSE,CHI: and then take a shower .
+out,FALSE,FALSE,NAN: how do you do that ?
+in,FALSE,FALSE,CHI: put the water in .
+out,FALSE,FALSE,NAN: oh that's good .
+out,FALSE,FALSE,NAN: and then what do you hafta do ?
+in,FALSE,FALSE,CHI: &~mm wash yourself off .
+out,FALSE,FALSE,NAN: mhm .
+in,FALSE,FALSE,CHI: let the water run out .
+out,FALSE,FALSE,NAN: good job .
+in,FALSE,FALSE,CHI: then get your towel .
+out,FALSE,FALSE,NAN: uhhuh .
+in,FALSE,FALSE,CHI: then dry yourself .
+out,FALSE,FALSE,NAN: uhhuh .
+in,FALSE,FALSE,CHI: then put on your pajamas .
+out,FALSE,FALSE,NAN: uhhuh .
+in,FALSE,TRUE,CHI: then go to bed .
+out,FALSE,FALSE,NAN: you did it !
+out,FALSE,FALSE,NAN: you wanna get all of the pieces out ?
+out,FALSE,FALSE,CHI: yes . [+ q]
+out,FALSE,FALSE,NAN: where should we put this Cal ?
+out,FALSE,FALSE,CHI: in the middle .
+out,FALSE,FALSE,NAN: okay (.) like this ?
+out,FALSE,FALSE,CHI: no ! [+ q]
+out,FALSE,FALSE,NAN: why not ?
+out,FALSE,FALSE,NAN: there we go (.) is that better ?
+out,FALSE,FALSE,CHI: yes . [+ q]
+out,FALSE,FALSE,NAN: we didn't hide all of the animals that time ?
+out,FALSE,FALSE,CHI: no . [+ q]
+out,FALSE,FALSE,NAN: okay .
+out,FALSE,FALSE,NAN: you can set it up however you want .
+out,FALSE,FALSE,CHI: 0 . [+ r]
+out,FALSE,FALSE,NAN: Cal that looks wonderful .
+out,FALSE,FALSE,NAN: can I tell you my part of the story first ?
+out,FALSE,FALSE,CHI: uhhuh .
+in,TRUE,FALSE,"NAN: one day there was a beautiful farm with all kind of animals on and all of the animals were playing outside when along came a big brown monkey [^c] who jumped right in to the middle of the farm and said +""/."
+in,FALSE,TRUE,"NAN: +"" here I am ."
+out,FALSE,FALSE,NAN: now it's your turn .
+out,FALSE,FALSE,NAN: you finish the story .
+ambiguous,FALSE,FALSE,CHI: &~a:h then there was a xxx .
+out,FALSE,FALSE,NAN: uhoh .
+ambiguous,FALSE,FALSE,CHI: and he xxx .
+in,TRUE,FALSE,CHI: and this guy here was xxx and he throwed [*] way +...
+out,FALSE,FALSE,NAN: oh no .
+out,FALSE,FALSE,NAN: oh what's gonna happen ?
+in,FALSE,FALSE,CHI: he's going to eat .
+out,FALSE,FALSE,NAN: what's he eating ?
+ambiguous,FALSE,FALSE,CHI: the xxx .
+out,FALSE,FALSE,NAN: oh no why is he doing that ?
+out,FALSE,FALSE,NAN: oh no now what's gonna happen ?
+out,FALSE,FALSE,NAN: oh .
+in,FALSE,FALSE,CHI: then he falled [*] over .
+in,FALSE,FALSE,CHI: and he stands up and eated [*] again .
+out,FALSE,FALSE,NAN: again ?
+out,FALSE,FALSE,NAN: oh (.) I can't even believe this is happening !
+in,FALSE,FALSE,CHI: then the farmer told the monkey to stop eating his food and then he started eating again .
+in,FALSE,FALSE,CHI: then the dog eated [*] and barked at him .
+out,FALSE,FALSE,NAN: oh my .
+in,FALSE,FALSE,CHI: he was falling away .
+in,FALSE,FALSE,CHI: <then he> [/] then he played (.) then he started eating again .
+out,FALSE,FALSE,NAN: oh no (.) again .
+in,FALSE,FALSE,CHI: then the horsie (.) he got scared .
+in,FALSE,FALSE,CHI: so he goed [*] around and stamped on him .
+in,FALSE,FALSE,NAN: oh no (.) he stamped on him .
+in,FALSE,FALSE,CHI: and then he come around and got on him .
+in,FALSE,FALSE,CHI: and then he lost his turn (.) he falled [*] off .
+in,FALSE,FALSE,NAN: oh no (.) he fell off .
+in,FALSE,FALSE,CHI: then he came again and crawled up again (.) then he falled [*] off .
+in,FALSE,FALSE,CHI: then he started eating again .
+out,FALSE,FALSE,NAN: oh no .
+in,FALSE,FALSE,CHI: then [/] then he goed [*] over here and started fixing it .
+in,FALSE,FALSE,CHI: then he walked over here and got some milk .
+in,FALSE,FALSE,CHI: xxx falled [*] off .
+in,FALSE,FALSE,CHI: and then he goed [*] away .
+in,FALSE,TRUE,CHI: and then he didn't come back .
+out,FALSE,FALSE,NAN: what a neat story !
+out,FALSE,FALSE,NAN: what's the most fun thing you've done so far this summer ?
+out,FALSE,FALSE,CHI: go swimming .
+out,FALSE,FALSE,NAN: do you like to swim ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,NAN: what do you do in the pool ?
+out,FALSE,FALSE,CHI: nothing .
+out,FALSE,FALSE,NAN: you just stand there ?
+out,FALSE,FALSE,CHI: yes . [+ q]
+out,FALSE,FALSE,NAN: are you teasing me ?
+out,FALSE,FALSE,FAT: are you gonna draw [/] draw a man or are you just drawing a picture ?
+out,FALSE,FALSE,CHI: I'm just drawing a picture .
+out,FALSE,FALSE,FAT: okay .
+out,FALSE,FALSE,FAT: what did you decide to draw ?
+out,FALSE,FALSE,FAT: did you decide what you're going to do yet ?
+out,FALSE,FALSE,CHI: yes . [+ q]
+out,FALSE,FALSE,FAT: okay .
+out,FALSE,FALSE,FAT: can you get that open ?
+out,FALSE,FALSE,FAT: you hafta pull .
+out,FALSE,FALSE,FAT: <tug it> [/] tug it .
+out,FALSE,FALSE,CHI: 0 . [+ r]
+out,FALSE,FALSE,FAT: there ya go !
+out,FALSE,FALSE,FAT: good job !
+out,FALSE,FALSE,FAT: okay .
+out,FALSE,FALSE,FAT: give it here .
+out,FALSE,FALSE,FAT: how many pictures are you sposta draw ?
+out,FALSE,FALSE,CHI: 0 . [+ trn]
+out,FALSE,FALSE,FAT: maybe just one ?
+out,FALSE,FALSE,CHI: yes . [+ q]
+out,FALSE,FALSE,FAT: okay (.) let (u)s draw .
+in,TRUE,FALSE,FAT: if they want us to draw more (.) they'll tell us .
+out,FALSE,FALSE,FAT: okay .
+out,FALSE,FALSE,FAT: what do we have here ?
+out,FALSE,FALSE,FAT: magic markers (.) huh ?
+out,FALSE,FALSE,CHI: let (u)s see (.) what should I do ?
+in,FALSE,FALSE,CHI: cat [^c] !
+in,FALSE,FALSE,FAT: oh (.) you're gonna draw a cat .
+out,FALSE,FALSE,FAT: you gonna draw your cat at home ?
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,FAT: what are you gonna draw ?
+out,FALSE,FALSE,FAT: are you gonna draw lightning ?
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,FAT: what color are you making lightning (.) your cat ?
+in,FALSE,FALSE,CHI: brown .
+in,FALSE,TRUE,FAT: brown (.) okay (.) good .
+out,FALSE,FALSE,FAT: looks nice .
+out,FALSE,FALSE,FAT: you did a nice job Cal .
+out,FALSE,FALSE,CHI: thank_you .
+out,FALSE,FALSE,FAT: is lightning smiling ?
+out,FALSE,FALSE,FAT: I can't tell from there .
+out,FALSE,FALSE,FAT: is she smiling there or not ?
+out,FALSE,FALSE,CHI: yes . [+ q]
+out,FALSE,FALSE,FAT: well what's she happy about ?
+out,FALSE,FALSE,CHI: I don't know (.) nothing .
+out,FALSE,FALSE,FAT: yes <she's just> [/] she's just happy ?
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,FAT: okay .
+out,FALSE,FALSE,CHI: mhm (.) she's normal .
+out,FALSE,FALSE,FAT: she's normal .
+out,FALSE,FALSE,FAT: okay (.) well that's good .
+out,FALSE,FALSE,FAT: that's nice to know she's normal .
+out,FALSE,FALSE,FAT: okay (.) she's just being normal .
+out,FALSE,FALSE,FAT: she's just being her happy self .
+out,FALSE,FALSE,FAT: do you think that it's (be)cause &~a:h she belongs to you that she's happy ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,FAT: okay .
+out,FALSE,FALSE,FAT: what kind of things do you think make her happy ?
+out,FALSE,FALSE,FAT: what kind of things at home do you think make her happy ?
+out,FALSE,FALSE,CHI: eating .
+out,FALSE,FALSE,FAT: eating (.) okay .
+out,FALSE,FALSE,FAT: what else ?
+out,FALSE,FALSE,CHI: and [/] and [/] and +...
+out,FALSE,FALSE,FAT: what else do you think makes her happy at home ?
+in,TRUE,FALSE,CHI: playing .
+in,FALSE,FALSE,FAT: playing .
+out,FALSE,FALSE,FAT: well what are some kinds of things lightning likes to play ?
+in,FALSE,FALSE,CHI: with her &~a:h +...
+out,FALSE,FALSE,FAT: with her what ?
+in,FALSE,FALSE,CHI: with her pipe cleaners .
+in,FALSE,FALSE,FAT: oh (.) yes (.) right (.) with her pipe cleaners .
+out,FALSE,FALSE,FAT: what happens with her pipe cleaners ?
+in,FALSE,FALSE,CHI: they go downstairs .
+out,FALSE,FALSE,FAT: yes (.) they go downstairs but what does she do ?
+in,FALSE,TRUE,CHI: she just follows them .
+out,FALSE,FALSE,FAT: she follows them ?
+out,FALSE,FALSE,CHI: yes . [+ q]
+out,FALSE,FALSE,FAT: okay .

@@ -1,0 +1,302 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,MOT: are you sure ?
+out,FALSE,FALSE,MOT: you know how to make xxx ?
+out,FALSE,FALSE,CHI: (..) Mom !
+in,TRUE,FALSE,CHI: we made gingerbread houses out_of graham crackers and frosting .
+out,FALSE,FALSE,MOT: you did ?
+in,FALSE,FALSE,CHI: yeah we're gonna eat (th)em <and xxx> [//] and decorate (th)em tomorrow (.) and then eat (th)em tomorrow too .
+out,FALSE,FALSE,MOT: wow .
+out,FALSE,FALSE,CHI: Mama .
+out,FALSE,FALSE,MOT: what ?
+out,FALSE,FALSE,CHI: &-um (.) did you +//.
+out,FALSE,FALSE,CHI: xxx ?
+in,FALSE,TRUE,CHI: I know a song of something (.) <that's xxx> [//] that's not xxx .
+in,TRUE,FALSE,CHI: if you're gonna be a grub (.) then you gotta learn to scrub .
+out,FALSE,FALSE,CHI: you know what grub@q is ?
+out,FALSE,FALSE,MOT: no .
+in,FALSE,FALSE,CHI: &-um it's (.) if you're gonna get dirty then you better (.) &~ha (.) <learn to> [>] scrub .
+out,FALSE,FALSE,MOT: oh [<] .
+out,FALSE,FALSE,MOT: oh [>] .
+in,FALSE,FALSE,CHI: like [<] scrub yourself after you get dirty .
+out,FALSE,FALSE,MOT: oh that's neat .
+out,FALSE,FALSE,MOT: where'd you learn that ?
+in,FALSE,FALSE,CHI: at school .
+out,FALSE,FALSE,MOT: oh .
+in,FALSE,FALSE,CHI: we did it today .
+out,FALSE,FALSE,MOT: cool .
+out,FALSE,FALSE,MOT: <what did you &-um> [/] (.) what did you do with the gingerbread man again ?
+in,FALSE,TRUE,CHI: we made a gingerbread house .
+out,FALSE,FALSE,MOT: (.) a gingerbread house ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,MOT: you did the whole thing today ?
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,MOT: how did you do it ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,MOT: no how !
+out,FALSE,FALSE,MOT: tell me how [!] you did it .
+in,TRUE,FALSE,CHI: we &-um +...
+in,FALSE,TRUE,"CHI: +, took some +..."
+in,TRUE,FALSE,CHI: we &-um +//.
+in,FALSE,TRUE,CHI: a gooey paint .
+in,TRUE,FALSE,CHI: we're gonna eat (th)em too .
+out,FALSE,FALSE,MOT: you can eat the gooey paint ?
+out,FALSE,FALSE,CHI: no .
+in,FALSE,TRUE,CHI: there [//] it's not really paint .
+in,TRUE,FALSE,CHI: it's frosting .
+out,FALSE,FALSE,MOT: <oh okay> [>] .
+in,FALSE,FALSE,CHI: sticky [<] frosting .
+out,FALSE,FALSE,MOT: mhm .
+in,FALSE,FALSE,CHI: it's sticky and gooey .
+in,FALSE,FALSE,CHI: right ?
+in,FALSE,TRUE,CHI: and (.) I call it paint .
+in,TRUE,FALSE,CHI: gooey paint (be)cause it sticks ?
+in,FALSE,FALSE,MOT: (be)cause it's like paint .
+in,FALSE,FALSE,CHI: yeah .
+in,FALSE,FALSE,CHI: +^ <and it> [//] and the gooey paint +//.
+in,FALSE,TRUE,CHI: we &-um (.) put it in [//] (.) on the &-um (.) graham crackers .
+in,TRUE,FALSE,CHI: right ?
+in,FALSE,TRUE,CHI: +^ and (.) we make one over here .
+in,TRUE,FALSE,CHI: on a flat surface .
+out,FALSE,FALSE,MOT: mhm [>] .
+in,FALSE,TRUE,CHI: <we made> [<] one right here .
+in,TRUE,FALSE,CHI: sticky [?] .
+in,FALSE,TRUE,CHI: and then we put two right here .
+in,TRUE,FALSE,CHI: and then +...
+out,FALSE,FALSE,MOT: for what [?] [>] .
+in,FALSE,FALSE,CHI: <and on> [<] top of here .
+in,FALSE,TRUE,CHI: I mean (.) in the xxx [>] here .
+in,TRUE,FALSE,MOT: <two more> [<] .
+out,FALSE,FALSE,MOT: yeah .
+in,FALSE,TRUE,CHI: and then one on top of here (.) like a block .
+in,TRUE,FALSE,MOT: <four walls and a> [>] ceiling .
+in,FALSE,FALSE,CHI: <and then we> [<] +/.
+in,FALSE,FALSE,CHI: and then like that .
+in,FALSE,FALSE,CHI: and then like (.) that .
+out,FALSE,FALSE,MOT: mhm .
+in,FALSE,FALSE,CHI: and then like that !
+out,FALSE,FALSE,CHI: boom boom !
+out,FALSE,FALSE,MOT: oh !
+out,FALSE,FALSE,MOT: www &=giggles and then (.) the graham crackers stuck that way ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: I never thought of doin(g) that .
+out,FALSE,FALSE,MOT: that's kind of an easy way to do it isn't it ?
+in,FALSE,FALSE,CHI: yeah all you need <is some> [/] (.) is some (.) &-um you know .
+in,FALSE,FALSE,CHI: that stuff that (.) bakers use ?
+in,FALSE,FALSE,CHI: flour ?
+out,FALSE,FALSE,MOT: mhm [>] .
+in,FALSE,FALSE,CHI: <all you> [<] need is pour flour in ?
+in,FALSE,FALSE,CHI: and [/] and (.) put some eggs in .
+in,FALSE,FALSE,CHI: and then (.) have a mixer (.) to mix it (.) right ?
+in,FALSE,FALSE,CHI: and mix it ?
+in,FALSE,FALSE,CHI: right and then it will turn into frosting .
+out,FALSE,FALSE,MOT: (.) hm: .
+out,FALSE,FALSE,MOT: (..) did you use your licorice sticks yet ?
+out,FALSE,FALSE,MOT: that you brought in ?
+out,FALSE,FALSE,CHI: hm: .
+in,FALSE,FALSE,CHI: we didn't use them at all .
+out,FALSE,FALSE,MOT: are you going to ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,CHI: (.) can I have one ?
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: +^ yeah .
+in,FALSE,FALSE,CHI: I like to take (th)em apart and do it .
+in,FALSE,FALSE,CHI: then take [/] take it apart .
+in,FALSE,FALSE,CHI: after you lick it .
+out,FALSE,FALSE,MOT: mhm .
+in,FALSE,TRUE,CHI: if [/] if you're gone on (.) immediate one .
+in,TRUE,FALSE,CHI: and you use iron [?] .
+in,FALSE,TRUE,CHI: to learn about +...
+in,TRUE,FALSE,CHI: (..) 0 [=! cries out quietly] .
+in,FALSE,TRUE,CHI: it wasn't chewed &-um (.) like very good .
+in,TRUE,FALSE,CHI: +^ and I swallowed it (be)cause I thought it was chewed good .
+out,FALSE,FALSE,MOT: (.) careful .
+out,FALSE,FALSE,MOT: (..) hey .
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,CHI: how come all I could have (.) is two ?
+out,FALSE,FALSE,MOT: (be)cause you're not done with your food .
+out,FALSE,FALSE,CHI: then [?] xxx [>] for me though ?
+out,FALSE,FALSE,MOT: <the rest of your food> [<] .
+out,FALSE,FALSE,CHI: ah when I finish ?
+out,FALSE,FALSE,MOT: well +...
+out,FALSE,FALSE,MOT: (.) yeah .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,CHI: I will finish .
+out,FALSE,FALSE,MOT: (.) do you want more spinach ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,CHI: <what day> [//] what other day are they coming on (.) to pick this up [= taperecorder that's recording the meal time] ?
+out,FALSE,FALSE,MOT: 0 [=! clears throat] .
+in,FALSE,TRUE,MOT: &-um (.) I guess they're gonna call or we'll call them .
+in,TRUE,FALSE,CHI: (.) and then when we wanna <take (th)em back> [//] (.) take it back .
+in,FALSE,FALSE,CHI: then (..) we'll take it back ?
+in,FALSE,FALSE,CHI: we'll call (th)em and +/.
+out,FALSE,FALSE,MOT: mhm .
+in,FALSE,FALSE,CHI: let (th)em know (.) that we're takin(g) it back ?
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: hm: .
+out,FALSE,FALSE,CHI: that's good .
+out,FALSE,FALSE,MOT: (.) hm: .
+out,FALSE,FALSE,MOT: (..) did your class make one (.) giant gingerbread house or does each kid make one ?
+in,FALSE,TRUE,CHI: &-um (.) one giant gingerbread house .
+in,TRUE,FALSE,CHI: it had a (.) door that opens and shuts !
+out,FALSE,FALSE,MOT: really ?
+out,FALSE,FALSE,MOT: how'd you do that ?
+out,FALSE,FALSE,CHI: <we &-um> [//] I [/] I forget .
+in,FALSE,TRUE,CHI: we &-um (.) did something clever .
+in,TRUE,FALSE,CHI: something [//] and <we could go all go in it> [//] we could all go in it .
+in,FALSE,TRUE,CHI: +^ I climbed on the top .
+in,TRUE,FALSE,CHI: no <I did> [/] I didn't climb on the top though .
+out,FALSE,FALSE,MOT: I didn't think so .
+in,FALSE,TRUE,CHI: <but they made> [/] but they made [!] it strong enough to hold itself in [//] when <&~a lots_of &~peop> [//] all the people who go in ?
+in,TRUE,FALSE,CHI: used lots_of graham crackers .
+in,FALSE,FALSE,CHI: and I mean lots !
+in,FALSE,TRUE,CHI: we [/] we wanted to put it over a desk so we did .
+in,TRUE,FALSE,CHI: we did .
+in,FALSE,TRUE,CHI: <we put it> [/] <it it> [/] it was so big that it could fit over all [!] our desks .
+out,FALSE,FALSE,MOT: wow [>] .
+in,TRUE,FALSE,CHI: big [<] [//] <we could all we'd> [//] all we hadta do (.) <is go out my &~s> [//] is go out my [!] way .
+in,FALSE,TRUE,CHI: or my partner's way next_to me .
+in,TRUE,FALSE,CHI: there's two [!] doors .
+in,FALSE,FALSE,CHI: one the back .
+in,FALSE,FALSE,CHI: one the front .
+out,FALSE,FALSE,MOT: so how many desks did it cover ?
+in,FALSE,TRUE,CHI: every single desk .
+out,FALSE,FALSE,MOT: over twenty desks ?
+out,FALSE,FALSE,CHI: yeah .
+in,TRUE,FALSE,CHI: twenty one .
+out,FALSE,FALSE,MOT: twenty one desks that's how [/] (.) www [=! clears throat] how many kids are in the class ?
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,MOT: that's how big the (.) house was ?
+in,FALSE,TRUE,MOT: <the graham> [//] I didn't think you had enough graham crackers to cover everyone's desk .
+in,TRUE,FALSE,CHI: <we did you> [//] we &-um bought a lot .
+in,FALSE,FALSE,CHI: the graham crackers were piled up like (.) to over my head .
+out,FALSE,FALSE,MOT: hm: [>] .
+in,FALSE,FALSE,CHI: on [=? from] [<] the floor to over my head .
+out,FALSE,FALSE,MOT: it's a wonder you could get out the door .
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,MOT: it's a wonder you could get out the door to the (.) hallway .
+out,FALSE,FALSE,CHI: hm: .
+out,FALSE,FALSE,MOT: (..) <you know what you> [>] +/.
+in,FALSE,TRUE,CHI: <and we all> [<] needed to do teamwork .
+out,FALSE,FALSE,MOT: hm: !
+out,FALSE,FALSE,MOT: sure .
+out,FALSE,FALSE,MOT: I bet with somethin(g) that [!] big .
+in,TRUE,FALSE,CHI: and <did you know> [>] ?
+out,FALSE,FALSE,MOT: <you couldn't do> [<] it by yourself .
+in,FALSE,FALSE,CHI: did you know that I hadta stand <on &~s (..) fifty &~ch> [//] on (.) five chairs to &-um reach the (.) tippity@wp top .
+out,FALSE,FALSE,MOT: oh really ?
+in,FALSE,FALSE,CHI: five .
+out,FALSE,FALSE,MOT: wow .
+out,FALSE,FALSE,MOT: your [=? the] teacher didn't think that was dangerous ?
+out,FALSE,FALSE,CHI: hm: .
+out,FALSE,FALSE,MOT: why didn't you bring in a ladder ?
+out,FALSE,FALSE,CHI: a ladder ?
+out,FALSE,FALSE,MOT: mhm .
+in,FALSE,TRUE,CHI: because then we'd hafta lean it on the house .
+out,FALSE,FALSE,CHI: right ?
+out,FALSE,FALSE,MOT: oh jeez you got a point there yeah .
+out,FALSE,FALSE,MOT: then the &-uh +...
+in,TRUE,FALSE,CHI: then the house would break .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,MOT: but the chairs can stand on their own ?
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,MOT: that's funny .
+in,FALSE,TRUE,MOT: if we stacked these chairs together they wouldn't stand on their own .
+in,TRUE,FALSE,MOT: +^ they'd tip over .
+out,FALSE,FALSE,CHI: (.) I know .
+in,FALSE,TRUE,CHI: they're not meant <to &-um> [/] (.) to take (th)em (.) and put (th)em on top of each_other though .
+out,FALSE,FALSE,MOT: no ?
+in,TRUE,FALSE,CHI: our [!] chairs are .
+in,FALSE,FALSE,CHI: wooden chairs .
+in,FALSE,FALSE,CHI: they're not as big as these ones .
+in,FALSE,FALSE,CHI: +^ they're little .
+out,FALSE,FALSE,MOT: you mean they stack better ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: &=gasps .
+out,FALSE,FALSE,MOT: you know what you're full [>] of ?
+out,FALSE,FALSE,CHI: &=burps [<] .
+out,FALSE,FALSE,CHI: what [>] ?
+out,FALSE,FALSE,MOT: hey [<] .
+out,FALSE,FALSE,MOT: say excuse me +/.
+out,FALSE,FALSE,CHI: excuse me .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: mhm [>] ?
+out,FALSE,FALSE,CHI: xxx [<] xxx tonight www &=sniffles ?
+out,FALSE,FALSE,MOT: you're not full of the supper .
+out,FALSE,FALSE,MOT: you're full of baloney [!] !
+out,FALSE,FALSE,CHI: (.) &=giggles .
+out,FALSE,FALSE,MOT: (.) aren't you ?
+out,FALSE,FALSE,CHI: uhuh .
+out,FALSE,FALSE,CHI: I'm full of these !
+out,FALSE,FALSE,MOT: hm: you're full of baloney .
+out,FALSE,FALSE,CHI: I'm full of biscuits and baloney .
+out,FALSE,FALSE,MOT: (..) think I can go see this colossal &-uh (.) house tomorrow ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: huh ?
+out,FALSE,FALSE,CHI: it's xxx now .
+out,FALSE,FALSE,MOT: think she'll let me go inside ?
+out,FALSE,FALSE,CHI: hm: ?
+out,FALSE,FALSE,MOT: think she'll let me go inside ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: all the way inside the gingerbread house ?
+out,FALSE,FALSE,MOT: I'll fit huh ?
+out,FALSE,FALSE,CHI: maybe .
+out,FALSE,FALSE,MOT: sure ?
+out,FALSE,FALSE,MOT: I don't wanna be disappointed when I get there .
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,MOT: I said I don't wanna be disappointed when I get there .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,CHI: oh .
+in,FALSE,TRUE,CHI: yeah [//] if you did that we really didn't make it .
+out,FALSE,FALSE,MOT: tell her your three boxes .
+in,TRUE,FALSE,CHI: +^ we +//.
+in,FALSE,FALSE,CHI: we &-um did make it .
+in,FALSE,FALSE,CHI: we made it .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,CHI: right ?
+out,FALSE,FALSE,MOT: wrong .
+out,FALSE,FALSE,MOT: &=laughs .
+in,FALSE,FALSE,CHI: we made it right ?
+out,FALSE,FALSE,MOT: uhhuh .
+in,FALSE,TRUE,CHI: and &-um (.) what we did +...
+in,TRUE,FALSE,CHI: is (.) one of us (.) <gotta &-um> [/] (.) gotta &-um (.) like (.) fix the roof because (.) there was a hole in it .
+in,FALSE,FALSE,CHI: <it broke (.) it the &~who> [//] (.) the roof broke down .
+in,FALSE,FALSE,CHI: and I hadta fix it .
+in,FALSE,TRUE,CHI: and this time they couldn't find the chairs that I used .
+in,TRUE,FALSE,CHI: and &-um (.) the [/] the kids (.) hadta hold me up .
+in,FALSE,FALSE,CHI: they hadta hold me up .
+in,FALSE,FALSE,CHI: they hadta hold me up like a trapeze .
+out,FALSE,FALSE,MOT: to get onto the roof ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: hm: .
+in,FALSE,FALSE,CHI: they were like www &=noises .
+in,FALSE,FALSE,CHI: this kid's heavy www [=! straining noise] .
+in,FALSE,FALSE,MOT: you are so full of baloney !
+in,FALSE,TRUE,MOT: it's comin(g) out_of your ears .
+out,FALSE,FALSE,CHI: &=laughs .
+in,TRUE,FALSE,MOT: I can see it .
+out,FALSE,FALSE,CHI: &=laughs .
+out,FALSE,FALSE,CHI: (.) it was neat .
+out,FALSE,FALSE,MOT: certainly .
+out,FALSE,FALSE,CHI: excuse me .
+out,FALSE,FALSE,CHI: &=gasps .
+in,FALSE,TRUE,MOT: so if I called your teacher right now and I said (.) Mrs Champa [?] (.) that gingerbread house that you're building ?
+in,TRUE,FALSE,MOT: is it (.) on top of all the twenty one desks (.) <and the children> [//] in the classroom ?
+in,FALSE,TRUE,MOT: does is (.) fit over all of them (be)cause it's so big and all the kids can go inside ?
+in,TRUE,FALSE,MOT: and (.) it takes five chairs to climb on top of to [/] to fix it on the top ?
+in,FALSE,TRUE,CHI: she'll say yes [>] .
+out,FALSE,FALSE,MOT: what [<] will she say ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,MOT: oh really ?
+out,FALSE,FALSE,MOT: she willn't say &-um who told you that ?
+in,TRUE,FALSE,MOT: and I'll say Chi@q and she'll say well (.) I think he's [= his] &~imagin imagination's getting a little carried away .
+out,FALSE,FALSE,MOT: &=laughs .
+in,FALSE,TRUE,CHI: <it's just &~make making me laugh that you're laughing> [=! giggling] .
+out,FALSE,FALSE,MOT: oh really ?
+in,TRUE,FALSE,MOT: oh you're [>] not laughing because it's true .
+out,FALSE,FALSE,CHI: yeah [<] .
+out,FALSE,FALSE,CHI: no .
+in,FALSE,TRUE,MOT: laughing (be)cause it's not .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: r:ight .
+in,TRUE,FALSE,CHI: it is [!] true !
+out,FALSE,FALSE,MOT: okay .

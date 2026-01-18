@@ -1,0 +1,290 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,"MOT: why don't you tell me what you did to , at school today ?"
+out,FALSE,FALSE,CHI: about nothing .
+out,FALSE,FALSE,CHI: all I did is sit !
+out,FALSE,FALSE,CHI: sit !
+out,FALSE,FALSE,"CHI: sit , sit ."
+out,FALSE,FALSE,"MOT: was Mrs Haynes in there today , with you ?"
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,MOT: what'd you do ?
+out,FALSE,FALSE,MOT: did ya make something ?
+out,FALSE,FALSE,CHI: what do you think I made ?
+out,FALSE,FALSE,MOT: I don't know .
+in,TRUE,FALSE,"MOT: oh , you drew the cow ."
+in,FALSE,FALSE,CHI: I didn't draw it .
+in,FALSE,TRUE,CHI: I colored it .
+out,FALSE,FALSE,MOT: you colored it .
+out,FALSE,FALSE,MOT: I'm sorry .
+out,FALSE,FALSE,"MOT: <was that> [/] did you see black and white cows at the dairy yesterday , is that color they were ?"
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,"MOT: what kind of cows are they , what are their names , do you know ?"
+out,FALSE,FALSE,CHI: umum [= no] .
+out,FALSE,FALSE,"MOT: were they Guernsey cows , or xxx ."
+out,FALSE,FALSE,MOT: they didn't tell you what kind they were ?
+out,FALSE,FALSE,MOT: that looks like Nibbles or Kibbles .
+out,FALSE,FALSE,MOT: actually it looks like Sam .
+out,FALSE,FALSE,"CHI: I know , I know ."
+out,FALSE,FALSE,CHI: there's gerbils back here .
+out,FALSE,FALSE,MOT: are there gerbils ?
+out,FALSE,FALSE,"CHI: I remember , I think ."
+out,FALSE,FALSE,"MOT: well , there are guinea pigs ."
+out,FALSE,FALSE,"CHI: I think there's , I think there's gerbils ."
+out,FALSE,FALSE,MOT: there they are .
+out,FALSE,FALSE,CHI: there's the gerbils !
+out,FALSE,FALSE,MOT: &-um hm: .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,MOT: have you heard them stomp ?
+out,FALSE,FALSE,"CHI: no , but Joel told me ."
+out,FALSE,FALSE,MOT: they sure do race through that cage .
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,"CHI: we needta get one of these , or a , &-um exercise ball ."
+out,FALSE,FALSE,CHI: that's the same thing as this .
+out,FALSE,FALSE,CHI: we needta get one of those things .
+out,FALSE,FALSE,MOT: so they can exercise ?
+out,FALSE,FALSE,CHI: yeh .
+in,TRUE,FALSE,CHI: I saw a little toy for em +...
+out,FALSE,FALSE,MOT: what kind was it ?
+in,FALSE,FALSE,"CHI: +, at K_Mart ."
+in,FALSE,FALSE,"CHI: looked like it , at least ."
+out,FALSE,FALSE,MOT: what was it ?
+in,FALSE,FALSE,CHI: looked like another little gerbil .
+in,FALSE,FALSE,CHI: it looked like a real one .
+out,FALSE,FALSE,MOT: toy gerbil ?
+out,FALSE,FALSE,CHI: yeh .
+in,FALSE,FALSE,MOT: I bet that was a rubber mouse that you give to cats .
+in,FALSE,TRUE,MOT: do you think ?
+out,FALSE,FALSE,CHI: probably .
+out,FALSE,FALSE,MOT: what do you think cats would do with a rubber mouse ?
+out,FALSE,FALSE,CHI: try to eat em [=! laughs] !
+out,FALSE,FALSE,CHI: I guess !
+out,FALSE,FALSE,"MOT: they wouldn't run very fast , would they ?"
+out,FALSE,FALSE,MOT: they wouldn't hafta .
+out,FALSE,FALSE,MOT: wouldn't hafta catch it .
+out,FALSE,FALSE,CHI: elephants would .
+out,FALSE,FALSE,MOT: are elephants scared of those ?
+out,FALSE,FALSE,CHI: yeh .
+out,FALSE,FALSE,CHI: at least I think I seen (th)em on cartoons .
+out,FALSE,FALSE,"CHI: I like that baby gerbil , I mean ."
+out,FALSE,FALSE,MOT: that's a hamster .
+out,FALSE,FALSE,CHI: hamster .
+in,TRUE,FALSE,"CHI: Sam , Sam died +..."
+in,FALSE,FALSE,CHI: but he was a lot older than they were sposta be .
+out,FALSE,FALSE,MOT: how old was he ?
+in,FALSE,FALSE,"CHI: &-um , old ."
+in,FALSE,FALSE,CHI: well they usually live one and a half years or two !
+in,FALSE,FALSE,"CHI: years , but he lived to three !"
+in,FALSE,FALSE,CHI: and he was real old .
+in,FALSE,FALSE,CHI: he died .
+in,FALSE,FALSE,CHI: he got sick and died .
+in,FALSE,TRUE,MOT: so he lived twice as old as he was s(u)pposed to be .
+out,FALSE,FALSE,CHI: &-uh huh .
+out,FALSE,FALSE,"CHI: ah , that [= tran quit story?] ."
+out,FALSE,FALSE,"CHI: what , is that , I think ?"
+out,FALSE,FALSE,MOT: what does that say ?
+out,FALSE,FALSE,CHI: you're (.) a (.) bird .
+out,FALSE,FALSE,MOT: no [=! laughs] you're big .
+out,FALSE,FALSE,MOT: what's at one .
+out,FALSE,FALSE,CHI: can't see .
+out,FALSE,FALSE,CHI: I 0bop I'm not reading .
+out,FALSE,FALSE,MOT: back yard .
+out,FALSE,FALSE,CHI: big bird's back yard .
+out,FALSE,FALSE,MOT: no [=! laughs] !
+out,FALSE,FALSE,MOT: your big back yard .
+out,FALSE,FALSE,"MOT: you can read it better there , can't you ?"
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,CHI: can't .
+out,FALSE,FALSE,MOT: what_about that ?
+out,FALSE,FALSE,CHI: Ranger Rick and his friends .
+out,FALSE,FALSE,MOT: good !
+out,FALSE,FALSE,MOT: what does that look like ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,MOT: is that s(u)pposed to be the wind ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,MOT: that's pretty .
+out,FALSE,FALSE,MOT: you know what ?
+in,TRUE,FALSE,MOT: I was gonna get some thistle from grandpa and I forgot it .
+out,FALSE,FALSE,CHI: what's thistle ?
+in,FALSE,FALSE,MOT: it's a kind of seed for birds .
+out,FALSE,FALSE,MOT: they +...
+out,FALSE,FALSE,"MOT: you know those yellow birds , goldfinches that Grandpa has on his bird feeder ?"
+out,FALSE,FALSE,"CHI: oh , you wanna get some of those to come ?"
+out,FALSE,FALSE,MOT: to come here .
+in,FALSE,FALSE,MOT: but you need thistle .
+in,FALSE,FALSE,MOT: they eat thistle .
+in,FALSE,FALSE,MOT: that's a different kind of seed .
+in,FALSE,FALSE,"CHI: you could get , buy some ."
+in,FALSE,FALSE,MOT: I guess it's hard to find .
+in,FALSE,FALSE,MOT: a_lot_of the stores don't have it .
+in,FALSE,TRUE,MOT: and he was going to give me some but we forgot to remind him .
+out,FALSE,FALSE,CHI: see [/] see what he does ?
+out,FALSE,FALSE,CHI: that does ?
+in,TRUE,FALSE,CHI: it crushes it .
+in,FALSE,FALSE,CHI: he gets it in his mouth and crushes it .
+in,FALSE,TRUE,"CHI: and takes the shell and drops that , spits it out , then he eats the inside ."
+out,FALSE,FALSE,MOT: mhm .
+in,TRUE,FALSE,CHI: Jeffrey eats (th)em sometimes .
+in,FALSE,FALSE,MOT: they're good .
+in,FALSE,FALSE,MOT: I useta eat (th)em .
+in,FALSE,FALSE,CHI: I've never ate (th)em .
+in,FALSE,FALSE,MOT: they're good .
+in,FALSE,FALSE,MOT: they're salty .
+in,FALSE,FALSE,MOT: some of (th)em are salty .
+in,FALSE,FALSE,MOT: I guess the ones you give birds aren't salty .
+out,FALSE,FALSE,"MOT: &-um , do you s(u)ppose that's the way Nibbles and Kibbles eat their sunflower seeds ?"
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,MOT: do they eat that part of it too ?
+out,FALSE,FALSE,MOT: or just the insides .
+out,FALSE,FALSE,CHI: I don't know .
+in,FALSE,FALSE,CHI: I think they eat that part too .
+in,FALSE,TRUE,"MOT: I've seen some of the shells laying there , but I think they must eat it sometimes and not other times ."
+out,FALSE,FALSE,MOT: have you read this story ?
+out,FALSE,FALSE,MOT: how'd you know that was the wind ?
+out,FALSE,FALSE,MOT: it looks like a man to me .
+out,FALSE,FALSE,MOT: but I think you're right .
+out,FALSE,FALSE,MOT: it's sposta be the wind .
+out,FALSE,FALSE,MOT: look at all that trash .
+out,FALSE,FALSE,CHI: it's not too pretty when it's +...
+out,FALSE,FALSE,CHI: I wanna show Daddy the picture of the gerbils !
+out,FALSE,FALSE,MOT: we can show +...
+out,FALSE,FALSE,MOT: oh !
+out,FALSE,FALSE,MOT: look at this .
+out,FALSE,FALSE,MOT: dragons of the sea .
+out,FALSE,FALSE,"MOT: you know what that is , what kind of animal that is ?"
+out,FALSE,FALSE,CHI: igwan [: iguana] [/] igwan [: iguana] [/] igwan [: iguana] .
+out,FALSE,FALSE,MOT: iguana .
+out,FALSE,FALSE,MOT: wow !
+out,FALSE,FALSE,CHI: look at all those !
+out,FALSE,FALSE,"MOT: they look just like rocks , too , unless you look closely ."
+out,FALSE,FALSE,CHI: I can see (th)em from here .
+out,FALSE,FALSE,CHI: look at these .
+out,FALSE,FALSE,MOT: how many are there ?
+out,FALSE,FALSE,CHI: I don't know !
+out,FALSE,FALSE,"CHI: count , I can't !"
+out,FALSE,FALSE,CHI: there's some iguanas .
+out,FALSE,FALSE,MOT: they're ugly aren't they ?
+out,FALSE,FALSE,CHI: bleagh [: ugh] .
+out,FALSE,FALSE,CHI: I would hate to have one .
+out,FALSE,FALSE,MOT: you don't want an iguana for a pet ?
+out,FALSE,FALSE,CHI: do you ?
+out,FALSE,FALSE,MOT: no !
+out,FALSE,FALSE,CHI: do you ?
+out,FALSE,FALSE,CHI: why should I ?
+out,FALSE,FALSE,MOT: good reasoning Bill .
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,MOT: I said good reasoning .
+out,FALSE,FALSE,MOT: look at these neat rocks .
+in,TRUE,FALSE,MOT: we saw some like this when we went to Washington .
+in,FALSE,FALSE,MOT: they're fluorescent rocks .
+out,FALSE,FALSE,CHI: what are they ?
+in,FALSE,FALSE,"MOT: well that means when you <turn on a> [//] turn the lights off , they sort of glow in the dark ."
+in,FALSE,TRUE,MOT: there's an electrical energy inside it or something .
+in,TRUE,FALSE,"CHI: &-um , Jeff , &-um Ricky has some valuable rocks he calls (th)em , (be)cause they're real shiny ."
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,MOT: where did he find (th)em ?
+out,FALSE,FALSE,CHI: in the yard .
+in,FALSE,FALSE,"CHI: he has lots_of rocks around the yard , I'll show ya ."
+out,FALSE,FALSE,"MOT: are those the shiny ones , the valuable ones ?"
+out,FALSE,FALSE,MOT: in his yard ?
+out,FALSE,FALSE,CHI: not all .
+in,FALSE,FALSE,"CHI: I did see some , one with some pink on it ."
+in,FALSE,FALSE,CHI: I was gonna give it to Laura .
+in,FALSE,TRUE,"CHI: she'll love it , when I get it ."
+out,FALSE,FALSE,MOT: but you didn't ?
+out,FALSE,FALSE,MOT: look at all those shiny rocks .
+out,FALSE,FALSE,CHI: &-um (.) there's some more !
+in,FALSE,TRUE,"MOT: see this is the rock the way it looks before , with the lights on , and then you turn the lights off and that's the way it looks !"
+out,FALSE,FALSE,"CHI: &~aw , that's the way it looks like ."
+out,FALSE,FALSE,CHI: let me see .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,"CHI: &~aw , so this is the way it looks with the lights on , that's how it looks like with the lights off ."
+out,FALSE,FALSE,MOT: mhm !
+out,FALSE,FALSE,@Situation: Bill is talking with father now.
+out,FALSE,FALSE,CHI: there are some gerbils in this book here .
+out,FALSE,FALSE,FAT: these are gerbils ?
+out,FALSE,FALSE,CHI: yeh .
+out,FALSE,FALSE,CHI: they're gerbils .
+out,FALSE,FALSE,FAT: what are they doing ?
+out,FALSE,FALSE,CHI: gerbils .
+out,FALSE,FALSE,CHI: that's the babies .
+out,FALSE,FALSE,FAT: is that what their mommy looked like ?
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,CHI: it's not tols@c [?] .
+out,FALSE,FALSE,FAT: is that what they looked like when they were babies ?
+out,FALSE,FALSE,CHI: yeh .
+out,FALSE,FALSE,CHI: with a little fur .
+out,FALSE,FALSE,CHI: they're soft .
+out,FALSE,FALSE,FAT: do we need one of those ?
+out,FALSE,FALSE,CHI: we need one of those or a exercise ball .
+out,FALSE,FALSE,CHI: now that's a exercise thing .
+out,FALSE,FALSE,FAT: wheel ?
+out,FALSE,FALSE,CHI: yeh .
+out,FALSE,FALSE,"CHI: exercise wheel , but there's , there's another thing that's a exercise ball ."
+out,FALSE,FALSE,FAT: have you seen (th)em ?
+out,FALSE,FALSE,"CHI: yeh , I've seen , I've seen the exercise ball ."
+out,FALSE,FALSE,FAT: where can we get one ?
+out,FALSE,FALSE,CHI: get one .
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,FAT: hm: ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,FAT: where you think we can get one ?
+out,FALSE,FALSE,"CHI: &-uh , prob(ab)ly at a pet store ."
+out,FALSE,FALSE,FAT: that's prob(ab)ly a good place .
+out,FALSE,FALSE,CHI: or K_Mart .
+out,FALSE,FALSE,FAT: maybe .
+out,FALSE,FALSE,CHI: Richway .
+out,FALSE,FALSE,FAT: mhm .
+out,FALSE,FALSE,CHI: that's where I got the cage .
+out,FALSE,FALSE,"FAT: well , they probably have the exercise wheel there ."
+out,FALSE,FALSE,CHI: or the ball .
+out,FALSE,FALSE,FAT: or the ball ?
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,FAT: does an exercise ball look like that ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,CHI: it's different to the wheel .
+in,TRUE,FALSE,"CHI: it's like a ball , but you can open it up and put the gerbil in , stick the gerbil in +..."
+out,FALSE,FALSE,FAT: how does he get out ?
+in,FALSE,FALSE,CHI: ya do the same thing .
+out,FALSE,FALSE,"FAT: oh , you gotta take it out ?"
+in,FALSE,FALSE,"CHI: he doesn't , he gets out hisself [: himself] [*] ."
+out,FALSE,FALSE,FAT: what is that ?
+in,FALSE,FALSE,CHI: it's a guinea pig [//] hamster .
+in,FALSE,FALSE,"CHI: that's a , &-um , Mrs Lynx useta have one ."
+out,FALSE,FALSE,FAT: what was his name ?
+in,FALSE,FALSE,CHI: Sam .
+out,FALSE,FALSE,FAT: Sam ?
+in,FALSE,FALSE,CHI: he died .
+out,FALSE,FALSE,FAT: how did Sam die ?
+in,FALSE,FALSE,CHI: he had a +...
+in,FALSE,FALSE,CHI: he was sick .
+in,FALSE,TRUE,CHI: he was real old .
+out,FALSE,FALSE,FAT: mhm .
+out,FALSE,FALSE,"FAT: that kinda looks like a bowl , doesn't it ?"
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,CHI: the head does .
+out,FALSE,FALSE,CHI: but it's big .
+out,FALSE,FALSE,CHI: &-um .
+out,FALSE,FALSE,FAT: it kinda looks like +/.
+in,TRUE,FALSE,CHI: I've seen a real guinea pig !
+in,FALSE,FALSE,CHI: I've gotta pet a real guinea pig and feed (th)em .
+out,FALSE,FALSE,FAT: where .
+in,FALSE,TRUE,CHI: at Ramsey's house once .
+out,FALSE,FALSE,FAT: she have a guinea pig ?
+out,FALSE,FALSE,CHI: &-uh huh .
+out,FALSE,FALSE,FAT: one ?
+out,FALSE,FALSE,FAT: two ?
+out,FALSE,FALSE,CHI: one .
+out,FALSE,FALSE,FAT: why don't you go get your cards .
+out,FALSE,FALSE,FAT: let's play a card game .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,"FAT: alright , go get (th)em ."
+out,FALSE,FALSE,FAT: what are we gonna play ?
+out,FALSE,FALSE,CHI: what do you wanna play ?
+out,FALSE,FALSE,FAT: hm: ?
+out,FALSE,FALSE,CHI: what do you wanna play ?
+out,FALSE,FALSE,FAT: you name it .
+out,FALSE,FALSE,FAT: I've got a good one .
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,FAT: let's play three card battle .
+out,FALSE,FALSE,CHI: I don't remember .
+in,TRUE,TRUE,"FAT: well , you take three cards and you add (th)em together , and the one with the highest one wins ."
+out,FALSE,FALSE,CHI: okay .

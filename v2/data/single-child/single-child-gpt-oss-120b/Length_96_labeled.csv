@@ -1,0 +1,325 @@
+in/out/ambiguous,start,end,Transcript
+in,TRUE,FALSE,INV: this is a meadow
+in,FALSE,TRUE,INV: and here you've got a number of stickers .
+in,TRUE,FALSE,INV: and you can put them on the board wherever you want .
+out,FALSE,FALSE,INV: what shall we put on first
+out,FALSE,FALSE,INV: is it a Christmas tree ?
+out,FALSE,FALSE,CHI: don't know .
+out,FALSE,FALSE,INV: you don't know .
+out,FALSE,FALSE,INV: what else shall we put on ?
+out,FALSE,FALSE,INV: a windmill .
+out,FALSE,FALSE,INV: have you ever seen a windmill ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: yes ?
+out,FALSE,FALSE,INV: have you seen it inside as_well ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: what_about some houses ?
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,INV: people .
+out,FALSE,FALSE,INV: what_about some cows and horses ?
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,INV: some pigs .
+out,FALSE,FALSE,INV: and the other pig .
+out,FALSE,FALSE,INV: what else could we put on ?
+out,FALSE,FALSE,CHI: stable .
+out,FALSE,FALSE,INV: stable
+out,FALSE,FALSE,INV: who could go in the stable ?
+out,FALSE,FALSE,INV: the horse is in the stable .
+out,FALSE,FALSE,INV: and what do horses eat ?
+out,FALSE,FALSE,CHI: hay [?] .
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,INV: what else could we put on ?
+out,FALSE,FALSE,INV: the tractor
+out,FALSE,FALSE,INV: now who do you think is driving it ?
+out,FALSE,FALSE,CHI: man .
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,INV: he's in the tractor .
+out,FALSE,FALSE,INV: and (.) what else have we got ?
+out,FALSE,FALSE,INV: we've got lots_of chickens and geese there .
+out,FALSE,FALSE,INV: have you ever been on a farm Jennifer ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: what did you see there ?
+out,FALSE,FALSE,CHI: horses and +...
+out,FALSE,FALSE,INV: nice .
+out,FALSE,FALSE,INV: and pigs ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: did you ride on a horse there ?
+out,FALSE,FALSE,CHI: no
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,INV: what else could we put on ?
+out,FALSE,FALSE,INV: what_about this cart ?
+out,FALSE,FALSE,INV: and what d(o) you think could be in the cart ?
+out,FALSE,FALSE,INV: looks nice
+out,FALSE,FALSE,INV: another house .
+out,FALSE,FALSE,INV: probably some more people .
+out,FALSE,FALSE,INV: right
+out,FALSE,FALSE,CHI: feeding the hens .
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,INV: what d(o) you think this is ?
+in,FALSE,TRUE,CHI: tap .
+out,FALSE,FALSE,INV: right .
+in,TRUE,FALSE,INV: I don't know what it could be used for .
+in,FALSE,FALSE,INV: whether for the field or the cows or the horses so_that they have something to drink .
+in,FALSE,FALSE,INV: or even for the house .
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,INV: what else could we put on ?
+out,FALSE,FALSE,INV: what_about the sacks there ?
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,INV: and some more cows ?
+out,FALSE,FALSE,INV: what d(o) you think this man is doing ?
+out,FALSE,FALSE,CHI: O .
+out,FALSE,FALSE,INV: uhhuh .
+in,FALSE,TRUE,INV: he's milking the cows √¢‚Ç¨≈æ isn't he ?
+in,TRUE,FALSE,INV: he needs a little bucket .
+out,FALSE,FALSE,INV: and what does he do when the bucket is full ?
+in,FALSE,FALSE,CHI: takes it to the house .
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,INV: and where does he put it ?
+in,FALSE,TRUE,CHI: in the fridge .
+in,TRUE,FALSE,INV: I think he might need some bigger bottles .
+out,FALSE,FALSE,INV: what else could we put on ?
+out,FALSE,FALSE,INV: xxx little cart .
+out,FALSE,FALSE,INV: do we need another horse for the little cart d(o) you think ?
+out,FALSE,FALSE,INV: we've got that one left there .
+out,FALSE,FALSE,INV: what_about the geese there ?
+out,FALSE,FALSE,INV: is he sawing ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: he holds the saw in a funny way √¢‚Ç¨≈æ doesn't he ?
+out,FALSE,FALSE,INV: one must be careful with the saw .
+out,FALSE,FALSE,INV: is he sawing the wood ?
+out,FALSE,FALSE,INV: what is this ?
+in,FALSE,TRUE,CHI: a little hole .
+out,FALSE,FALSE,INV: what for ?
+in,TRUE,FALSE,CHI: for all the tools .
+out,FALSE,FALSE,INV: uhhuh
+in,FALSE,TRUE,INV: so when he's finished sawing he'll put the saw in there .
+out,FALSE,FALSE,INV: uhhuh
+out,FALSE,FALSE,INV: it's sometimes a bit difficult to get these things off .
+out,FALSE,FALSE,INV: stick on them .
+out,FALSE,FALSE,INV: uhhuh
+out,FALSE,FALSE,INV: it's a nice picture √¢‚Ç¨≈æ isn't it ?
+out,FALSE,FALSE,INV: very lively with all the cows and horses and people .
+out,FALSE,FALSE,INV: and trees .
+out,FALSE,FALSE,INV: what is your favorite game at home .
+out,FALSE,FALSE,CHI: I've got a game called rings on your fingers .
+out,FALSE,FALSE,INV: rings on your fingers ?
+out,FALSE,FALSE,INV: how do you play that ?
+in,TRUE,FALSE,CHI: you spin < a> [?] little wheel and whatever color it lands [?] on .
+in,FALSE,TRUE,CHI: you pick a ring up and have a little card .
+in,TRUE,FALSE,CHI: and if <the ring's> [?] the same you put it on the finger .
+out,FALSE,FALSE,INV: have you got one of these xxx .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: you what ?
+in,FALSE,TRUE,CHI: I [?] read it [?] in bed .
+out,FALSE,FALSE,INV: oh you have play ?
+out,FALSE,FALSE,INV: what a play is this ?
+in,TRUE,FALSE,CHI: Pinnoccio .
+out,FALSE,FALSE,INV: what is it ?
+in,FALSE,FALSE,CHI: Pinnocio .
+out,FALSE,FALSE,INV: oh
+out,FALSE,FALSE,INV: what do you hafta do ?
+in,FALSE,TRUE,CHI: you hafta tell a story by reading the card .
+out,FALSE,FALSE,INV: you like playing ?
+out,FALSE,FALSE,CHI: &=nods .
+out,FALSE,FALSE,INV: Jennifer
+out,FALSE,FALSE,CHI: third of March .
+out,FALSE,FALSE,CHI: in April .
+out,FALSE,FALSE,INV: you haven't had your birthday yet .
+out,FALSE,FALSE,INV: what d(o) you think you're going to do ?
+out,FALSE,FALSE,CHI: don't know .
+in,TRUE,FALSE,CHI: my last birthday I went to the fair .
+out,FALSE,FALSE,INV: uhhuh .
+in,FALSE,TRUE,CHI: and my brother keeps getting <a
+in,TRUE,FALSE,CHI: and he got a match xxx .
+in,FALSE,TRUE,CHI: and when it's my brother's birthday I get a toy .
+out,FALSE,FALSE,INV: you get a toy on your brother's birthday ?
+out,FALSE,FALSE,INV: how come ?
+out,FALSE,FALSE,CHI: don't know .
+out,FALSE,FALSE,INV: so you've got a brother .
+out,FALSE,FALSE,INV: how old is he ?
+in,TRUE,FALSE,CHI: four .
+in,FALSE,TRUE,INV: four .
+out,FALSE,FALSE,INV: and he's your only brother ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: do you fight with him ?
+in,TRUE,FALSE,CHI: sometimes .
+in,FALSE,TRUE,CHI: he comes and wake me up in bed .
+out,FALSE,FALSE,INV: does he ?
+out,FALSE,FALSE,INV: does he tickle you in bed or what does he do ?
+in,TRUE,FALSE,CHI: if I don't wake up and every time I'm asleep he jumps on the bed .
+out,FALSE,FALSE,INV: and what do you do with him ?
+in,FALSE,FALSE,CHI: I just put him off the bed .
+out,FALSE,FALSE,INV: and does he start crying then or what does he do ?
+in,FALSE,TRUE,CHI: he goes into my mum's room and says √¢‚Ç¨≈ìmum
+out,FALSE,FALSE,INV: and what does your mum say ?
+in,TRUE,FALSE,"CHI: +"" Jenny"
+out,FALSE,FALSE,INV: but apart from that you do like your brother and you get on with him √¢‚Ç¨≈æ don't you ?
+out,FALSE,FALSE,CHI: uhhuh .
+in,FALSE,TRUE,CHI: he wants me to skip to the shops with him .
+out,FALSE,FALSE,INV: uhhuh
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: nice of you .
+out,FALSE,FALSE,INV: have you been on holiday last year ?
+out,FALSE,FALSE,CHI: yes
+in,TRUE,FALSE,CHI: <I was crying when> [//] my mum was crying when we left .
+out,FALSE,FALSE,INV: why did she cry ?
+out,FALSE,FALSE,INV: was it so nice there ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: have you ever been in Southport ?
+in,FALSE,TRUE,CHI: yes that was last [//] my last birthday we went there .
+in,TRUE,FALSE,CHI: and we went on the caterpillar .
+in,FALSE,FALSE,CHI: and every time we went over a hill my skirt blew off .
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,INV: do you go swimming in the sea in Southport sometime ?
+out,FALSE,FALSE,CHI: yes .
+in,FALSE,TRUE,CHI: I can't swim yet but I xxx .
+out,FALSE,FALSE,INV: that's good .
+out,FALSE,FALSE,INV: but you don't go into the deep water √¢‚Ç¨≈æ do you ?
+out,FALSE,FALSE,CHI: no .
+in,TRUE,FALSE,CHI: but I can put my head under the water .
+out,FALSE,FALSE,INV: &-um
+in,FALSE,FALSE,CHI: I hate getting my hair washed .
+out,FALSE,FALSE,INV: why ?
+in,FALSE,FALSE,CHI: cause when my dad does it he [?] always puts the soap in my eyes .
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,INV: doesn't he use a shampoo for children ?
+out,FALSE,FALSE,INV: because there are shampoos that +...
+out,FALSE,FALSE,CHI: no
+out,FALSE,FALSE,INV: &-um
+in,FALSE,TRUE,CHI: my mum's always sleeping in bed .
+out,FALSE,FALSE,INV: is she ?
+out,FALSE,FALSE,INV: is she always tired ?
+out,FALSE,FALSE,CHI: &=nods .
+out,FALSE,FALSE,INV: does she work during the day ?
+out,FALSE,FALSE,CHI: yes .
+in,TRUE,FALSE,CHI: she works on Saturdays and Sundays but <they wan> [/] they wanted her to work today but she didn't wanna .
+out,FALSE,FALSE,INV: &-um .
+in,FALSE,FALSE,CHI: so she phoned them up and said √¢‚Ç¨≈ì&-um I'm not gonna work√¢‚Ç¨¬ù .
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,INV: and she didn't hafta √¢‚Ç¨≈æ did she ?
+in,FALSE,TRUE,INV: now we're going to play with horse and tiger .
+in,TRUE,FALSE,INV: horsie and tiger often fight with each_other .
+in,FALSE,FALSE,INV: but sometimes they fight in a different way .
+in,FALSE,FALSE,INV: horsie says √¢‚Ç¨≈ìtiger is naughty√¢‚Ç¨¬ù .
+in,FALSE,TRUE,INV: and then tiger says √¢‚Ç¨≈ìno
+in,TRUE,FALSE,INV: and then horsie says √¢‚Ç¨≈ìtiger likes school√¢‚Ç¨¬ù .
+in,FALSE,TRUE,INV: and tiger says √¢‚Ç¨≈ìno
+in,TRUE,FALSE,INV: you are tiger now and I am horsie .
+in,FALSE,FALSE,INV: tiger goes to bed early .
+in,FALSE,TRUE,CHI: tiger doesn't go to bed early .
+in,TRUE,FALSE,INV: tiger is nasty .
+in,FALSE,FALSE,CHI: tiger is not nasty .
+in,FALSE,TRUE,INV: tiger is frightened .
+in,TRUE,FALSE,CHI: tiger is not frightened .
+in,FALSE,TRUE,INV: tiger eats children .
+in,TRUE,FALSE,CHI: tiger doesn't eat children .
+in,FALSE,TRUE,INV: tiger can fly .
+in,TRUE,FALSE,CHI: tiger can't fly .
+in,FALSE,TRUE,INV: tiger has a smartie .
+in,TRUE,FALSE,CHI: tiger hasn't have [?] a smartie .
+in,FALSE,FALSE,INV: but horsie has a smartie .
+out,FALSE,FALSE,INV: ask horsie if he's got a smartie .
+in,FALSE,FALSE,CHI: have you got a smartie ?
+out,FALSE,FALSE,INV: ask him if it's tasty .
+in,FALSE,FALSE,CHI: is it tasty ?
+out,FALSE,FALSE,INV: ask him if you can have it .
+in,FALSE,FALSE,CHI: can I have it ?
+in,FALSE,FALSE,INV: no
+out,FALSE,FALSE,INV: ask him why you can't have it .
+in,FALSE,FALSE,CHI: why can't I have it ?
+out,FALSE,FALSE,INV: ask him if he likes smarties .
+in,FALSE,FALSE,CHI: d(o) you like smarties ?
+out,FALSE,FALSE,INV: ask him if he's greedy .
+in,FALSE,TRUE,CHI: are you greedy ?
+out,FALSE,FALSE,INV: ask him if he'll give it to you .
+in,TRUE,FALSE,CHI: will you give it to me ?
+in,FALSE,TRUE,INV: are the smarties nice ?
+in,TRUE,FALSE,CHI: yes .
+in,FALSE,TRUE,INV: are they tasty ?
+in,TRUE,FALSE,CHI: yes .
+in,FALSE,FALSE,INV: will you give them to me ?
+in,FALSE,FALSE,CHI: no .
+in,FALSE,FALSE,INV: why not ?
+in,FALSE,FALSE,CHI: cause they're mine now .
+in,FALSE,TRUE,INV: sometimes horsie and tiger talk in a different way .
+in,TRUE,FALSE,INV: horsie says √¢‚Ç¨≈ìtiger is hungry√¢‚Ç¨¬ù .
+in,FALSE,FALSE,INV: and tiger says √¢‚Ç¨≈ìisn't he√¢‚Ç¨¬ù ?
+in,FALSE,TRUE,INV: horsie says √¢‚Ç¨≈ìtiger likes school√¢‚Ç¨¬ù .
+in,TRUE,FALSE,INV: tiger says √¢‚Ç¨≈ìdoesn't he√¢‚Ç¨¬ù ?
+in,FALSE,TRUE,INV: horsie says √¢‚Ç¨≈ìtiger has a big mouth√¢‚Ç¨¬ù .
+in,TRUE,FALSE,INV: tiger says √¢‚Ç¨≈ìdoesn't he√¢‚Ç¨¬ù ?
+in,FALSE,TRUE,INV: tiger is naughty .
+in,TRUE,FALSE,CHI: isn't he ?
+in,FALSE,TRUE,INV: horsie likes smarties .
+in,TRUE,FALSE,CHI: isn't he ?
+in,FALSE,TRUE,INV: horsie has big ears .
+in,TRUE,FALSE,CHI: isn't he ?
+in,FALSE,TRUE,INV: tiger is stupid .
+in,TRUE,FALSE,CHI: isn't he ?
+in,FALSE,TRUE,INV: tiger can roar .
+in,TRUE,FALSE,CHI: isn't he ?
+in,FALSE,TRUE,INV: horsie is funny .
+in,TRUE,FALSE,CHI: isn't he ?
+in,FALSE,TRUE,INV: now I'm going to show you some pictures .
+in,TRUE,FALSE,INV: I'll tell you a little story with each picture and you hafta finish the story .
+in,FALSE,FALSE,INV: these children have lots_of pets .
+in,FALSE,FALSE,INV: the turtle is hers
+in,FALSE,FALSE,CHI: both .
+in,FALSE,TRUE,INV: every day when John gets sleepy +...
+in,TRUE,FALSE,CHI: he goes to bed .
+in,FALSE,TRUE,INV: every day when Mary gets hungry +...
+in,TRUE,FALSE,CHI: she eats something .
+in,FALSE,TRUE,INV: Jill found a bird's nest outside in a tree .
+in,TRUE,FALSE,INV: she showed it +...
+in,FALSE,TRUE,CHI: to Jill's friends .
+in,TRUE,FALSE,INV: yesterday was Peter's birthday .
+in,FALSE,FALSE,INV: dad gave +...
+in,FALSE,FALSE,CHI: Peter a balloon .
+in,FALSE,TRUE,INV: yesterday when William came home he saw that his brother +...
+in,TRUE,FALSE,CHI: was watching television .
+in,FALSE,TRUE,INV: these are Sally and Jane and they climbed into this tree .
+in,TRUE,FALSE,INV: if they fall out now +...
+in,FALSE,TRUE,CHI: they will hurt themselves .
+in,TRUE,FALSE,INV: James wanted to get some biscuits from the table .
+in,FALSE,FALSE,INV: so he stood on tiptoes and he stretched and he stretched but +...
+in,FALSE,FALSE,CHI: he couldn't get them .
+in,FALSE,TRUE,INV: it was very very late and Peter was tired .
+in,TRUE,FALSE,INV: so his mummie said you@q +...
+in,FALSE,TRUE,CHI: hafta go to bed now .
+out,FALSE,FALSE,INV: does your mummie say that ?
+out,FALSE,FALSE,CHI: &=nods .
+out,FALSE,FALSE,INV: and do you like going to bed ?
+out,FALSE,FALSE,CHI: no
+in,TRUE,FALSE,INV: but your brother hasta go to bed early .
+in,FALSE,TRUE,CHI: he goes to bed right after Crossroads .
+out,FALSE,FALSE,INV: really ?
+out,FALSE,FALSE,INV: and does he complain ?
+out,FALSE,FALSE,INV: does he like going to bed early ?
+out,FALSE,FALSE,CHI: yes .
+in,TRUE,FALSE,CHI: he [/] at end of part one he xxx says √¢‚Ç¨≈ìcan I go to bed now√¢‚Ç¨¬ù ?
+in,FALSE,TRUE,CHI: and my dad says √¢‚Ç¨≈ìit's too early yet you wake Jenny up in the morning√¢‚Ç¨¬ù .
+in,TRUE,FALSE,INV: Eddie didn't know how to tie his shoes .
+in,FALSE,FALSE,INV: so he asked if his mother +...
+in,FALSE,TRUE,CHI: will do it .
+in,TRUE,FALSE,INV: I bet your brother can't tie his shoes .
+in,FALSE,TRUE,CHI: no he will [?] ask me .
+in,TRUE,FALSE,INV: some children walk to school and some ride the bus .
+in,FALSE,FALSE,INV: these are the children +...
+in,FALSE,FALSE,CHI: that walk .
+out,FALSE,FALSE,INV: how do you get to school ?
+in,FALSE,FALSE,CHI: we go in our car .
+out,FALSE,FALSE,INV: does your daddy take you ?
+in,FALSE,FALSE,CHI: no my mum .
+out,FALSE,FALSE,INV: your mum takes you ?
+in,FALSE,TRUE,CHI: my dad makes the beds .
+out,FALSE,FALSE,INV: does he ?
+in,TRUE,FALSE,INV: does he make the beds before going to work .
+in,FALSE,TRUE,CHI: he doesn't go to work .
+out,FALSE,FALSE,INV: doesn't he ?
+in,TRUE,FALSE,CHI: he goes to work on nights though .
+out,FALSE,FALSE,INV: I see .
+in,FALSE,FALSE,CHI: on &-um Thursdays .
+in,FALSE,FALSE,INV: so he must be very tired during the day .
+in,FALSE,FALSE,INV: he sleeps during the day .
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: this is a road in town .

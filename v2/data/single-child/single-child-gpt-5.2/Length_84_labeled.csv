@@ -1,0 +1,311 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV: have you ever seen a game like this before ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: what have you been doing in your classroom ?
+in,TRUE,FALSE,CHI: maki [//] I've been (.) drawing pictures .
+out,FALSE,FALSE,INV: do you like drawing pictures ?
+out,FALSE,FALSE,CHI: &=nods .
+out,FALSE,FALSE,INV: will you show me your picture after ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what did you draw ?
+in,FALSE,FALSE,"CHI: &-um , I made a little lass ."
+in,FALSE,FALSE,INV: <a little lass> [>] .
+out,FALSE,FALSE,CHI: xxx [<] .
+out,FALSE,FALSE,INV: and what ?
+in,FALSE,FALSE,CHI: with bubbles in .
+out,FALSE,FALSE,INV: is that your favorite drawing ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: &=intro .
+out,FALSE,FALSE,INV: do you wanna help me finish it ?
+out,FALSE,FALSE,INV: what shall we put on ?
+out,FALSE,FALSE,INV: what_about that television ?
+out,FALSE,FALSE,INV: can you find a television ?
+out,FALSE,FALSE,CHI: on there .
+out,FALSE,FALSE,INV: there .
+out,FALSE,FALSE,INV: where do you think it should go ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,INV: is there room for it ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,INV: will it fit there ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,INV: what shall we do with the chair ?
+out,FALSE,FALSE,CHI: put it there .
+out,FALSE,FALSE,INV: like that .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: right you decide what we're gonna put on next .
+out,FALSE,FALSE,CHI: &-um .
+out,FALSE,FALSE,CHI: sofa .
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,CHI: there .
+out,FALSE,FALSE,INV: it's your birthday soon „ isn't it .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: when's your birthday ?
+in,FALSE,TRUE,CHI: fifth of July .
+in,TRUE,FALSE,INV: that's my birthday as_well .
+out,FALSE,FALSE,INV: do you know what your getting for your birthday ?
+in,FALSE,TRUE,CHI: my mum might +...
+in,TRUE,FALSE,INV: my mum said she's gonna buy me a bike .
+out,FALSE,FALSE,INV: would you like a bike ?
+out,FALSE,FALSE,CHI: &=nods .
+out,FALSE,FALSE,INV: what kind of bike would you like ?
+in,FALSE,TRUE,"CHI: &-um , I'd like two [//] a big one ."
+in,TRUE,FALSE,CHI: and it's got two li [//] wheelers .
+in,FALSE,FALSE,CHI: and I can ride two wheeler .
+out,FALSE,FALSE,INV: have you practised that before ?
+out,FALSE,FALSE,CHI: &=nods .
+out,FALSE,FALSE,INV: really .
+out,FALSE,FALSE,INV: do you fall off sometimes ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: I do .
+out,FALSE,FALSE,INV: what else are you going to get ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,INV: what do you think you'll get for your birthday ?
+in,FALSE,FALSE,CHI: I think I'll get &-um +...
+in,FALSE,TRUE,INV: my aunt said she's +...
+in,TRUE,FALSE,INV: and my aunty Christine said she +...
+in,FALSE,FALSE,"INV: my aunty Christine „ right „ my aunty Christine , she said she [/] she's buyed [: bought] me this book ."
+in,FALSE,FALSE,INV: and it's called fro [//] the Frog Prince .
+in,FALSE,TRUE,INV: the footprints .
+in,TRUE,FALSE,CHI: the Frog Prince .
+in,FALSE,FALSE,INV: the Frog Prince .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: do you know what that's about ?
+in,FALSE,FALSE,"CHI: it's about , well this princess and the frog ."
+in,FALSE,FALSE,CHI: and the frog changes into a princess .
+out,FALSE,FALSE,INV: really ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what a funny frog .
+in,FALSE,FALSE,CHI: it's at home and [//] in the bedroom .
+in,FALSE,FALSE,INV: you're not allowed to read it yet „ are you .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: can you read ?
+out,FALSE,FALSE,CHI: &=nods .
+out,FALSE,FALSE,INV: can you ?
+out,FALSE,FALSE,INV: what kind of books do you like ?
+out,FALSE,FALSE,CHI: &-um (.) reading books and ordinary books .
+out,FALSE,FALSE,INV: and ordinary books .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: where do you think this xxx should go .
+out,FALSE,FALSE,CHI: I know where .
+out,FALSE,FALSE,INV: where ?
+out,FALSE,FALSE,CHI: in &~g &~ki +/.
+out,FALSE,FALSE,INV: I know .
+out,FALSE,FALSE,INV: that's the kitchen .
+out,FALSE,FALSE,CHI: put it there .
+out,FALSE,FALSE,INV: put it there .
+out,FALSE,FALSE,CHI: there .
+out,FALSE,FALSE,INV: does it fit ?
+out,FALSE,FALSE,INV: what can we put on the bed ?
+out,FALSE,FALSE,INV: could put some cushions on .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: you get it off .
+out,FALSE,FALSE,"CHI: hey , we could put &-um that bed +..."
+out,FALSE,FALSE,INV: yeah .
+out,FALSE,FALSE,"CHI: +, there ."
+out,FALSE,FALSE,CHI: <I think> [/] I think there .
+out,FALSE,FALSE,INV: okay .
+in,FALSE,FALSE,INV: somebody comes in and might hit the bed .
+out,FALSE,FALSE,"CHI: no , I know where ."
+out,FALSE,FALSE,INV: might be alright .
+out,FALSE,FALSE,CHI: there .
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,INV: what shall we do with that picture ?
+out,FALSE,FALSE,CHI: put it on &~g wall .
+out,FALSE,FALSE,INV: there .
+out,FALSE,FALSE,INV: now what ?
+out,FALSE,FALSE,CHI: the chair .
+out,FALSE,FALSE,INV: I think it should go on the other side of the table .
+out,FALSE,FALSE,INV: behind like that .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: it's upside down .
+out,FALSE,FALSE,INV: is that right ?
+out,FALSE,FALSE,INV: or is that the wrong way round ?
+out,FALSE,FALSE,CHI: it's right .
+out,FALSE,FALSE,INV: have you got flowers in your garden ?
+out,FALSE,FALSE,CHI: yeah .
+in,FALSE,FALSE,INV: there's a baby there .
+out,FALSE,FALSE,INV: where do you think he should go ?
+out,FALSE,FALSE,CHI: I know where .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: is he sleeping or crawling or what ?
+in,FALSE,FALSE,CHI: he nearly falling [=? fallen] out_of bed .
+in,FALSE,FALSE,INV: and his mum will come in .
+in,FALSE,FALSE,CHI: there's his mum .
+out,FALSE,FALSE,INV: what's she gonna do ?
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,FALSE,CHI: going to go +...
+in,FALSE,FALSE,CHI: sit on &~g sofa .
+out,FALSE,FALSE,INV: do you think he's watching tellie ?
+in,FALSE,FALSE,"CHI: yeah , I think someone's at the door ."
+in,FALSE,FALSE,CHI: <and he> [//] and the [//] he's coming in .
+in,FALSE,FALSE,CHI: and he's turned away from &~g tellie .
+out,FALSE,FALSE,INV: I see .
+out,FALSE,FALSE,INV: do you like tellie ?
+out,FALSE,FALSE,CHI: &=nods .
+out,FALSE,FALSE,INV: what's your favorite program ?
+out,FALSE,FALSE,"CHI: &-um , sometimes [/] &-um sometimes Popeye +..."
+out,FALSE,FALSE,INV: do you like Popeye ?
+out,FALSE,FALSE,"CHI: +, yeah , and [/] &-um and &~g news I like ."
+out,FALSE,FALSE,INV: which one's that ?
+out,FALSE,FALSE,CHI: &-um I +/.
+out,FALSE,FALSE,INV: don't know that one .
+out,FALSE,FALSE,CHI: &~g news .
+out,FALSE,FALSE,INV: the news .
+out,FALSE,FALSE,INV: you don't watch the news „ do you .
+out,FALSE,FALSE,CHI: I do .
+out,FALSE,FALSE,CHI: I like it [//] watching it .
+out,FALSE,FALSE,INV: what happens in the news ?
+out,FALSE,FALSE,INV: most children don't really like the news .
+in,FALSE,TRUE,"CHI: &-um , football got on fire ."
+in,TRUE,FALSE,INV: that was horrible „ wasn't it .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: when do you watch the news ?
+out,FALSE,FALSE,INV: do you like school ?
+out,FALSE,FALSE,CHI: yeah .
+in,FALSE,TRUE,"CHI: when I'm seven [//] eight , right , I'm going to Kingsway ."
+out,FALSE,FALSE,INV: is that a different school ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: is that better than this one ?
+in,TRUE,FALSE,"CHI: yeah , my brother's there , Roy and Martin ."
+out,FALSE,FALSE,INV: have you lots_of brothers and sisters then ?
+in,FALSE,TRUE,"CHI: yeah , got two sisters (.) and three brothers ."
+in,TRUE,FALSE,CHI: and three brothers .
+out,FALSE,FALSE,INV: are you the littlest one ?
+out,FALSE,FALSE,CHI: yeah [//] no .
+in,FALSE,TRUE,CHI: our Elisabeth is .
+in,TRUE,FALSE,CHI: three years old .
+in,FALSE,TRUE,INV: you don't fight with her „ do you .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: what_about your brothers ?
+out,FALSE,FALSE,INV: how old are they ?
+in,TRUE,FALSE,"CHI: &-um one's eight , nearly nine ."
+in,FALSE,TRUE,"CHI: and one's ten , nearly going up to eleven ."
+out,FALSE,FALSE,INV: do they fight with each_other ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: really ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: why do they fight ?
+in,TRUE,FALSE,CHI: because [/] because &-um <our Roy> [/] our Roy keep [=? keeps] swopping [: swapping] over .
+in,FALSE,FALSE,CHI: swopping [: swapping] things and +...
+out,FALSE,FALSE,INV: what happens ?
+in,FALSE,FALSE,CHI: and [/] and our Martin hates [=? hits] Roy .
+out,FALSE,FALSE,INV: does he ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: hard ?
+out,FALSE,FALSE,"CHI: &-um , no ."
+in,FALSE,FALSE,"CHI: no , he only plays with him ."
+in,FALSE,FALSE,CHI: and they only have a laugh and joke .
+in,FALSE,FALSE,CHI: <and mum and mum> [/] my mum starts laughing .
+in,FALSE,TRUE,CHI: and us lot does and &~g little baby .
+in,TRUE,FALSE,CHI: Tony <little Scaife> [?] we [?] call him .
+out,FALSE,FALSE,CHI: that's a xxx .
+out,FALSE,FALSE,CHI: &-um could go +...
+out,FALSE,FALSE,INV: where ?
+out,FALSE,FALSE,CHI: there .
+out,FALSE,FALSE,INV: okay .
+out,FALSE,FALSE,INV: who else ?
+out,FALSE,FALSE,INV: what's he doing that boy ?
+out,FALSE,FALSE,INV: are they all sitting on that big sofa ?
+in,FALSE,TRUE,"CHI: yeah , and that little one don't know what to pick ."
+out,FALSE,FALSE,INV: what ?
+in,TRUE,FALSE,CHI: that one doesn't know what to pick .
+in,FALSE,FALSE,INV: he's facing the wrong way .
+in,FALSE,FALSE,CHI: wrong way .
+out,FALSE,FALSE,CHI: put that (.) there .
+out,FALSE,FALSE,INV: yeah .
+out,FALSE,FALSE,"CHI: that little lass , woman xxx ."
+out,FALSE,FALSE,INV: is there anyone on that bed ?
+out,FALSE,FALSE,INV: she won't fit there .
+out,FALSE,FALSE,INV: maybe she's outside the front door .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: yeah .
+out,FALSE,FALSE,CHI: and that could be in &~g kitchen .
+out,FALSE,FALSE,INV: what is it ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,INV: picture .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: where's he gonna go ?
+out,FALSE,FALSE,CHI: he should be going xxx .
+out,FALSE,FALSE,CHI: or could be going +...
+in,FALSE,TRUE,INV: I like those flowers .
+in,TRUE,FALSE,"CHI: yeah , wish I had some ."
+out,FALSE,FALSE,INV: put them outside .
+in,FALSE,TRUE,INV: thought they might look pretty on the table .
+in,TRUE,FALSE,CHI: nearly falling off .
+in,FALSE,TRUE,INV: could move them up .
+out,FALSE,FALSE,CHI: ball .
+out,FALSE,FALSE,INV: ball .
+out,FALSE,FALSE,INV: what's that for ?
+out,FALSE,FALSE,CHI: don't know .
+out,FALSE,FALSE,CHI: that should be +...
+out,FALSE,FALSE,INV: could be +...
+out,FALSE,FALSE,INV: where ?
+out,FALSE,FALSE,INV: that fits .
+out,FALSE,FALSE,INV: that's a table cloth .
+out,FALSE,FALSE,INV: how are we gonna get that on the table ?
+out,FALSE,FALSE,CHI: I know .
+out,FALSE,FALSE,CHI: move that .
+out,FALSE,FALSE,"CHI: ay , and that ."
+out,FALSE,FALSE,"CHI: ay , and put them there , right ."
+out,FALSE,FALSE,INV: I see .
+out,FALSE,FALSE,CHI: and put that on [=? one] there .
+out,FALSE,FALSE,INV: yeah .
+out,FALSE,FALSE,CHI: and +...
+out,FALSE,FALSE,INV: it's got all cups on .
+out,FALSE,FALSE,CHI: put that there .
+out,FALSE,FALSE,INV: what's on the table ?
+out,FALSE,FALSE,"CHI: &-um , cup of teas , sandwiches , there , and +..."
+out,FALSE,FALSE,INV: what ?
+out,FALSE,FALSE,"CHI: +, bread ."
+out,FALSE,FALSE,INV: bread .
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: what's your favorite tea ?
+out,FALSE,FALSE,"CHI: &-um beans , egg , sausage and xxx ."
+out,FALSE,FALSE,"CHI: no , beans , egg and sausage and (.) &-um +..."
+out,FALSE,FALSE,INV: do you like chips ?
+out,FALSE,FALSE,"CHI: yeah , and chips , yeah ."
+out,FALSE,FALSE,"INV: put that in the bathroom , that window ."
+out,FALSE,FALSE,CHI: there .
+out,FALSE,FALSE,INV: there's only one more thing .
+out,FALSE,FALSE,"CHI: hey , that should go +..."
+out,FALSE,FALSE,INV: what is that ?
+out,FALSE,FALSE,CHI: sauce and a drink .
+out,FALSE,FALSE,"INV: oh , I see ."
+out,FALSE,FALSE,INV: where did that come from ?
+out,FALSE,FALSE,CHI: &=points .
+out,FALSE,FALSE,INV: better do another one now .
+out,FALSE,FALSE,INV: do you wanna do a guessing game ?
+out,FALSE,FALSE,"CHI: yes , please ."
+out,FALSE,FALSE,INV: 0 .
+in,TRUE,FALSE,INV: this lady is brushing the floor .
+in,FALSE,TRUE,INV: this lady's holding a baby .
+in,TRUE,FALSE,INV: this is the lady with the green coat on .
+out,FALSE,FALSE,INV: which one do you want first ?
+in,FALSE,TRUE,CHI: the lady who [=? who's] sweeping up .
+out,FALSE,FALSE,INV: what do you think she doing ?
+in,TRUE,FALSE,CHI: sweeping up the muck .
+out,FALSE,FALSE,INV: what next ?
+in,FALSE,TRUE,CHI: the lady who's carrying the baby .
+out,FALSE,FALSE,INV: who's next ?
+in,TRUE,FALSE,CHI: and the lady who's got the green coat on .
+in,FALSE,TRUE,INV: this man is carrying some milk bottles .
+in,TRUE,FALSE,INV: this man's got a blue bag over his shoulder .
+in,FALSE,TRUE,INV: this is the man who's kneeling .
+in,TRUE,FALSE,INV: this man's got a brown suit on .
+out,FALSE,FALSE,INV: who shall we have first ?
+in,FALSE,FALSE,CHI: the man who's got the brown suit on .
+out,FALSE,FALSE,INV: who shall we have next ?
+in,FALSE,TRUE,CHI: and the man who's got the blue coat on .
+in,TRUE,FALSE,"CHI: no , <the blue suit on> [//] the brown suit on ."
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: which one ?
+in,FALSE,TRUE,CHI: the blue bag on .
+out,FALSE,FALSE,INV: who is he ?
+in,TRUE,FALSE,CHI: he's the postman .
+out,FALSE,FALSE,INV: who's next ?
+in,FALSE,TRUE,CHI: the man who's kneeling .
+in,TRUE,FALSE,CHI: and the man who +...
+out,FALSE,FALSE,INV: shall I show you again ?
+in,FALSE,FALSE,CHI: the man who's got the milk bottles .
+out,FALSE,FALSE,INV: who is he ?
+in,FALSE,FALSE,CHI: the milkman .

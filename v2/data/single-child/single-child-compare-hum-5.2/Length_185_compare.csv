@@ -1,0 +1,184 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+out,FALSE,FALSE,FALSE,FALSE,NAN: I want you to tell me what happens when you go to McDonalds (.) the firs thing you hafta do and the next thing you hafta do and the next thing you hafta do (.) everything you hafta do until you're done at McDonalds .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,CHI: at McDonalds (.) first I go to the bathroom (.) second I go the bathroom (.) third I go the bathroom (.) fourth I go to the bathroom (.) <fifth I go to the bathroom> [>] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: and then what happens ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and then I sit down and eat .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I'm done in a second .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: <so then I hafta > [//] so then I hafta go again .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: then we leave or they leave without me .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: what happens from the time you go [/] go in to the bathroom and wash your hands and stuff and you eat your food ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: how do you get your food ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: you get it up at the register .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: why ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: have you ever been there ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: I want you to tell me about it though .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: at our McDonalds <(.)> [>] they have these trays .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: uhhuh [>] .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: uhhuh .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: <and then if you> [/] <if you don't use the trays> [//] some people don't use the trays .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: some people dump their food on the floor and say they are done .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: that (i)s not very good .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NAN: so there are trays .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NAN: so you said you go the register and they have trays .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: and what else happens ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: how do you get your food ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: you order it .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NAN: oh you order it .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: and then what happens ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: you like up there .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: you see the food .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: if you could read what the sentence says you could go like lalalalala@o .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: uhhuh .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: like what <the sentence say> [*] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: uhhuh .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: you hafta pick the food you want .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: you can have as much food as you want .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: okay .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,CHI: but you can't have more than seventeen food .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: okay (.) here (i)s my part of the story (.) alright ?,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,NAN: once upon a time there was a jungle with all kinds of animals in it .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NAN: giraffes (.) and elephants (.) lions .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: you know what happened one day ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: what ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"NAN: one of the baby elephants came over and to the hippopotamus and said +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"NAN: +"" mister hippopotamus you are big and you are green and you look just like a big green grape .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: oh_no (.) now what (i)s gonna happen ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: you finish the story .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: then +...,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NAN: he (i)s the hippopotamus .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: you can give him a name .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: scary .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: one day the little baby elephant went over to scary (.) said +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" you look like a big pig .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: +"" I wanna fight with you .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: then they both started to fight .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and then the mother elephant came over .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: and then she said +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" what are you doing <to my> [/] to my little baby .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: +"" I was giving him food .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" <no she> [//] <no he> [//] no scary wasn't .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: +"" he was fighting with me .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" he hurt me .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" scary (.) stop it .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and scary fell down .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: let (u)s get that now .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: can I take it home ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: okay (.) so scary fell down ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and then the mother came home .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: she slipped and fell on her back but her babies helped her up .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: then the babies started sneaking around her .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: your turn .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,NAN: when along came a huge big dragon [>] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: dragon [<] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,NAN: and he landed in the middle of the pond in the middle of the jungle .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,NAN: and at the same time (.) out_of the other side of the jungle came a girl named [>] Pam .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: boy [<] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NAN: oh_no (.) now what (i)s gonna happen ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: then the big girl Pam <punched and kicked> [/] punched and kicked the dragon .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: then he fell down .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and then the big lion came +/.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: that always happens to the big mother +...,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,NAN: that (i)s a giraffe .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: to the big mother giraffe .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and then bit him .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: then the mother giraffe fell over .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: her baby came over .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" mommy [/] mommy .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" mother [/] mother [/] mother can you hear me ?",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" I say mother [/] mother can you hear me .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" mommy [/] mommy can you hear me ?",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: then the baby giraffe went to his mother,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: +"" my hero !",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: then the baby giraffe got hurt .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and the mother giraffe or the baby sister giraffe could not get the baby giraffe .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: somebody stuck a knife in her and killed her .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: and the mother giraffe went over to the baby giraffe and started to cry .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: +"" my poor baby I wish she was still alive .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" oh my poor sister I wish that she was still alive .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,CHI: and the mother and the big sister went home softly .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: <your turn> [/] your turn .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NAN: I don't know what to do .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NAN: you hafta tell .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,CHI: I'll tell you .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NAN: you sit there and tell me .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I'll whisper it .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,NAN: tell me loudly so I can hear it .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: no (.) you'll be able to hear it even if I whisper .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,NAN: you won't be able to hear it .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: you needta tell me so we can hear it on the movie (.) okay ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: the (.) what you hafta do +...,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: you hafta take the lion .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: bring the babies with him .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: <the all get> [//] all the animals gather around the baby .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: even Pam does .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: <and they> [/] and they all sing a song .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: sing it with me .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: <dear little baby> [/] dear little baby please come back to life .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: we all missed you for two years .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: then the baby got up and went to her mother and said +""/.",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" I missed you guys .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: +"" I wasn't really dead .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" I was just asleep .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" it might have looked like I was dead .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,"CHI: +"" that man with the knife had the knife and he stuck it in the ground not in me .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: the end .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,NAN: tell me about Christmas .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,CHI: oh I loved Christmas .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: tell me what happened .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I got Barbie dolls <and everything> [/] and everything .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: you got Barbie dolls .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I got tons and tons of Barbie dolls .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I got makeup (.) lipstick (.) eyeshadow .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: oh (.) mhm .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: and guess what else I got ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: what else did you get ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: the most funniest thing in the world .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: what is it ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: eyeglasses .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: you got eyeglasses ?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: I [//] yes (.) but they are fake .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: so what do you do with your fake eyeglasses ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I pretend they're my <real eyeglasses> [/] real glasses .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: you do ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: but I never wear them .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: I'm never gonna wear them again .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: no ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: because [/] because they look <like a> [/] like a jerk on me .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: do you know how to read ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yes . [+ q],FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: yes ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yes . [+ i],FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: how did you learn how to read ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: in first grade and second .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: you learned how to read in first grade and in second grade ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: who taught you how to read ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: Mrs_Croger and Mrs_Baylor .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: oh .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I'll make a sentence here for you .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: come here (.) sit down .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: we'll just finish talking okay ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yes . [+ q],FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: <what is> [//] do you have a favorite book to read ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yes . [+ q],FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: what (i)s your favorite book to read ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &~mm (.) Berenstein_bears .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: tell me about that .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I like when Berenstein_bears litter .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: and I like the book where Berenstein_bears_and_the_bad_habit .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: do you have them ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: tell me about the funniest thing that ever happened when you had a babysitter .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: the most funniest thing happened in the babysitter .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: she made a movies with her friend .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: it is so funny !,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: on the movie <when she made> [//] &~mm it was like +...,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: it was like she was like this person that was a ballerina and her friend was a clown .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and the ballerina all the time jumped up .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and when see was like gonna do a split she went www .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and I laugheded [: laughed] [* +ed-dup] and my sister laugheded [: laughed] [* +ed-dup] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: and &~mm after that part her friend the clown went like www .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: okay (.) sit up and tell me some more about when you had a babysitter .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: did you see that ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: <and then> [//] <she was like> [//] and then when the clown went like that she did <need help> [/] I need help !,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: <and then> [/] <and then &~mm> [/] and then &~mm the ballerina was like punching the clown like +...,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,NAN: uhoh .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: and that is the end of our story (.) goodbye .,FALSE,TRUE,FALSE,TRUE

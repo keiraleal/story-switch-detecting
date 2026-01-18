@@ -1,0 +1,635 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And even if I go out and a:sk for it.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you know I say can I copy that.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I won't feel guilty.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I really won't.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: It's just a set of instructions I used to program.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: a little bit and a:nd u:m those guys have so much fun writing those programs.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you know that's theʔ,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I think that's:,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌈ that's pretty,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌊ Yeah well.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ʔuh That's pretty much the end of it ⌉.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: creative people generally ⌋ do what they love to do.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Yeah right.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And that's pretty much the end of the truthful part of the process.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: The rest of it is all m:arketing.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and the marketplace is uh you know maybe I think I live in Tangiers.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you know?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Maybe I think the marketplace is uh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you get what you can get.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Uh: seems to be that way.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you know I- as long as I'm not hurting another person directly.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Right.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You know?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: or even indirectly.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: but just throwing my money out there he may never see a penny of it.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: he may have sold the rights.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: outright.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You % laugh know % laugh?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: That certainly happens in music.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Happens % laugh ye:s % laugh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ʔI- ʔyeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You know?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I mean it happens all over the place.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: You know I wish I was uh the person: whose voice they used in the telephone when it tells you the number has been changed And that I had uh copyright get some royalties.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Like that lady you know h- you hear the number you have reached duh duh duh duh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: they got a different woman didn't they.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hunh?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: didn't they get a different woman?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: When she th- tried to do that?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I don't know if they did.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: they they they hired another voice.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I didn't hear any followup.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: but.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: that's what I thought that they did anyways.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: hunh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: they certainly u:se her a lot.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: But I mean it,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: they only use what.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: a s- ʔuh,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: five seconds total or something?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: You know it's a,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Probably took her a lo:ng time: to to say every possible combination.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: oh but ʔthey,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ʔthe computer does that.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: All she has to do is say: each digit.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: and the ⌈ computer.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌊ Oh that's all it is.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: it's like a series of samples ⌉.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And it automatically sorts ⌋ em.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Unhunh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: right.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: so it's Probably the total actual s- speaking that they use is pretty short.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: It would be much more pleasant if they had done all the combinations though.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: You know call it up and there's something that actually says your number in toto You know?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌊ Yeah:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Or ⌋ because it recognizes your phone number it automatically goes into the computer finds that.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌈ Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌊ and,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: a and names the ⌋ na:me.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: that sample ⌋.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Thank you Mister Smith for calling Pacific Bell.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌊ yeah right.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: You know % laugh ⌋.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I am your personal computer representative.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌈ That'd be great.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌊.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌉.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Push one if you ⌋ wish to know my phone number push two if you wish ⌈ to h,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌊ My phone number that I,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you know have dinner ⌉ with me push three.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌋.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: if you want to uh ʔuh,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Artificial intelligence personality that you call up.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Yeah % laugh so % laugh if you do not like this personality push zero: and a: new personality.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌊ Yeah % laugh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌋.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: will be provided for you.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ʔYeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: at no extra charge.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ʔYeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hunh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You are allowed up to five personalities in one phone call.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ʔuh well the networking of computers is getting uh s:uch that you know almost anything's possible.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌈ Any xxx,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah that's why I: like it.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: It's just matrix⌉ing@n and just con- constantly building and building u:pon building upon building on these complexities and building controllers for the:m.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: That's right and.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and building on top of those.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: And you're building on the thoughts of th- your predecessors.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: but your predecessors in this case could be like last year.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: You know it's like it's moving so fast.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Oh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: So fast.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: It's like a r,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: It's a reflection of the brain and it's communication like books but it's much quicker.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: And it's like.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: but when they get,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: if you can think of something and define it you can: make it happen.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: If it just about information.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I mean you can't,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: If it's just about information that's very true.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌊ Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: You can't ⌋ conjure: something up like a car: out of nothing.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: But.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: well with the superconductors uh that's gonna make it you know s:o economical.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: for everybody to have all the electronic this and that that they want because there'll be so little loss of electricity.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: And it'll be small:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You know and it,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: It'll be f- so small that we'll have enormous amount,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uhʔ,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: we should have an enormous supply of it.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: yeah like every light switch will have its own computer or something you know.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Basically because it'll be cheap enough that cheap as a switch these ⌈ days or something.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: it won't cost anything.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: you know ⌉?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ky,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and it,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ʔand when they go into outer space and start growing this thi- those uh silicon chips without any flaw:s.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: they'll be able to uh grow circuitry that is so complicated that you know that gravity destroy:s it.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: so they'll be able to uh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ʔuh to,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: i- they'll be able to get these fanta:stic uh: c:ircuits f- like say for a whole television set just on one chip.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: A:nd uh:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uh: and then it'll harden out there and k- they'll bring it back.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ʔa- uh the whole thing is s:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: is s: is so sensational.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: That'll be expensive at first.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: God.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: But can you,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: growing em in space but that's great.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: it'll,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: it'll uh it'll be worth it.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: In,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: This technology out of m:ost of uh m- anything in the pa:st ha- has m,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: it's becoming like we're shaping our: our destiny or ourselves.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: u:m with this technology more than we have in ʔuh with any other in the past it seems.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: just b_like whatever we think it b- ʔuh,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: we can make it.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: but there's one technology that's u:m gonna overtake that and that's D:NA research.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: which is: like a total scam at this point still it's they're just like bombarding ʔuh organisms with radiation to see what comes up.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: you know.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: We have very little control over it.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: But once we do: we'll be able to progra:m biology as well.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Well tha:t's pretty frightening concept.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: It is frightening but.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: We can't even control our freeways.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: um I know:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you know⌈:?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I mean ⌉.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: but i- ʔuh,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: the thing is any s- technology that comes up it gets used.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Once it's out there in the open.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: the,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Well I hope,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: the society as a- a whole.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I hope they use fractals.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Are you familiar with fractals?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Unhunh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Yeah I hope they use a_lot_of fractals.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Because f:,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: in biology research?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ʔuh ʔuh No.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: But in: well the connection between mathematics and biology can be found k,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: unhunh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uh m:ore easily with fractals than it can with uh regular mathematics.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: So you know I'm looking for the p- connection between science and a:nd religion and and and biology.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: as it were ar,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: th- you know the living as spiritual and the,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and the:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Like the ancient science were.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌊ and the sci,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and the scienti⌋fic Pardon?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: it was like the ancient science it was just a branch of knowledge which is- included all knowledge basi⌈cally.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Alchemy.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌊ alchemy.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Right ⌋?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Unhunh ⌉.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌈ yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Whatever gets the job done.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: The- the- ⌉,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: the gestalt.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: the totality i:s taken into account as opposed to as opposed to the observer.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Right.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you know I remember ʔm- back in the psychedelic days there was this poster of the scientist.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,JIM: I've always been on a kind of a crusade ʔuh for scientific uh responsibility.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Right?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And scientists are are taking such control over the world these days.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uh with their n- you know not the scientists but what they've invented.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And the way it's marketed and the way we're d,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: we develop needs for it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JIM: And I remember this pf- cartoon I saw w- of of it was called The Scientist.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,JIM: and it had this this wonderful stone statue about twenty stories tall of a naked ma:n and a naked woman intertwined with each other hugging each other full frontal and their arms wrapped around each other and then they s,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JIM: they- they looked like they were so intertwined and they spiraled down and and they're a s,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JIM: they're a statue.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: right.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: made out of sto:ne.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and they're and the whole b:ase of the statue is crumbling.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Right?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And it's just like rubble:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: f- like from just below the knee:s down was just kind of rubble.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: but the rest of it was all real clear a fewʔ little,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: some of it was chipped off you know it was ol:d but and d,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and down at the bo:ttom of this this rubble was this little m:an.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: who was a scientist.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And he had this big magnifying glass.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and he was looking at the rubble.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Looking with his head down.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: not looking up at the statue and seei:ng the lo:ve and the the- the- symbol there but looking down at the crumbs you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: at the rubble at the bottom.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: With his magnifying glass.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JIM: an:d an:d to me that that always symbolized kind of rather clearly the limitations of the scientific method.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Whi,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JIM: if it doesn't take into account.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: well.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: the to,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,JIM: the the the whole human experience and including the unbelievable parts of it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JIM: the parts that are just legend.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JIM: and myth.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JIM: and a:nd uh: alluded to:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: you mean the theories.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and and the psychedelic experiences and the subjective.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: oh on that side.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you know: and insanity: ⌈ and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: What I ⌉ mean.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: well.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you know they,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ʔuh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: They've got to take ac- into account.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ʔuh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: but you can't.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: the East with all its with all its fantastic discoveries.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: but you can't look at the stars with a microscope.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: And science is a microscope.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Each p_scientist has their their field of um experti:se and if they're gonna go if they're gonna stretch out far enough into theʔ,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: the unknown.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: where they can find something new.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: They have to do it in a straight line.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: They can't ⌈ do it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: that's true.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌉ in all directions at once.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Because then you run into things that we already know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: So the problem is: communication between s,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌊ but they're doing it they're doing it with mathematics.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Right ⌋?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I mean.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌈ Well.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: n- no.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: but the comm- ⌉ problem is communication between the branches of science.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: mhm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I think.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: that's true.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: cause who's gonna be able to hold all that knowledge and make the connections.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Well the philosopher:s and the: spiritual leaders an:d I mean cause f- the stuff can be understand understood The ⌈ goa:ls.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Those people can tell you:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: or the or the cutting,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: cutting ⌉ edge can be understand,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: understood intellectually.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: but those people can't tell you the details.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: they know the whole structure but see.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: well the,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: it's like both sides.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: You have to have somebody looking at the ⌈ details.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌊ ʔy- got to have a leader.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: and somebody looking at the,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌉.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and you got to have ⌋ a bunch of workers.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You know?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: A:nd you gotta have somebody.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: right.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: who d_isn't necessarily inclined to deal with the details that mu:ch who's guiding those who are willing ⌈ to sit there.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌊ I guess that's the problem.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and make all the ⌉,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: we don't have a ⌋ guider.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: there's no l- there's no lead or there's no focus.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: That's right.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: a:nd uh you know I think I think that one of the reasons that there's been no focus is because ʔuh uh everybody accepted the scientific method as the best too:l that we ha:ve And was kinda letting the scientific method be the,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Mhm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: be the leader.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: The:,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: the- w- you know just continue inventorying and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Well those people who are doing research.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: continue inventorying cataloguing ʔuh_experimenting You know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: documenting.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uh: uh: whatever.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,JIM: and instead of: instead of uh uh coming at it from another direction.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,JIM: Trying to find trying to find uh trying to find way:s to to like with with Einstein for example you know uh it seemed to me he was trying to f,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: T_he was ex- per,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JIM: experimenting with with new ways of doing things you know.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,MICH: well thinking about things.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ʔuh,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JIM: uh and thinking about things and he was trying to,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: he w,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,JIM: I think he was ultimately trying to trying to discover the speed of his own thought.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You know I mean ʔuh: he was like really off into wonderful abstract notions that were all based in a peaceful world.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You know?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: that couldn't exist unless he was secure.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: that we had a peaceful world.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: or that that peace was part of it.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Of what he was abou:t.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and so much of today's technology is soulless.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and has nothing to do with peace it has to do with just generally chewing up you know consumerism basically and.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: chewing up,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ch- n,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: j- chewing up new w,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uh chewing up the human experience and turning it into some kind of consumer need.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Did you ever get into Tesla?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uh: just ʔuh- ever so peripherally.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,MICH: He had a_lot_of real wacky ideas on big levels.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,MICH: He wanted a world power system that you could um tap into the air basically and get power anywhere on earth.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: and um y,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: that's what the Tesla coil was about?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MICH: but e- the problem was that it it uh it interfered with um well matter.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I % laugh mean y,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MICH: it was n:ot a clean broadcast system.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MICH: Like everything in the room if you had a Tesla coil in the middle of the room all the metal objects would be receiving it constantly.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MICH: So it wasn't really a very efficient either.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MICH: Because you'd have to have a,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MICH: an immense amount of power being broadcast so that a few points could receive you know their share of it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: now what about if they,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ʔi- with the superconductor.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Will that change all that?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I don't know.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MICH: He was dealing with it being basically energy and being sent through the air uh you know: like light.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: like yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Like tapping right into just the energy of the earth or something.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: alright.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MICH: which doesn't really ʔuh require a conductor.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: yeah may,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MICH: you know I mean light will go through a vacuum.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,MICH: So ʔuh I think he was I mean he va- basically invented the radio and stuff like that you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: It's pretty confusing to me.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: but uh yeah those those guys are the guys I think that are the heroes uh or that are the unsung heroes.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You know the r,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: the: uh and s,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,JIM: and and business and I mean this is a cliche but but business has always uh taken these works and and manipulated em either to their benefit or to our benefit or to our detriment or something f- based on economic wh- what the obvious or the,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: hm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"""JIM: +, more immediate econo⌈mic ⌉ +... ▶""",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Right.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: it's like well gee yeah I know I know how we can make money with this.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I mean you just do it.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Well that's what I like about fractals.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: is because uh uh with: these new mathematical formulas ⌈.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: even ⌉ though you know because it's mathematical and it,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I- it has to work I guess with: numbers in it.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: somew- some way.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uh it's opens a door into what appears to be all: the substance that's underneath the obvious.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You know.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: hm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: with,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: if if regular math is the obvious uh: these fractals seem to seem to represent everything: that numbers aren't.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: a:nd uh that's:,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Well something that numbers aren't.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I don't think it's everything.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: not everything.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌈ but s,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: cause there are t-.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: but the first ⌉ window into that.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: well it,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: like,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: every theory is just like- ʔuh ʔuh_it's a window and it's also like a model of um reality and it's really not reality.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: And uh like a fractal can g:et really close at do- ʔuh,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: like describing growth patterns like a ⌈ plant or something.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌊ Yes.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Yes.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Right.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Right ⌋.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Um ⌉ but it's still n- not the totality of a plant.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: No it isn't by any stretch.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: But for mathematics or for science it's the,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌈ it's an opportunity for them to,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: it's the cl:osest th:ing we have.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌉ to yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: To get closer to to the ch:aos or the or the order of chaos.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Uh that exists uh uh: ʔa- ʔuh ʔas subtext to our life to our experience on this planet.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And when we're.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Mm.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,JIM: and when we're say,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,JIM: when we're going to uh say blow up the first atomic bomb and and and we don't bother to ask the American people or the people of the world if w- if if we mi:nd.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,JIM: uh if there's a chance you know cause they didn't know for sure whether it would de⌈stroy the universe or not.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌊ Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Or not.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And ⌉.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: It might ⌋ have started a chain reaction that just blew up the whole earth.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: That's right.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And it might very well still have started that chain reaction.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And that it's all happening in fractal country and it has,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Aah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and it and it's manifesting itself in in disharmony uh in in the deterioration of the planet.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: We're all worried about the ozone we're all worried about the uh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uh: th- cancer is everywhere uh:.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: so you're saying it might have done the sa:me ba:d thing but in a sort of more roundabout way:.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌊ it's just that the uni,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: except that the ⌋ universe is such a complex phenomenon that it's so deep it's f:or,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: f- the fabric that we: are witnessing through m- science and through any known ability to understand.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Mm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: is just a thin shell from how deep this phantasmagorical experience goes and that when they did that it's possible that they started a chain reaction at such a subatomic level a sub sub sub ⌈ sub subatomic level.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: it's gonna take a while to crumble.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌉ that it'll take a while before it it it r:eally you know vr- goes you know and just r::ips it apart.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: it might take it might take ʔa- a few th,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: it might take five hundred years.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: or a thousand years.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: or a hundred years.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: or maybe it's be,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: w- maybe in v- fifty years.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: or it might never happen but it's,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: to me: tha:t was scientific irresponsibility.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: A:nd w- without the knowledge of of f- what fractals symbolize at this point to me ʔu- uh they,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: w,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: they could make that decision easier.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And with the scientif,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: fractals could have made the decision easier?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: No.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: No.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Without the knowledge of fractals.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: The decision was made easier.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: If fractals were known at that time.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: oh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: there might have been a little more caution because there was there's this window.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: but fractals don't uh don't imply any particular morals.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: well they imply no they don't imply morals but they do imply that there's more than the obvious going on.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Well all math does that.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Uh: not to me:.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uh it's,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: They're just another system that's all just another model.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: it's ʔuh to me it's a model it's it's a model into the fourth dimension as opposed to ⌈ you know.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌊ Well actually.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: the third dimension ⌉.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Ein⌋stein's theory is a model in the fourth dimension and that's time.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Um but fractal can be applied to many dimensions or n,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: or just I mean any number of dimensions.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: it's basically taking something and dividing it up randomly.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: or with some system.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: it's like nested nested values.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: basically.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Inside a gallon you have four quarts inside of four,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: in- inside a quart you have the certain amount of cups and then you know.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: etcetera etcetera.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ⌈ well.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I don't see how it's,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: yeah except it's ⌉ not it's not uh it's not so it's not squa:red and it's not as predictable as that.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I mean it's uh it's it's not predictable at all really.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: It's: it's a it's a found phenomenon.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Well it's not predictable if you apply random values to the subdivisions.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: The subdivisions have to be random.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: They ha,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: it has to have randomness to it.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: the order I don't think is is understood.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: yet.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I mean I might be wrong but that's my understanding.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: well I th:ink.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: that's why they're calling it the equ,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: they're calling it uh the mathematics of chaos.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Oh that's a different thing.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: That's not fractals.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Yeah that's fractals.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: It includes ⌈ other,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: well fractals can be used to describe chaos.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: it includes ⌉ it includes other it i,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Yes.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: It can.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And it includes other mathematics too.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: But fractals is separate.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I mean and chaos is se,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ʔuh they overlap.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Chaos I guess is basically analysis of noise.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: For- for the scientist For the scientist the scientist has never hav,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: has never had a tool where he had that overlap.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you see.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: see that's w,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: that's the point that I'm trying to get at.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: is is that because the scientific method now has that tool of overlap it's giving them something that they never had before.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: a:nd tha:t is an opportunity for- to meet spirituality.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah well there's uʔ,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: in physics.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: There's opportunities to meet spirituality four hours a day wherever you go.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: just by being alive.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: If they don't wanna see it they're not gonna see it in fractals.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Well yeah a_lot_of people will.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: A lot of people will uh it'll dawn on them because they follow the scientific impulse and fractals may be the very thing that boggles them out enough where they have to do some serious questioning about things.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: is my theory.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You know.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Maybe.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: They'll probably find it in something if there fractals weren't there.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I think um it's like all the the ideas that we have throughout the ages and the various they're just sort of echos of uh: the pa:st.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: And they come under different names and things.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Just like um the latest power now is corporations.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Right?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: And before that it was: like uh governments before that it was principalities before that it was gangs you know.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: And tri:bes.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: And gangs are coming back now you know?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: s- but uh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: God are they ever.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: um.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: it's unbelievable.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: And knowledge and an:d the pursuit of um spirituality has taken on many forms.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: And if a person wants to find it in in something they believe in and they believe in science they'll find it in science.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: well that's very true but I mean uh,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ʔthat,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I thi:nk that that,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: that people who find spirituality in science as their f- sole spiritual source are people that are fucking up the planet % laugh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You know?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I don't think science is the,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I don't think science can be God.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I've been watching Two Thousand And One lately.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: You know?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I mean that's what that's all,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: i,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: that's not what it's all about but that's a a major theme in it.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you know that the race between the human and the and the techno,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and its and its technological manifestation of well ʔI,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you know I think that we built,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: it's like are we gonna be part of it or are we gonna make it.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Is it gonna m- do us or are we gonna do it.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: you know is our creation it's like the Frankenstein myth.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Is our creation going to uh destroy us?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: or are we going to continue.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Yeah uh look at what's on TV.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I just put it on.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Mandelbrot.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: ⌈ oh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: I just put it on.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: okay ⌉.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I see.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I thought they were showing that on the uh ads for some reason.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: ʔuh:.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: A little too hip for TV.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Little too hip yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: So they're cycling right now.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Does it zoom later?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: I guess it must.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: Yeah I've got zooms on here too.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and I,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Where'd you tape it from.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: uh This one's Fractal Fantasy which is: for sale.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hunh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and the other one is uh Fractal Zooms which I don't think is available b- and then I've got a uh: test film from IBM laboratories.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: of uh f- uh uh taking a Julia set into the fourth dimension.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MICH: Hm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: which th,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: and then they zoom through it it's pretty f,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JIM: pretty fantastic looking.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,@End,FALSE,TRUE,FALSE,TRUE

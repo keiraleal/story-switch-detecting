@@ -1,0 +1,317 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV2: we're just gonna take it (be)cause we needta copy it but we'll bring it back and give it to you so you can send it if you wanna send it to somebody .
+out,FALSE,FALSE,MOT: alright !
+out,FALSE,FALSE,INV1: okay ?
+out,FALSE,FALSE,MOT: +^ it's a <real [/] real letter> [>] .
+out,FALSE,FALSE,CHI: <<can you> [/] can you> [<] give me an idea ?
+in,TRUE,FALSE,MOT: well (.) we could write it to (.) cousin Kathy .
+in,FALSE,TRUE,MOT: cousin Marta .
+in,TRUE,FALSE,CHI: cousin Kathy !
+in,FALSE,TRUE,MOT: or to Grandma or Grandpa ?
+in,TRUE,FALSE,CHI: Kathy !
+out,FALSE,FALSE,MOT: okay .
+in,FALSE,TRUE,MOT: I don't know their address .
+in,TRUE,FALSE,MOT: but we can get &-uh (.) Grandma's address okay ?
+out,FALSE,FALSE,CHI: &-um .
+out,FALSE,FALSE,MOT: alright .
+in,FALSE,TRUE,MOT: <she hasta> [>] write it (.) right ?
+out,FALSE,FALSE,CHI: xxx [<] .
+out,FALSE,FALSE,INV2: <you work> [//] yeah (.) however you two do it together .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,INV2: but you can help (.) <that's> [>] +/.
+in,TRUE,FALSE,CHI: <can you> [<] tell me what to say ?
+in,FALSE,TRUE,MOT: first we hafta write &-um <a name> [//] your name .
+in,TRUE,FALSE,MOT: right here Chi .
+in,FALSE,FALSE,MOT: <it goes in this corner> [>] .
+in,FALSE,FALSE,CHI: <why> [<] there [?] ?
+in,FALSE,TRUE,MOT: that's the way you write letters .
+in,TRUE,FALSE,MOT: from here goes your name (..) and address .
+in,FALSE,TRUE,MOT: (..) so she'll know who wrote the letter to xxx ?
+in,TRUE,FALSE,MOT: hasta have your name and address .
+in,FALSE,TRUE,CHI: what's my address ?
+in,TRUE,FALSE,MOT: finish the name .
+out,FALSE,FALSE,MOT: www [=! Chi's last name] right ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,MOT: okay [>] .
+out,FALSE,FALSE,CHI: okay [<] .
+out,FALSE,FALSE,MOT: twenty .
+out,FALSE,FALSE,CHI: twenty .
+out,FALSE,FALSE,MOT: Chi &~w wait a second .
+in,FALSE,TRUE,MOT: right here you did something wrong .
+in,TRUE,FALSE,MOT: it's twenty Winthrop .
+out,FALSE,FALSE,MOT: twenty .
+out,FALSE,FALSE,@Comment: Time is 5:14
+out,FALSE,FALSE,CHI: where the gotta +//.
+out,FALSE,FALSE,CHI: twenty .
+out,FALSE,FALSE,BRO: twenty .
+out,FALSE,FALSE,CHI: right here ?
+out,FALSE,FALSE,MOT: no .
+out,FALSE,FALSE,MOT: (.) right there .
+out,FALSE,FALSE,CHI: why right there ?
+out,FALSE,FALSE,MOT: twenty [//] number twenty .
+out,FALSE,FALSE,CHI: right here ?
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,MOT: r@l (.) o@l (.) p@l .
+out,FALSE,FALSE,MOT: s@l t@l .
+out,FALSE,FALSE,MOT: +^ street (.) s@l t@l .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,MOT: www [>] .
+out,FALSE,FALSE,CHI: <and what else> [<] ?
+out,FALSE,FALSE,MOT: Hyde Park .
+in,FALSE,FALSE,MOT: you know how to write that right ?
+in,FALSE,TRUE,MOT: Hyde Park ?
+in,TRUE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: h@l (.) y@l (.) d@l e@l .
+out,FALSE,FALSE,CHI: Park .
+out,FALSE,FALSE,MOT: Park .
+out,FALSE,FALSE,MOT: and then &-um m@l a@l .
+out,FALSE,FALSE,MOT: capital letters .
+out,FALSE,FALSE,MOT: m@l (.) a@l .
+out,FALSE,FALSE,CHI: 0 .
+in,FALSE,TRUE,MOT: stands for Massachusetts (.) right ?
+out,FALSE,FALSE,MOT: come on .
+out,FALSE,FALSE,MOT: +^ xxx ?
+in,TRUE,FALSE,MOT: and today's date (.) right ?
+in,FALSE,TRUE,CHI: the second .
+in,TRUE,FALSE,MOT: October ?
+in,FALSE,TRUE,MOT: no xxx write number ten [//] &-uh eleven .
+in,TRUE,FALSE,MOT: remember it's not October it's November .
+out,FALSE,FALSE,MOT: eleven .
+in,FALSE,TRUE,MOT: xxx I'm sorry xxx number eleven .
+in,TRUE,FALSE,MOT: (.) and then dash and three@q .
+out,FALSE,FALSE,MOT: three .
+out,FALSE,FALSE,MOT: right here <we &-um> [//] (.) Chi .
+out,FALSE,FALSE,CHI: huh ?
+in,FALSE,TRUE,MOT: right here we write [?] ninety one or ninety@q ?
+in,TRUE,FALSE,CHI: ninety two !
+in,FALSE,TRUE,MOT: <ninety one sweetie> [=! laughing] .
+in,TRUE,FALSE,MOT: another dash and <ninety xxx> [//] ninety one okay ?
+in,FALSE,FALSE,CHI: another dash ?
+in,FALSE,FALSE,MOT: yeah (.) ninety one .
+out,FALSE,FALSE,MOT: there you go .
+out,FALSE,FALSE,MOT: all set .
+in,FALSE,TRUE,MOT: you got the date and the address and the name right .
+out,FALSE,FALSE,CHI: I can't wait <to have> [>] +/.
+in,TRUE,FALSE,MOT: <now write> [<] Kathy .
+out,FALSE,FALSE,MOT: the name k@l a@l +...
+in,FALSE,TRUE,MOT: that's where your cousin's name go [//] &-um goes .
+in,TRUE,FALSE,MOT: (be)cause you are writing to the letter to her .
+out,FALSE,FALSE,MOT: t@l h@l y@l [/] (..) y@l .
+out,FALSE,FALSE,CHI: y@l .
+in,FALSE,FALSE,MOT: what's her last name ?
+out,FALSE,FALSE,CHI: xxx [>] .
+in,FALSE,FALSE,MOT: you [<] don't know it .
+in,FALSE,TRUE,MOT: I'll spell it for you h@l .
+out,FALSE,FALSE,MOT: <right here> [/] right here .
+out,FALSE,FALSE,MOT: t@l h@l right next_to the a@l .
+out,FALSE,FALSE,MOT: h@l (.) r@l (.) i@l (.) b@l (.) a@l r@l .
+out,FALSE,FALSE,MOT: good girl .
+in,TRUE,FALSE,MOT: you start with capital letter (.) <always for names okay (.) xxx> [>] ?
+out,FALSE,FALSE,CHI: <for (.) my> [<] (.) best +...
+out,FALSE,FALSE,CHI: &-um (..) my best ?
+in,FALSE,TRUE,MOT: <put it on the second> [//] continue the second line .
+out,FALSE,FALSE,MOT: best what ?
+out,FALSE,FALSE,CHI: cousin .
+out,FALSE,FALSE,MOT: okay .
+in,TRUE,FALSE,CHI: how do you spell cousin@q ?
+out,FALSE,FALSE,MOT: c@l o@l u@l (.) s@l i@l n@l .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: good .
+out,FALSE,FALSE,CHI: and d@l !
+in,FALSE,FALSE,MOT: I don't think cousin [/] cousin &-uh (.) is spelled with a d@l .
+in,FALSE,FALSE,MOT: we have an extra letter <right there> [=! laughing] .
+out,FALSE,FALSE,MOT: can you close [?] the d@l xxx Chi ?
+out,FALSE,FALSE,CHI: no cousind [: cousin] .
+out,FALSE,FALSE,MOT: alright .
+in,FALSE,FALSE,MOT: but that's not right .
+in,FALSE,FALSE,MOT: keep that in mind .
+in,FALSE,TRUE,MOT: get the h@l a capital letter right here .
+in,TRUE,FALSE,MOT: because last names always begin with a capital letter .
+out,FALSE,FALSE,CHI: &=whines .
+in,FALSE,TRUE,MOT: no no it wasn't that hard .
+in,TRUE,FALSE,CHI: the first <names always start> [>] with a capital letter .
+in,FALSE,TRUE,MOT: <remember that okay> [<] ?
+in,TRUE,FALSE,CHI: <not the last> [>] .
+in,FALSE,TRUE,MOT: <and the first> [<] letter of the last name starts with a capital letter too always .
+out,FALSE,FALSE,CHI: hm: .
+out,FALSE,FALSE,MOT: yes sir .
+out,FALSE,FALSE,CHI: hm: .
+in,TRUE,FALSE,MOT: you're not gonna get any reading owls [?] .
+out,FALSE,FALSE,MOT: www .
+in,FALSE,TRUE,CHI: there's no writing .
+in,TRUE,FALSE,CHI: +^ there's only reading .
+out,FALSE,FALSE,MOT: alright good .
+out,FALSE,FALSE,MOT: that's more like it .
+in,FALSE,TRUE,MOT: now what do you wanna say to her ?
+in,TRUE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,CHI: oh !
+in,FALSE,TRUE,MOT: tell her you had a good time with her <when you> [>] went to California .
+out,FALSE,FALSE,CHI: xxx [<] .
+in,TRUE,FALSE,CHI: no I'm <gonna say> [/] I'm gonna say (.) when you get here I'm gonna save a lot [!] of candy for you .
+out,FALSE,FALSE,MOT: <when you get here> [>] okay .
+out,FALSE,FALSE,CHI: xxx [<] .
+in,FALSE,TRUE,MOT: how (a)bout starting with dear cousin Kathy ?
+in,TRUE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: okay .
+in,FALSE,TRUE,MOT: if that's the way you wanna write .
+in,TRUE,FALSE,MOT: don't be a little <busha@f> [>] &=laughs .
+out,FALSE,FALSE,CHI: <when> [<] you get .
+out,FALSE,FALSE,MOT: here .
+in,FALSE,TRUE,MOT: I'll give you lots_of candies ?
+in,TRUE,FALSE,CHI: will (..) save (..) lots [!] .
+in,FALSE,TRUE,CHI: (.) how do you spell candies@q ?
+out,FALSE,FALSE,MOT: c@l a@l (..) n@l d@l (.) i@l e@l s@l .
+out,FALSE,FALSE,MOT: e@l s@l .
+out,FALSE,FALSE,MOT: i@l e@l s@l .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,MOT: there you go .
+in,TRUE,FALSE,MOT: did you miss a letter over there ?
+out,FALSE,FALSE,MOT: see ?
+out,FALSE,FALSE,CHI: for you and me .
+out,FALSE,FALSE,CHI: and +...
+out,FALSE,FALSE,MOT: <for your and &~m my> [>] ?
+out,FALSE,FALSE,CHI: <don't> [<] .
+out,FALSE,FALSE,MOT: xxx ?
+out,FALSE,FALSE,CHI: (..) hm: .
+out,FALSE,FALSE,MOT: for me ?
+out,FALSE,FALSE,CHI: don't (..) forget .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,CHI: your baby (.) Paul [?] .
+in,FALSE,TRUE,MOT: she has a baby ?
+in,TRUE,FALSE,CHI: yeah !
+out,FALSE,FALSE,CHI: remember [>] ?
+out,FALSE,FALSE,MOT: okay [<] .
+out,FALSE,FALSE,MOT: alright .
+in,FALSE,TRUE,MOT: don't forget your baby .
+in,TRUE,FALSE,MOT: cousin Kathy should [//] is sposta come from Italy [?] and visit her .
+in,FALSE,TRUE,MOT: so she is writing in the letter not to forget her baby .
+out,FALSE,FALSE,INV1: &=laughs .
+in,TRUE,FALSE,MOT: we want the family <to grow> [=! laughing] .
+in,FALSE,TRUE,MOT: (.) okay let's continue on the other side .
+in,TRUE,FALSE,MOT: don't forget (.) your baby .
+in,FALSE,TRUE,CHI: <no let's [/] let's> [//] how do you spell +...
+in,TRUE,FALSE,CHI: what's his name again ?
+in,FALSE,FALSE,MOT: whose name ?
+in,FALSE,FALSE,MOT: cousin Kevin ?
+in,FALSE,FALSE,CHI: no !
+in,FALSE,TRUE,CHI: that little baby (.) brother [?] .
+in,TRUE,FALSE,CHI: what's his name ?
+in,FALSE,FALSE,MOT: I don't know +/.
+out,FALSE,FALSE,CHI: +^ her [/] her little baby brother .
+in,FALSE,TRUE,MOT: oh John Paul .
+out,FALSE,FALSE,CHI: oh !
+in,TRUE,FALSE,MOT: don't forget your baby brother ?
+out,FALSE,FALSE,MOT: okay (.) your@q .
+out,FALSE,FALSE,CHI: your .
+in,FALSE,TRUE,MOT: oh so you want xxx John Paul to come huh ?
+out,FALSE,FALSE,CHI: (..) baby@q .
+in,TRUE,FALSE,MOT: (..) so are they sposta come by themselves on the plane Chi ?
+in,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,MOT: your baby brother .
+out,FALSE,FALSE,MOT: what else ?
+out,FALSE,FALSE,CHI: &-uh (.) John Paul .
+in,FALSE,TRUE,MOT: she knows her baby brother's name doesn't she ?
+in,TRUE,FALSE,MOT: just to make sure huh ?
+out,FALSE,FALSE,CHI: John [>] .
+in,FALSE,TRUE,MOT: <she doesn't forget> [<] .
+out,FALSE,FALSE,CHI: Paul@q .
+out,FALSE,FALSE,MOT: (.) okay (.) can you can put a u@l (.) before the l@l ?
+out,FALSE,FALSE,MOT: good .
+out,FALSE,FALSE,MOT: what else ?
+out,FALSE,FALSE,CHI: thank .
+in,TRUE,FALSE,MOT: (.) okay (.) period .
+in,FALSE,TRUE,MOT: should we start <another sentence> [>] ?
+out,FALSE,FALSE,CHI: <thank you> [<] !
+in,TRUE,FALSE,MOT: Chi I thought you wanted to tell her something else .
+in,FALSE,TRUE,MOT: (.) about the hamsters and the fish and all that .
+out,FALSE,FALSE,MOT: no ?
+out,FALSE,FALSE,@Comment: Time is 14:00
+out,FALSE,FALSE,BRO: www .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,MOT: that's it ?
+out,FALSE,FALSE,BRO: www .
+out,FALSE,FALSE,CHI: and .
+out,FALSE,FALSE,MOT: www .
+in,TRUE,FALSE,CHI: and .
+in,FALSE,TRUE,CHI: when .
+in,TRUE,FALSE,CHI: you (.) come .
+in,FALSE,TRUE,MOT: come [//] when you come .
+in,TRUE,FALSE,CHI: xxx hold [/] hold our hamsters .
+in,FALSE,FALSE,MOT: <hold our hamsters> [>] ?
+in,FALSE,TRUE,CHI: <how do you> [<] spell our ?
+in,TRUE,FALSE,CHI: our [>] .
+out,FALSE,FALSE,MOT: <o@l u@l r@l> [<] ?
+in,FALSE,FALSE,CHI: our !
+out,FALSE,FALSE,MOT: o@l (.) u@l (.) r@l .
+out,FALSE,FALSE,MOT: what is this ?
+out,FALSE,FALSE,MOT: +^ it's a xxx right ?
+out,FALSE,FALSE,MOT: xxx (.) I think .
+out,FALSE,FALSE,CHI: how do you spell hamsters@q ?
+out,FALSE,FALSE,MOT: double m@l [/] m@l .
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,MOT: s@l t@l (.) e@l (.) r@l s@l .
+out,FALSE,FALSE,MOT: +^ that's a long word .
+out,FALSE,FALSE,CHI: (.) <your@q> [?] .
+out,FALSE,FALSE,MOT: thank you .
+out,FALSE,FALSE,CHI: again .
+out,FALSE,FALSE,MOT: again .
+in,FALSE,TRUE,MOT: that's nice of you xxx thanking your cousin right ?
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,MOT: okay [>] .
+out,FALSE,FALSE,INV2: <all done> [<] ?
+out,FALSE,FALSE,MOT: yeah [>] .
+out,FALSE,FALSE,INV2: <gonna read> [<] it to me ?
+in,TRUE,FALSE,MOT: we're missing some letters over here .
+in,FALSE,TRUE,MOT: aren't we ?
+in,TRUE,FALSE,MOT: what does it say ?
+in,FALSE,TRUE,CHI: egen@u [: again] .
+in,TRUE,FALSE,MOT: again .
+in,FALSE,TRUE,MOT: it needs xxx letter a@l right ?
+in,TRUE,FALSE,MOT: <before the n@l> [>] .
+in,FALSE,TRUE,CHI: <there's one> [<] right there .
+in,TRUE,FALSE,MOT: no (.) before the n@l you use another letter a@l .
+in,FALSE,TRUE,MOT: just to make sure that she understands what you're saying okay ?
+in,TRUE,FALSE,MOT: (be)cause if it's misspelled then she willn't know what you're trying to say .
+in,FALSE,FALSE,MOT: better make sure we got all the letters .
+out,FALSE,FALSE,MOT: xxx .
+in,FALSE,TRUE,MOT: okay let's see .
+in,TRUE,FALSE,MOT: is there a letter missing in this word ?
+out,FALSE,FALSE,CHI: okay .
+in,FALSE,TRUE,CHI: I read it to you .
+out,FALSE,FALSE,MOT: xxx [>] .
+out,FALSE,FALSE,INV2: okay [<] .
+in,TRUE,FALSE,CHI: to my yyy +...
+out,FALSE,FALSE,MOT: here [?] .
+in,FALSE,FALSE,CHI: to my +...
+out,FALSE,FALSE,MOT: best .
+out,FALSE,FALSE,CHI: to my +...
+out,FALSE,FALSE,INV1: better [?] .
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,TRUE,MOT: there is an extra letter right here .
+out,FALSE,FALSE,MOT: is that a k@l ?
+out,FALSE,FALSE,MOT: you wanna xxx it ?
+out,FALSE,FALSE,CHI: no .
+in,TRUE,FALSE,MOT: well she might think you say [//] trying to say something else .
+in,FALSE,FALSE,MOT: and right here .
+out,FALSE,FALSE,MOT: xxx (.) you need a letter e@l .
+out,FALSE,FALSE,CHI: oh !
+out,FALSE,FALSE,MOT: xxx (.) xxx .
+out,FALSE,FALSE,INV1: &=laughs .
+out,FALSE,FALSE,MOT: all set ?
+in,FALSE,TRUE,MOT: to my best cousin Kathy Hribar .
+in,TRUE,FALSE,MOT: when you get here I will save lots_of candies for you and me .
+in,FALSE,TRUE,MOT: and don't forget your baby brother John Paul .
+out,FALSE,FALSE,MOT: thank you .
+in,TRUE,FALSE,MOT: and when you come (.) you could hold our hamsters .
+in,FALSE,FALSE,MOT: thank you again .
+in,FALSE,TRUE,MOT: okay (.) we are missing a letter u@l right here .
+in,TRUE,FALSE,CHI: you want me to take <your picture> [>] ?
+out,FALSE,FALSE,MOT: <c@l o@l u@l> [<] (.) l@l d@l .
+out,FALSE,FALSE,MOT: o@l u@l .
+out,FALSE,FALSE,INV2: alright !
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,INV2: very good .
+out,FALSE,FALSE,INV2: (.) thank you .

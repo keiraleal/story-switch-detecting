@@ -1,0 +1,213 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,JOA: hi .
+out,FALSE,FALSE,CHI: hi .
+out,FALSE,FALSE,JOA: how are you ?
+out,FALSE,FALSE,CHI: I'm fine .
+out,FALSE,FALSE,JOA: and who are you ?
+out,FALSE,FALSE,CHI: I'm Willie .
+out,FALSE,FALSE,JOA: hi Willie .
+out,FALSE,FALSE,CHI: hi .
+out,FALSE,FALSE,JOA: are you Robbie's friend ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,JOA: did you stay overnight with Robbie ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,JOA: did you have a good time ?
+in,TRUE,FALSE,CHI: we had a good time .
+in,FALSE,FALSE,CHI: we stayed up all night .
+in,FALSE,FALSE,CHI: we couldn't sleep .
+out,FALSE,FALSE,JOA: were you talking ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,JOA: where did you sleep ?
+in,FALSE,TRUE,CHI: Robbie's bed .
+out,FALSE,FALSE,JOA: did you and Robbie sleep together ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,JOA: do you know who I am ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,JOA: I'm Robbie's aunt .
+out,FALSE,FALSE,JOA: Aunt Joan .
+out,FALSE,FALSE,JOA: Willie will you show me how to play Candyland ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,JOA: where is the Candyland game ?
+in,TRUE,FALSE,CHI: it's in the other room .
+in,FALSE,FALSE,CHI: I'll go get it .
+in,FALSE,FALSE,CHI: here it is !
+out,FALSE,FALSE,JOA: what do I do Willie ?
+out,FALSE,FALSE,CHI: you move here .
+out,FALSE,FALSE,JOA: what color should I be Willie ?
+out,FALSE,FALSE,CHI: you be blue .
+out,FALSE,FALSE,JOA: what color are you ?
+out,FALSE,FALSE,CHI: I'm red .
+out,FALSE,FALSE,JOA: what do we do with the cards ?
+out,FALSE,FALSE,CHI: leave them here .
+out,FALSE,FALSE,JOA: who picks the first card Willie ?
+out,FALSE,FALSE,CHI: I do !
+out,FALSE,FALSE,JOA: what do you have on your card ?
+out,FALSE,FALSE,CHI: candy .
+out,FALSE,FALSE,JOA: where do you go ?
+out,FALSE,FALSE,CHI: there .
+out,FALSE,FALSE,JOA: what do I do ?
+out,FALSE,FALSE,CHI: you pick a card .
+out,FALSE,FALSE,JOA: what kind of candy do I have ?
+out,FALSE,FALSE,JOA: are they gumdrops ?
+out,FALSE,FALSE,CHI: no !
+out,FALSE,FALSE,CHI: not gumdrops .
+out,FALSE,FALSE,CHI: it's a sucker .
+out,FALSE,FALSE,JOA: where do I go ?
+out,FALSE,FALSE,CHI: to the sucker square .
+out,FALSE,FALSE,JOA: and what do I do with my card ?
+out,FALSE,FALSE,CHI: keep it .
+out,FALSE,FALSE,CHI: oh !
+out,FALSE,FALSE,CHI: two gingerbreads .
+out,FALSE,FALSE,CHI: oh !
+in,FALSE,FALSE,CHI: I got hearts !
+in,FALSE,FALSE,CHI: I hate hearts !
+out,FALSE,FALSE,JOA: why do you hate hearts ?
+in,FALSE,FALSE,CHI: (be)cause I hafta go backwards .
+in,FALSE,FALSE,CHI: I hate going backwards .
+out,FALSE,FALSE,JOA: my turn .
+out,FALSE,FALSE,JOA: what's that ?
+out,FALSE,FALSE,CHI: candy .
+out,FALSE,FALSE,JOA: I go over there ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,JOA: what did you get ?
+out,FALSE,FALSE,CHI: a green one .
+out,FALSE,FALSE,JOA: what's that ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,JOA: I don't know either .
+out,FALSE,FALSE,CHI: there it is !
+in,FALSE,FALSE,CHI: now you go two greens .
+in,FALSE,FALSE,CHI: I'm gaining on you .
+out,FALSE,FALSE,JOA: I know you are .
+in,FALSE,FALSE,JOA: I think you're going to win this game .
+out,FALSE,FALSE,CHI: &-uh huh .
+in,FALSE,FALSE,CHI: I'm winning .
+in,FALSE,FALSE,CHI: now you hafta go backwards until you get here again .
+out,FALSE,FALSE,JOA: do I go to the orange ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,CHI: I wish I could pick an orange .
+out,FALSE,FALSE,CHI: green again !
+out,FALSE,FALSE,CHI: green green green !
+out,FALSE,FALSE,JOA: my turn .
+out,FALSE,FALSE,JOA: I got the same one Willie .
+out,FALSE,FALSE,CHI: oh !
+out,FALSE,FALSE,CHI: two greens !
+out,FALSE,FALSE,CHI: two greens too !
+in,FALSE,FALSE,CHI: I'm leading .
+in,FALSE,FALSE,CHI: now you hafta go backwards .
+in,FALSE,FALSE,CHI: you stay here .
+in,FALSE,FALSE,CHI: you hafta go all the way back again .
+in,FALSE,FALSE,CHI: another blue .
+in,FALSE,FALSE,CHI: you're losing .
+out,FALSE,FALSE,CHI: oh !
+in,FALSE,FALSE,CHI: you're with me .
+in,FALSE,FALSE,CHI: you can't move .
+in,FALSE,FALSE,CHI: you hafta wait (un)til you get another blue .
+out,FALSE,FALSE,JOA: can't I do anything until I get another blue ?
+out,FALSE,FALSE,CHI: right .
+out,FALSE,FALSE,JOA: who is going to win this game ?
+out,FALSE,FALSE,CHI: I am .
+out,FALSE,FALSE,JOA: what did you get ?
+out,FALSE,FALSE,CHI: a blue .
+out,FALSE,FALSE,CHI: another blue .
+out,FALSE,FALSE,CHI: now I can't move .
+out,FALSE,FALSE,CHI: I hafta wait .
+out,FALSE,FALSE,JOA: look at my card Willie .
+out,FALSE,FALSE,JOA: what do I do ?
+out,FALSE,FALSE,CHI: stay there .
+out,FALSE,FALSE,JOA: did you get my blue ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,CHI: look out !
+in,FALSE,FALSE,CHI: I don't wanna hafta go down there .
+in,FALSE,FALSE,CHI: you're gaining on me .
+in,FALSE,FALSE,CHI: I was going backwards for a while .
+in,FALSE,FALSE,CHI: I forgot to go that way .
+in,FALSE,FALSE,CHI: I went that way .
+in,FALSE,FALSE,CHI: I was going there .
+out,FALSE,FALSE,JOA: you were ?
+out,FALSE,FALSE,JOA: why ?
+out,FALSE,FALSE,CHI: I don't know .
+in,FALSE,FALSE,CHI: when all the cards are gone you hafta add cards .
+in,FALSE,FALSE,CHI: change em .
+in,FALSE,FALSE,CHI: ten .
+in,FALSE,FALSE,CHI: gotta change em .
+out,FALSE,FALSE,JOA: just ten ?
+out,FALSE,FALSE,CHI: yes .
+in,FALSE,FALSE,CHI: ten cards .
+in,FALSE,FALSE,CHI: I think I'm gonna win .
+in,FALSE,FALSE,CHI: put some on the pile .
+in,FALSE,FALSE,CHI: I still think I'm gonna win .
+in,FALSE,FALSE,CHI: all I ever get is green .
+in,FALSE,FALSE,CHI: you're behind me .
+in,FALSE,FALSE,CHI: you're ahead of me .
+in,FALSE,FALSE,CHI: tie score .
+in,FALSE,FALSE,CHI: oh oh we're tied .
+in,FALSE,FALSE,CHI: I hafta get a purple .
+in,FALSE,TRUE,CHI: oh .
+in,TRUE,FALSE,CHI: purple !
+in,FALSE,TRUE,CHI: I win the game !
+in,TRUE,FALSE,CHI: here it is !
+in,FALSE,TRUE,CHI: I'll turn it on .
+out,FALSE,FALSE,JOA: oh look at that !
+out,FALSE,FALSE,JOA: what are they Willie ?
+in,TRUE,FALSE,CHI: they're penguins .
+out,FALSE,FALSE,JOA: what are they doing ?
+in,FALSE,TRUE,CHI: riding .
+out,FALSE,FALSE,JOA: how many penguins are there ?
+in,TRUE,FALSE,CHI: three .
+out,FALSE,FALSE,JOA: what colors are they ?
+in,FALSE,TRUE,CHI: black red and blue .
+out,FALSE,FALSE,JOA: what are the penguins doing ?
+in,TRUE,FALSE,CHI: climbing the stairs .
+out,FALSE,FALSE,JOA: and then what happens ?
+in,FALSE,TRUE,CHI: they slide .
+out,FALSE,FALSE,JOA: what do you do when one of them gets stuck ?
+in,TRUE,FALSE,CHI: push em .
+out,FALSE,FALSE,JOA: which penguin do you like best ?
+in,FALSE,TRUE,CHI: I like all of them the same .
+out,FALSE,FALSE,CHI: the blue penguin's in the lead .
+in,TRUE,FALSE,CHI: they all hafta stay in order .
+out,FALSE,FALSE,JOA: which one is last ?
+out,FALSE,FALSE,CHI: hm: .
+in,FALSE,TRUE,CHI: black .
+in,TRUE,FALSE,CHI: and here's the little door they hide in .
+out,FALSE,FALSE,JOA: what else is in there ?
+in,FALSE,TRUE,CHI: the battery .
+out,FALSE,FALSE,JOA: what are the flags for ?
+out,FALSE,FALSE,CHI: I don't know .
+in,TRUE,FALSE,CHI: oh he fell off !
+out,FALSE,FALSE,JOA: where do you want me to put it ?
+out,FALSE,FALSE,CHI: put it right there .
+out,FALSE,FALSE,JOA: oh oh !
+out,FALSE,FALSE,JOA: what happened ?
+in,FALSE,TRUE,CHI: the track busted .
+out,FALSE,FALSE,JOA: do you know how to fix it ?
+out,FALSE,FALSE,CHI: yep .
+out,FALSE,FALSE,JOA: wait a minute .
+out,FALSE,FALSE,JOA: I think it goes there .
+in,TRUE,FALSE,CHI: I need two penguins .
+out,FALSE,FALSE,JOA: you need two penguins ?
+in,FALSE,TRUE,CHI: three .
+in,TRUE,FALSE,CHI: this time they're all going to stay in order .
+out,FALSE,FALSE,JOA: would you like to have more penguins ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,JOA: what colors do you like ?
+out,FALSE,FALSE,CHI: I like purple (.) and green (.) orange (.) and red (.) and yellow .
+out,FALSE,FALSE,JOA: did you fall Willie ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,JOA: at school ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,JOA: where ?
+out,FALSE,FALSE,CHI: home .
+out,FALSE,FALSE,JOA: where ?
+out,FALSE,FALSE,CHI: on the car .
+out,FALSE,FALSE,JOA: thank_you Willie for showing me the games .
+out,FALSE,FALSE,CHI: okay we're going out now (.) (.) to play (.) on the bikes .
+out,FALSE,FALSE,CHI: see the jacket ?
+out,FALSE,FALSE,CHI: it's Robbie's .
+out,FALSE,FALSE,CHI: Michael Jackson .
+out,FALSE,FALSE,CHI: I can't find my boots .
+out,FALSE,FALSE,CHI: where are they ?
+out,FALSE,FALSE,CHI: oh they're outside !
+out,FALSE,FALSE,CHI: here they are !
+out,FALSE,FALSE,JOA: bye Willie .
+out,FALSE,FALSE,CHI: bye .

@@ -1,0 +1,263 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV: we have nice paper here .
+out,FALSE,FALSE,@Comment: Dear SAnta PLeaSe SenD me some ToyS Michael CM
+out,FALSE,FALSE,"@Comment: this is one of few letters where Mot does part of the writing. the letter is all written on the left side of the paper except for Chi's name and initials. The whole letter is Mot's idea and she dictates most of the spelling to him as well. Chi's younger brother is extremely distracting in the background. Chi is very into markers and uses a white marker to change some of the colors. Chi is more interested in the colors and lines (underlining the words) than the letter itself; however , at the end he writes part of his last name enthusiastically and on his own; according to the context notes , first Chi draws lines on the paper , then Mot begins writing the text <dear Santa> , then she dictates the rest of the text to him , then he underlines everything; he is not asked to read the letter back"
+out,FALSE,FALSE,@Comment: Time is 3:33
+out,FALSE,FALSE,INV: good for writing .
+out,FALSE,FALSE,INV: it has even got some letters up here .
+out,FALSE,FALSE,INV: thinking about letters .
+out,FALSE,FALSE,INV: you think if (.) you and your mom could write a letter .
+out,FALSE,FALSE,INV: if you wanna write a letter to anyone that you want .
+out,FALSE,FALSE,INV: and maybe your mom could help you .
+in,TRUE,FALSE,MOT: you could write the letter to Santa Claus .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: xxx xxx [>] .
+out,FALSE,FALSE,INV: <and you could> [<] write with (.) you wanna write with a marker or you wanna write with a pen ?
+out,FALSE,FALSE,INV: or a pencil .
+in,FALSE,FALSE,CHI: I wanna write with a marker .
+out,FALSE,FALSE,INV: you wanna write with a magic marker ?
+out,FALSE,FALSE,INV: okay you know what I'm going to do if your going to write with a magic +/.
+out,FALSE,FALSE,CHI: those magic markers .
+out,FALSE,FALSE,INV: oh one of these ?
+in,FALSE,FALSE,CHI: (.) yeah I wanna use xxx .
+out,FALSE,FALSE,INV: okay .
+out,FALSE,FALSE,CHI: write to &-um +...
+out,FALSE,FALSE,MOT: (..) www .
+out,FALSE,FALSE,MOT: rip it out ?
+out,FALSE,FALSE,INV: here why don't I rip it out .
+out,FALSE,FALSE,INV: you're right .
+out,FALSE,FALSE,INV: that's a great idea .
+out,FALSE,FALSE,INV: (be)cause I was thinking the (.) magic marker will probably &~s soak through .
+out,FALSE,FALSE,INV: there we go .
+out,FALSE,FALSE,INV: your very own piece of paper .
+out,FALSE,FALSE,MOT: who you gonna write to ?
+out,FALSE,FALSE,@Comment: Time is 4:45
+out,FALSE,FALSE,MOT: Globe Santa ?
+out,FALSE,FALSE,CHI: yeah [?] .
+out,FALSE,FALSE,MOT: dear Santa Claus .
+out,FALSE,FALSE,CHI: here .
+out,FALSE,FALSE,MOT: here .
+out,FALSE,FALSE,MOT: dear Santa Claus .
+out,FALSE,FALSE,MOT: (.) what are you doing ?
+out,FALSE,FALSE,CHI: okay [?] you'll see (.) you'll see .
+out,FALSE,FALSE,MOT: hm: .
+out,FALSE,FALSE,CHI: no you don't .
+out,FALSE,FALSE,BRO: www .
+out,FALSE,FALSE,MOT: (.) hm: ?
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,CHI: see ?
+out,FALSE,FALSE,CHI: trace over .
+in,FALSE,FALSE,MOT: okay now do a letter now .
+out,FALSE,FALSE,CHI: write what ?
+out,FALSE,FALSE,MOT: dear Santa Claus .
+out,FALSE,FALSE,CHI: how do you write ?
+out,FALSE,FALSE,MOT: dear Santa Claus .
+in,FALSE,FALSE,CHI: I don't know how to write dear@q .
+out,FALSE,FALSE,BRO: Mommy !
+in,FALSE,FALSE,MOT: sound it out the way you would (.) wanna (.) write it .
+out,FALSE,FALSE,MOT: go ahead .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: huh ?
+out,FALSE,FALSE,MOT: Chi do it .
+out,FALSE,FALSE,CHI: I dunno [: don't know] .
+out,FALSE,FALSE,MOT: dear .
+out,FALSE,FALSE,CHI: how do you write dear@q ?
+out,FALSE,FALSE,MOT: what ?
+out,FALSE,FALSE,MOT: mhm dear@q .
+out,FALSE,FALSE,MOT: (.) Santa@q .
+out,FALSE,FALSE,MOT: (.) Santa@q .
+in,FALSE,FALSE,MOT: bring me lots_of toys (.) for Christmas .
+in,FALSE,FALSE,CHI: write that down there .
+in,FALSE,FALSE,MOT: yeah write whatever you want Chi .
+out,FALSE,FALSE,MOT: (..) www .
+out,FALSE,FALSE,MOT: good .
+in,FALSE,FALSE,MOT: write a letter to Santa Claus Chi .
+in,FALSE,FALSE,MOT: Chi is fascinated with them [= the markers] .
+out,FALSE,FALSE,INV: he likes the markers www &=laughs .
+out,FALSE,FALSE,MOT: markers .
+in,FALSE,FALSE,BRO: Mommy I wanna do one too .
+in,FALSE,TRUE,MOT: xxx wait until Chi xxx write a letter <to Santa Claus> [>] .
+out,FALSE,FALSE,CHI: <what else> [<] ?
+out,FALSE,FALSE,MOT: dear Santa Claus .
+in,TRUE,FALSE,MOT: please send me some toys .
+out,FALSE,FALSE,CHI: how do you write that ?
+out,FALSE,FALSE,MOT: please .
+out,FALSE,FALSE,MOT: p@l .
+out,FALSE,FALSE,CHI: b@l .
+out,FALSE,FALSE,CHI: b@l .
+out,FALSE,FALSE,MOT: no p@l .
+out,FALSE,FALSE,MOT: p@l .
+in,FALSE,TRUE,MOT: Chi [/] Chi is gonna write something .
+out,FALSE,FALSE,CHI: p@l down ?
+out,FALSE,FALSE,MOT: p@l .
+out,FALSE,FALSE,MOT: p@l .
+out,FALSE,FALSE,CHI: up ?
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,MOT: p@l l@l .
+out,FALSE,FALSE,CHI: l@l .
+out,FALSE,FALSE,MOT: e@l .
+out,FALSE,FALSE,CHI: e@l ?
+out,FALSE,FALSE,MOT: yep .
+out,FALSE,FALSE,CHI: like this ?
+out,FALSE,FALSE,MOT: yeah like that e@l .
+out,FALSE,FALSE,CHI: e@l .
+out,FALSE,FALSE,MOT: a@l .
+out,FALSE,FALSE,CHI: a@l .
+in,TRUE,FALSE,MOT: yeah Chi's going to send the letter to Santa Claus xxx .
+out,FALSE,FALSE,CHI: what else ?
+out,FALSE,FALSE,MOT: s@l .
+out,FALSE,FALSE,CHI: s@l ?
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: like this ?
+out,FALSE,FALSE,MOT: yep .
+out,FALSE,FALSE,CHI: like that ?
+out,FALSE,FALSE,CHI: what else ?
+out,FALSE,FALSE,MOT: e@l .
+out,FALSE,FALSE,CHI: e@l like that ?
+out,FALSE,FALSE,MOT: yep .
+out,FALSE,FALSE,INV: we could maybe give him [= Bro] a piece of paper if he wanted to just draw on it .
+out,FALSE,FALSE,INV: just a sec(ond) .
+out,FALSE,FALSE,INV: sorry Chi .
+out,FALSE,FALSE,INV: www .
+in,FALSE,TRUE,MOT: please need a different color send@q .
+out,FALSE,FALSE,MOT: s@l .
+out,FALSE,FALSE,MOT: s@l .
+out,FALSE,FALSE,CHI: s@l right here ?
+out,FALSE,FALSE,MOT: go ahead .
+out,FALSE,FALSE,MOT: do xxx s@l .
+in,TRUE,FALSE,CHI: I wanna put it down .
+out,FALSE,FALSE,MOT: alright xxx .
+in,FALSE,TRUE,CHI: there [/] there <that's why> [/] that's why I fold it [= the page] .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: please send .
+out,FALSE,FALSE,MOT: s@l .
+out,FALSE,FALSE,CHI: s@l ?
+out,FALSE,FALSE,MOT: xxx Bro .
+out,FALSE,FALSE,CHI: s@l ?
+out,FALSE,FALSE,MOT: +^ mhm .
+out,FALSE,FALSE,CHI: s@l like this ?
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: like that ?
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: e@l .
+out,FALSE,FALSE,CHI: e@l .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,MOT: n@l .
+out,FALSE,FALSE,MOT: n@l [>] .
+out,FALSE,FALSE,CHI: end [<] .
+out,FALSE,FALSE,MOT: letter [?] n@l .
+out,FALSE,FALSE,MOT: d@l .
+out,FALSE,FALSE,CHI: d@l .
+out,FALSE,FALSE,MOT: like this .
+out,FALSE,FALSE,MOT: little d@l .
+in,TRUE,FALSE,MOT: please send (.) me .
+out,FALSE,FALSE,MOT: m@l e@l .
+out,FALSE,FALSE,MOT: yeah m@l e@l .
+out,FALSE,FALSE,CHI: m@l ?
+out,FALSE,FALSE,MOT: m@l .
+out,FALSE,FALSE,CHI: m@l right here ?
+in,FALSE,FALSE,MOT: yeah you can put it there .
+out,FALSE,FALSE,MOT: m@l .
+out,FALSE,FALSE,CHI: m@l ?
+out,FALSE,FALSE,MOT: no m@l .
+out,FALSE,FALSE,CHI: e@l [?] .
+out,FALSE,FALSE,MOT: m@l .
+out,FALSE,FALSE,MOT: what Bro ?
+out,FALSE,FALSE,MOT: m@l .
+out,FALSE,FALSE,MOT: me some .
+in,FALSE,FALSE,MOT: please send me some .
+out,FALSE,FALSE,MOT: s@l .
+out,FALSE,FALSE,CHI: s@l right here ?
+out,FALSE,FALSE,MOT: make an s@l here .
+out,FALSE,FALSE,MOT: s@l .
+out,FALSE,FALSE,MOT: s@l .
+out,FALSE,FALSE,MOT: o@l .
+out,FALSE,FALSE,MOT: m@l .
+out,FALSE,FALSE,CHI: m@l .
+out,FALSE,FALSE,MOT: e@l .
+out,FALSE,FALSE,CHI: e@l like that ?
+out,FALSE,FALSE,MOT: yeah e@l .
+in,FALSE,TRUE,MOT: please send me some (.) toys .
+out,FALSE,FALSE,MOT: t@l .
+out,FALSE,FALSE,CHI: t@l ?
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: like that ?
+out,FALSE,FALSE,MOT: no t@l Chi t@l .
+out,FALSE,FALSE,MOT: t@l like that .
+out,FALSE,FALSE,CHI: like this ?
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: and one right there ?
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,MOT: o@l .
+out,FALSE,FALSE,CHI: o@l .
+out,FALSE,FALSE,MOT: xxx Bro .
+out,FALSE,FALSE,MOT: y@l .
+out,FALSE,FALSE,CHI: www &=sniffles y@q ?
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,MOT: (.) y@l .
+out,FALSE,FALSE,CHI: y@l .
+out,FALSE,FALSE,CHI: where's the y@l ?
+out,FALSE,FALSE,MOT: y@l like this .
+out,FALSE,FALSE,MOT: like that .
+out,FALSE,FALSE,CHI: like what ?
+out,FALSE,FALSE,MOT: y@l like that .
+out,FALSE,FALSE,CHI: practice one .
+in,TRUE,FALSE,MOT: (.) <he still does> [//] he has difficulty recognizing his letters xxx .
+out,FALSE,FALSE,CHI: that it ?
+out,FALSE,FALSE,MOT: s@l and an s@l .
+out,FALSE,FALSE,MOT: what xxx Bro ?
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,CHI: s@l like this ?
+out,FALSE,FALSE,MOT: s@l .
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,CHI: what is this ?
+out,FALSE,FALSE,MOT: what's that your name Bro ?
+in,FALSE,TRUE,CHI: I got it !
+in,TRUE,FALSE,MOT: that's an a@l wow that's nice .
+in,FALSE,TRUE,MOT: now write your name .
+in,TRUE,FALSE,MOT: write your name over here .
+out,FALSE,FALSE,MOT: from [?] Chi .
+out,FALSE,FALSE,CHI: (.) oh_man .
+out,FALSE,FALSE,CHI: wrong color .
+out,FALSE,FALSE,INV: hm: .
+out,FALSE,FALSE,MOT: (..) okay .
+out,FALSE,FALSE,CHI: okay &=whispered .
+out,FALSE,FALSE,MOT: oh [?] they erase the lines huh ?
+out,FALSE,FALSE,CHI: <uhuh it &~tu> [>] +//.
+out,FALSE,FALSE,INV: <let me see> [<] .
+in,FALSE,TRUE,CHI: turned it yellow .
+out,FALSE,FALSE,EX2: oh it's really nice .
+out,FALSE,FALSE,INV: well do you wanna sign it ?
+in,TRUE,FALSE,MOT: sign your name on it .
+in,FALSE,TRUE,MOT: (.) what are the names under these &~crayo I mean these &-uh magic markers ?
+out,FALSE,FALSE,INV: (.) Chi !
+out,FALSE,FALSE,INV: cool .
+out,FALSE,FALSE,INV: well I think that was a good job there .
+out,FALSE,FALSE,EX2: pretty good .
+in,TRUE,FALSE,MOT: okay you're already for Christmas now .
+out,FALSE,FALSE,INV: yeah .
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,MOT: tired ?
+out,FALSE,FALSE,MOT: (..) hm: ?
+out,FALSE,FALSE,INV: okay .
+out,FALSE,FALSE,CHI: Mommy look_it .
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: good job there .
+out,FALSE,FALSE,MOT: this is the last one right ?
+out,FALSE,FALSE,INV: yeah .
+in,FALSE,TRUE,CHI: wait I wanna write .
+out,FALSE,FALSE,MOT: okay .
+in,TRUE,FALSE,MOT: xxx take pictures of xxx .
+out,FALSE,FALSE,CHI: Chi c@l .
+out,FALSE,FALSE,INV: ah smart .
+out,FALSE,FALSE,CHI: m@l .
+out,FALSE,FALSE,CHI: c@l m@l .
+out,FALSE,FALSE,MOT: (.) write c@l m@l ?
+out,FALSE,FALSE,CHI: there .
+out,FALSE,FALSE,INV: oh .
+in,FALSE,TRUE,CHI: I like the one [?] magic [= marker?] .
+out,FALSE,FALSE,INV: (.) great .
+out,FALSE,FALSE,INV: well good job young man .

@@ -1,0 +1,853 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+out,FALSE,FALSE,FALSE,FALSE,ENV: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ENV: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: The,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,REBE: The way that your testimony is coming in I don't know if I explained this to you on the phone.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: m.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: is when a person is charged with multiple crimes a:nd u:m there are other incidences where he: acted in the same way?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: When we have to prove in this case we have to prove specific intent.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ENV: to: expose himself to a person for sexual arousal.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ENV: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: U:m when we have to prove something like specific intent um or we have to prove identity.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: Because he's disputing identity in a coup,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: in at least one of the cases.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Hm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: U:m then w:e are allowed to bring in prior similar conduct.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: U:m where he acted in a an identical way or where the victims were in a similar situation.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: Things like that That's why we're able to have you come in and testify.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: Okay U:m the cases that we have already are um one happened back in October of nineteen ninety.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Alright.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: and it happened on BART and it's almost a carbon copy of your case.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Well I've made two one a year from almost a year from the uh police report.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: I saw that in your report.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: I haven't seen the other report.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: Yeah I made that one through: matter of fact it was just over the phone and they never called me back or anything and a year later it happened again.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: a:nd then that's when they made the report and said they were gonna do something about it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,RICK: S:o it hap⌈pened around,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So you can testify to two of em.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: ʔuh ⌉,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: That's why I had you come up because:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: u:m that's great.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Um I mean not for you % laugh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: but.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: for us.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALL: .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,REBE: U:m i,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: in our first case Amelia Gonzalez um that uh that happened back in ninety.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: And she was seated aʔ- in the rear of the train.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: which you were.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: u:m nobody else was around and he: sort of walked up and down the train.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Down the aisle Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: checked everything out.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: and then sat down.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: put the newspaper on his lap.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: masturbated and then lifted the paper up.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: for her to see.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: And she saw it in the the re⌈flection.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: ⌊ n- n,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Oh the mirror ⌋.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: cause she was ⌉ looking ⌈ out the window.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: That's how I did it too.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: saying I don't want ⌉ to see this.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: Cause I didn't want to see him so I looked this way and you can see it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Right.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: You know.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: Cause it turns into the mirror effect.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: And he was just sort of staring at her and lifting up the paper.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah mhm.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m so anyway.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Exactly.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: ʔuh.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: it c,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: it's a carbon copy.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,REBE: a:nd um in that case he's ʔuhʔuh he sits through all the testimony and he just sort of shakes his head and makes these big gasps like you know we're creating this whole thing against him.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Hm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,REBE: and then with June.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: um the woman that just walked ou:t.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Unhunh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: u:m she was riding on BART and he came and sat near her she moved he moved to get closer to her she moved again and he moved directly opposite her.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: and then started masturbating.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: well see what it is it seems like he wants someone more scary: yʔʔ- I don't kno:w cause he would walk up and down the aisles there was women on the other side too but they'd look like you know you wouldn't mess with em but if you're sitting there you know trying to mind your own business or:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Right.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: look like you can intimidate someone you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Right.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: I i,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: X.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: that's what it look like.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: I think that's I think he he finds somebody that's isolated.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: a:nd he: goes for a certain age group I think.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,REBE: U:m a:nd you know like ʔuhʔuh for some reason I think he likes students or people who look like students:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Unhunh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So anyway okay u:m did you: as far as your um mileage goes.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: What would did,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Oh how much was it.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: Hundred and thirty: s- I don't know.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: And we got the um that ticket for our X?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Parking?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: They moved the ga:te or something?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: The how to % laugh get in the parking % laugh lot % laugh cause it used to be on X.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Oh yeah:.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah:.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Because they built this building.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Oh:.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: ⌈ See.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: That's where the yeah.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,RICK: we had to ⌉ get back all the way on the ⌈ freeway.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Oh: no:.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: and I was like oh ⌉ God there was a door here before a entrance you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: I couldn't find it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,RICK: but uh % laugh we found it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Um oh okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Do you know how much it's gonna be?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Oh no not yet.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m do you guys have the cash to pay for it right now?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: When you- to get out?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah I think so.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,REBE: Then what I'll do is when,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: you can,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: I'll call you and find out.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: What I have to do is submit all of this to our accounting department.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: and they give you the they'll mail you the reimbursement.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: So you guys hang on to ⌈ that.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: s⌉o you can get out.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Alright.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: And then I imagine it will be about five dollars or so.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: U:m so.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: a hundred and thirty: about a hundred and thirty five you think?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: Yeah:.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: M hm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,REBE: So round trip it'll be like two seventy.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: two si,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: That's from Salinas?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Do you go by Rickie Reeding- R- Reeding Rollins or do you just go by Rickie Rollins.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Uh R,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: u:m well my name is Regina I just go by Rickie:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: uh I don't know if you have to put my Regina in there:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah probab-.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: um i,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Regina Rollins is fine it doesn't matter.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Whatever is easier for you guys.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: You guys newly married?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Well just a year.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: A yea:r two days ago.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Oh great.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Soon you'll be in my condition.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: which is pregnant.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: ⌈ Aw really?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: A:w % laugh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Con⌉gratulations.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Thanks.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,REBE: Let's just go through um Iʔ- I have your statement but I just want to have you tell me.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: what happened.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Alright.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: do you remember the date?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: N:o.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: Because I'll be saying to you do you reca:ll o:n August twelfth nineteen ninety two.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay and it was about one o'clock?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So first of all where did you get on BART.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: A:t Oakland.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: And where were you going.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: U:m to the doctor's in San Francisco.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: San Francisco.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: A:nd u:m when you got on BART I'll ask you to: describe where you sat on the train.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: and let me show you um what I have This is a diagram of the interior of BART.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: Okay looking at that these are the b:acks of the seats.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: So facing that way okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: U:m can you,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: U:m that's the train.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Right?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Right.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: uʔ That seat right there I always sit going backwards.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: I have:,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay so the train was traveling that way.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah unhunh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So u:m.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: And it's hard to describe how so: yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: I was sitting backwards in the back seat.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: The very end seat.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: A:nd when he came in when where was he when you first saw him come in.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: ʔuh He got on the trai:n o:n like I think Twelfth Street or something?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: in Oakland?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: And like in a let me see.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: He got on another car.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: But you can,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: I I seen him because I seen him a year ago.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Unhunh.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: So I seen him when the you know how the trai:n goe:s and you can see everybody out the window well he got in another: door.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: And he came through here.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Alright.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So he came through he⌈re.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: when he ⌉ came through here did he look at you at all?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Initially?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: What did he do.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: Just loo:ked: he had a,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Did he stop walking?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: n: just kinda loo:ked and then loo:ked and then walked.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: And then he kept walking.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: When he looked at you the first time was he sort of looking you up and down or did he just look at your seat what,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Just like you know look.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: ʔuh uʔh I guess: X,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: At you?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: At me.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Di,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: Yeah and look at my seat cause I always sit all the way to the window.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: So I thought he was gonna sit down.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: Actually.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Hunh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: And then he continued on.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Unhunh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: and where did he go.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: He went all the way to the you know into the trai:n.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: All the way up here?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm:.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: And the:n uh he went through the door and then he ca:me back.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: again.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: He went through th⌈ere.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: He went through these doors?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: into it unhunh ⌉ into another car.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Oh:.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: And then he came back again and then I guess that was like another stop and more people were getting off and the:n that's when he came and s:at b:y me sat in this seat right here.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: But there was someone sitting there too:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: there was a lady.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: You're kidding.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: Unhunh there was a lady sitting there but she got up and she went to another seat.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Ah:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: She she just went to a different seat.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: You know like but he was m:aking ʔuh: I don't know how you describe it you know how you can be like a nuisance to someone?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: O:r you may sme:ll or something.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: you know like that you ⌈ know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: or ⌉ mo:ving arou:nd you know like as he wanted her to move.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: And she got up and moved.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: S- she okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m and so when she moved was there anybody seated.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: X:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: in this area.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: I think maybe like you know how these chairs are?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Unhunh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Maybe right he:re and you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: but you couldn't they couldn't see: nothing or: anybody.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay but nobody right.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: No: xxx.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: in these area⌈s.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: I don't believe so.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay ⌉.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Alright.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So then wh:at did he do.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: U:m did the newspaper ʔuh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: you know: looking at it you know making loud noises I guess so I think like that or whatever the:n he just kept doing that to the newspaper like that and the:n he went i:n and then he just you can just see him going like this you know how you have to unzip your pa:nts?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: or something like tha:t and I'm looking through the w:indow.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: and then he's still making n:oises with the paper and then um I kinda looked and then I didn't and I kept making like s: uh: you know like you know like I know what you're,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: He was making noises like that?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: No: he was making those: you know the rattling paper.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Unhunh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: but I was making noises like you know like I wanted him to know I know what you're doing.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: You know I remembered him for a year,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: from a year ago.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: And so then I just kept you know I just turned you know away from him and I looked in the window and he just kept hitting the paper.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: like that you kno:w?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: But you know what he was doing.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: He kept hitting the paper and um uh: let me see then one time I jus:t you know kinda looked over: and then you can see it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: You know: you can see it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Had he l:ifted up the paper in any way or.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah just like you know I'm trying to see how a paper goes likes thi-.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Like this.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: ʔOkay ʔuhʔuhʔuh like he has the paper like like thi:s just like you know moves it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: Like that.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: You know ⌈ like that.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Oh:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: You ⌉ know: and you can see it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: You know?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Was he looking at you at all during that time.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: ⌊ Ye:s.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: The ⌋ who:le enti:re ti:me.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: I mean not looking at first he would go like this even with the paper.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: And look at me.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: You know trying to get my attention.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: Like he: wanted me to look at him.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: And then the whole time under here he'd just look.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: I mean ʔuhʔuh he looked so hard that it was like burning you know what I mean?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: It,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Tell the jury that.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: That's,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: I mean that's great.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: He just alright.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: ʔuh,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: U:m Because that's what he does.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: And that's his way of drawing your attention to ⌈ him.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: bec⌉ause if somebody's doing that to you there's no way you're gonna you know just totally ignore them.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: cause you're always going to wanna keep them in your peripheral vision.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: at least.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: to make sure wh:ere they are.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: Cause I was you know I didn't know what he was gonna do % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: or anything so:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: so: um- part of our burden is to prove that he's deliberately doing th- that he has the specific intent to draw your attention to him.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So let them know that he was doing that.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Alright.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: So then and then he sort of pulled the paper aside and he's still staring at you.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: Unhunh still sta:ring and just you know and the:n but when uh uh: like you come to a stop see that's all through the tunnel.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: You know that's a long like about.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Mhm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: five minute ride or something?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: A couple of minutes ride and we got t:o like Embarcadero he would just you know go like this you know before anyone got on and wait and then just do the same thing until I had to get off at my stop.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: Tell the jury about that too because tha:t indicates that he knew what he was doing was wro:ng.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Hm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Oh okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: and if there was a chance that any man might walk by.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: ⌊ yʔ,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm ⌋.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: You know I had another case or I have a pr- report from another case where u:m he wa,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: he was crouched down and doing it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: and then when a man would walk by he'd sit up.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: And you know do nothing and then once the man was through the doors then he'd go back X X doing it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yea:h.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: U:m okay so then you got off.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: at your stop.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah:.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: U:m and how were you feeling.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: We:ll it was like s:- I don't know sorry.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: You doing alright.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: just I don't know like disgusted you know wh- why I really wanted to report it this time because it was like summertime?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Unhunh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: and the kids?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: You know the kids and everything.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: that's what I was scared of because I know how uh I was you know a victim of you know abuse like that or ʔuh I just you know I just That's what I was think- the very first time I reported it was just like this dirty old ma:n just that tha⌈:t.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: ⌉ And this time it was during the summer and there was lots: of ki:ds and um I just felt like you know upset.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: You know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,RICK: and I jus:t you know I just felt upset.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: You know n,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Tell the jury that.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Um it's it's really important that they understand.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: the feelings that go through you when somebody does something like that to you.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: ʔuhʔuh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: cau⌈se.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: ⌉ my one concern about this case i:s u:m that some people may have the attitude of.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: well he never touched you.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: he didn't make any verbal threats to you it's no big deal.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: A:nd especially I have some young single men on my jury panel.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: A:nd ʔuh Iʔ,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: my worry is that they don't relate to what a woman feels when something like that is happening.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: because their experience would be totally different.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: if a man exposes himself.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: which a man would never do that.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Because.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: number one they pick out I think more vulnerable peo⌈ple.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: ⌉ But if u:m a ma:n were to be exposed to they would laugh or you know be disgusted.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: or be mad but they wouldn't necessarily feel.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JUNE: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: scared or threatened.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ENV: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Unhunh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JUNE: Hi:.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Hi.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JUNE: Can I sit with you?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Sure.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m so r- relate that information to the jury.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ENV: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m and then uh so then when you got off you called the poli⌈ce.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: No.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Right ⌉?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,RICK: I went upstairs to the BART and told them and I tried to tell them what train it was an:d I just I was still kind of like shocked so I ʔI was like well I have to go cause I have to make an appointment but I di:d tell someone I said I'll be back to make a report or whatever I had to do and then there was a different person down there and when I called the BART police they said oh no one's even said anything to us you know and uh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: That was that and then I think uh: couple of days after one of the uh detectives called me and then I made a report.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: He wanted to see if I can ID him first and then we just made a report and he said he'll submit it and everything.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: and you ID'ed him immediately.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Unhunh he just showed me.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,RICK: He's all okay come with me come with me you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Alright.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: I have ʔuh a- and this is i- if they make an issue out of it this is what you looked at.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Right?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Like a folder with different.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah: yeah right there.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: A:nd I have the one where you signed right underneath it.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Unhunh: yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: And we've got the statement where you immediately said I'm hundred percent sure this is the guy.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: What is he a old man?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: He's like sixties.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: In his,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: Go:d.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: And he's like balding like.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: You can come in the courtroom.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: Oh good.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: Um she has anxiety attacks when she gets excited and.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: See that's why I'm s,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: sh:e gets real nervous and scared.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: That's why I am tra-.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Unhunh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: she has bad anxiety attacks.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: I can't breathe.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: She she'll ju,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Oh really?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: That's why I'm trying to.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: Yeah sh- That's why she's crying.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: so.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m ʔuh m- how:,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Do I have to look at anyone just you or:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: No you can just look at me.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: um when you go in let me explain to you what the courtroom's like so you know what to expect.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m youʔ you don't have to you know and if you if you feel like you need to take a break.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: the:n tell me immediately.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m or ask the judge you'll be seated right near the judge.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m I was saying to June that you know a_lot_of times people are intimidated by the courtroom and they think it's really formal and it's really not that formal.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: u:m the jurors that are in there there'll be twelve people seated in the juror box.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: a:nd u:m.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: you know they could be your family.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: They could be your friends.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m they're all ʔuhʔuh y- y- from all walks of li⌈fe.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,REBE: u:⌉m they're all different ages a:nd u:m they you know for the most part they were probably very nervous when they came in just for jury duty.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So:.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: u:m.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: they just want to hear your story and they're not judging you.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m let me show you.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: xxx X X baby.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Hm?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: m.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Will it help to have him in there?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yes: unhunh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Good.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ARNO: She was going crazy all day here I think that's him.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ARNO: Every time every time ⌈ she seen a xxx.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: ⌊ The whole time down here.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ARNO: I was like that ain't him ⌉.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: I was doi⌋ng that.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: That's him that's him like that he was like o:h no: no: it's not him.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,RICK: Just come o:n.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: I don't know where I drew it out.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: So is he in like jail or something?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Or he just shows up for court?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: No he's out right now.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Oh: okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: he will be.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Oh okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: at the end of this if the jury does the right thing.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Alright.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,REBE: U:m we asked for ninety days county jail before the case went to trial.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: and normally u:m it'll be higher.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: if he's convicted.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: So plus he's got your case pending in Oakland.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Oakland.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: and if there's a if we get a conviction just on one case here.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: then your case in Oakland will be a felony.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Oh okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Alright.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: u:m okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yuʔ,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: W- what will happen is you'll walk into the courtroom here.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: There are doors right here.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: There are seats right here u:m that are for the audience but normally there's nobody in the audience but.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: your husband will be there u:m a:nd: then there are two tables right here.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: I'll be seated at this table.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: An:d the defendant and the defense attorney will be seated at this tab⌈le.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: ⌉ The jury sits here.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: all in a row u:m.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: then and you'll walk thr,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: When you walk in you'll walk through and I'll walk with you.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: u:m to: the ch- the witness chair o⌈kay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: which ⌉ faces out this way.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Alright.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: And the judge is seated right here.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Alright.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: Right above you.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: And then there's a woman who sits here who's the clerk and there's a woman who sits here the- who's the court reporter.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: A:nd so when I ask you questions.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: when you're talking you need to: uh always say yes or no as opposed to unhunh or unh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: O:h okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: or nodding your head okay because she takes everything down.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: if your nervous please tell me.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: Or tell the judge and we can take a break.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: If you want to get a drink of water or something like that.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: U:m a:nd take your time you know when you w:alk in just take a deep breath.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: take your time.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: If I ask you a question that you don't understand tell me.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: U:m if: we- either of us ask you a question where.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m it's something you don't remember?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: it's a detail that you don't remem⌈ber.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,REBE: it's fi⌉ne to say I don't I don't remember at this time.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Is there gonna b,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: the other person:?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: his lawyer: gonna ask some questions?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: ⌈ Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: Cross examine.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: he'll be able to a⌉sk you questions also.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: He's he's a very polite guy.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,REBE: He's a young attorney u:m he's with the public defender's office he's u:m wʔ- when we had the case the last time it was a different attorney.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: And that attorney terrorized my my one victim that I put on u:m he walked up to her and he was about this far away from her.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: and sh,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: cause she had testified when he walked in initially and he looked at me Walter Munson she said I I knew he was a pervert just by the way he looked at me.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Oh::.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: So this man walked up to him and he said I'm standing close to you I'm looking at you does that make me a pervert?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: A:nd uh just badgered her.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Aw:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: but this this attorney is not like that at all.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: He'll be very polite u:m.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: he's going to try and focus more on uh: discrepancies like if you testify to one thing and there's something written differently in the report.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Unhunh.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: He might say well: you know in your.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: in the report it says that you: um: you know he sat dow:n right across from you.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: immediately.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Oh okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: as opposed to walking or something like that.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: which it doesn't but.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: u:m he's gonna try and focus on little things cause that's all he can do.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: But.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: for the most part he'll be polite and gentle.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,REBE: So you don't have to worry about him.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Hm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m what hap,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: well tell me about the year ago incident.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,RICK: U:m that one was at night time.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: And um I was working la:te and it was around I remember I used to get off ar- around nine and I used to get to um the Bart station around ten o'clock?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: A:nd he would be: ʔuh I think I'm trying to think would he get o:n or would he already be on.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: Well that's the Daly City one so he would get on when I would get on but I think probably like a different car and same thing exact identical.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: Go up and down the aisles but.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: I would be the only one in the train.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: You know because at night time there's not many people on there and he would do that and I was I was terrified then because I was the only one there % laugh was n:o one around.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: Iʔʔ you know I was a little scar:ed this time but ʔuh you know but there's people around like you know I don't think he would do anythi:ng when people are around.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Right.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: You know down at the other seats or in back.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Right.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RICK: I could scream but.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RICK: ʔat night time he was doing the same thing and I called that night to: the Bart poli:ce and I told them what he looked li:ke and everything and I never heard anything again.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: So.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: u:m.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Did he use a newspaper that time also?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So identica:l.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Everything.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: And then I even told them I said and the funny thing is he just,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: the only thing he changed this time is um he wore a new bow tie and uh a different bag cause he always had a ba:g cause the what made the interested in this case they s- told me well everyone's telling me he has this bag he carries around and he has a bowtie like that and I go.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: that's the only difference he had a different bag this time a year later and a different bow tie.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: And they were like okay you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Now the bag that he was carrying around this time what was it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: M: let me see I think a duffel bag?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: I th:ink.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: One time it was a duffel bag and then one time it was like a ʔuh what do you call them.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,RICK: Like a sh:- like a ⌈ old be-.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Shopping bag?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah⌉:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: a shopping bag.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: a plastic.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: That's his common one plastic bag filled with papers.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah in this one you say he's carrying a sho- a: duffel bag.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: A duffel bag okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay so you wanna Have you read through your statement recently?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: N:o.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Do you wanna read through it?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: hm:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: ʔuhʔuh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Now you can't do anything to this guy.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: Oh I'm not I'm just gonna sit back and look.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: M:hm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: I'm a little worried about her cause she has them anxiety attacks.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: X.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: She just don't have no control over her body.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Tr:ain.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JUNE: When will the verdict be.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m well it depends.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,REBE: Uhʔ you two are my last witnesses and then the defendant will testify.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: And then we could do closing arguments today or it could be tomorrow.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: And then w- we should have a verdict by Friday afternoon.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: No later than Friday afternoon.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: So I'll call all of you and tell you.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JUNE: Is he gonna take the stand?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: He says so.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Mhm.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JUNE: H- What could he possibly % laugh say?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: He testified in a trial u:m about five years ago.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,REBE: Sa- identical situa⌈tion.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: R:eally.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,REBE: ⌉ and he said his testimony was my momma didn't raise me to do things like this.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: He totally denied it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: So.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,RICK: So- % laugh cause I was just telling him the same thing happened to my mom.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Oh really?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Yeah:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: She was,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Was it him?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RICK: I don't know.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,RICK: She just told me that you know it was a long time ago you're saying five years ago.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: it was around that time and she told me but he used to: I don't know ʔuh she she didn't say anything newspaper whatever but he would ʔuh do finish the job.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Oh:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: Everything you know and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Oh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RICK: so: but she said she reported it and no one ever did anything.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: They're hard cases um to act ⌈ on.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,REBE: and I ⌉ think the reason why they finally started acting on these and getting the identificatio⌈n.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,REBE: was be⌉cause so many of em were coming in.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Oh: okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Do you have any questions June?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ARNO: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JUNE: No.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: U:m.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: I'm going to put June on first.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: and then then Rickie.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JUNE: And then will you let us know what the final verdict is?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Yes.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RICK: Hm:.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Definitely.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Hopefully it's good news.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: If it's not I'll be bummed.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JUNE: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,REBE: Cause I've been living with this case now for so long.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,@End,FALSE,TRUE,FALSE,TRUE

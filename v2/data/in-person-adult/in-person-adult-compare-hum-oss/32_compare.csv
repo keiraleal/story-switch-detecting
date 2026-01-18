@@ -1,0 +1,1306 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+out,FALSE,FALSE,FALSE,FALSE,TUCK: You guys all,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: All drinking the same thing?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) M-m . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: I know Tommy⌈'s having ⌉ the red wine . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ No ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: You want some ⌈ more ⌉ ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: Tom what do you want.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,TRUE,FALSE,TRUE,FALSE,TOM3: (.) ⌈ Yeah I'll ⌉ have a little ⌈ more Tuck ⌉ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Sure ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Sure ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Course he wants ⌋ red wine . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: Red wine?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Mhm . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ Which is right ⌉ there . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: XXX.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Everybody [% laugh] wants [% laugh] ⌈ red wine ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: And Pop you're drinking champagne?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=in &=tsk ⌋ No: I'm gonna switch I think ⌈ and . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: What do you want.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) I don't ⌉ know what I'm gonna (.) end up with here . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: You want me to get something?,FALSE,FALSE,FALSE,FALSE
+out,TRUE,FALSE,TRUE,FALSE,TOM1: ⌊ &=in ⌋ I was drinking beer but I've &{l=@ had so many ⌈ beers . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh ⌋ &=in . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: I don't think I wanna &}l=@ ⌉ +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ There's a point ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ You bringing the bo⌋ttle or ⌈ you ⌉ bringing the drin⌈k ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Bring- ⌋ +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: W,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: W- whichever you want me to X,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ ʔYeah ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Bring the ⌋ ⌊ bo⌋⌈ttle ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Yeah- ⌋ +/. ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ xxx ⌋ ⌈ bring the bo⌉⌈ttles ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ and another ⌋ ⌊ gla⌋:ss for me ⌈: ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ xxx bottle ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ &=laugh ⌋ ⌈ &=laugh &=laugh &=laugh ⌉ ⌈ &=laugh &=in ʔuh ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ You know I'll have some ⌋ ⌊ champagne with Tom ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,X: xxx.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ &=in I +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ &=in Anyway ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: X ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: any⌈way . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ X ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: in ⌉ my in my checkered career (..) when I started off as a young fellow in the war &=in (..) ʔuh first of all my father ⌈ was in ʔuh ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ How old ⌋ are you now &{l=X live &}l=X +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ N:- +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I I +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Now let ⌉ ⌈ me start with the ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ʔuhʔuh Ne⌋⌊xt week I'm gonna ⌋ ⌈ be seven⌉ty . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ X ʔuh &=ex &=lengthened ⌋ ⌊ thirty-eight ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) You're ⌈ gonna be sev⌉en⌈ty ⌉ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Are you really ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Are ⌈ you really ⌉ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Jesu⌋s Christ you're older than I am . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Congratula⌈tions ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Thank you ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Uh (..) ⌈ and tom⌉orrow Reese is gonna be twenty two . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ You t- ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) &{l=HI &=laugh &}l=HI . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Tomorrow Reese's ⌈ gonna be ⌉ ⌈ twenty two . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Now that I &{l=X don't &}l=X believe ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ And &{l=X just is a nice &}l=X ⌋ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Last week ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) The conti⌈nuity of the whole world &{l=X right &}l=X ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ That's a nice⌋⌈: ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ la:⌋st week ⌈ I w⌉⌈as ⌉ sixty . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ X ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) yeah ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Good . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) I ad- +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: I: look up to somebody who's seventy . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ I do too ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM1: ⌊ I admire ⌋ ⌈ somebody who's seven⌉⌈ty . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ (.) Yeah I ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Well I ⌋ +... ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ p- to- ⌋ +... ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Boy that's ⌉ +... ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM3: Well particularly when they're tall . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: (.) You know I⌈: have nev⌉⌈e:r ʔuh p⌉articularly admired uh President Nixon . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Yeah ⌋ ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &{l=X They don't &}l=X ⌋ +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: &=SNIFF . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: but the other day he had this great quote . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM2: (.) &=in He turned eighty . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: &=ex . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: (.) And someone came to him and said (.) &=in what do you think about that and he said (.) &{l=F I ha:te &{n=POUND &=nonvocal being &}n=POUND eighty &}l=F &=in . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh ⌈ &=laugh &=laugh ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,TOM2: ⌊ until I ⌋ thought of the alternative⌈: . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=ex &=in &=ex And I ⌉ ⌈ said ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=lengthened &=laugh ⌋ ⌈ &=laugh &=laugh ⌉ ⌈ &=laugh &=laugh ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,TRUE,FALSE,TRUE,FALSE,TOM2: ⌊ &=in ⌋ ⌊ I'm ⌋ ⌈ really beginni⌉⌈ng to like ⌉ ⌈ old Tricky . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: ⌊ Now the alter⌋⌊natives aren't ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: ⌊ aren't really worth much . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in Right &=in yeah [% laugh] &=in &=laugh &=laugh &=laugh ⌉ ⌈ yeah [% laugh] &=in &=lengthened &=laugh ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Yeah . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Yeah ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ XXXXX ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: ⌊ And he has thought of the al⌋ternative . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Did you +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ He should have ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=in Have you +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Are you ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Have you read (.) Halberstam's (.) Fifties ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: He sh:ould have . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) I'm in it right now . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: &{l=BR Go:d ⌈ he &}l=BR ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I've ⌋ got it home ⌈ right now ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Did you ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Did you read about (.) Nixon's plans for his funeral ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: That he +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Ye⌈:s yes . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ That he created ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Isn't that ⌉ mar⌈velous ⌉ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ I ⌋ ⌈ did not ⌉ read that ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM1: (..) Uh: &=in well I'll loan it to you when I get ⌈ through ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Oh ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: but it's ⌈ gonna take ⌉ me a &{l=@ long time ⌈ to get through &}l=@ ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Okay ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,TRUE,FALSE,TOM2: ⌊ No I've got it ⌋ ⌈ right now ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=laugh &=laugh &=in &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,TOM3: ⌊ Alright I had trouble with ⌋ &{l=@ World War &}l=@ +/. ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in ⌈ &=laugh &=laugh ⌉ M- th- +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Hm ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: With the Korean War &=laugh Thomas &=in ⌈ that took a ⌉ ⌈ lo:ng time ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ xxx ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Tucker you ⌊ are just gotta ⌋ be okay . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ Thanks ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Oh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ For a ⌋ ⌈ person that's got o⌉nly a middle name . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ thank you Tucker ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,TRUE,FALSE,TRUE,FALSE,TUCK: I've had had a lotta practice at this sorta thing.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ And no uh first name or ⌋ last name . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I mean we ⌋ just (.) gotta ⌈ love you . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: ⌊ That's all there is.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: right ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Yeah (.) yeah ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: Just Tucker ⌋.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) um⌈: ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Hm⌋⌈: &=ex ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TUCK: Nothing else.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM2: (..) Anyway when I was a young fellow (.) living in New Jersey (.) in nineteen (..) f:orty-one (.) uh: (.) I graduated in high school in nineteen forty-one I went to work in a &=in steel mill . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ &=in ⌉ (.) And uh . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (.) lo and behold th- the big war came along . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Mhm ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: (..) And I went (.) to my father . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ENV: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: and in in these days you know kids ⌈ &=in always . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ENV: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ʔuh: w- +/. ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: As opposed to ⌉ ⌈ today ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: you always went to your parents and said ⌈ I wanna do this . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Oh yeah . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: M- m:ay I ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: &=in I said ⌉ ⌈ to my father . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ENV: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: I said ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ &=in ⌋ ⌊ hey look ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,TOM2: I wanna go in the army and ⌈ be ʔuh: ⌉ an army pilot . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (..) ⌈ He . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ENV: .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,TOM2: (.) absolutely (.) was ⌉ (.) so incredibly upset I couldn't believe ⌈ this . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in ⌉ ⌈ Because ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=laugh &=laugh ⌋ ⌈ &=laugh &=laugh &=laugh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ (.) He ⌋ +... ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ He was horri⌋⌈fied . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: ⌊ &=in Well he had been . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh &=in Yeah ⌉ ? ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: he ⌋ had +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: he had been in the uh in the three twe- +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: three twelfth infantry in the seventy-eighth ⌈ division ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Ah:⌋: . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (.) up through the Meuse and ⌈ the uh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ M:- the &{l=X Rainbows &}l=X ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in then the Argon ⌉ and the whole trick ⌈ and uh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Yeah ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM2: he got wounded and &=in and he w- +/. ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: You know and he never told me much about this but I understood very clearly &=in &=SNIFF that me: +/. ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM2: ʔuh: ʔHe signing my papers to join the &=in ⌈ &=lengthened army ⌉ air corps . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: in nineteen &=in (.) f:orty-one after Pearl Harbor &=in (.) was sort of out of the question . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: So . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ Mhm ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ &=SNIFF ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: &=tsk &=in &=lengthened &=tsk And ⌈ you were on⌉ly eighteen . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ xxx ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ Or nine⌉teen . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Right ? ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in ⌈ ʔW:ell I was probably s:eventeen maybe ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: ⌊ Well you had to be twenty-one XXX . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in &=laugh &=laugh ⌋ ⌈ &=laugh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ &=in So anyway . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Oh I see: ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Mm: ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM2: I f⌋⌈ound out a⌉bout this merchant marine academy at Kings ⌈ Point ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ I see ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: so I went home to him and said &=in one day hey I got this great deal Pop . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) &=in (.) I +/. ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: They will (.) take me into this academy it's sort of like West Point and all this bullshit and &=in they'll train me and blah blah blah and so he signed . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Right ? ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM2: &=in Well it turned out (..) after the last dog was hung &=in that (.) that the highest casualties in the war were the merchant ⌈ service . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ In the merchant marine . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: per capita . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh &=laugh &=laugh Yeah [% laugh] . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Right &=in but ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh ⌋ ⌈ &=in &=laugh &=laugh Yeah [% laugh] . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ he didn't know that . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=ex &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=in ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) So . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in Yeah . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in No big ⌋ ⌈ deal . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in &=laugh ⌉ ⌊ &=in Yeah ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM2: So any⌉way I ⌈ sailed +... ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: ⌊ can't shoot back . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ʔuh I sailed off to the war . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,TOM3: you just sail fast ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: and ⌉ &{l=MRC never looked back &}l=MRC . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) &=laugh ⌈ &=laugh &=laugh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Uh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) &=in ⌈ ʔUn:hu:nh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: ⌊ &=tsk So you started in ⌋ the in the (.) ⌈ in the (.) merchants ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: ⌊ In the merchant marine ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Hunh ? ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: Merchant sea⌈men ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Oh yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Oh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: And and and ⌈ and I stayed +... ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: ⌊ United States Department of Commerce ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: I st- +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: I +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in ⌉ I stayed +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,TOM2: I stayed in the merchant navy u:m (.) &=in my first trip was around the world out to the Middle East uh: . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: &=in . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: I came back I went to school for a few months I was involved in uh &=in I was second mate in a ship at the uh in Normandy &=in We made twelve trips from Southampton to uh the beaches until we were in a collision &=in and then they sent us home patched us up sent us home (..) &=in and then I came back into Italy and we went into the invasion of south France &=in and we went across the uh &=in the Atlantic and ⌈ Pacific . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: and ⌉ the war ended then . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM2: &=in And so I stayed in the merchant marines ⌈ for ⌉ another year or two . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=SWALLOW ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM2: and then I went to college at uh:: ʔuh: University of Pennsylvania (.) &=in ⌈ &=lengthened and then ⌉ +... ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: ⌊ &=tsk &=in Where my f⌋ather went . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Hm ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: &=tsk Where my father was . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Good . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Good ⌈ school . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=in &=lengthened &{l=P Went to school &}l=P ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in Uh: I didn't ⌉ do terribly well there even though my uncle was a: business manager an:d ⌈ maybe that was part of the ⌉ problem . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in ⌈ um ⌉ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=SNIFF ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: &=in &=lengthened I was more interested in in (.) reliving my youth or living my youth and . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: ⌈ For the first time ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ &=in anyway ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Right ? ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (.) make ⌈ a make a long story short ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: ⌊ &{l=X Sort of get a holding of it &}l=X ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: M- +... ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ &=in ⌉ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM2: ⌊ when they ⌋ posted the grades &=in (.) in forty-nine (..) &=tsk I I immediately went to New York and shipped out as second mate on the African ⌈ Pilgrim . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in and went ⌉ &{l=@ to: uh (.) ⌈ South Africa &}l=@ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=laugh &=in &=laugh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=laugh &=in &=laugh &=in . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: (.) &=in On the Af⌋rican Queen . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: I ⌉ +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) ⌈ With uh ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ No the African ⌋ Pilgrim . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Oh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ Okay . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ ʔuh Pilgrim ⌋ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: I thought ⌉ +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: (.) I ⌈ thought you were there with ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ The African Queen ⌋ actually ⌈ was a two ⌉ h- +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ wi- y- ⌋ +... ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Was ⌈ a two hatched ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Katharine Hepburn ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in y- i- it was a it was a story . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: &=in But she was a real ship a two-hatch ship &=in based in uh in (.) in uh &=in uh:: in um (..) ʔuh: ʔuh: West Africa . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,TOM2: &=in So I sailed on her for a little while . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) ⌈ U⌉:m . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=tsk ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) ⌈ and ⌉ then in f::ifty . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=SNIFF ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: forty-nine ⌈ I guess ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (..) &{l=X Uh ⌈ guy named Near- &}l=X +... ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: ⌊ Now let me stop you now⌋: . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Yeah . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in Yeah ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Yeah . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) ʔuh:: since you're of re⌈cord ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: But n- it's primarily because I wanna know &=in when you say you were sailing now (..) what were you doing during these different phases of ⌈ your sailing life- &=in ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Da- I was sailing second ⌋ mate . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: (.) You were second mate ⌈ then . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: I was second mate on the A⌋frican Pilgrim . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Okay . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Alright ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) ⌈ Yeah ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: ⌊ This ⌋ is my first mate . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ELAI: Pf-.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Hi ⌈ first mate ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ELAI: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Uh⌈: ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ELAI: ⌈ Hi.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ can we get you a chair my dear ⌋ ? ▶,FALSE,FALSE,FALSE,FALSE
+out,TRUE,FALSE,FALSE,FALSE,ELAI: ⌉ No I just came out to see if you were st- still going ⌈ strong.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ He's still alive ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ (.) &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ELAI: And you are⌉⌈:?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ He's st- +... ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Uh ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in And ⌋ ⌈ he's still xxx ⌉ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ELAI: So ⌉.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: He's ⌋ ⌊ doing quite well ⌋ ⌈ actually ⌉ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,TRUE,FALSE,ELAI: I'm gonna go back % laugh in % laugh.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ELAI: Because it's chilly.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Alright . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) ʔuh &=ex ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: (..) You just didn't want to uh (.) think he might've fallen ⌈ over the (.) ⌉ ⌈ fence . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ELAI: Right.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Right ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Or just ⌋ ⌈ go over the fence in the co⌉:rn . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ELAI: ⌊ Toppled over it.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ELAI: Right ⌋.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM2: (..) &{l=X Anyway &}l=X I was sailing second mate in the Pilgrim . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Right . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: um (..) this was American South African ⌈ lines . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in ⌉ um &=in and (.) and ʔuh: in f::orty-nine I think it was I got (.) sort of fussy with that &=in the purser: was a guy named Bob Heins he and I &=in decided that well we'd sort of &=in wanna do something more adventuresome so we (.) we jumped ship in uh: New York (.) paid off . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM2: &=in And we took a passage in the America (..) and went to Paris . ▶,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM2: (..) I stayed in Paris for (..) seven eight or nine months . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Mhm . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in My friend Bob Heins stayed for twenty years . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Ah . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: He (.) he sort of got hooked on ⌈ that ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ He g⌋ot +/. ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: He ʔuh he under⌈stood what ⌉ was r- +... ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Hmm ⌋ ? ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: ⌈ What was up and what was down . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Right ? ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=in &=laugh . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: ⌊ (.) Oh he ma:rried over the:re and &=in went to wor:k and . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: (.) &=in He knew what was +... ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in He figured it out . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: (.) He knew what the hell &=in &{l=X this world &}l=X is all ⌉ about . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,TRUE,FALSE,TOM3: &=in He figured it out ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) xxx ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ (.) Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Figured it out ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM2: &=in So uh ⌉ I had a_lot_of interesting adventures there . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: &=in And finally when I ran out of money uh: &=in I wrote home to my family and said would you be kind enough to uh please send me a p⌈assage ho⌉:me . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh ⌋ &=SNIFF . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,TOM2: &=in And they did . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ &=in Well ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in Ah: ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM2: (.) I was then (.) twenty-five years old so I um well I did what any r- red blooded American boy ⌈ would do . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=in ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: I took it down to the A⌉merican +/. ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM2: ʔuh uh &=in (.) to the: uh US Lines and I cashed it . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Right ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ (.) Right ⌉ ? ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM2: ⌊ &=in ⌋ So I s:tayed on that for another ⌈ month or two . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mm: you stayed for life ⌋ ? ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: &=in And then I wrote ⌉ home and said ⌈ gee I'm +... ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in &=lengthened ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: I: ⌉ need another passage home ⌈ an:d then . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: ⌊ Somebody stole it ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,TOM2: &=in they ⌉ sent it- sent it to me &=in and this time when I went down to &{l=WH American [% laugh] Expre- [% laugh] &}l=WH +/. ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=laugh ⌈ &=laugh &=in . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh &=in ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: to (.) US ⌉ Lines and they said &=in well there's a hold on this . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh &=laugh ⌈ &=laugh &=laugh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: ⌊ This can be o⌋nly used for ⌈ passage ⌉ ⌈ home . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=lengthened &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=in ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=in . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) &=in I said oh ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Ah: ⌋ smart fam⌈ily ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Oh ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM2: &=in So anyway I sailed home in the uh old Isle de France . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: (.) Uh: (.) &=in got into New York there was my mother and father and &=in and we popped in and it was things were a little tight and a little (.) tensy &=in ⌈ &=lengthened went ⌉ ho:me . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ ? ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM2: my m- (.) grandma was there my mother was there we sat around the dinner table &=in and n:- dinner was served and finally my mother said &=in &{l=Q well tell me . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: What did you do in a typical day in Paris &}l=Q . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) &=tsk . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) M:hm: . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: Made the most br⌈illiant move of ⌉ my life . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in ʔuh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ I said ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ And you: s⌋:aid . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh ⌈ &=laugh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ P⌋lease pass the butter . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh &=laugh &=laugh &=laugh ⌈ &=laugh &=laugh &=laugh &=laugh ⌉ ⌈ &=laugh ⌉ ⌈ &=in &=in &=laugh &=in . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=lengthened &=laugh &=laugh ⌋ ⌊ &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ And th⌋⌊is ⌋ subject's never been brought up since . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=in &=laugh &=laugh &=in ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in Right [% laugh] &=in &=laugh &=in yeah [% laugh] . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: I like that . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in ⌈ Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ I: like that . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in Anyway . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Uh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Very ⌋ good . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) ⌈ Very ⌉ good . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM2: So that was forty-ni:ne fifty &=in I went to work for Grace Lines in New York ⌈ as a port ⌉ captain . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ ? ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: &=in sailed in a: couple of Grace liners south &=in (.) uh (..) Korean War started I had the uh: I decided well shit . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: M:ight as well join the war . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in Threw in my hat . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM2: D- uh (..) &=in &=lengthened &{l=WH ʔuh: &}l=WH (..) when I came back from one of those uh (.) trips from down to Cartagena I found a big stack of navy orders . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Right ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) Mhm ? ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM2: So I went to this &=in (.) m- what I thought was my friend um th- this navy captain down at ah naval headquarters . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in (..) &=tsk I said this is terribly awkward . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: I've just been promoted from third mate (.) to second mate &=in and and could we ʔuh: possibly postpone these orders for a little bit . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: (..) &=in My friend stood up behind his desk (.) in his full: f:our stripes and said &=in &{l=F Lieu:tenant ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM2: (..) &=in You: are in the US ⌈ Navy ⌉ ⌈ now &}l=F ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh ⌋ ⌊ &=laugh &=laugh &=laugh ⌋ &=laugh &=SNIFF . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=ex ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ I said oh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ XXX ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: (..) No one ever explained that to me be⌈fore . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM2: and a wee⌉k later I was on my way out [% laugh] to [% laugh] Korea [% laugh] . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in ⌈ &=laugh &=ex &=lengthened ⌉ &=laugh &=in yeah [% laugh] . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Oo: ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) &=laugh (.) ⌈ &=laugh (.) &=laugh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: ⌊ Where you got ⌋ promoted rea:lly rapidly . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Right ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ &=laugh &=laugh &=laugh &=laugh &=laugh &=in ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Well no I uh v- ⌋ +/. ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,TOM2: Finally uh: I you know after a couple months I got promoted Lieutenant and you know and that sort of thing but uh &=in ⌈ &=lengthened it ⌉ was all +... ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM2: I lo:ved the Navy . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM2: I rea:lly did like the N⌈avy . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mm ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: It ⌉ was just an exciting thing to do . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: So how many years there . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM2: (..) I stayed in the US Navy seventeen years and ten months . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM2: (..) And then I was f:orced out because I failed a promotion (.) to commander . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: (..) So (..) but all that service time you put in . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: (.) Thirty-five or forty ⌈ years or ⌉ something like that . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Well ⌋ ⌈ but I'm ⌉ am ⌈ p- +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Right ⌋ ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ M:hm: ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,TOM2: I'm on the re⌉tired list for pay for twenty-three years service . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) Twenty-three . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Yeah ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ That's ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: That's ⌈ that's what I was ⌉ ⌈ trying to get at ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ So after ⌋ ⌊ all this happened ⌋ +... ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: ⌊ Now is that be⌋cause of World War Two ⌈ a:nd the: uh: ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ No: it's because of ⌋ the f- +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: the way the Navy worked . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: A⌈nd of ⌉ uh . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mm ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM2: &=in so I went to this guy and uh and and I was a reasonably hotshot officer in the (..) Pentagon at the time and &=in and I went to him and said hey how come this is happening and he said well &=in there's happens to five guys like you . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in (.) Because the way the law was written . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (..) And we fixed it as of nineteen fifty-four . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in Instead of saying you if you failed a promotion you re- &=in retire as of twenty years from your pay entry base date . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (..) Mine was forty-nine . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in (.) Uh: (..) they said &=in what we've now said is you have to stay twenty years . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM2: So I said fine . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: So (.) handshakes all around . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ Mhm ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM2: ⌊ &=in ⌋ ⌈ &=lengthened Then I ⌉ went off and worked for a couple of companies and . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Mhm ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,TOM2: &=in uh (..) my (.) my success in life if I can say it is is is consists of two things . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: Skill and luck . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) Min⌈e's primar⌉ily luck . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Ten perc- ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Ten percent and ⌉ ninety percent's the right mix . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ XXXX ⌋ ⌈ M:hm ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ (.) &=laugh &=laugh ⌋ &=laugh ⌈ &=laugh &=laugh &=laugh ⌉ &=laugh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ And uh ⌋ so ⌈ anyway ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &{l=X Yeah &}l=X ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=in ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: I ⌈ uh ⌉ struggled along . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: and uh one damn thing another uh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: &=tsk &=in . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: (..) and then one day Debby said we're moving to Santa Fe and I said well . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: Now that was her s- ⌈ choice . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Sounded like a n⌋ice ⌈ idea ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: hunh ⌉ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Oh yeah⌋: . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: H:⌈ey man ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Hmm ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: it was a binary decision . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Al⌈right . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I had no choice . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: let me ask you ⌉ a ve:ry important question . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: you know ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: And ⌈ this ⌉ is one that's ⌈ crucial ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=tsk ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ &{l=YWN Yeah &}l=YWN ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: (..) Why did you put the extension on your fireplace . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) &=in &{l=@ Oh yeah: &}l=@ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: ⌈ &=in To keep the make the fireplace ⌉ work . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Extension in the fireplace ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh ⌈ &=laugh &=laugh ⌉ ⌈ &=laugh &=laugh &=laugh &=laugh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=laugh ⌋ ⌊ &=laugh &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ No I didn't- d- ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM2: I didn't put an exten⌈sion on the fireplace ⌉ ? ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ He is- +/. ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: He is ⌋ ⌈ a uh ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ No you didn't ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ &=laugh &=laugh &=laugh &=laugh ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=in ⌋ He is a (.) aer⌈odynamic uh expert ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=in &=laugh (.) &=laugh &=laugh &=laugh &=in ⌋ ⌈ &=laugh &=laugh &=in &=laugh ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ (.) No . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ (.) On uh (.) ⌋ ⌈ chimneys ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: the fireplace ⌋ ⌊ is the way ⌋ we found it . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) &=in Oh . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Okay . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) ⌈ Yeah ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Well ⌋ you didn't do that then . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: &=in ⌈ But somebody did before that &=laugh ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ No it's it's a little thing that sticks up above the roof ⌋ ? ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Yeah⌈: (.) hm ⌉ ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,TOM1: ⌊ Tom think⌋s that mine doesn't work as well as it should because it should be: extended like yours . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: He thinks it . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Yeah . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: that the: . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: No it should j- +/. ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: We⌈: we haven't done a thing with it ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ It needs to be higher: ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &{l=X You see &}l=X because you ⌋ get a dow:n . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ no . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in ʔuh: on Tom's . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: The outside of the house was exactly the way we found it ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &{l=X the uh &}l=X +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in (.) Oh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: O:⌋kay . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Alright . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Uh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in ⌋ Alright s:ee Thomas I tr⌈ied . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ So whoever . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh &=in &=laugh &=in &=laugh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: was living there before ⌋ that's the one who ⌈ discovered they needed to do that ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Alright now who was the guy ⌋ there before you . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Doctor Green . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) Alright ʔuh (.) is he alive ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) No poor old Green (.) ⌈ shuff⌉led off . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Oh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ uh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ oh ⌋ my God . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: To Buffalo . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ Shuffled to Buffalo ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ I can't talk to ⌋ him Thomas . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) &=in . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Yeah uh in fact ⌈ &{l=X quite a &}l=X ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ We:ll ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ No it's ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM3: ⌈ See I've &{l=@ been trying . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ you're probably right . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in I think &}l=@ ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: You're probably right ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,TOM3: &=in I've been trying to tell him the reason that &=in on very still: (.) nights . ▶,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,TRUE,FALSE,TOM3: When it's co:ld and everything else &=in ⌈ he'll get a down⌉draft . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=ex &=lengthened ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: In his fireplace . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: And it's because the co:ld air (..) &=in builds up . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: (..) On the top of his roof and ⌈ comes down ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ This is what the ⌋ judge does ⌈ on his ⌉ ⌈ spare ⌉ time ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ the fire⌋⌊place ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Yeah ⌋ Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ He's k- ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Pushes ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: &=in ⌈ He's actually quite an ⌉ engineer⌈: ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ pushes fireplaces ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I see ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Well ⌋ my ba:ckground ⌈ is in construction work ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ He's an electrical: and uh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Oh: . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: He's an electrical and carpentry ⌈ engineer ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I s:⌋ee . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Okay . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Mm . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM2: (.) ⌈ Now we did⌉n't change a th:ing on the ⌈ outside ⌉ of the house . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &{l=X He's been &}l=X ⌋ +... ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ XXX ⌋ ⌊ Hmm ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: No- +... ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: We've done a few tricks inside . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Mhm ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ He's pretty good at that stuff ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,TOM2: ⌊ We built a garage but ⌋ that's all . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Yeah . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: Uh (..) our fireplace draws very well by the way . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) ⌈ Uh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Yeah ⌋ well I would ⌈ n- I would think ⌉ it would . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: ⌊ Yeah (.) uh ⌋ (..) &=in ⌈ see this is what I've been trying to ⌉ tell hi:m . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ With that extra s- +/. ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: extra height ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: &=in But (..) but see Thomas likes the idea that it doesn't match ⌈ in . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=in ʔuh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: with ⌉ the design . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ &{l=X With the area &}l=X . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ Well we gotta we gotta call up Jack Eaker . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in &=laugh &=laugh &=laugh &=laugh &=in &=laugh &=laugh ⌉ ⌈ &=laugh &=laugh &=in ⌉ ⌈ &=laugh &=in &=in ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Right ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Right &=ex ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ You &{l=X remember &}l=X +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: You ⌋ ⌊ know Eaker of course ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ Yeah ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ (.) Ah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: (.) You know what Eaker's doing right now . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) No . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in We k- +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: We have a f- +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: We we've b- we belong to this uh we don't belong but we attend First Church down here ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) &=in ⌈ Uh ⌉ Presbyterian ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=in ⌋ ⌈ Unhunh ⌉ ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Presby⌋terian ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ On the ⌉ +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Unhunh ⌋ ? ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM2: ⌊ (.) And they've ⌋ been after ungh- I guess for &=in (.) three years now to join ʔuh two and a half years to join the church and I keep dodging the issue by saying I'm out of town and &=in blah blah blah but ⌈ nonethe⌉less . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in we got a new guy k- named Mason called up and said hey would you join and we had a nice conversation &=in and he talked about (.) Jack Eaker . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM2: (..) Said wonderful he said (.) we (.) talked about n- &=in he said Jack is reha:bbing a house like he did this one . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Over by the Mansion now . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Governor's ⌈ Mansion ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ ʔYeah h- yeah- ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: I h- I knew tha⌈:t . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ One ⌋ point two million he wants ⌈ to sell it ⌉ for . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Yeah ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mm ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) &=in . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Mm . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ I said to ⌉ Debby . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ xxx ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mm ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,TOM2: ⌈ I think ⌉ we're gonna move up to the Rogue Ri⌈ver . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mm ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh ⌋ ⌈ &=laugh &=laugh &=laugh &=in &=laugh &=in ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: by uh ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM1: ⌊ &=in &=lengthened Hope he does a little better job ⌋ at (.) some of the &{l=@ things ⌈ like electri⌉⌈cal ⌉ &}l=@ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh &=laugh ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ How'd he ⌋ ⌈ do ⌉ here . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh ⌋ ⌈ &=laugh &=laugh &=laugh ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=in ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Hunh ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ ʔHe did too much himself . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=in &=laugh &=in &=laugh &=laugh &=in &=laugh &=lengthened ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM1: that he should've put in somebody else's ⌉ ⌈ hands ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Oh yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Like he &=in (..) ⌈ we had ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ ʔuh: ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM2: ⌊ Oh he did ⌋ it a:ll himself⌈: ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Yeah ⌋ we had to do a whole bunch of electrical ⌈ o⌉:ver . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ ʔuh ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM1: because he hadn't done it quite right and (..) ⌈ stuff but ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Really ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM2: (..) ⌈ Oh you pulled the whole ⌉ ⌈ kitch⌉en out . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ it's (.) s- ⌋ +... ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Hunh ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Yeah . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) Yeah . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) ⌈ Mm ⌉ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Mhm ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM1: (.) We found you know (..) wiring that wasn't what it should have been . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: But that's all right . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: He ⌊ was- ⌋ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Yeah ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: He's a he's an enthusiastic amateur . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: You know he (.) ⌊ worked ⌋ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM1: (.) ⌈ He worked hard at it ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Well I am too⌋⌈: . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Well he's no amateur . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Thomas . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh &=laugh &=laugh &=in &=laugh &=in ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: This is about the tenth house ⌋ he's done you ⌈ know ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ X ⌋ &=in ⌈ &{l=X Well s⌉:- &}l=X +... ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Yeah: ⌋ ? ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ xxx ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: (.) D- ⌈ some peo⌉ple are amateurs for a lo⌈:ng time ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ (.) Yeah ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=lengthened ⌋ ⌈ &=laugh &=laugh ⌉ &=laugh &=laugh &=laugh &=laugh . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: I know a ⌈ bunch of ⌉ em . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=in ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: (..) ⌈ And they ⌉ ⌈ get paid for it ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Uh: ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: ⌊ He put too ⌋ ⌊ much elect⌋ronics in it too but . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Yeah⌈: ⌉ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ f⌋or me: but . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM2: And and of course when he when he (..) ʔuh he put in (..) ʔuh he told us four thousand . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: I couldn't ⌈ believe it . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=ex &=lengthened ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: I said ⌉ Debby I can't believe this but &=in he had these &=in goddamn (..) pf- uh (..) perennial flowers here (.) ⌈ or are they an⌉nuals . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Which is which . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (..) Which is that doesn't grow next year . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Annuals ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) Uh: ⌈ right ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Oh God ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Yeah ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Right ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ The annuals . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: ⌊ (.) He had all these ⌋ flowers around . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: yeah ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: &=in (..) He had the most beautiful looking place you ever didn't want to see . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ʔUm . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) &=tsk . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: (..) Did he ever tell you why he put this fence between our ⌈ house ⌉ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=in ⌋ (..) Unh-unh . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (..) This this uh (.) thing he's put up ? ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: (..) When we went on a (.) &{l=X to &}l=X trip . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,TOM2: (..) Uh (..) w- he he'd come over and we had a few drinks and we agreed (..) along this (.) common walk we were gonna put up (.) fir trees and all this stuff (.) uh (..) and then uh (.) we built the garage . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: (.) Which (.) m- meets code and all that . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (.) And Jack was so upset about that when we came back from the trip we found he'd built the fence . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh &=laugh &=laugh &=laugh . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: &=THROAT . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: ⌈ And I ⌉ said to Debby . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh ⌋ &=laugh &=in . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: I didn't even see the fence for three days she said ⌈ what about that ⌉ fence . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: I ⌈ said fence ⌉ fence⌈: . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh ⌋ ⌊ Yeah . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in you know me . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: What &{l=X fence &}l=X . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in ⌉ And uh (..) so ⌈ I ⌉ said gee whiz uh . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Hunh ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (.) ʔuh ʔuh- s- so we'd found out that Jack was &=in f:- thought that that took away from the +... ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: The aesthetic . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (..) the aesthetics to have this gara:ge and I said well gee whiz that's fine . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in So that's why he threw up the fence . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: And I said hey look &=in we're a:ll within the code . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM2: &=in I first wanted to build the garage &=in (..) sort of with five feet from the property line and he made a big fuss about it so I looked it up and said &=in well we'll make it uh (.) fifteen what ever they want &=in We ⌈ moved ⌉ a few ⌈ &{l=X fractions &}l=X and ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: ⌊ &=tsk ⌋ ⌊ It works ⌋ fine don't you think the way it ⌈ is ⌉ ? ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ Hey look⌋: I have ⌈ no pro⌉blem at: all . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Looks X ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: uh . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: &=in except Polly can get right through it . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: No⌈: look . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: hey Polly and ⌉ I are pals . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: (.) ⌈ Polly ⌉ has (.) ⌈ three ⌉ things . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh ⌋ ⌊ Mhm ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in He +/. ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) He +/. ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM2: (.) Well he's getting a little long in the tooth . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: He can't ⌈ hop the ⌉ fence ⌈ here . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Yes ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: ⌊ Yes she is ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,TOM2: (.) But he ⌉ comes over there . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Right ⌉ ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh ⌋ &=laugh . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: She is ⌈ getting ⌉ +... ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,TOM2: ⌊ When I ⌋ find him back there among my tomato garden I say Polly you scamp how are you . ▶,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,TOM1: (.) She ⌈ can't ⌉ quite jump in the truck anymore . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ you l- ⌋ +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: She ⌈ can't ⌉ +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Ah⌋⌈: . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Oh no: ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: &=in ⌉ ⌈ well you're gonna have to ⌉ ⌈ build steps ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Can't make ⌋ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ How old is he ⌋ ⌊ how old is poor ⌋ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: They're all +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: (.) All of them are around ⌈ eleven . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: ⌊ All of em . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: Mhm all of em were at that age ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: So they're probably &{l=X are &}l=X gonna die at the s⌉ame time . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) ⌈ Yeah ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ No⌋: this is a nice dog . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: (..) ⌈ Yeah you oughta stairstep em ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ Oh [% laugh] (.) yeah [% laugh] &=in we have ⌋ there's two other dogs in this neighborhood Tom . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: &=THROAT ⌈ &=lengthened ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ One is a ⌋ big (.) black dog and one is a little white +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: uh black- +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: a big white and a little black dog . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ You ever seen them ⌉ ? ▶,FALSE,FALSE,FALSE,FALSE
+out,TRUE,FALSE,FALSE,FALSE,TOM1: ⌊ Yeah the ⌋ I've seen the big ⌈ white (.) ⌉ one dog . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ And they trave- ⌋ +... ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: So one day I'm sitting (.) at my dining room table . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: Which means you have to go through the &=in (.) the workshop . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: (..) And an entrance hall and into the living room . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Unhunh ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: And I'm sitting there with Lee and Gary's friend B:- uh &=in Barney having a cup of coffee . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM2: (..) &=in And a:ll the doors are open (.) into the house come [% laugh] these two dogs [% laugh] . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh &=laugh ⌈ &=laugh &=laugh &=laugh ⌉ ⌈ &=laugh ⌉ &=laugh &=in ⌈ &=laugh &=in ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=laugh &=laugh &=laugh ⌋ ⌊ &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: ⌊ I said to Debby ⌋ hey ⌈ come . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: you ⌉ can't believe this⌈: ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh ⌋ &=laugh &=laugh &=laugh ⌈ &=laugh &=laugh ⌉ &=laugh &=laugh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I [% laugh] ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) ⌈ &=laugh &=in &=laugh &=in &=laugh &=in &=laugh &=ex &=laugh &=in . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in Yeah: [% laugh] . ▶,FALSE,TRUE,FALSE,TRUE
+out,TRUE,FALSE,TRUE,FALSE,TOM3: (.) They moved in ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: So I said h⌉ey would you ʔuh (..) please (.) mind leaving ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) ⌈ Seranek ⌉ says he's seen so- ⌈ uh: ⌉ +... ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ Would you ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: ⌊ And they ⌋ lef⌈t &=laugh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: ⌊ bunch of ⌋ coyotes recently in ⌈ the &{l=X neighborhood &}l=X ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Oh I haven't seen ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Really ⌉ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in ⌋ ⌈ (.) Well now ⌉ we hear em⌈: . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Yeah I +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) That ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: ⌊ That's what he says ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: well you've ⌉ heard em ⌈ over at our place . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,TOM1: ⌊ Oh I hear em all the time but I haven't s⌋⌈een em ever walking a⌉⌈cross ⌉ the yard . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Yeah ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Is this Richard ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Richard ⌉ Seranek ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) He's the guy that lives right over here . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Right ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ Mhm ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ &{l=X Yeah &}l=X ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Up ⌋ on the hill . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) ʔuh And your friend on the corner now is named . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) John (.) Neville . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Neville . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Was he here to⌉night ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Down there ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) &=in ⌈ No: . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ The banker ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: Uh he⌉'s been away we did- +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: we y- +/. ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,TOM1: (..) You know we didn't put this together until the last two or three days ⌈ and we ⌉ haven't been able to reach him . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: So I think he's (.) away . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ Or somewhere ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Mhm ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ (.) Isn't he ⌋ the banker ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ (.) He was a banker . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: He was a +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Yeah ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: First ⌈ Interstate ⌉ Bank . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Mhm ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) &=SNIFF &=lengthened ⌈ &=lengthened &=tsk ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ When's ⌋ Pat go back to school . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Tomorrow ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: She's uh ʔuh: uh she⌈:'s in school ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Monday ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Now . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ She's ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ (.) No ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: What I mean when she go back to (..) ⌈ classes ⌉ are . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: ⌊ Uh ⌋ (.) Monday Wednesday and Friday are her big class days⌈: ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I ⌋ see . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ Monday Wednesday and Friday ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Yes ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,TOM1: So she sort of works Tuesdays ⌈ and Thursdays ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: ⌊ She's a pretty s⌋quared away kid . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) Uh She's ⌈ not +... ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ How old is she now ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: (.) Right now she's ⌉ not sure ex⌈actly what she's doing . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in How's the intertri⌋bal +... ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: but ⌉ (..) &=in &=tsk that's working okay ⌈ she's just (.) homesick ⌉ down there . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &{l=X Working out all &}l=X ⌋ ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ She's ⌉ +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Yeah ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: &{l=X A long &}l=X you know listen . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: She doesn't ⌈ have any ⌉ friends (.) down there . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,TOM1: (.) ⌈ So she comes up here ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ (.) H- h- (.) h- ⌋ ⌈ how old is Pat ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ (.) Yeah it makes a dif⌋⌊ference . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Oh ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: (..) Uh: eigh⌈teen ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Eigh⌋teen ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: (..) You know she's a ⌈ very ⌉ level+headed ⌈ eighteen ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: ⌊ So ⌋ ⌊ oh: she's ⌋ a wonderful ⌈ girl . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Uh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: She's a ⌉ wonderful girl . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: (..) But uh she⌈:'s uh: (.) not hap⌉py in Albuquerque totally . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: ⌊ She's a real straight arrow ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: she'd like to be back up here . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) You know . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) Too much . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) &=in . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,TOM1: &=tsk &=in (.) ⌈ She's ⌉ she's ⌈ cutting class too much ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Well ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Well yeah b: &=ex ⌋ +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ But ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: ⌊ &=in ⌋ Yeah but when you live off of campus like that Tom you don't get acquainted⌈: ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Right ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: (.) You do ⌈ not get acquainted ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Does she uh +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Is she in dorm⌋itories ⌈ or ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Uh got ⌋ ⌈ a house ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ No ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,TOM1: T- she's living with another girl in a house ⌈ down there ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I see ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: ⌊ No: ⌋ ⌈ and you ⌉ don't get acquainted . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ xxx ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ When you're &{l=X uh like that &}l=X ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ And I &{l=X said dorms &}l=X ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: ⌊ (.) She told me that ⌋ she was enjoying it . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) &=in ⌈ Well ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ But ⌋ she was . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM1: &=in ⌈ she is enjoying the school I think ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ But she likes her classes⌋ ⌈: . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ And the classes ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ And that she's enjoy⌋⌈ing the school and uh ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: And she likes ⌉ ⌊ her classes . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Yeah ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: &=in She just ⌈ needs ⌉ ⌈ some more friends ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Yeah ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ she's got ⌋ ⌊ some good cour⌋⌈ses ⌉ ⌈ and ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ yeah ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: ⌊ and some ⌋ ⌊ ac⌋tivi⌈ties there ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ yeah ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: She ⌈ needs to ⌉ get into the ⌈ newspa⌉per . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Yeah ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: and write for it or something . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Yeah . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Yeah . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: (..) ⌈ She could ⌉ do that very well . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ But ⌋ but she needs to get into something like that ʔuh otherwise: she is outside of the +... ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: &=in She's an outsider . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Yeah . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: She's an outsider . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) &=tsk . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Well ⌈ yeah ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ But ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: but that that'll happen soon . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) &=in Yeah but ⌈ not when you +... ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ (.) When did school start . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: A month ago ⌋ ? ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Not when you ⌉ start +... ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) ⌈ Uh: . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ ʔuh +/. ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) ʔuh About two weeks ago ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) two weeks ago ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Yeah . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) About two weeks ago . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Well for heaven's sake g- uh in in ⌈ six weeks ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ Something like that ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: &=in &=lengthened (..) you're gonna say Pat come on home for uh: (..) ⌈ something . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ N:o . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) &=laugh &=laugh &=laugh ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: and she'll say I'm ⌉ busy . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ I h- ⌉ +... ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Right ⌋ ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: That's what I ⌈ hope ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ Yeah: ⌉ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Sure ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Right ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Yeah ⌉ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ I think ⌋ so . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: &{l=X Now &}l=X she just (..) l:ives off campus . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: &=in ⌈ She needs to get into something down there ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: ⌊ And that's that's a hard star⌋t . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM3: (..) She needs to get into some in: campus group . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: &=in Like the writing Tom was talking about . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: Which would r:eally be great . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: (..) &=in ⌈ Cause she's good at it ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM1: ⌊ She might a- ʔn ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,TRUE,TRUE,FALSE,TOM1: Might alw- so be a little (.) more helpful to her down there if she had a- (.) a television so when she goes home then there's something to do besides sit a⌈rou:nd . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=laugh &=laugh &=laugh &=laugh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: &=in ⌉ And be lonely . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in ⌈ Yeah ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ xxx ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) &{l=X That too &}l=X . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) &=in (.) So . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Well ⌈ she's gonna ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ It'll work out ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: she's gonna do okay . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,TOM2: She's really got her head screwed on right . ▶,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM2: (.) Uh (.) &=in we were talking about I was talking to her at least about her courses and (..) what she's reading and what she's doing and she seemed very enthusiastic about it ⌈ and uh ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM1: ⌊ &=tsk &=in Yeah she ⌋ likes ⌈ all that ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ uh ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌈ very well I think ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM2: ⌊ &=in and de⌋spite the uh (..) uh: the current notion tha:t's going on she was actually reading Jane Austin . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Could you believe ⌈ that ⌉ ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ &=in ⌋ She's reading ⌈ all ⌉ kind⌈s of in⌉⌈teresting ⌉ ⌈ things ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Super ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (..) ⌈ It seems ⌉ like . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Uh ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM3: Well she's ⌈ been s⌉ort of doing that for a long long t⌈ime though ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Mhm ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Pat has . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Yeah ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: ⌊ &=in ⌋ has always sort of &=in ⌈ &=lengthened ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: uh: (.) ʔuh b:een ⌈ a little (.) d:ifferent than the ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM2: ⌊ I I told Pat that I had this huge ⌋ library in my house which I do downstairs &=in that's &=in been sealed up now for six months while we finish this &{l=X thing &}l=X (..) all kinds of books that (..) we discussed that she knew some: of and not &{l=X others &}l=X and I said (..) hey you're welcome to come by any time and snoop ⌈ through that and ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM1: ⌊ You've been very ⌋ nice to Pat ⌈ in the (..) liter⌉ary ⌈ area ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM2: ⌊ learn some things and ⌋ ⌊ uh ⌋ (..) cause you know if she's gonna be in communications and writing . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Mhm . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,TOM2: she can't start from zero base . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) Mhm . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: Gotta start from somebody . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Right ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) Mhm . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: U:m . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Mhm . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: (.) and whether that somebody is (..) Emily Dickinson or (..) ⌈ u:m ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,TOM1: ⌊ &=tsk &=in ⌋ She sure is intere⌈sted in a_lot_of ⌉ +... ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ or George Will ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh &=laugh ⌉ ⌈ &=laugh &=laugh &=laugh &=laugh &=laugh (.) &=laugh &=laugh &=laugh ⌉ ⌈ &=laugh &=laugh &=laugh &=in ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ uh God forgive me for say⌋⌊ing that late at night but ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ George Will ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: She was- read⌋⌊ing George Will ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ Yeah ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Hunh ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: (.) ⌈ &=ex &{l=@ Sh⌉⌈e's reading Geor⌉⌈ge &}l=@ &=laugh &=laugh &=laugh &=in &=laugh &=laugh ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &{l=X And what- &}l=X ⌋ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I ʔuh: ⌋ +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,TRUE,FALSE,TRUE,FALSE,TOM2: ⌊ I always read George Will . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ (.) Well he's smart but different ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: don't you ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ &=laugh &=laugh ⌉ &=laugh ⌈ &=laugh ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Hunh ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ S⌋ome⌈times . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ He's sm⌋⌈art ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: yeah ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: Yeah ⌈ I do . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ He's smart . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: &=in You want some more of that ⌉ ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) He's smart ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) &=in Uh⌈: . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ⌊ It's right here ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in I don't th⌉ink so . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: I ⌈ think &{l=X I'm gonna &}l=X ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah Tom why not ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) Well I think I'm gonna go get my (..) my very very bright spouse . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Well you know I told you how old I am how old are you . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) I am sixty: (..) eight ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Sixty-eight . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Sixty-nine ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Si⌈xty⌉-eight . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Good ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Okay . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) &{l=X So . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Uh⌈: ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ it's a wash &}l=X ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) But (..) mhm . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) Yeah sixty-eight last April . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) ⌈ And: X ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,TOM2: ⌊ Well I'm six⌋ty-nine at the moment and then n- next week I'm gonna be seventy (..) u:m (..) and I told you the joke about Nixon and (..) &=in uh ʔuh:⌈:⌉: . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) so (.) you know we all get that age right ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ Mhm ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ (.) Mhm ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=laugh &=laugh &=laugh (.) &=in Well in time . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) As it goes . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM1: ʔuh Here you are . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Mhm ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,TOM1: ⌊ I gotta ⌋ check on everybody and see how ⌈ everybody XXX ⌉ +... ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ You're so very ⌋ ⌈ kind ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,TOM3: (..) &=in No I was u:m (..) you gave me your history I'll give you sort of mine . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) Thumbnail . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: (..) &=in I: was brought up on the Pine Ridge Reservation in South Dakota . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) In which one ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: (..) On the Pine Ridge . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Really . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: In South Dakota . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: In S⌈outh Dakota ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Are you an Indian ⌋ ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: In the Bad Lands . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: Yeah but not of that (.) &=in I'm an Osage part . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in &=lengthened . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Really . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM3: A:nd I was brought ⌈ up up there ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ In in South ⌋ Dakota ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,TOM2: (..) My wife is ʔuh:: grew up in South Dak⌈ota ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Where ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) In Desmette ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) ⌈ Eastern South Dakota ⌉ ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Mhm: . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ʔuh East⌋ern . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: D- well mine was totally west . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: ⌊ &=in In the Bad ⌋ Lands and⌈: ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Of course . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Yeah ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Sure ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Over ⌈ in the ⌉ B:lack Hills . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM3: a:nd I lived there until (..) &=in I was: +/. ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: (..) Well I lost my family when I was about eleven so I went to live with this other ⌈ &=in ⌉ family . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Mhm ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: A:nd then I left there in &=in (.) forty-one . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Mhm . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: (..) Came down to the eastern part of the state and worked for a construction company (..) &=in uh: went ⌈ to Oaklan- ⌉ +... ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Eastern part ⌋ of which state . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: S- the ⌈ Dakotas or ⌉ here . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ This state ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: New Mexi⌈co ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ Down ar⌋ound Roswell or ⌈ Carls ⌉ +... ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ No ⌋ over at Tucumcari . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Okay . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: A:nd then I worked for a rancher over there for a while (..) followed the rodeos for a while . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Mhm . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,TOM3: (.) &=in (.) uh: (..) and at that point I w:ent into the Navy (.) i:n nineteen forty-two . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Mhm . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM3: &=in U:m (.) never got (.) past (.) &{l=X f:urgot &}l=X Idaho (..) a:nd they discharged me (..) &=in because I got injured (..) &=in a:nd (..) from (..) there I went to (.) White Sands &=in New Mexi⌈co ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Mhm ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) a:nd from there I w:- +/. ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: (..) I was in the Army . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) At that point . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in A:nd after that ⌈ I went ⌉ +... ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ Oh they got ⌋ you in the Army . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: Yeah they got me in the Army ⌈ after I ⌉ +... ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM2: ⌊ Even though the ⌋ Navy threw you out . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Oh yeah . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: (..) &=in U:m (..) either the: N:avy: was not as fussy or the Army really didn't care (.) &=in &=lengthened which amounts to ⌈ the same thing ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ When did you go in the Army ⌋ ? ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: (..) N:ineteen forty-three . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Well . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM3: (..) A:nd then (.) ʔuh after that I worked at Los Alimos . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: (.) ⌈ Well how long you ⌉ stay in the Army . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ &=in ⌋ (.) Uh: (..) two years . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) A:nd did you go overseas with em ? ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Or ⌉ . ▶,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ No ⌋ (.) Hm-m . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: (.) No it was in the States the whole time . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: &=in I was in construction . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Mhm . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: a:nd so that's why &=in uh: White Sands Proofing Ground was importan:t and that's why Los Alimos &=in (.) was important because I f- (.) fulfilled a need that they had . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Mhm . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: &=in &=tsk (..) Then at that point I: w- got out and I went back to: (..) the University of Michigan I thought it was very important that I . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=YAWN . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: go to a big ten school . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) Is this ⌈ Ann Ar⌉bor ? ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ xxx ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Ann Arbor ? ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Yeah ? ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: &=tsk &=in Graduated from there (..) u:m (..) b- got rea:l homesick for this part of the country . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: (..) Came back out here went through law school at the University of New Mexico &=in &=lengthened this was just shortly after they had started law school ⌈ down he⌉re . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Mhm ⌋ . ▶,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: (..) &=in And have basically been here ever since . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Hm ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,TOM3: ⌊ And I: ⌋ have been in the uh (.) &=in oh I was in construction work (.) a:nd uh &=in had a construction company in Albuquerque: a:⌈:nd ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Mhm ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in a ⌈ variety of thi- ⌉ +... ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ How'd you get to how'd ⌋ you get to be a judge . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) &=in Uh: elected . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) I see . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Stood for office ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Yep . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) In ninetee:n sixty⌈:-eight ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Is that a ⌋ nonpartisan vote in this state ⌈ or is ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ No ⌋ w- w- well it is now . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in u:m it- +/. ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: At that time it was a very partisan type ⌈ of a v⌉ote . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I see ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,TOM3: And I &=in (..) it was real interesting because uh (..) I had n:ever been in politics be⌈fore ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I ⌋ see . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM3: I had n:ever been involved ⌈ in it ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: ⌊ Course this is ⌋ sort of Democratic state . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: (..) &=in It was the Democra⌈tic State ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ So you s:⌋tood just as a Demo⌈cratic ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ As a Demo⌋crat . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) ⌈ Right ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM2: ⌊ f:⌋:or governor . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌈ Right ⌉ ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Right ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: For +/. ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in ⌈ For judge rath- ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: ⌊ And ran a⌋gainst four other: D:emocrats in the primary . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Mhm . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,TOM3: &=in a:nd uh &=in I had worked very actively in the Bar Association . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Oh I see . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: &=in a:nd so I think because ⌈ of that ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Where was ⌋ your where was your private practice . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in ⌈ Albuquerque ⌉ ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ In Albuquer⌋que . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Oh I see . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in Albuqurque and Santa Fe ⌈ uh ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Mhm ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: part of it was in Santa Fe . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: M⌈hm ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,TOM3: ⌊ &=in ⌋ &=lengthened (.) A:nd u:m so then: um: (.) I was on the appellate court here (.) in Santa Fe⌈: . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Mhm ⌋ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in ⌉ Which is the statewide . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Sure . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,TOM3: (.) A statewide court (..) &=in and then when I retired from there at the end of eighty-six I &=in (..) uh (.) m:anaged a law firm (.) uh here in town but then &=in quit after about about two years and have been (..) uh: sort of doing what I was telling you earlier (.) &=in acting as a judge in a variety of ⌈ cases that people select me ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ I See . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: &=in What law firm ⌋ were you managing uh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Wescott Barry and McCohen . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Uh: that's the big outfit next to the (..) uh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) The ⌈ temple . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ temple . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Sure ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Right ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: I see . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,TOM3: A:nd u:m (..) but I have r:eally probably: in my whole life have enjoyed the last &=in (.) two years more then anything in being (..) u:m (..) a ju:dge and a final arbitrator in a variety of types of cases &=in where I am selecte:d &=in a:nd they don't have to take me if they want me . ▶,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Y- or- if they don't want me . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Sure . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: I ⌈ see ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ A⌋:nd a:nd that part I really enjoy . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,TOM3: Because &=in I know when I &=in when I get a case (..) &=in it's because they want me to hear it . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) ⌈ Okay . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Y:- and- +... ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: both sides ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: &=in ⌋ A:nd that's &=THROAT (.) you know it's a little ego part . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Yeah . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) ⌈ Sure ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: ⌊ No it's ⌋ a big ego part . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: &=in ⌈ &=lengthened But I ⌉ really enjoy tha⌈:t ⌉ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Okay ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM2: ⌊ Medi⌋um ego part . ▶,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,TOM3: (..) No it's a big one . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ &=laugh &=laugh &=laugh &=laugh . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Okay . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Big e- . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: No e- ⌉ +... ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Biggie ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Ny- +/. ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: No it's a big one . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ &=in Because ⌉ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Okay good ⌋ . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: you know if b- +/. ▶,FALSE,FALSE,FALSE,FALSE
+in,FALSE,TRUE,FALSE,FALSE,TOM3: If both sides want you why &=in (..) and so tha:t is is really sort of ⌈ my⌉: uh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: And is your wife here tonight ? ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) That was her that ⌈ came out ⌉ +... ▶,FALSE,TRUE,FALSE,TRUE
+out,TRUE,FALSE,TRUE,FALSE,TOM2: ⌊ Oh she ⌋ came over to see if you were still ⌈ here ⌉ . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌊ Yeah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) Yeah if I w- +/. ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in Well no . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Y- if I was alright and hadn't p⌈assed out and ⌉ fallen over the wall . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Oh okay ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Oh for heaven's sake . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: Uh (..) judges in New Mexico don't do something like that do they ? ▶,FALSE,TRUE,FALSE,TRUE
+out,TRUE,FALSE,TRUE,FALSE,TOM3: (..) M: well I'm not really a judge uh I'm a retired judge . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ In New Mexico . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ &=in Oh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Even retired judges don't do that ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: X &=in &=lengthened (.) Oh ⌉ yes . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ &=laugh &=laugh &=laugh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Yeah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Okay ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: Heavens ⌉ yes . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: ⌈ &=laugh ⌉ &=laugh &=laugh &=laugh . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: ⌊ Ah ⌋ . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (.) Good . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: &=in Ah . ▶,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) Heavens yes . ▶,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,TOM3: (..) &=in So but no I m:et you when you: ha:d uh (..) when they had their first (.) when they had their first party . ▶,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,TOM2: (..) This is Christmas time ? ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (.) Yep . ▶,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,TOM3: (..) . ▶,FALSE,FALSE,FALSE,FALSE

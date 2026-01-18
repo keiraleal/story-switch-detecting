@@ -1,0 +1,151 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV1: well then the second to last thing that we'll need you to do .
+out,FALSE,FALSE,@Comment: My name is Franky and go to The dickerman School by Franky Cleckley room 12
+out,FALSE,FALSE,"@Comment: Chi has a hard time getting started on this activity. Mot gives him a lot of different ideas about who to write to but Chi rejects them. Chi ends up going off to his room but comes back for more ideas about what to write. Mot follows Chi to his bedroom to help him write the letter; however , this is not recorded. Chi finally writes what Mot seems to have told him to. There is a lot of comotion going on which is very distracting."
+out,FALSE,FALSE,@Comment: Time is 3:18
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,INV1: more things !
+out,FALSE,FALSE,INV1: is &-um .
+out,FALSE,FALSE,CHI: write my name .
+out,FALSE,FALSE,INV1: no .
+out,FALSE,FALSE,INV1: more [!] then that young man .
+out,FALSE,FALSE,INV1: is have you and your mom or dad or whatever &-um (.) you two write a letter .
+out,FALSE,FALSE,INV1: I'm going to have you write a letter and have them help you if you need any help .
+out,FALSE,FALSE,CHI: okay [?] .
+out,FALSE,FALSE,INV1: and let me get you a [/] a pencil .
+out,FALSE,FALSE,INV1: do you want a pencil ?
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,INV1: do you wanna write with pencil ?
+out,FALSE,FALSE,INV1: okay .
+out,FALSE,FALSE,INV1: let me grab you a pencil .
+out,FALSE,FALSE,INV1: (..) I got you a pencil .
+out,FALSE,FALSE,INV1: Chi ?
+out,FALSE,FALSE,INV1: here xxx .
+out,FALSE,FALSE,INV1: okay .
+out,FALSE,FALSE,INV1: &-um (.) so <you might wanna> [//] <you can actually> [//] (.) if you wanna write on the table or the (.) book .
+out,FALSE,FALSE,CHI: what to [?] write ?
+out,FALSE,FALSE,INV1: write to anyone you want .
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,MOT: write a letter .
+in,TRUE,FALSE,MOT: write a letter to Daddy telling him what you want for Christmas .
+in,FALSE,TRUE,FAT: (..) write about your telephone [?] or whatever I'm sposta get you .
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,CHI: another puppy .
+out,FALSE,FALSE,MOT: no puppy again [?] .
+out,FALSE,FALSE,FAT: no dog .
+in,TRUE,FALSE,MOT: write about what you want .
+in,FALSE,TRUE,CHI: I want another puppy .
+in,TRUE,FALSE,MOT: xxx (.) don't write about that one because you willn't get it .
+out,FALSE,FALSE,INV1: &=laughs .
+in,FALSE,TRUE,MOT: you can write you want some goldfish .
+in,TRUE,FALSE,MOT: or xxx what them fighting fish .
+in,FALSE,FALSE,CHI: chinese fighting fish .
+in,FALSE,FALSE,CHI: +^ <I don't> [>] want (th)em .
+out,FALSE,FALSE,MOT: yeah [<] .
+out,FALSE,FALSE,MOT: yes xxx .
+out,FALSE,FALSE,CHI: no fishes .
+out,FALSE,FALSE,MOT: xxx a letter .
+in,FALSE,TRUE,CHI: well (.) I could fly it .
+out,FALSE,FALSE,MOT: no flying paper .
+out,FALSE,FALSE,MOT: +^ write a letter .
+in,TRUE,FALSE,MOT: write a letter to your teacher .
+out,FALSE,FALSE,CHI: no .
+in,FALSE,TRUE,MOT: (.) write a letter to Santa Claus .
+out,FALSE,FALSE,CHI: no .
+in,TRUE,FALSE,MOT: write a letter to Nana and tell her what to buy you when she go shopping .
+out,FALSE,FALSE,CHI: (.) you writed@n it .
+out,FALSE,FALSE,MOT: no .
+out,FALSE,FALSE,MOT: who's looking for me [?] ?
+out,FALSE,FALSE,MOT: I'll show you my xxx .
+out,FALSE,FALSE,@Comment: Time is 5:54
+out,FALSE,FALSE,WOM: www .
+out,FALSE,FALSE,MOT: www .
+in,FALSE,TRUE,CHI: Ma where you_all goin(g) ?
+out,FALSE,FALSE,@Comment: Time is 6:20
+out,FALSE,FALSE,WOM: I'm sorry to interrupt .
+out,FALSE,FALSE,CHI: Ma (.) Ma .
+out,FALSE,FALSE,MOT: what baby ?
+out,FALSE,FALSE,MOT: I xxx .
+out,FALSE,FALSE,CHI: who ?
+out,FALSE,FALSE,CHI: no !
+in,TRUE,FALSE,CHI: Ma what store you_all going to ?
+out,FALSE,FALSE,@Comment: Time is 6:37
+out,FALSE,FALSE,CHI: www .
+in,FALSE,TRUE,MOT: we're just waiting for Chi to write this letter !
+out,FALSE,FALSE,@Comment: Time is 7:38
+out,FALSE,FALSE,"@Comment: loud , angry"
+out,FALSE,FALSE,@Situation: perhaps on the phone
+in,TRUE,FALSE,MOT: yes sir [?] write the letter .
+out,FALSE,FALSE,BRO: xxx .
+out,FALSE,FALSE,MOT: xxx .
+in,FALSE,TRUE,BRO: Nana said write the letter .
+out,FALSE,FALSE,CHI: Mom .
+out,FALSE,FALSE,CHI: help me .
+out,FALSE,FALSE,INV1: well Chi how_about +//.
+out,FALSE,FALSE,INV1: &-um your mom has given you a_lot_of nice ideas .
+out,FALSE,FALSE,INV1: xxx to write .
+out,FALSE,FALSE,INV2: sure has .
+out,FALSE,FALSE,FAT: www .
+out,FALSE,FALSE,INV1: xxx a_lot_of good ideas .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV1: well then you must have a good idea on your own huh ?
+out,FALSE,FALSE,INV1: <somebody to write> [>] .
+out,FALSE,FALSE,MOT: <xxx your> [<] girlfriend .
+out,FALSE,FALSE,MOT: you xxx [>] the whole year .
+out,FALSE,FALSE,CHI: no [<] !
+out,FALSE,FALSE,INV1: (..) you could write &-uh (.) me .
+out,FALSE,FALSE,CHI: no !
+out,FALSE,FALSE,INV1: no www &=laughs .
+out,FALSE,FALSE,MOT: write to Inv .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: xxx her name Inv not your cousin Stacy .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,SIS: don't be fresh (.) Chi .
+out,FALSE,FALSE,MOT: well write something .
+out,FALSE,FALSE,INV2: you know what when you're done writing the letter we're gonna [: going to] take some pictures .
+out,FALSE,FALSE,MOT: a picture of you and Daddy together .
+in,TRUE,FALSE,MOT: you know like that guy xxx hanging up on the wall xxx .
+out,FALSE,FALSE,CHI: &=laughs .
+in,FALSE,TRUE,MOT: go over there and write to Daddy .
+in,TRUE,FALSE,MOT: <have Daddy (.) write xxx out> [//] you write a letter to <Uncle xxx> [>] .
+in,FALSE,FALSE,CHI: <I write in my (.)> [<] room .
+out,FALSE,FALSE,MOT: okay write in your room .
+out,FALSE,FALSE,MOT: how long it gonna be ?
+out,FALSE,FALSE,CHI: a hundred years .
+out,FALSE,FALSE,INV1: you can go in your room ?
+out,FALSE,FALSE,INV1: okay .
+out,FALSE,FALSE,@Comment: Time is 9:07
+out,FALSE,FALSE,MOT: in his room .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,INV1: www .
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,INV1: www .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,CHI: Ma .
+out,FALSE,FALSE,@Comment: Time is 10:05
+in,FALSE,TRUE,CHI: <I don't know what> [//] I don't want (.) to write anything .
+in,TRUE,FALSE,CHI: I don't know (.) what to write .
+in,FALSE,TRUE,MOT: just write my name is Chi and I go to the Quincy [?] Dickerman School .
+out,FALSE,FALSE,CHI: &=grunts .
+out,FALSE,FALSE,MOT: go on .
+out,FALSE,FALSE,CHI: hm: .
+out,FALSE,FALSE,FAT: xxx stop being xxx .
+out,FALSE,FALSE,FAT: write something .
+in,TRUE,FALSE,CHI: I don't know what to write .
+in,FALSE,FALSE,MOT: write my name Chi .
+out,FALSE,FALSE,MOT: go on .
+out,FALSE,FALSE,MOT: go on hurry up .
+out,FALSE,FALSE,CHI: on both of them [= sheets of paper] ?
+out,FALSE,FALSE,MOT: <&-uh one> [>] .
+out,FALSE,FALSE,INV1: <no just one> [<] .
+out,FALSE,FALSE,INV1: I just gave you both <in_case you> [/] in_case you wrote so [!] much that you needed a second sheet of paper .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV1: (..) okay .
+out,FALSE,FALSE,INV1: (..) &=laughs .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,INV1: www .
+out,FALSE,FALSE,FAT: www .
+out,FALSE,FALSE,@Comment: Time is 12:19
+out,FALSE,FALSE,INV1: do you mind if I take this ?
+out,FALSE,FALSE,MOT: go [?] alright .

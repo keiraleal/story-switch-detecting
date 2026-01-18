@@ -1,0 +1,213 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,NIK: let us play house Becky .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,NIK: where's the tv Becky ?
+out,FALSE,FALSE,CHI: a tv ?
+in ,TRUE,FALSE,CHI: this could be the baby .
+in,FALSE,FALSE,NIK: and I'm gonna be the mommy .
+in,FALSE,FALSE,NIK: you get baby and I get Ma [//] baby .
+in,FALSE,TRUE,NIK: I don't get daddy and you get baby too .
+out,FALSE,FALSE,CHI: tree_stump .
+out,FALSE,FALSE,NIK: that's for outside .
+out,FALSE,FALSE,CHI: there's a fireplace .
+out,FALSE,FALSE,NIK: a rocking chair .
+out,FALSE,FALSE,NIK: <where should the> [//] Becky where should the rocking chair go ?
+out,FALSE,FALSE,NIK: in the bedroom ?
+out,FALSE,FALSE,CHI: yeah (.) in the bedroom .
+out,FALSE,FALSE,NIK: you know we hafta have enough room .
+out,FALSE,FALSE,NIK: <where's the bathroom> [/] where's the bathroom ?
+out,FALSE,FALSE,CHI: maybe the bathroom could be sort of over here .
+out,FALSE,FALSE,CHI: here's some books to go on the shelves .
+out,FALSE,FALSE,NIK: goody [/] goody [/] goody !
+out,FALSE,FALSE,CHI: here's a little sink .
+out,FALSE,FALSE,CHI: it's neat .
+out,FALSE,FALSE,CHI: maybe you could keep their [//] a book in there .
+out,FALSE,FALSE,CHI: no I don't think that would be good .
+out,FALSE,FALSE,NIK: this is for outside .
+in,TRUE,FALSE,NIK: and they even gotta fence .
+in,FALSE,FALSE,CHI: a fence ?
+out,FALSE,FALSE,NIK: yeah .
+in,FALSE,FALSE,NIK: it's to keep the family in .
+in,FALSE,TRUE,NIK: so the little children won't run away .
+out,FALSE,FALSE,NIK: Becky we need a whole bunch of books .
+out,FALSE,FALSE,CHI: books ?
+out,FALSE,FALSE,CHI: oh yeah .
+out,FALSE,FALSE,CHI: the books could go there .
+out,FALSE,FALSE,NIK: here's another book .
+out,FALSE,FALSE,NIK: wrong way Becky .
+out,FALSE,FALSE,CHI: there now they've got lots_of books .
+out,FALSE,FALSE,CHI: what if that person gets up in the middle of the night and reads a book ?
+out,FALSE,FALSE,NIK: so ?
+out,FALSE,FALSE,NIK: it doesn't matter .
+out,FALSE,FALSE,NIK: lovely little drawers .
+out,FALSE,FALSE,CHI: they're cute little drawers .
+out,FALSE,FALSE,CHI: now we've gotta put the fence +...
+out,FALSE,FALSE,NIK: we could put all of these in one room .
+out,FALSE,FALSE,NIK: no we don't (.) we can put +...
+out,FALSE,FALSE,NIK: that could be the coffee table .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,CHI: how_about it could be the kitchen table (.) like that +...
+out,FALSE,FALSE,NIK: no .
+out,FALSE,FALSE,NIK: this is the kitchen table .
+out,FALSE,FALSE,NIK: no we don't +...
+out,FALSE,FALSE,NIK: where is the kitchen gonna be ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,CHI: there's another table .
+in,TRUE,FALSE,NIK: we hafta make room for the bedroom the bathroom the kitchen and the living_room .
+in,FALSE,FALSE,CHI: I think we could squeeze it all in .
+in,FALSE,FALSE,CHI: this could be (.) a picnic table .
+in,FALSE,FALSE,CHI: they could be picnic tables .
+in,FALSE,FALSE,NIK: and here's a bench .
+in,FALSE,TRUE,CHI: here's a picnic table .
+out,FALSE,FALSE,NIK: where should we put +...
+out,FALSE,FALSE,NIK: what's this ?
+out,FALSE,FALSE,NIK: what is this Becky ?
+out,FALSE,FALSE,NIK: I know .
+out,FALSE,FALSE,NIK: <the door is> [//] we already have a door .
+out,FALSE,FALSE,CHI: oh a (.) door [>] .
+out,FALSE,FALSE,NIK: <a window> [<] .
+out,FALSE,FALSE,CHI: that could be the doormat .
+out,FALSE,FALSE,NIK: Becky what could this be ?
+out,FALSE,FALSE,NIK: a dresser ?
+out,FALSE,FALSE,CHI: &-uh let me see what's inside it .
+out,FALSE,FALSE,NIK: I can't open it .
+out,FALSE,FALSE,CHI: oh (.) it's hard to open .
+out,FALSE,FALSE,NIK: where's the little books ?
+out,FALSE,FALSE,NIK: oh here they are .
+out,FALSE,FALSE,CHI: oh a little rolling [>] +...
+out,FALSE,FALSE,NIK: <I put it in upside down> [<] .
+out,FALSE,FALSE,CHI: a rolling pin .
+out,FALSE,FALSE,NIK: yeah .
+out,FALSE,FALSE,NIK: and a board too .
+out,FALSE,FALSE,NIK: hey that could be part of the kitchen table .
+out,FALSE,FALSE,CHI: yeah !
+out,FALSE,FALSE,CHI: I know that could be (.) like +...
+out,FALSE,FALSE,NIK: like and here's all the pans and stuff .
+out,FALSE,FALSE,NIK: and there's the little rolling pin .
+out,FALSE,FALSE,NIK: and there's the stove .
+out,FALSE,FALSE,CHI: here's another drawer .
+out,FALSE,FALSE,NIK: Becky !
+out,FALSE,FALSE,NIK: how_about this be the picnic table ?
+out,FALSE,FALSE,NIK: oh they're the same .
+out,FALSE,FALSE,CHI: yeah they're the same .
+out,FALSE,FALSE,CHI: I know that could be the front picnic table .
+out,FALSE,FALSE,CHI: how_about this could be +...
+out,FALSE,FALSE,CHI: where is the kitchen gonna be ?
+out,FALSE,FALSE,NIK: I don't know .
+out,FALSE,FALSE,CHI: maybe +...
+out,FALSE,FALSE,NIK: wanna put it up here ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: get the bedroom kinda crowded .
+out,FALSE,FALSE,NIK: I think that's all for up in the bedroom .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: that's all for up in the bedroom .
+out,FALSE,FALSE,NIK: oh here's some chairs .
+out,FALSE,FALSE,CHI: yeah they could go around there .
+out,FALSE,FALSE,NIK: we need a chair up here .
+out,FALSE,FALSE,NIK: no we don't need the rocking chair .
+out,FALSE,FALSE,NIK: hey Becky !
+out,FALSE,FALSE,NIK: it's even got a picture .
+out,FALSE,FALSE,NIK: in the bedroom .
+out,FALSE,FALSE,CHI: &~a:h .
+out,FALSE,FALSE,NIK: and right there (.) a pitcher [= picture] of flowers .
+out,FALSE,FALSE,CHI: cute .
+out,FALSE,FALSE,CHI: that could be <a desk up in the bedroom> [>] .
+out,FALSE,FALSE,NIK: xxx [<] .
+out,FALSE,FALSE,NIK: hey this can't be a drawer .
+out,FALSE,FALSE,NIK: it's a sink .
+out,FALSE,FALSE,CHI: I know .
+out,FALSE,FALSE,CHI: this is the one that you were talking about with a drawer .
+out,FALSE,FALSE,NIK: oh yes .
+out,FALSE,FALSE,NIK: that's a sink .
+out,FALSE,FALSE,NIK: now how do we open this ?
+out,FALSE,FALSE,NIK: oh there I opened it .
+out,FALSE,FALSE,NIK: Hey Becky !
+out,FALSE,FALSE,NIK: look what it looks like inside .
+out,FALSE,FALSE,CHI: I know .
+out,FALSE,FALSE,CHI: <xxx the bottom> [>] .
+out,FALSE,FALSE,NIK: <where could we> [<] .
+out,FALSE,FALSE,CHI: that could attach to the ground sort of .
+out,FALSE,FALSE,NIK: let's put the bathroom +/.
+out,FALSE,FALSE,CHI: right by the doors so if children are out playing +/.
+out,FALSE,FALSE,NIK: no [/] no [/] no !
+out,FALSE,FALSE,NIK: not by the door !
+out,FALSE,FALSE,NIK: I forgot the door is there .
+out,FALSE,FALSE,NIK: how_about we put this over like that .
+out,FALSE,FALSE,CHI: okay .
+in,TRUE,FALSE,NIK: put the coffee table right there .
+out,FALSE,FALSE,CHI: yes xxx .
+in,FALSE,FALSE,CHI: and people could sit there .
+out,FALSE,FALSE,NIK: yeah .
+in,FALSE,FALSE,CHI: and one person could sit there .
+in,FALSE,FALSE,NIK: two .
+in,FALSE,FALSE,NIK: and then the rocking chair .
+in,FALSE,FALSE,CHI: the rocking chair goes right here .
+out,FALSE,FALSE,NIK: no !
+in,FALSE,TRUE,NIK: that would be too crowded .
+out,FALSE,FALSE,NIK: there .
+out,FALSE,FALSE,NIK: <I put the> [//] I was going to put the drawer back in together .
+out,FALSE,FALSE,CHI: here's tree stumps .
+out,FALSE,FALSE,NIK: what do we need tree_stumps for ?
+out,FALSE,FALSE,CHI: I know the children might like to play with them .
+out,FALSE,FALSE,NIK: yeah .
+out,FALSE,FALSE,CHI: here's the stove .
+out,FALSE,FALSE,CHI: a pan .
+out,FALSE,FALSE,NIK: how do we open it .
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,NIK: Beck ?
+out,FALSE,FALSE,NIK: they're so small Becky (.) I can't open them .
+out,FALSE,FALSE,NIK: very good .
+out,FALSE,FALSE,CHI: maybe they [= the bears] could open them .
+out,FALSE,FALSE,NIK: I didn't think so Becky .
+out,FALSE,FALSE,CHI: this could be the whole bedroom .
+out,FALSE,FALSE,CHI: papa wants to go to sleep .
+out,FALSE,FALSE,NIK: hey they even got a mirror .
+out,FALSE,FALSE,CHI: oh yeah neat .
+out,FALSE,FALSE,"CHI: +"" how do I look ?"
+out,FALSE,FALSE,"CHI: +"" do I need a haircut ?"
+out,FALSE,FALSE,"CHI: +"" Not yet ."
+out,FALSE,FALSE,"CHI: +"" when I go to sleep than I might need one ."
+in,TRUE,FALSE,CHI: I knocked the book off the shelf .
+in,FALSE,FALSE,CHI: oh silly papa .
+in,FALSE,FALSE,NIK: hey two babies .
+out,FALSE,FALSE,CHI: &~aw !
+in,FALSE,FALSE,CHI: the babies can sleep on the couch .
+out,FALSE,FALSE,NIK: no .
+in,FALSE,FALSE,CHI: okay (.) the papa +/.
+out,FALSE,FALSE,NIK: <they're not big enough> [/] they're not big enough .
+in,FALSE,FALSE,NIK: papa can sleep on the couch .
+out,FALSE,FALSE,CHI: papa ?
+in,FALSE,FALSE,CHI: then where will mama sleep ?
+in,FALSE,FALSE,NIK: mama sleep ?
+in,FALSE,FALSE,NIK: mama can sleep beside papa .
+in,FALSE,TRUE,CHI: then papa gets to smell stinky feet if she lies that way .
+out,FALSE,FALSE,NIK: where's the dinner table ?
+out,FALSE,FALSE,CHI: oh how_about that be the picnic table ?
+out,FALSE,FALSE,CHI: if it's really really nice out .
+out,FALSE,FALSE,NIK: how_about we never eat inside .
+out,FALSE,FALSE,NIK: we always eat out on the picnic table .
+out,FALSE,FALSE,CHI: okay (.) .
+in,TRUE,FALSE,CHI: mama hasta cook now .
+out,FALSE,FALSE,NIK: okay let's put the tree_stumps back on the tree .
+out,FALSE,FALSE,CHI: I know this could be +...
+out,FALSE,FALSE,CHI: where's this +...
+out,FALSE,FALSE,CHI: this could be sort of like [//] &-uh: like the drawer don't open .
+out,FALSE,FALSE,CHI: they just look like drawers .
+in,FALSE,TRUE,CHI: and it could really be a table and mama could cook on it .
+out,FALSE,FALSE,NIK: like put this on it and a roller .
+out,FALSE,FALSE,CHI: the cutting board on it .
+out,FALSE,FALSE,NIK: Becky !
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,NIK: let's start playing with the bears now .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,NIK: where's papa ?
+out,FALSE,FALSE,CHI: papa .
+out,FALSE,FALSE,NIK: where's baby bear .
+out,FALSE,FALSE,NIK: baby baby bear .
+out,FALSE,FALSE,CHI: oh it's cute .
+out,FALSE,FALSE,"CHI: +"" wa:h [!!] mama ."
+in,TRUE,FALSE,NIK: xxx this one tripped over it .
+in,FALSE,FALSE,"NIK: trip [!!] +""/."
+out,FALSE,FALSE,"NIK: +"" wa_wa_wa@o ."
+in,FALSE,TRUE,"CHI: +"" mommy you're sposta put your things away ."
+out,FALSE,FALSE,CHI: &=laughs .

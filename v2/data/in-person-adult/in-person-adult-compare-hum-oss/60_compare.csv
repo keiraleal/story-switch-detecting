@@ -1,0 +1,465 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+in,TRUE,TRUE,FALSE,FALSE,ALAN: I got a story to tell you it's a shaggy dog story but as long as we're talking about that recorder and hundred dollars I'll tell you the story oh gosh uh Rae and I and Sue and Buddy took a trip to Mexico City.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: It must've been four to six months after my dad died.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: That's how I remember it he died in s:,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Oh God.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: December seven so sometime in eight we took this trip we'd been talking about it for a while uh: flew down to Mexico City uh we c- think of the name of my hotel which wouldn't mean anything now but we ended up in a fabulous hotel uh: first night we were very unhappy with our rooms we got down there and the next morning Buddy who's a early riser anyhow was probably up four o'clock and he went down there complaining to the manager So cause it was not w- the accommodation we were supposed to have had we checked in about eight o'clock at night or so which is in Mexico is like you know the,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Well we ended up with a corner suite.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: With It was so big.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: we could've had a party for fifty people XXXXX.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Three bathrooms in it ʔuh two bedrooms so they had but they had an extra guest bathroom xxx big ba:r it was circ- open on two sides of course we didn't have anybody there but the two of us And I remember the New York Yankees were training there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: So it probably was the season opens in April so it probably was February or March Mickey Mantle and uh Whitey Ford and all of em I wish I'd been smart enough to know then that uh these baseball cards and those autographs would be selling for three or four hundred dollars.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: but at any rate uh I went down there with a recorder.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: We used to,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: We had those things at the store that we used to u:se when we'd go out of town and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: particularly if we were looking at some site o:r we were looking at a store.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: when we had some comments we'd talk into those things.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: We had four or five of em Aaron had one I had one Mike had one xxx had one from that financial guy Things sold at the time for about eight or hundred dollars.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Eight or hundred?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Eight,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Eight or hundred dollars.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Uh you got a very sophisticated one but you know the little ones now about this size.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Well this son of a bitch weighed about fifteen pounds.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: It was some heavy son of a bitch.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Had a pouch like sorta like you've got.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: I carried it around.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Well any rate my wife had fallen in lo:ve with a Mexican artist by the name of Nierman.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Forgot his first name.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Jewish guy.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Mm:.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Mexican national.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: His paintings sold f- fo:r generally a thousand dollars plus.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Which was for me.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,JON: A lotta money in those days.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: five years ago I was,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: no way I was gonna spend twe- a thou,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: First of all I didn't like him.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Very splashy.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Albert and Marcia had one of his paintings they had,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: They had,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: I I don't know Marcia had a relative in Mexico or something.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: But they'd been down there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Many times and and they had his book a:nd we got down there and he wa:s uh: all over the place.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: His paintings were he lived in Mexico City.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: A:nd uh:.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: we had a cab driver.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Uh: that was gonna take us to wherever the place where the go:ld was.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: I can't remember one of the roughest rides and if you ever been to Mexico City you made that ride.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: some kinda city about hundred miles away I th:ought we were gonna die: going down there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: An old car and anyway.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Well before that he took us around the city still got his car:d somewhere.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Slammed the damn door on this guy poor guy's hand one day inadvertently we were getting out we had him about three days one day we took him down to wherever we went Buddy and Sue didn't go but he took us to the ruins and all that stuff.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: You know uh you know I and I I knew then and I know now that those guys take you to a particular place they get a commission.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Well they took us to this guy's studio.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: He what?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Took us to this guy- artist's studio.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Uh a:nd uh: Rae he was there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: And she saw a painting she liked.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: A:nd uh he wanted that damn recorder.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: And he said I tell you what I'll do.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: xxx make you a deal.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: He said I'll,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: You take this painting I want that recorder.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: I'll take it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Could,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: naw I can't do that it's not mine.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: It was,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: It's about a thousand dollar swap.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Shit I thought my wife was gonna have a ⌈ fit.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALAN: she was pissed ⌉ off Mexico City was a uh in those days probably still is not,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,ALAN: For this guy he was very successful.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Uh: very prolific.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: But it was an art colony and there were a_lot_of Americans down there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: He was not an American.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: A lot of Americans down there uh because cost of living was so cheap at the time.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALAN: And they- they had these art shows everywhere.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALAN: Well we bought a painting uh: of a little Mexican woman still got it with a watermelon on her head like it a lot.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Think I paid thirty dollars for it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Well that was about my price range.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Uh while I was down there we may have bought a couple of other ʔi- inexpensive paintings maybe collectively we bought maybe spent a hundred and fifty dollars.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Uh: hell I was not an art,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: We weren't art collectors.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: A:nd uh to spend a thousand dollars to me for a painting was unthinkable.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALAN: Uh The s- first painting I ever bought my law bought it from Geri f- Geri Rae it was one of Geri's original early early paintings which I thoroughly enjoy she's changed styles but Whi:le we were down there uh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: You know I.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: This,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: It,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,JON: I've s:een that somewhere before.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: You know I've had that painting for five years I guess.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: I- I've never framed it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALAN: And I really like it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Uh: my,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ALAN: My my law wanted to give me a painting for my,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Piece of art for my office.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: And so I had a,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: We had a display guy at the time by the name of Be:n M:oney fashioned himself as an artist.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: And I said Ben pick me out something.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: You've got fifty bucks to spend.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: So he got this from Geri and I loved it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: xxx.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: It's beautiful.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: And and I can see all kinda things in it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JON: It's got a lotta color and.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Lotta color.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALAN: I see a Chinese junk At any rate to make a long s,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,ALAN: This fellow LeRoy Neiman over here.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Sports artist.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Not the same guy as this guy Nierman.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: I've forgotten his name.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JON: Oh I thought there was a connection.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: No.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: No connection.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: K- there is a connection on the story Well we looked at a_lot_of art in in in the in the uh parks and there at least it was pleasant weather and Like that uh It was sorta like uh What the hell they call the district in New York where on Sunday they put all the artists put their paintings out uh the Village the Village.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: The Village.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: You know all the all these artists put their,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Well they had must've had three areas like that.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Parks with paintings and my god there must've been thou:sands of paintings.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: And uh most of em very inexpensive.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALAN: Uh starving artists that were down there lots of American.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALAN: Well uh: we wandered around down in the the area which I've forgotten the area that they called in Mexico City where uh most of the jewelry shops are and things.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: It's got a name.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: I can't remember I've never been back.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: They also had a_lot_of uh artist galleries down there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: And I walked into this gallery during one of our,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: We were down there maybe ten days.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: And I saw this guy Nierman.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: I never heard of him at that time.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: He he he got famous at the nineteen uh: probably two Olympics.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Uh: but his c,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: His art was already in collections of guys like Edward gee Robinson it was very popular in Hollywood.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: He also was very prolific.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Big handlebar mustache.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: And I walked in and there must have been about twelve or fifteen paintings in there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: They were uh:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JON: You walked into his studio or.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: It was a gallery.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Uh he didn't live there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: he didn't live in Mexico.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: The oth- th,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: The guy n,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Th- the Jewish fellow they're both Jewish.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Th- th- this guy Nierman who was a Mexican national lived there.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Forgotten his first name.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Leonardo Nierman or something.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: But any rate but uh ʔuh this guy's name was LeRoy Neiman I'd never heard of him well I'd heard of Nierman.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Uh: because Rae went down there wanting to buy one of those paintings.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: These were paintings which I'd say were about the size of this Joe Namath.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Which is a seriograph.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: And ʔuh we went in and uh they were just back from Acapulco season was just over in Acapulco.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: And he had about fifteen twenty paintings five paintings football players horse races that's what he did they were about that size.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: I'd been in there oh God I looked at em they just struck me as something I loved em.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: They were great.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: They were you know very,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Had a very distinctive style.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: And uh the guy said uh God you've been in here so many times that said I'll make you a deal.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: You pick out any four of these you want I'll give em to you for hundred dollars.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: The four of em.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Shit I loved those things.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: I stewed on those son of bitches stewed on those son of bitches I figured I bought those fucking paintings I'd have to buy that damn thing for Rae.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: or I'd trade that camera for a thousand dollars and hundred dollars to buy another one I promise you as God is my witness.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: This guy's originals sell for a hundred thousand dollars apiece or more.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: You are kidding.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: They were.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: He is big big He's the premiere sports artist in the world.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Really.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: And uh I'd never heard of him.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: And but of course the price was right for me but I didn't buy em.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: That was about,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: That was about nineteen,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Spring of eight.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: And I was watching the Olympics of two.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: And he'd been engaged by the Olympic committee.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Uh he was prominent then but not world famous.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: A:nd uh: I:,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: He was up all over.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: He's got a grea:t big bull of,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Bull Moose mousta:che sort of a deal General Bull Moose if you remember.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Yep.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: And uh his art was so distinctive.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: And he's,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: The sketching.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: I said Jesus.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: That's my ma:n.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: I remember seeing at the Olympics.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: I hollered and screamed and I told the story Well of course since that time I'm on his mailing list xxx xxx X X one main gallery in New York that uh think distributes for him around the United States and I'm on the mailing list and they get today five hundred to fifty for a seriograph.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Of which he produces maybe three to hundred of em.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Depending on the issue.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: But these were originals.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: I,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Jon I promise you as God as my witness.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: I,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: He was,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: I could've walked away with those things and,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: And uh: I I I p,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: ʔuh ʔuh,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALAN: But that's my story on that machine.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,ALAN: That damn thing and of course I didn't know- Obviously I didn't know what I was missing if I'd done I'd done that.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Obviously.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: But you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: It was,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,JON: But still hundred dollars was a_lot_of money in those,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: ʔuh hundred dollars was,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JON: You didn't spend that much on the whole trip probably.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Oh hell I w- I you know I w- I I would s- I would say probably certainly we didn't spend hundred dollars for uh: for novelties and things of that nature you know it was,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: You tal- you talking about a lo:ng time ago.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Mexico City was chea:p.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Je:sus Christ.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Oh man it was,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: I mean We we we stayed in a f:irst rate I guess what you call today a four star hotel but hell I don't imagine we paid twenty dollars five dollars a night.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: You know xxx uh uh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Probably.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Probably.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: But uh anyhow uh I I I,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: God I my,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: I give my wife the story Every once in a while this guy's name,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Cause uh I I I like this guy love him.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Uh and of course you know I've never uh xxx This one over here on the right although it's signed by by n- Nier,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: By by LeRoy Neiman Paul xxx and a: uh And is also signed by the artist it was done for a: uh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Poster?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: A benefit it was a poster.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: That's just That's not a that's not what they call a seriograph the Joe N- the Joe uh Namath Who was of course an Alabama football player.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: is I saw it out in San Francisco and my my my in bought that for me uh but uh: uh:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JON: It's a beauty though.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: That's my That th- that's my r- That's my my experience with one of those machines.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: I didn't have enough judgment to to ⌈ trade him that fucking machine.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JON: ⌊ To give him the machine.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: ⌋.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: because I'd say ⌉ probably it wasn't Like it was like computers.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Well in a year or so after that that thing was so impractical.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALAN: Cause it was s- heavy heavy heavy.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: You- uh and.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Well they're,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: ʔit's like you say I,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: xxx.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,JON: Eloise gave me one for Christmas about,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: X This big.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: You know and you buy one for sixty dollars.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Eighty dollars.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALAN: I got one I bought from Radio Shack.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: It's,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Well did Rae ever get uh Nierman.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: XXX No.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Never did get it.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALAN: But she nudged me when she got back but of course I guess I haven't done it recently but over the years I like to tell her this story.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: tonight because I haven't thought about it in a long time And she'll say to me I told you ⌈ to get em.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: I told you.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: I must've gone ⌉ into the place fi:ve ti:mes.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: You know I'd go in there.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: xxx.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: and your mouth is just watering.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Shit.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: If I buy those,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,JON: But you knew you were gonna have to buy her w,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Well if I had to,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: If I bought those things Shit I'd have to buy her that da:mn thing.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Oh ain't no question.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: And there was no: question about that there wouldn't ve been any liv,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Wouldn't been any living with her.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: You know it's uh y- y- You know h- I,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: I've gotten a lot better.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALAN: But in those days you know hell I was uh: maybe I was s- see.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: eight eight eight X,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Just seven eight years ago.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALAN: I was eight nine years old.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: And uh I I sure didn't have,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: ʔuh I sure wasn't prosperous.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: I had my damn trip budgeted.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: And uh to have gone out there and spent another hundred to thousand dollars for artwork you know my mother who was you know strong as moose meat come back if she'd ve known.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: ⌊ She'd've figured I needed my fucking head examined.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: ⌋.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,JON: She'd've deducted it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: ⌈.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Shit.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Oh⌉:.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Any rate uh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: That's a good story though.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Ah it's true story.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Good story.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: True story.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: It was a true story.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: I I,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Well it would've cost you that to replace the doggone machine?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALAN: Aw I'd ve had to replace it for the store uh but as I said it was only a matter of I guess a year those things were really antiquated-.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Although we used em a lot.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Uh in those days and I you know I recorded the whole trip and uh you know things that we did It was a wonderful trip we had good times.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Better than keeping a diary?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Oh yeah.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: A lot easier.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: It really is.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Uh.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: We,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: I keep a,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JON: Remember we tried keeping a diary on the China trip and man it was arduous.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Well I keep a diary,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: course I we we haven't traveled much lately I keep a diary when I go out of the country.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Still got em in here.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Otherwise my problem is and it's a lot easier to do it that way but I I keep I diary when I go out of the country.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: The problem is ʔuh: with me not that it comes up too much but someone'll say something to me about somewhere I s- Shit I I you know I I forgot where I went.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: I have to look cause I can't remember.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,JON: Well you go to so many places on a cruise particularly you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JON: So many places in a short time that you get em mixed up.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JON: Now we can't even keep our photos straight without the diary.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Oh yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Well you know y- when you get back from your trip until you make another trip you can remember.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: But having taken as many trips as you've taken shit they sorta run together.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: I'm talking about.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: They do.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: the ones that were fi:ve years ago.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JON: Honest they do.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: to separate the trip that you went on this one f,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: It's tough to do.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: And uh but they're a lot,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALAN: that's a lot easier than a diary then you can transcribe it.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALAN: But uh I don't take I don't take my diary in the domestic United States and we haven't traveled all that much but I have taken em uh: first trip I made ʔuh you know o- out XXX In six.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: XXX,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Tha,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Outside of Mexico out of the country was I went to Uh: we went to I went to the Orient.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: On a business trip.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: xxx exploratory trip I was there for fifteen days worked my ass off.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: But it was uh went to uh Japan went to Osaka which was the textile city and then uh Taipei and Hong Kong.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Uh: and it was a You've been.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: U:m but it was for me uh uh not only an education we'd been doing some importing but uh: through a group.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: And it was a group of us that went.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: I guess it probably was a dozen in our group that went.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: There was a group of stores that we were associated with it was a a an interesting trip uh: ʔuh very educational.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Uh still got my notes from six but s- and all those god damn cards you know how they get over there everybody gives you.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: gives you.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: gives you a card.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALAN: I'll never forget how impressed I was with of a:ll the Orientals the Japanese are so: bright.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: My god.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: And uh just uh uh: uh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JON: Catch on like that.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: They jus,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JON: Don't they.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Oh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: They really they,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: they really they real- they really.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,JON: They work at though man and the Chinese work at it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,JON: They're good students You know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Well yeah.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: well you know we see.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Listen look at these people from India.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: What s- good students they are.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Some of your fine doctors.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: It's amazing ain't it.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALAN: You know we see these people you know y,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALAN: You know we've talked about this on groups for years all the problems we got with the Blacks I was just reading an article I believe it was the paper this morning.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Where I read it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Maybe it was New York Times yesterday.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: three percent of the Black juveniles in their twenties are either in jail.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: on paro:le or just released.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: three percent.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: And then I I read in another art,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JON: And that doesn't count how many got away.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Oh that's right.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: But that's of the,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: ʔuh in their twenties.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: I read an article within the last three or four months and I'm I believe I'm correct on this figure that twelve percent of the Black male population of the United States is in prison.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Twelve per cent.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Of the Black male population.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: As you say how many di,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: You know how many oughta be in jail probably that many more.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: But the point I was gonna make is and there're always exceptions.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Uh not to take anything away from uh Percy Jones.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Whose article I read this morning.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: because I mean he's I don't know what his family had but I mean he's you know he's he's c- he's he's come out of it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: But by and large across the board ʔuh: they've just never educated themselves.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Coming from these back⌈grounds.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Well that's the hard part.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: and and yet you s- ⌉,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,JON: they haven't educated themselves.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALAN: And you see these people come here from Taiwa:n Ko:rea Cambodia Taipei parents can't speak English they come over not speaking English and they they excel scholastically in the most difficult subjects.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: I mean chemistry physics medicine.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: I remember one year there for at the time I remember reading the article it's been ten or twelve years ago but fourteen were.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Fourteen uh public and private high schools in Bos.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: I don't know how many there are today.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: I remember that it was a big article that fi:ve valedictorians.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: For sh_just Bossier.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Five valedictorians that year were of Oriental descent.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: You know couldn't ve been at that time.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALAN: two hundred and fifty families in the whole damn area.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: No.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Uh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: You know and you think,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JON: You know um.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ALAN: and you think about the Jews the Irish and the Blacks and it's the same all over the fucking world.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Mm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: And I just read an article in New York Times.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Yesterday.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: I clipped it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: For my wife to read.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Uh about the fact that in Israel where they have brought in thousand where do the dark ones come from.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JON: Ethiopia.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Ethiopia.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Uh: and thousand Russians.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Ha- very proud of the fact that they've been able to do this in a country of five million people.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Uh: which would devastate most countries.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: I mean they uh.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JON: It's ten percent.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: the and and the the Ethiopians in particular had a big march last week.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: Because they're second class citizens.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: The Jews look down on them too.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALAN: You know they got a they got a they got a uh a class: situation they look different they,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: And,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALAN: Course they haven't accepted the Russians too well either.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: Uuh ʔalthough the the the Russians a high percentage of Russians are according to this article uh are scientists doctors engineers mathematicians and they,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JON: Ed- educated the difficult way.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: On areas score score higher on the test than the than the th- the native borns but there's a big you know there's a the- the- there's a there's a there's a class differential.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALAN: Which was interesting.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALAN: I I really hadn't thought about it in many years how those Blacks uh had integrated into the ci- society.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALAN: I am told I haven't seen any of em but the Blacks th- they're not like our Blacks.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: they're.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: No no.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALAN: Small you know smaller features but uh they are dark skinned and uh they look different X.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALAN: And uh I don't know whether there are any other Black Jews over there but uh XXX,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: XXX,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,JON: A lot from South Africa but they're well educated people down there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,JON: A lot of em.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: A lot of Jews from South Afri-.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Oh yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: I'm s,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALAN: I know that this fellow Go:ldstone who was a head of this uh international war tri- crimes tribunal is a Jewish fellow because there was a picture of him in the paper with a yarmulke on.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: Mm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JON: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: You had to look close xxx.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JON: Pretty good indication.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: Pretty good indication.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JON: Well you know.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALAN: But uh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JON: these ʔuh,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,JON: These ʔuh,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,JON: What astounds me is and this goes back into nineteen let's see Duna died in seven or something so this this goes back oh further than that maybe seventy.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,JON: in ʔuh,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,JON: in Houston.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,@End,FALSE,FALSE,FALSE,FALSE

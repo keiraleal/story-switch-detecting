@@ -1,0 +1,898 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+in,TRUE,TRUE,FALSE,FALSE,ALIC: Well when you said that though ʔuh m- my my new boss she came,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: She told Mike yesterday- she's I wanna be there at seven o'clock to go to community meeting.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: And so Mike is there at seven fifteen he says I wonder where she is.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: You know and he says I get up I wasn't planning on coming in until eight and here I am early.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: And so she comes in she says I apologize for for being late and everything.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: She's I forgot we might have to scrape windows out here cause she's from Arkansas.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: And so she went into the community afterwards she's it hasn't been a good morning she says I bought four five pairs of new pants before I left and had em shortened.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: She goes and I didn't bother to try em on before I left.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: So she's all of em are not short enough.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: She's these are the shorter one and they're about two inches too % laugh lo⌈:ng % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Oh: % laugh ma:n.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: And then ⌉ she brought- bought a brand new attache case.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: And yesterday was the first day she used it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: Put a bunch of stuff in it to read went home last night and couldn't get it open.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: The lock would not open.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: And she's I don't think it came with a kay and it's this,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: K- a key.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: And it's this beautiful attache leather.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: One that she bought just before she left.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: She couldn't get it open.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: So Mike tried and he couldn't get it and I says uh don't worry I says we'll get we'll get one of the maintenance men I says they can fix anything.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: Or % laugh get % laugh one of the kids they could probably % laugh,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALIC: Well that's what I told her.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: I said % laugh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALIC: one of the kids could probably have it out in five seconds she's I know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: We won't,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: We won't test them.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,ALIC: So I had Bill come over Bill comes over with his Leatherman Toolma:n or,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Or whatever it is?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: Few minutes he had it undo:ne % laugh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: So she can't use it now though.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Well she says she has to really look and it came with a strap too she says maybe on the strap there's a key.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: She's and I didn't bother.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: She just likes it with the handle not the shoulder strap.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mhm.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: So she says it has not been a good day.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: My pants didn't fit and she says they're too long.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: She says I ha:te em.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: They ʔuh,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: You know and they were kinda long on her shoes?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: And we were kidding her I says just buy real high heels and then you won't have to have em reshortened.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: Her attache case wouldn't,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,ALIC: Well first and then the windshield wipers needed wiping and then the attache % laugh case % laugh she's this is not a good % laugh morni:ng % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: I says well.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mm:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: this is your second day of work it only goes down hill from there:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Unhunh and that,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: That ice stuff was th:ick too cause I took the blankets off my car this morning?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: By the time I went out there again they were still f,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: They were frozen over you know that that thi:n.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm:?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ANNE: just that f:oggy stuff and I'm like oh my Go:d.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Why didn't you go work out this morning.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: Ma- my legs were kinda sore this morning.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Still?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: when I got up so I thought that's probably not good.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: I'm gonna go tomorrow but I was thinking I don't wanna.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Di,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: you know if if I did pull something I don't know what I did to em.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Y- ʔuh,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Did you take the Tylenol.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: xxx.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: like I told you to yesterday?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: I took some this morning then too.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: Just to make sure.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: I think you know and you might be just a bug that kind of a flu achy type thing.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌊ Yea:h.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Yeah cause ⌋ Jenny had that flu today she went ho:me today: and a_lot_of people have had it b- you know the like s- fall,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: Paula went in and found out to the doctor she was tired of just having this kind of just not f:eeling real well and she thought she had an ear infection.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: she went in and she she- had a sinus infection.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Gave her some antibiotics.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: She goes at least I'll get over it then.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: You know so I think it just might have been something around but God that was the weirdest thing.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: That's what I did all day today I had three or four different kids come up and complain of nasal sinus problems?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: So every time one of the doc,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: Their docs came on I wrote another order and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I know it's just,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: called Bruce and added their name.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: It's just one of these long going flu things.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Bruce wanted to go hunting today and every time I call him I says you're not getting out here early.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: And then finally he told me he says uh he wasn't going today with Mike anyhow.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Mike left early.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALIC: And wasn't going hunting.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALIC: Today.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: So In fact ʔthen I didn't leave until f:- four o'clock.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: And then him at the copier machine I said so much for getting out on ti:me on F:riday.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Oh yeah?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Well I thought,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mm.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: I said Paula I can stay if you want me to.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: Cause I wasn't doing anything and we didn't do anything all day long pretty much it was boring.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: We had custom,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Can I just have a little bit of that soup just to try it?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: I tried,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALIC: It's really spicy Annette.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Oh yeah?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: That's alright.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Da:d ʔuh doesn't cut up his onions as s:,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ʔAs smooth as I do?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: And I think when I made it I used my salsa not his salsa?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah:?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: And when the chili powder says two to four teaspoons?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: He used the four?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALIC: I probably used two.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: He used the four.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: So it's real It'll open up your sinuses.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: Well I like,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: I like the onions.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: I just wanna try it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: It just smells so good.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: Well try a couple spoonfuls.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: And I think I'll only cook it for about another half hour and then I'll turn it off.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: Um because % laugh well we had customer appreciation day.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: So we had hot dogs and then we had the retirees come and they're really nice ladies.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: And we got corco- corsages for em and stuff you know they really like that.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: And um they're like this is probably the last year you guys get to do this with the merger and we're like yeah probably.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: But um they were really nice and but we had hot dog,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: I just had a hot dog for lunch.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: I was gonna go buy something and I thought God why waste money on a hot dog when I or ʔuh on food when I could just eat a hot dog.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: So I had two of em and I mean the first one kinda tasted pretty ⌈ good?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: And I ate the other one then half of the other one ⌉ it was like whoah:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: I don't like hot dogs that well but and then we had cake.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: We had that carrot cake from Costco that carrot ⌈ cake.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: and the ⌉ chocolate with the cream f- filling stuff.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: it's not real sweet at all it's more like a butter cream.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: Kinda thing and then.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Unhunh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: mints and nuts and so I ate nut,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Oh.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: Those cashews I just kept eating em % laugh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: I ate more today than I probably have all week long though.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: And then but it was kinda nice.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ANNE: Well like I said I didn't do anything all day.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Oh.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: I was busy all day,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mm.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Cause we opened the annex yesterday?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: So yesterday was fine.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: Well yesterday was a mess cause we were trying to move all the kids' belongings and then all of our paperwork that has to move.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: You're all moving over there?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: A⌈gain?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌊ No.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: No.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Just some ⌉?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: It's just ⌋ some.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ALIC: Well then we moved some of em over and then we were wondering about staffing.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: And so we moved two of em back.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Poor kids.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: So u:m but then today I was the only nurse.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mm:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: So that takes I mean when you're used to doing that all the time you get up a system.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: But it was kinda crazy.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: And then it was going pretty good this morning and the kids were real real good um and then ʔuh I was gonna get a new admit and had to get her from- from the other unit.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: A:nd uh one of the docs came in and saw all of his kids and wrote orders on every kid.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: So I had all these,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: He'd change med orders or add new stuff and assignments and stuff so I had to take them all up so about two,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Ten after two I went over and got her then I had to do all the admit paperwork and stuff?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mm:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: I was late getting out of there.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: XXXX.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: So.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: So you didn't go work out today?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: No.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I g,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: I have to go tomorrow now.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Oh and you know how I get when my heart just beats really fast?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: I got that as- at work and usually doesn't last very long and it just kept up and kept up and kept up.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Cathleen has to wear a heart monitor because of that mom.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: When did she get that.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yesterday.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: She got to see there- they,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: ʔuh She had to go again today to take it have it taken off.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: for four hours they wanted to,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Would hers do that stop and then get real fast and,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: It just go beating real fast and I mean she would just,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Well you've seen that on my,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I mean it just drive,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: ʔuh And she that she thinks it's her thyroid.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm?,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: Because and you know she hasn't been,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: And she's been eating you know probably m,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Same if not more but I mean hasn't: it's just her body's just not doing well.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Hm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: So she had to wear that heart monitor and Gordy said you know they wanna have a baby and he's like He's like let's have sex tonight with that heart moni⌈tor.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: And Cathlene's ⌉ like no: ⌈ way-.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: ⌉ And then Patricia goes wouldn't that be funny if your heart monitor went ⌈.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: and then % laugh leveled out then what- ⌉ how would you feel % laugh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: But Cathlene's like you're not even touching ⌈ me.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: He's so ⌉ funny.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: It's like.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: I know he just needs a reason.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: Oh this little baby came in xxx XXXX he w- she was a week and a half old.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ʔAw:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: She was s,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: Her name was little Madeline she was so cute.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Madeline?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌊ she's,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌋ Madeline.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: And she was sucking her little thumb bar,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: You know and she w,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: She had her eyes open when I first looked over at her sh- w- she's,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: Sucking her little thumb she was so cu:te.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: It seems like such an old name for a little baby.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Doesn't it?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mhm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: But oh:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: She was just adorable though.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: And she was so good the whole time.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Hm.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALIC: I hardly went anywhere out in public when you guys were a week and a half old.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: I mean years and years ago you just didn't do that y- tried to keep babies home and not expose em to germs and all that kind of stuff but I guess you still have to go out and do some banking now and then.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: Yeah she was meeting with a: investment officer so.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: What are you d,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Have plans for tonight?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ANNE: Yeah I talked Louis into going out tonight.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: I almost called Karen to see if she wanted to take in a movie or something but I came home from work and then I didn't feel that great.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: So.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: I lay down and I thought well Diane and I are going to Sun Valley tomorrow.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: So I thought well maybe I'll get some of my weekend stuff done a:nd uh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mm:.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: That's pretty good.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: I'm not hungry but gosh that sure tastes good % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Well have a little bit more we just won't tell % laugh him % laugh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: Add some more water % laugh to % laugh it % laugh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: He'll % laugh have this much left.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah % laugh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ALIC: Well you know we were sitting here and a:nd dad was in charge of the food then.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: And I says well what do you wanna have and I still have some spaghetti sauce.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: and it was so cute he says can I,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALIC: I think there's just enough spaghetti sauce for % laugh Lou % laugh and % laugh I out there if I take that hunting I says no fine.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Cause uh,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALIC: After they hunt all th- day they don't wanna spend all night cooking either.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: So he says well I don't know what else I can take.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: So I said well why don't you,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: I says that recipe is so easy.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: So I sat over here before we went over to Diane's and explained the recipe to em and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: a:nd uh we stopped at the store and got the stuff cause all you have to do is brown some hamburger and onions.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: and then toss ca:ns of stuff in and spices.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: He says that'd good.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: and then we wouldn't have to,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: To cook a lot.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: And you don't end up dirtying a_lot_of dish⌈es.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌊ Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: and that kinda stuff ⌉.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: At least they'll be out ⌋ in wide open air.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: too % laugh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: XXX?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ʔuh Do,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: X.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Well,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mm.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: But I I talked him into going ou:t la:st night I was like you know I'm like we don't spend enough time together.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: And then I was all,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I did that thi,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah I was j- like you know all,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: I'm like well well fine all on Saturdays I wanna go out with my friends every Saturday then.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: With my,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: The girl:s then.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: He's like that's fine.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: I said okay fine then we won't have any nights together.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: I said I see you maybe once or twice a week as it is and I said but you know if you're- the guys night is so important to you then girls night I'm gonna start doing girls' night on Saturday.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: He was like that's fine.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: And I'm like fine there just won't be our night then.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: And he was like okay if that's what you want.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: I said you know I said God forbid I go we actually see each other more than two nights a week I said you know our relationship,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: You know gosh if we see each other more than two nights a week we might you know that's not good for a relationship at a:ll.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: I said we just should just talk on the phone a couple nights a week.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: And all,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: And he's like yeah:?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: I said I'm being sarcastic % laugh to make my point he's like oh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: You're trying to make a point?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: And I was like so I talked him in to going out on this Friday.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: And he's like this isn't gonna be every Friday now is it?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: And I said no: just,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: You know does it have to be stuck in stone that you have to go out with the boys on Friday?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: I said cause I like to go out with a:ll of our friends you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Like a group of us?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: I said but if we do that ʔuh on Saturdays then I have no,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: We have no night just for the two of us.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I said X,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: Well maybe that's what he's trying to avoi⌈:d.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌊ Well I know.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌉.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: That's what he s,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌋ And I was like hey.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: And I said you know ʔuh I don't I don't care if you go out with the boys on Friday I said but does it have to be every Friday?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Can't it be like all of us once in a while?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: So that we still can have one night together?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ʔuh Not every night and everything I guess so.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: So % laugh I called Laura today.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I'm like Laura do you wanna do something?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: She's like yeah Koosh and I were just gonna watch a movie she goes but I: wanna go out.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: And she's like I said maybe we can go to Tepanyaki.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: She goes like is that expensive and I said oh you know I said I think that like under ten dollars Sh,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: She goes cause k- Mark just called me about we don't have any money this week % laugh to pay the bills and she goes I told him that we get paid next week just pay some of the bills next week.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: But he was like oh:.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ANNE: But she goes we have to kinda watch it for the ren- rest of the month.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: So who are you going out with tonight.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Koosh and Laura.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: And then w,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Are you going out with just Louis tomorrow night?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Hopefully.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Well you're going out with Koosh and Laura for your birthday?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Probably.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Afterwards I don't know.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,ANNE: I don't get home till eight o'clock anyway on Monday I mean you'll be in bed by % laugh that % laugh time- % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌈ I know.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: and ⌉ what else do you want for your birthday young lady?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Do you wanna cake?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Can you get me some pa:nts?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: No:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Pie?,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: I don't want anything.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yogurt pie?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: No one's gonna be here I mean dad's gonna be gone I'm not gonna be here % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Mom's like I want the yogurt pie.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: No.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: We should just get one for both of our birthdays.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Like maybe.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: Maybe we'll just have a nice dinner.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: middle of the week.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: sometime during the week for both of our birthdays-.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: Cause I won't be here for mine either.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ʔuh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: That'll be ⌈ your,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌊.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: One of your presents then ⌉?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: That's my present-.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌋ Wedding present?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: What kinda present?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: What did you say?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: That'll be your b- present.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: I thought you said that'll be your wedding present.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: And I'm like.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: No:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: X⌈:.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌊ I was gonna say.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌉.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: is it,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ʔuh Wha- ʔuh what are you: saying.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌋.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Nothing.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: Hey I got him to go out on a Friday % laugh night that's % laugh about all I can push % laugh it % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: Anything more than that XXX But so I talked,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: So Laura and Koosh wanna do something- We're not really go to Tepanyaki though but.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: What are you just gonna do hang out and watch movies and stuff?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: Oh probably get something to eat and.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: Why don't you do something really reasonable for dinner.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: Well that's inexpensive.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: What?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: That's inexpensive.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: What.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: Going out and getting something to eat.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: We're not gonna go to the Crow Inn again.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: No but I mean ʔuh ʔuh what are you gonna do that's inexpensive.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Go out to eat.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Like whe:re.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I don't know like Burger and Brew or something you know?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Just some casual normal place.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: XXXX.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ALIC: Dad didn't want all this hun- for hunting you could have em over for dinner.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: Dad there's a little left for you and Lou.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: But it's like I'm not gonna be here on your birthday is that okay?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: I'm like I'm not gonna be here on my birthday.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ʔuh Why is he apologizing to you.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: How many years has it been since,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: When he used to always go on my birthday.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: Well he says that that that's your present when he leaves.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Remember % laugh that one time on my birthday we went out to dinner just took his checkbook and stuff?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Yeah we did that that whole week.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: That was great.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: That'll teach him hunh?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Maybe that's how come he hasn't ⌈ done that.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: That's X,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌊ Maybe that's it.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: the last couple,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ANNE: he'll go on my birthday now ⌋.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Is that some ⌉ ginger ale?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ANNE: No it's Squirt.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: Would you just get me a small glass of ging,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ʔuh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ʔuh There's a b:ig bottle of it down in that bottle rack thing?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: That's th- already open and I drank out of it so you can just give me that.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: The whole thing?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yep.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Jee:z.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Please.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: XXX.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALIC: Not gonna pour it cause I'm not a waitress.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ʔuh Did you have more of that soup?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: Yeah you said I could.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: There's not gonna be anything % laugh left for your father.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: He's not gonna kn:ow:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Just say you b,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: You put it to a boil you turned it up and it boiled over and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Some: came out.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: He probably measured it % laugh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: I'm not gonna be hungry if we go % laugh out to dinner I'm gonna be a cheap date % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah:.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: Well Tony wasn't there today cause Amy had her wisdom teeth taken out.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Oo:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: She's doing o:kay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: They said her voice probably won't be back to normal ever I mean but she called Jenny,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: For Jenny this afternoon.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Her wisdom teeth and her voi:ce.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: I mean not her wisdom teeth her tonsils.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Oh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: I was gonna say man I never % laugh knew % laugh the % laugh wisdom teeth.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALIC: Didn't do anything for your voice.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALIC: you just talk as much as you used to.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: But so we sent Amy flowers.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Or my,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: They go Annette call and order some flowers.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Call em how much do you wanna spend.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I don't know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I don't care.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: I said what's what can you get a ni:ce bouquet.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Twenty five?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Su:re.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ANNE: It's not my money.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Oh it comes out of the fund?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: I don't know where it comes out of they just charge us.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Oh.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: Ma:n I ʔuh I was supposed to leave money for Lettie's going away present.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: In an envelope there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: And uh I was asking Anne what we were going to get her for her new office.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: She decorates her home and her office l- by Chinese?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: And I thought this was really strange cause she's Hispanic.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: You know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: And and all y,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: When we went to her house all the oriental things?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: And I says what sh- Lettie needs is plant- ʔuh,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Cause she loves plants but they die: on her.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALIC: And in her office if I wouldn't water em and take care of em she wouldn't have had any ⌈ pla:nts % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌊ God % laugh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌋.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌉ So I says what about a ni:ce either silk plant or one of the silk trees that would sit behind her desk then?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: You ⌈ know.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mhm.,FALSE,TRUE,FALSE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: ⌉ I says that's very soothing when she's doing therapy and stuff.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,ALIC: And Anne says that's a good % laugh idea % laugh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: And I says you know Costco has some real reasonable ones.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: or you can uh: silk warehouse for some of em.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: And she's I think that's a good idea and then she can her real other decorating she can do as she wants and prefers.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Where's her office where's,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Did she mo:ve?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Or is she still here.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Well no she's ʔth,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ALIC: She's just going in with some of the doctors into private practice though.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: And do counseling.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: It'll be,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Oh is she gonna be at the hospital though?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: No.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: She's just moving up front to the front offices?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Oh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: Well so you'll still see her and stuff.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: You know the the one doctor who lost his wife this summer.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: when they were on vacation.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: she's gonna take over her practice.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Oh:.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: Cause their their therapy styles are quite similar.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Oh:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: A:nd uh you know all these patients w,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Since the death was so sudden all these patients were just kinda left on a.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: and so she's been illing in quite a bit.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Hm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: A:nd that just kinda made her final decision cause she said when she graduated from grad school that's what she wanted to do in five years have her own practice?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: And she said but that's scary to do.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Oh: yeah:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: And she says so the opportunity the patients are there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: So it was a perfect opportunity.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: It helps.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALIC: Even though the circumstances are not the best.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: xxx xxx private practice.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Hm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mhm.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: When uh we sent Amy flowers cause she's staying with her mom now.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Cause she has to ⌈ be watched.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌊ Oh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah ⌋.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: ⌉ And so we go we don't know if we should send em to Tony or % laugh to Amy.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Because Amy and Tony they fight like cats and dogs anyway.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: And then when you're not feeling well and you know and Amy just flo- goes off the handle cause Tony's no,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: You know no,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: Bugging and nosy and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: and I'm like I don't know who we'd wanna send flowers to cause they're both gonna drive each other crazy.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: Well you're not the most pleasant person when you're sick.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I n,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: No one is.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: That's the thing.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah:.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: But they don't get along I mean that well:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Well you just don't listen to me.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: I'm the nurse and I tell you,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: I always listen to you.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALIC: Annette you do no:t.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Do too.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Do not.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Just,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Take your medi⌈cine.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌊.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Do this ⌉.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: That's the ⌋ way Jenny went home today sick and I said you go buy some orange juice I said take some liquids I said I don't want you going out at all % laugh this weekend % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: What did she say.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Thank you mother?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: She goes I'm not.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: Oh: I said I don't wanna see you out.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,ALIC: One of the little kids came up to me and he said.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: I got something to tell you Alice.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: And I said what.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: He said I bit both sides of my tongue.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: And % laugh so he sticks his tongue out and shows me I said well don't do that anymore % laugh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: And he says and it hurts like heck and I said well don't do that anymore % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: What a dipshit.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: And this one little kid who's been really having a problem.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: The other day he was tracking so well.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: And I says well I says in the morning then if you track really well let me know and I'll s,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: We'll,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: I'll get the sa- tr,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: I'll save that tracking sheet and give it to you.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: You can have it then.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: And you can show your parents when they come in.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: He was so excited the next morning I barely walked on the unit and he he's screaming Alice Alice.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: He says guess what I tracked good all day long then I forgot to turn it in % laugh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: So he still stayed on level three % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ʔuh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Poor % laugh kid % laugh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: So I says.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: And,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ALIC: But he was okay with that.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: But he says I know I did really good and I says I know you did too and you can do good today so he did really good ʔto,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Today also.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALIC: But he was the little kid the other day before his mother came to visit.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Physically worked himself up into such a state that he threw up three times before she came?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ANNE: Was he excited to see her or didn't wanna see her.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Well this is the new stepmother.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: And he's really excited but he's ʔuh,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: He's just such a hyper kid when he gets involved in that couldn't bel:ieve it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Wa.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Do you have a bunch of homework and stuff to do tomorrow?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: Well that'll be good if Diane and I are out of here.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ANNE: I mean I don't have a lo:t cause actually this week in my methods course it's pretty mellow but I: finally got a hold of Bishop Kelly they fi:nally called me back.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: About what.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Someone there,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ANNE: My observation I have to do there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: I have to do twenty hour,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Oh you are gonna do it?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ANNE: Not my student teaching my observation.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Totally different.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Well who sets that up.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: You or.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Well you,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: They- you just set it up through the education department they have to call and approve you to gi-.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Oh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: I mean they have to say you know s- I have five students coming these are the names so you aren't just having these weirdos coming and saying I'm supposed to observe your school.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: You know?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: And so finally Doctor DeLiando called me back today.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ANNE: I called Wednesday and yesterday and then he called me back he called me this morning but I wasn't in yet.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: So.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: So when do you start that.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I go in Tuesday.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: To meet him.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: And to get it set up then.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Hm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: So xxx.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: How do you say his name?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: DeLiando?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: I don't think that's how you,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Oh: that's what they told me.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Oh okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: I didn't think that's how you pronounced a good old Basque name but.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: XXXX Well that's what I've b,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I mean that's.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: So then are you j,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ʔuh Do you observe different teachers?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ʔuh O:r one teacher.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: I can pick.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: He goes I'll introduce you to em and he goes and then you can pick and,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: Pick which ones you want then.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: You should s:it in in Miss Brown's and some of those I wonder if she's still,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Those aren't English.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Oh you have to do English.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Hunh hm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: I don't know any of the English teachers now.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: But I I'll probably,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: I mean you get bo:red doing it I mean and they want you to,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: ʔuh If you can help you know maybe grade paper or.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm hm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: do something but it's also a_lot_of work for the teacher to find something that a s,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: That you can do just being there an hour a week or two hours a week.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: So th- sometimes you ca:n't.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: But sometimes you get bored I mean I,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: Watching the same class for twenty hours that's boring.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: Just sitting there.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ANNE: So I mean if you can get involved it,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: It helps you: plus:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: it also helps pass the time but so I told Mickey I'm like Mickey I'm gonna be in late.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ʔuh Tuesday she's like Annette I don't care.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: You just make your own schedule anyway you just come and go as you please I don't care % laugh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Well I asked Cathlene I said.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: right after we got off the phone I said I'd be there at seven five.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ANNE: Doctor DeLiando I said oh yeah Cathlene I said since you're the one in charge today I said I:'m gonna be in late Tuesday.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Is that okay?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: And % laugh she's like yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Okay % laugh.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: X % laugh xxx that's a little bit she's just leave me a sticky so I know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: And then I go I'll leave a sticky on Tony's so she thinks that you know we include her in things % laugh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: I told Mickey Mickey's like I: do:n't ca:re.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ʔuh What does,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Does,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Chris teach teach there?,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: Uh: last I heard she did.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: That was last year but.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Wouldn't it be funny if she taught English and you got to sit in,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ANNE: She teaches biology.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Well I know,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mo:m.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Rats.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ANNE: You just don't know what's going on at that school anymore.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: Well I didn't know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: That's sad about that kid in the paper?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Who who's in the coma he was a the star f- baseball player at BK?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: And he got that scholarship?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: To he was what a Gatorade player of the year two years ago and then he w,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: But I thought it was his dad who was.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: in the hospital.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: No: it's hi:m.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: He's ⌈ in a co:ma.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌊ Oh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Okay ⌋.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: He got hit ⌉ by that drunk driver?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: And his younger brother.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: Plays at BK and has a football game.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: And I g,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: It wa- the pa- the- article was about you know how they're all gonna g,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: All the family's gonna go to the game today because sports are very important in this family you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ANNE: and they all: used to go watch the older brother play baseball and that's what he would want is their family to be at the game and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌈ Oh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: um.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: really ⌉?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: the coach I think it's Tim Lincoln ⌈ or:.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌊ Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah ⌋.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: one of the Lincolns ⌉ said you know if you don't wanna play that's fine if you d- don't wanna,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: If you g- have to come out of a play you just do whatever.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: But it was like go:sh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: Well that's like there's a_lot_of pressure on this football team.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah cause.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: because Nick.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Osetty's son ⌈ is.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌊ Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Mhm ⌉.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ALIC: I mean it's his ⌋ dad who's the field is dedicated to.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: and he wants to dedicate his senior year to the- his dad in memory of his dad cause he was a star player.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah: s:o.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: And they play Kuna and isn't th- always that your homecoming?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: No cause we usually lose to Kuna so I think we had to p,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: We always played like Payette that we like beat every year.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Oh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: for like seventeen years and then I think our senior year junior or senior year we lo⌈:st % laugh to em.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ALIC: ⌊ And % laugh they beat you.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah % laugh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: It was like Oh Go:⌉d.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌋.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: But the only reason I went to the game was just to figure out what was going on afterwards % laugh so it didn't really matter.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: I know.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Well I never knew,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: I didn't,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: I could never even tell you half the players % laugh on the,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah you play football?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Mm I knew the ones that,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ALIC: Mattered.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I went to a couple of the JV games you know what I'm saying?,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: Louis's game- team lost Wednesday though.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: So they're two and,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: Five and two now.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: They've only lost two games.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: They lost to Centennial ⌈ the other day.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌊ Well I thought maybe.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌉.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: that's ⌋ what he was doing last night.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: Cause when we came by the stadiu,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Uh the pavilion?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: the football field.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: At % laugh BSU the lights were on?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Well the seniors play they have ʔuh,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ʔuh They have game in,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ANNE: The varsity has games Thursday and Friday.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Oh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: Cause they can't always get all the games in.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Especially when it s- gets dark this early now?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: They have to have a lot more games and then most of the schools don't have fields you can play at in Boise.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Don't have lights no.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: But there sure were,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: So.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALIC: There- ʔuh weren't a_lot_of people there.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Oh yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Probably,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: But that was: seven o'clock I don't know what time the game started.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Ah: just kind of,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: Their games usually start at seven.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: on Wednesdays.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: but varsity:.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: ⌈ I don't know.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: varsity probably starts at seven.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: Maybe it's an eight o'clock ⌉,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Seven seven thirty?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: There weren't a whole lot of,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah might have been.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ANNE: They were probably may- maybe playing an town team too.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: And I know dad said yeah I don't know why they have the lights on yet because it still was really light out.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: Well they have to get em on so they can.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: get it going.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: And I thought maybe that was,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: I thought maybe it was the sophomores.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: XXXX.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ANNE: Well I thought Louis's game was at four five I know they have one afternoon game but it's next Wednesday I found out.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: And so I was gonna go and watch his game after work you know I get off work right at five.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: then go go to work at xxx and then then he had a game at seven and I was like oh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ANNE: And then my legs hurt I couldn't have walked anywhere anyway.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: That was a weird thing.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Mhm.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ANNE: Yeah cause Diane came in today: and she goes what's wrong with your legs.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: Mom and dad were f:reaking out about it.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: And I said it was it was freak⌈y.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: Well that's how come I called in the morning.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: ⌉ Yeah:.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: You know cause I didn't wanna go in and wake you up and say how are your legs Annette and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: It's % laugh like % laugh how the hell do you think they are.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: My legs are fine but % laugh I'm tired.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: But I need some more sleep.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: And then so then I remem- ʔuh,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: Luckily I remembered to call early enough.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: Otherwise I was gonna call you at work.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: xxx.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,ALIC: But then I thought that'd be kinda stupid I call you at work and if you didn't go to work they'll say no she's home sick today and kinda like what kinda mother are you.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: You live in the same house.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: We:ll They know th,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ANNE: I mean that we have different schedules and stuff.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Hm.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: But yeah they're,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Like I said they're s,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: They're still kinda sore like achy kinda sore but they're I mean they're I can walk and every⌈thing.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: I think it's more of a flu.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: they aren't so ⌉ That's what I think it was though.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Bug.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: Yeah cause I didn't have an appetite or anything else like that and I think that's part of ʔit ⌈ I mean.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Well you could,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: I have ⌉ to be sick to not eat.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,ANNE: Now I've made up for it % laugh though % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Today % laugh everything looked good % laugh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: I was like oh.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Cause Jenny and I had to go over to the store and get the punch and um cups and stuff for the open house?,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,ANNE: Today and I mean everything looked good at the store.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: And she was sick.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,ANNE: So nothing looked good to he:r % laugh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: And I was like That looks good % laugh doesn't that look good?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: No no.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,ALIC: That was like yesterday after I got my car fixed.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: G- I went and took it in for you know the maintenance thing?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: And it was a free one.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ANNE: That's what you told me.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: A:nd uh then dad wanted to go get that oil.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: For the fans?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: To oil put on the fans?,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: I said well you go do that and I'll go to the grocery store.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: And I was hungry then.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: Cause this was three o'clock and I had breakfast at eight o'clock yesterday.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,ALIC: Man everything looked good.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ALIC: So a hundred dollars ⌈ later.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: I ⌉ walked out of the grocery store and then we went last night.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,ANNE: Oh to get stuff for the ⌈ sou:p.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,ALIC: ⌊ For dad.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ALIC: Yeah ⌋.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: Oh ⌉ gee:.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,ALIC: For hunting.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ANNE: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,@End,FALSE,TRUE,FALSE,TRUE

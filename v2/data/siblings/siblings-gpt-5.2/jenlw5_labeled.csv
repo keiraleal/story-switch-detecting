@@ -1,0 +1,217 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV1: well what we're going to do is .
+out,FALSE,FALSE,CHI: write .
+out,FALSE,FALSE,INV1: write a letter .
+out,FALSE,FALSE,INV1: she's cool .
+out,FALSE,FALSE,MOT: <see xxx> [>] .
+out,FALSE,FALSE,CHI: yeah [<] .
+out,FALSE,FALSE,MOT: did you tell her ?
+out,FALSE,FALSE,INV1: did I tell you ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV1: didn't .
+out,FALSE,FALSE,MOT: how did you know ?
+out,FALSE,FALSE,MOT: (be)cause [>] you know you love to write ?
+out,FALSE,FALSE,CHI: she [<] +/.
+out,FALSE,FALSE,MOT: is that why ?
+out,FALSE,FALSE,INV1: how's this a pink [>] marker for your pink shirt and your mom's pink shirt ?
+out,FALSE,FALSE,MOT: pink [?] [<] .
+out,FALSE,FALSE,INV1: that <okay with you> [>] ?
+out,FALSE,FALSE,MOT: <sounds good> [<] .
+out,FALSE,FALSE,MOT: you want that Chi ?
+out,FALSE,FALSE,INV1: or do you want a pencil ?
+out,FALSE,FALSE,INV1: pencil ?
+out,FALSE,FALSE,INV1: fine .
+out,FALSE,FALSE,INV1: I'm just looking .
+out,FALSE,FALSE,INV1: I couldn't find my pencil so <I was (.) reaching for a> [>] +//.
+out,FALSE,FALSE,MOT: <is that like the book (.) that we got> [<] ?
+out,FALSE,FALSE,MOT: is that like this ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,MOT: yeah it is !
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV1: <it's just like it> [>] .
+out,FALSE,FALSE,MOT: <xxx like that> [<] .
+out,FALSE,FALSE,INV1: where did you get that stuff ?
+out,FALSE,FALSE,INV1: I needta get some more .
+out,FALSE,FALSE,MOT: where did I get this ?
+in,TRUE,FALSE,MOT: &-um believe it or not I got this at a dollar store .
+out,FALSE,FALSE,CHI: yes [!] yes [>] .
+in,FALSE,FALSE,MOT: <I paid> [<] a dollar for it .
+out,FALSE,FALSE,INV1: oh really ?
+out,FALSE,FALSE,MOT: <yes down on &-um> [>] .
+out,FALSE,FALSE,CHI: <oh my God oh my> [<] gosh one more page .
+out,FALSE,FALSE,INV1: I know you <get to have the last page> [>] .
+out,FALSE,FALSE,MOT: <you guys know where route one is> [<] ?
+out,FALSE,FALSE,CHI: yeah [?] .
+out,FALSE,FALSE,INV1: xxx okay .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,INV1: here you go .
+out,FALSE,FALSE,INV1: here's a pencil .
+out,FALSE,FALSE,CHI: here's more paper .
+out,FALSE,FALSE,INV1: great .
+out,FALSE,FALSE,INV1: oh you don't hafta +//.
+out,FALSE,FALSE,INV1: you can use (.) that [?] .
+out,FALSE,FALSE,CHI: I got more paper .
+out,FALSE,FALSE,INV1: oh thanks .
+out,FALSE,FALSE,CHI: &=sighs .
+out,FALSE,FALSE,CHI: (..) when I'll get another book I can erase it .
+out,FALSE,FALSE,INV1: yeah .
+out,FALSE,FALSE,INV1: okay .
+out,FALSE,FALSE,CHI: see ?
+out,FALSE,FALSE,CHI: I can <erase it> [>] .
+out,FALSE,FALSE,MOT: <oh Chi> [<] .
+out,FALSE,FALSE,CHI: I can erase it .
+out,FALSE,FALSE,CHI: I can erase it .
+out,FALSE,FALSE,INV1: I know .
+in,FALSE,TRUE,MOT: well I'm going to erase that and don't you do that again .
+out,FALSE,FALSE,INV1: okay [?] .
+in,TRUE,FALSE,CHI: well <I want> [>] .
+in,FALSE,TRUE,MOT: <because it was> [<] nice of them to let you read it .
+in,TRUE,FALSE,MOT: +^ you shouldn't be writing on it .
+in,FALSE,FALSE,MOT: you don't write on yours (.) either .
+in,FALSE,FALSE,MOT: so I don't know why you're doing that .
+in,FALSE,TRUE,CHI: I wanted to show you that it's nice .
+in,TRUE,FALSE,MOT: well you don't do it on books .
+out,FALSE,FALSE,INV1: &=laughs .
+in,FALSE,FALSE,MOT: <that's a> [>] brand new book .
+out,FALSE,FALSE,CHI: &=laughs [<] .
+out,FALSE,FALSE,MOT: <is this> [/] is this a newer book like since +//.
+out,FALSE,FALSE,INV1: yeah what happened <we &-uh> [//] <we we> [/] we lost the other book .
+out,FALSE,FALSE,MOT: <yeah I was gonna say> [<] .
+out,FALSE,FALSE,MOT: did you ?
+out,FALSE,FALSE,INV1: on a visit .
+out,FALSE,FALSE,MOT: oh .
+out,FALSE,FALSE,INV1: yeah .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,CHI: no (be)cause I love that book .
+out,FALSE,FALSE,MOT: alright we're not going to write on this okay .
+out,FALSE,FALSE,MOT: let's [>] put down the book .
+out,FALSE,FALSE,INV1: okay [<] .
+out,FALSE,FALSE,MOT: here xxx why don't you just +//.
+out,FALSE,FALSE,INV1: I don't want you to ruin all of your paper here .
+out,FALSE,FALSE,INV1: xxx [>] .
+out,FALSE,FALSE,MOT: <do you [= INV2] want it or she [= EXP] want it> [<] .
+out,FALSE,FALSE,INV2: <&-uh she has got the backpack so> [>] .
+out,FALSE,FALSE,INV1: <you hold on to this> [<] .
+out,FALSE,FALSE,INV1: okay here you go .
+out,FALSE,FALSE,INV1: I [//] where did that pencil go ?
+out,FALSE,FALSE,INV1: +^ there you go .
+out,FALSE,FALSE,CHI: Mom I always hafta do xxx this .
+out,FALSE,FALSE,INV1: yeah !
+out,FALSE,FALSE,INV1: now <you get to xxx> [>] .
+out,FALSE,FALSE,MOT: <you don't always> [<] hafta it .
+out,FALSE,FALSE,CHI: a@l b@l +...
+out,FALSE,FALSE,INV1: well you get to write a letter to <anybody you want> [>] .
+out,FALSE,FALSE,MOT: <you gonna write> [<] a letter .
+out,FALSE,FALSE,MOT: and I'll tell you how to spell the words .
+out,FALSE,FALSE,MOT: who do you wanna write a letter to ?
+out,FALSE,FALSE,MOT: and Chi you're not going to keep the letter okay ?
+out,FALSE,FALSE,CHI: <xxx then I don't> [>] wanna write a letter .
+out,FALSE,FALSE,MOT: <the words (.) the letters> [<] .
+out,FALSE,FALSE,MOT: well <no &~th> [//] you're going to give it to them .
+out,FALSE,FALSE,MOT: you wanna write it to them ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: <who do you want> [>] to write a letter to ?
+out,FALSE,FALSE,CHI: I don't wanna .
+out,FALSE,FALSE,CHI: you .
+out,FALSE,FALSE,MOT: me ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: okay go ahead .
+out,FALSE,FALSE,MOT: you write dear Mom .
+out,FALSE,FALSE,MOT: okay ?
+out,FALSE,FALSE,CHI: a@l .
+out,FALSE,FALSE,MOT: no that's not how you spell dear@q .
+out,FALSE,FALSE,MOT: do you want me to tell you how ?
+out,FALSE,FALSE,CHI: wait I'm copying a@l b@l c@l .
+out,FALSE,FALSE,MOT: yeah I know okay .
+out,FALSE,FALSE,MOT: you wanna do that ?
+out,FALSE,FALSE,MOT: she wants to copy a@l b@l c@l .
+out,FALSE,FALSE,MOT: can she do that ?
+out,FALSE,FALSE,INV1: if [/] if you'd rather do that then write a letter .
+out,FALSE,FALSE,INV1: do you wanna try a letter ?
+out,FALSE,FALSE,CHI: <I don't know how> [>] .
+out,FALSE,FALSE,INV2: <do you wanna write> [<] your mom a letter and show her you can write your <abcs> [>] .
+out,FALSE,FALSE,CHI: <I don't know how to read a letter> [<] and I don't wanna [: wanna] xxx .
+out,FALSE,FALSE,MOT: I'll read it to you .
+out,FALSE,FALSE,MOT: you'll know what it says because <you &-um> [/] you're gonna [: going to] be writin(g) down what it says .
+out,FALSE,FALSE,CHI: what if I forgets ?
+out,FALSE,FALSE,MOT: you know what Chi I honestly doubt you'll forget .
+out,FALSE,FALSE,INV1: &=laughs .
+out,FALSE,FALSE,MOT: you ready ?
+out,FALSE,FALSE,MOT: you [/] you say the words and I'll tell you how to spell (th)em .
+out,FALSE,FALSE,CHI: after I do the [//] all the way up to z@l then I wanna write letters and a@l b@l c@l and then maybe then then +...
+out,FALSE,FALSE,MOT: you don't wanna write me a letter ?
+out,FALSE,FALSE,MOT: come on .
+out,FALSE,FALSE,MOT: write me a letter .
+out,FALSE,FALSE,INV1: well you know if +//.
+out,FALSE,FALSE,INV1: there you got an a@l you got a b@l good .
+out,FALSE,FALSE,INV1: do you wanna see a c@l there (.) good .
+out,FALSE,FALSE,MOT: take your time .
+out,FALSE,FALSE,MOT: +^ take your time .
+out,FALSE,FALSE,CHI: well I wanna do a letter to Mom .
+out,FALSE,FALSE,INV1: well you having some nice paper to do [/] do it .
+out,FALSE,FALSE,INV1: actually .
+out,FALSE,FALSE,INV1: you have all that paper to +...
+in,FALSE,FALSE,MOT: why you keep erasing ?
+in,FALSE,FALSE,CHI: (be)cause I make g@l-s like this .
+in,FALSE,FALSE,CHI: you want me to write a [/] a scribble in here ?
+in,FALSE,FALSE,MOT: I think your handwriting's fine Chi .
+in,FALSE,FALSE,MOT: you always do a good job .
+in,FALSE,FALSE,CHI: no I don't .
+out,FALSE,FALSE,INV1: (.) xxx .
+out,FALSE,FALSE,INV1: hm: .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,CHI: (..) how do you make a big o@l ?
+out,FALSE,FALSE,MOT: xxx where is that little book I just had ?
+out,FALSE,FALSE,MOT: she was right .
+out,FALSE,FALSE,MOT: &-um she don't have any papers in here yet .
+out,FALSE,FALSE,MOT: there you go .
+out,FALSE,FALSE,MOT: (.) oh here you go .
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,MOT: go ahead do what you were doing .
+out,FALSE,FALSE,CHI: oh you're going to show her what xxx .
+out,FALSE,FALSE,MOT: I had her practicing one day .
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,MOT: see ?
+out,FALSE,FALSE,INV1: oh wow .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,INV1: www .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,INV1: great .
+out,FALSE,FALSE,INV1: you know (.) we don't hafta write a letter I think just doing some letters like this is fine .
+out,FALSE,FALSE,CHI: okay now I wanna write a letter to Mama !
+out,FALSE,FALSE,INV1: oh .
+out,FALSE,FALSE,MOT: alright you gotta say the words and then I'll tell you how to spell them .
+out,FALSE,FALSE,CHI: okay dear Mother (.) I hate you .
+out,FALSE,FALSE,MOT: what ?
+out,FALSE,FALSE,CHI: &=laughs .
+out,FALSE,FALSE,INV1: no .
+out,FALSE,FALSE,INV1: I don't know about that one .
+out,FALSE,FALSE,CHI: dear Mother xxx &=whispers .
+out,FALSE,FALSE,MOT: well why did you just whisper that ?
+out,FALSE,FALSE,INV2: &=laughs .
+out,FALSE,FALSE,MOT: yell it out !
+out,FALSE,FALSE,CHI: no xxx .
+out,FALSE,FALSE,MOT: is that what you want <to write> [>] ?
+out,FALSE,FALSE,INV1: <you know what> [<] ?
+out,FALSE,FALSE,INV1: you sure (be)cause we can +//.
+out,FALSE,FALSE,INV1: this actually is fine with us .
+out,FALSE,FALSE,INV1: I [//] this we don't hafta write a whole letter .
+out,FALSE,FALSE,INV1: okay ?
+out,FALSE,FALSE,INV1: I heard <that one> [>] .
+out,FALSE,FALSE,MOT: <xxx you tell me you love me> [<] .
+out,FALSE,FALSE,CHI: hey !
+out,FALSE,FALSE,CHI: I tell a different one .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,MOT: yeah that's not a different one .
+out,FALSE,FALSE,MOT: it's the same one .
+out,FALSE,FALSE,CHI: no I said dear Mom I like [!] you .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: you wanna give her the paper ?
+out,FALSE,FALSE,MOT: then you can write on yours .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV1: here why don't you write on your own because I think that way you can keep [!] it and you can actually send it to your mom .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,INV1: xxx .
+out,FALSE,FALSE,CHI: no !
+out,FALSE,FALSE,INV1: yeah because I actually have something that's actually much more fun then writing a letter right now .

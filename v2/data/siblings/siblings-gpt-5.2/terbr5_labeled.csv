@@ -1,0 +1,135 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV: you have [!] read this before .
+out,FALSE,FALSE,INV: and you're probably very [!] familiar with this book .
+out,FALSE,FALSE,SIS: I don't know how to read .
+out,FALSE,FALSE,CHI: can I read it ?
+out,FALSE,FALSE,INV: that's what we'd like you to do .
+out,FALSE,FALSE,INV: what we'd like you to do is &-um (.) to read it .
+out,FALSE,FALSE,INV: and you can have your Mom help ya [: you] .
+out,FALSE,FALSE,INV: you can read it with your Mom [>] .
+out,FALSE,FALSE,CHI: oh [<] !
+out,FALSE,FALSE,INV: you can oh +//.
+out,FALSE,FALSE,INV: tryin(g) to stick it to me <now huh> [>] ?
+out,FALSE,FALSE,CHI: mhm [<] .
+out,FALSE,FALSE,INV: &-uh however you wanna do it .
+out,FALSE,FALSE,INV: but if you (.) want some help &~fe [>] +/.
+out,FALSE,FALSE,CHI: <I could read> [<] it out loud ?
+out,FALSE,FALSE,INV: mhm you can read it <out loud> [>] .
+out,FALSE,FALSE,CHI: <for my> [<] sister Christa .
+out,FALSE,FALSE,MOT: sit down Sis (.) so she can see the light honey .
+out,FALSE,FALSE,INV: yeah .
+out,FALSE,FALSE,SIS: I can't <see her> [>] .
+in,TRUE,FALSE,CHI: <in the light> [<] of the moon a little egg lay (.) on (.) a leaf .
+in,FALSE,TRUE,SIS: can I see ?
+in,TRUE,FALSE,CHI: that's the caterpillar leaf .
+in,FALSE,FALSE,CHI: I mean caterpillar &~l egg .
+in,FALSE,FALSE,CHI: right there .
+out,FALSE,FALSE,INV: yeah .
+out,FALSE,FALSE,SIS: 0 [=! frustration noise] .
+in,FALSE,TRUE,CHI: <and that's the> [>] moon .
+out,FALSE,FALSE,SIS: uhhuh [<] .
+out,FALSE,FALSE,INV: &=laughs .
+in,TRUE,FALSE,SIS: look at the moon !
+in,FALSE,TRUE,SIS: +^ eye nose mouth !
+in,TRUE,FALSE,SIS: eyes nose <and mouth> [>] .
+out,FALSE,FALSE,INV: <very good> [<] .
+in,FALSE,TRUE,CHI: one Sunday morning the &~w warm sun came up and pop [!] out (.) of the egg came a teeny and very hungry caterpillar .
+in,TRUE,FALSE,MOT: that's tiny@q .
+out,FALSE,FALSE,MOT: Chi .
+in,FALSE,TRUE,CHI: he started to look +...
+out,FALSE,FALSE,CHI: hm: ?
+out,FALSE,FALSE,MOT: this says tiny@q .
+in,TRUE,FALSE,CHI: a tiny [>] and very <hungry caterpillar> [=! giggles] .
+out,FALSE,FALSE,MOT: mhm [<] .
+out,FALSE,FALSE,MOT: okay .
+in,FALSE,FALSE,CHI: he started (.) to look for some food .
+out,FALSE,FALSE,SIS: &=laughs .
+out,FALSE,FALSE,SIS: wow [>] .
+in,FALSE,FALSE,CHI: <one &~Mon> [<] [//] on Monday he ate through (.) one apple (.) but he was still hungry .
+in,FALSE,FALSE,SIS: <I can't see it> [>] .
+in,FALSE,FALSE,CHI: <(be)cause he went through [!] it> [<] .
+out,FALSE,FALSE,INV: mhm .
+in,FALSE,FALSE,CHI: see then he's going out .
+in,FALSE,FALSE,CHI: on Tuesday he ate through two pears (.) but he was still hungry .
+in,FALSE,FALSE,CHI: (be)cause [>] he went through !
+out,FALSE,FALSE,MOT: yeah [?] [<] .
+in,FALSE,FALSE,CHI: he's going through it .
+out,FALSE,FALSE,CHI: yeah look at that .
+out,FALSE,FALSE,MOT: mhm .
+in,FALSE,FALSE,CHI: he's eating four five six .
+out,FALSE,FALSE,SIS: &=laughs .
+out,FALSE,FALSE,SIS: I know this one .
+in,FALSE,FALSE,CHI: on Wednesday he ate through three plums but he was still hungry .
+out,FALSE,FALSE,SIS: xxx .
+in,FALSE,FALSE,CHI: on Thursday he ate (.) through four strawberries (.) but he was still hungry .
+out,FALSE,FALSE,SIS: wow [>] .
+out,FALSE,FALSE,MOT: <xxx mhm> [<] .
+in,FALSE,FALSE,CHI: on Friday he ate through (.) five oranges but he was still hungry [>] .
+out,FALSE,FALSE,MOT: wow [<] .
+out,FALSE,FALSE,MOT: whoa .
+in,FALSE,FALSE,CHI: on Saturday he ate through (.) one piece of (.) chocolate cake (.) one icecream (.) and one (.) pickle .
+in,FALSE,FALSE,CHI: &~w one slice (.) of Swiss cheese (.) one slice of salama@c [//] salami .
+out,FALSE,FALSE,MOT: mhm .
+in,FALSE,FALSE,CHI: <one lollipop> [>] .
+in,FALSE,FALSE,SIS: <one &~lolli [?]> [<] .
+out,FALSE,FALSE,SIS: yeah yeah !
+out,FALSE,FALSE,INV: &=laughs .
+in,FALSE,FALSE,CHI: one piece of cherry pie (.) one sausage (.) one cupcake (.) and one slice of (.) watermelon .
+in,FALSE,FALSE,CHI: then <that night he became> [//] (.) he had a stomach +...
+in,FALSE,FALSE,SIS: a stomachache !
+in,FALSE,FALSE,CHI: stomach xxx .
+out,FALSE,FALSE,INV: &=laughs [>] .
+out,FALSE,FALSE,MOT: &=laughs [<] .
+in,FALSE,FALSE,CHI: stomachache .
+out,FALSE,FALSE,MOT: how did you know Sis ?
+out,FALSE,FALSE,INV: &=laughs .
+out,FALSE,FALSE,MOT: I thought you said you couldn't read www &=laughs .
+out,FALSE,FALSE,SIS: I [/] I don't know .
+out,FALSE,FALSE,MOT: <very good> [>] &=laughs .
+in,FALSE,FALSE,CHI: <the next day> [<] was Sunday again .
+in,FALSE,FALSE,CHI: the caterpillar ate through one (.) nice green leaf (.) and after that he felt much better .
+out,FALSE,FALSE,MOT: very good .
+out,FALSE,FALSE,SIS: &=laughs .
+out,FALSE,FALSE,SIS: oh !
+out,FALSE,FALSE,CHI: &=laughs .
+out,FALSE,FALSE,MOT: mhm .
+in,FALSE,FALSE,CHI: now he wasn't hungry anymore he [//] and he wasn't a little &~calipill calapillar@c [: caterpillar] anymore .
+in,FALSE,FALSE,CHI: he was big fat [!] caterpillar .
+in,FALSE,FALSE,CHI: he built a small h:ouse (.) called a &~c cacoon@c [//] cocoon [>] +/.
+in,FALSE,FALSE,SIS: <a &~coc [/] cocoon [/] cocoon> [<] !
+out,FALSE,FALSE,MOT: a cocoon .
+out,FALSE,FALSE,SIS: <xxx cocoon> [>] .
+out,FALSE,FALSE,MOT: <you are so> [<] smart Sis .
+in,FALSE,FALSE,CHI: around himself .
+in,FALSE,FALSE,CHI: he stayed inside for (.) more than two weeks .
+in,FALSE,FALSE,CHI: then he nibbled a hole in the cocoon +/.
+out,FALSE,FALSE,MOT: the cocoon .
+in,FALSE,FALSE,SIS: cocoon .
+in,FALSE,FALSE,CHI: pushed his way out and +...
+in,FALSE,FALSE,SIS: <he began a &~flu flutterfly@c> [>] !
+out,FALSE,FALSE,MOT: <you know xxx> [<] [>] ?
+in,FALSE,FALSE,CHI: <he was> [<] a butterfly !
+out,FALSE,FALSE,MOT: you <know this> [>] story ?
+out,FALSE,FALSE,CHI: pretty [<] .
+out,FALSE,FALSE,SIS: mhm (be)cause I like this story .
+out,FALSE,FALSE,SIS: I have thi(s) [>] .
+out,FALSE,FALSE,MOT: oh [<] .
+out,FALSE,FALSE,SIS: I have &~thi +//.
+out,FALSE,FALSE,CHI: the [>] end .
+out,FALSE,FALSE,SIS: I +//.
+in,FALSE,FALSE,SIS: I heard this story before [>] .
+out,FALSE,FALSE,INV: <the end> [<] .
+out,FALSE,FALSE,MOT: how did you know this story Sis ?
+in,FALSE,FALSE,SIS: (be)cause [>] !
+in,FALSE,FALSE,CHI: <I read it> [<] before too .
+in,FALSE,FALSE,SIS: <I read it before> [>] .
+out,FALSE,FALSE,MOT: <very good Chi> [<] .
+out,FALSE,FALSE,INV: no we've had it &~be [//] the year &~bef no we've had (.) your Mom read it and all that stuff .
+out,FALSE,FALSE,INV: <and now you read it finally> [>] .
+out,FALSE,FALSE,MOT: <yeah it's very good> [<] .
+out,FALSE,FALSE,INV: nice reading .
+out,FALSE,FALSE,INV: good job !
+out,FALSE,FALSE,MOT: very good [>] .
+out,FALSE,FALSE,INV: <that was a> [<] lot of expression (.) which is nice .
+out,FALSE,FALSE,INV: <it makes> [/] it makes it very interesting (.) for [>] (.) the listener .
+out,FALSE,FALSE,MOT: <oh yeah> [<] .

@@ -1,0 +1,354 @@
+in/out/ambiguous,Transicript,start,end
+out,MOT: you wanna see Bro ?,FALSE,FALSE
+out,MOT: &=noise:tape hafta do it .,FALSE,FALSE
+out,MOT: &=singing .,FALSE,FALSE
+out,MOT: Bro it is not time to (.) use the phone xxx .,FALSE,FALSE
+out,CHI: I don't want this [>] .,FALSE,FALSE
+out,MOT: xxx [<] .,FALSE,FALSE
+out,MOT: time to eat .,FALSE,FALSE
+out,MOT: xxx .,FALSE,FALSE
+out,CHI: I don't want that kind .,FALSE,FALSE
+out,MOT: xxx Bro ?,FALSE,FALSE
+out,CHI: what_about me ?,FALSE,FALSE
+out,MOT: well Bro xxx how_about you Chi ?,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+in,MOT: I said (.) let's pray to the lord that we can make it this summer right ?,TRUE,FALSE
+in,BRO: xxx the summer .,FALSE,FALSE
+out,CHI: oh &=whine .,FALSE,FALSE
+in,MOT: okay Grandma (.) and Grandpa they get to go to the &=noise:tape .,FALSE,TRUE
+out,CHI: I'm xxx .,FALSE,FALSE
+out,BRO: what did you say ?,FALSE,FALSE
+out,MOT: it says here [///] oh .,FALSE,FALSE
+out,MOT: my little boy's name &-uh ?,FALSE,FALSE
+out,CHI: he's not little he's big .,FALSE,FALSE
+out,MOT: no he's not that big .,FALSE,FALSE
+out,MOT: xxx for his age .,FALSE,FALSE
+out,MOT: &=noise:tape <this game with me> [>] ?,FALSE,FALSE
+out,CHI: <0 [=! small grunting noises]> [<] .,FALSE,FALSE
+out,BRO: &=noise:tapeyou gotta kick back xxx school .,FALSE,FALSE
+out,MOT: who said that ?,FALSE,FALSE
+out,BRO: xxx [>] .,FALSE,FALSE
+out,MOT: <maybe he didn't do homework> [<] huh ?,FALSE,FALSE
+out,BRO: Carl .,FALSE,FALSE
+out,MOT: Carl xxx ?,FALSE,FALSE
+out,BRO: xxx pork .,FALSE,FALSE
+out,MOT: &=noise:tape .,FALSE,FALSE
+out,MOT: why not ?,FALSE,FALSE
+out,CHI: xxx .,FALSE,FALSE
+out,BRO: who ?,FALSE,FALSE
+out,MOT: let me see .,FALSE,FALSE
+out,CHI: right here .,FALSE,FALSE
+out,BRO: what is xxx doing ?,FALSE,FALSE
+out,MOT: she doesn't know any better .,FALSE,FALSE
+out,BRO: &=noise:tapexxx ?,FALSE,FALSE
+out,MOT: hm: ?,FALSE,FALSE
+out,BRO: she no xxx .,FALSE,FALSE
+out,MOT: maybe they don't .,FALSE,FALSE
+out,BRO: <xxx little girl> [>] .,FALSE,FALSE
+out,MOT: <she's just a> [<] baby she's only three years old .,FALSE,FALSE
+out,MOT: what does she know ?,FALSE,FALSE
+out,MOT: not much huh ?,FALSE,FALSE
+out,CHI: I told you that the xxx guy couldn't xxx your back .,FALSE,FALSE
+out,MOT: xxx could or you could have come and tell me .,FALSE,FALSE
+out,MOT: sit .,FALSE,FALSE
+out,MOT: don't do that .,FALSE,FALSE
+out,MOT: I don't like you doing that .,FALSE,FALSE
+out,CHI: I don't xxx .,FALSE,FALSE
+out,BRO: <here we come on the merry-go-round> [/] <here we come on the merry-go-round> [/] here we come on the merry-go-round .,FALSE,FALSE
+out,CHI: she's a bad bad bad girl .,FALSE,FALSE
+out,CHI: this is mine .,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,MOT: what ?,FALSE,FALSE
+out,BRO: <&=laughs> [>] .,FALSE,FALSE
+out,MOT: <what that is> [<] ?,FALSE,FALSE
+out,MOT: xxx <Bro> [>] ?,FALSE,FALSE
+out,CHI: why [<] did the chicken [>] get to the xxx (.) why did the chicken xxx .,FALSE,FALSE
+out,BRO: <xxx (.) junk> [<] .,FALSE,FALSE
+out,CHI: wanted to go the &=noise:tape .,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,CHI: unhunh .,FALSE,FALSE
+out,BRO: what ?,FALSE,FALSE
+out,CHI: (.) &-uh &=noise:tape xxx .,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,BRO: no .,FALSE,FALSE
+out,CHI: no !,FALSE,FALSE
+in,MOT: yesterday was a nice day yeah ?,TRUE,FALSE
+in,MOT: you guys had a_lot_of fun xxx .,FALSE,FALSE
+in,CHI: I didn't .,FALSE,FALSE
+in,MOT: you didn't ?,FALSE,FALSE
+in,MOT: didn't you go to Amber's house ?,FALSE,FALSE
+in,CHI: xxx I don't like that little girl xxx .,FALSE,FALSE
+out,CHI: &=laughs .,FALSE,FALSE
+in,MOT: (o)kay the next time she comes when she starts (.) scratching you hafta tell her okay ?,FALSE,FALSE
+in,MOT: next time you tell her .,FALSE,FALSE
+in,CHI: no [>] .,FALSE,FALSE
+in,MOT: <tell her> [<] stop doing that .,FALSE,FALSE
+out,MOT: I don't like that <that's not nice> [>] .,FALSE,FALSE
+out,CHI: <no I want you to> [<] stay with me &=whining .,FALSE,FALSE
+in,BRO: <and they &~w> [/] <and they &~w> [/] &-um they were making fun of us .,FALSE,FALSE
+in,BRO: xxx another girl she had a stick and she tickled my feet and I didn't want her to do that and <and she hurt> [//] and she made me hurt my feet and Chi was just talking to her xxx and Chi <was playing with her> [>] .,FALSE,FALSE
+in,CHI: <no [!]> [<] I didn't did that .,FALSE,FALSE
+out,CHI: I was xxx .,FALSE,FALSE
+in,MOT: she's only three years old do you know that Bro ?,FALSE,FALSE
+out,MOT: she's <very xxx> [>] .,FALSE,FALSE
+out,BRO: yeah [<] .,FALSE,FALSE
+in,CHI: <I told you she's little> [>] .,FALSE,TRUE
+out,MOT: xxx [<] .,FALSE,FALSE
+out,MOT: yeah .,FALSE,FALSE
+out,MOT: very [!] little .,FALSE,FALSE
+out,MOT: (.) leave it like that we don't want any phone calls right now Bro .,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,MOT: thank you .,FALSE,FALSE
+out,BRO: I do .,FALSE,FALSE
+out,MOT: not right now it's time to eat .,FALSE,FALSE
+out,CHI: mommy xxx [>] ?,FALSE,FALSE
+out,MOT: <breakfast time> [<] .,FALSE,FALSE
+out,CHI: xxx [>] .,FALSE,FALSE
+out,BRO: xxx [<] xxx .,FALSE,FALSE
+out,MOT: I don't know what that is for .,FALSE,FALSE
+out,BRO: &=noise:tapexxx .,FALSE,FALSE
+out,CHI: I want pancakes .,FALSE,FALSE
+out,CHI: <I'm hungry> [>] .,FALSE,FALSE
+out,MOT: <put that back Bro (.) where I had it> [<] .,FALSE,FALSE
+out,BRO: xxx [>] .,FALSE,FALSE
+in,CHI: <I haven't> [<] eating for a month yesterday .,TRUE,FALSE
+in,MOT: for a month ?,FALSE,FALSE
+in,CHI: yes don't you remember you didn't let me eat (.) &-uh &-uh +...,FALSE,FALSE
+in,MOT: (.) &=noise:tapeyou didn't wanna eat (.) I cooked remember ?,FALSE,FALSE
+in,CHI: but I didn't like that food .,FALSE,TRUE
+out,MOT: you know what happened ?,FALSE,FALSE
+in,MOT: you were excited about this girl xxx [>] .,TRUE,FALSE
+in,BRO: <mama you xxx> [<] call <Jeffrey's mother> [>] .,FALSE,FALSE
+in,CHI: <no I didn't> [<] .,FALSE,FALSE
+in,MOT: yes I did .,FALSE,TRUE
+out,CHI: I want pancakes .,FALSE,FALSE
+out,CHI: I'm starving [>] !,FALSE,FALSE
+out,MOT: okay [<] <wait a minute> [//] <wait a second let me> [>] finish this and then xxx .,FALSE,FALSE
+out,BRO: xxx [<] .,FALSE,FALSE
+out,MOT: you're not ready xxx Chi .,FALSE,FALSE
+out,MOT: xxx .,FALSE,FALSE
+out,CHI: yes I am .,FALSE,FALSE
+out,MOT: Bro listen to me at least for a while I tell you last time put that over there [>] .,FALSE,FALSE
+out,BRO: <I'm trying> [<] to call my friend .,FALSE,FALSE
+out,MOT: &=noise:tapexxx there Bro .,FALSE,FALSE
+out,CHI: I don't want it .,FALSE,FALSE
+out,MOT: everyone's eating right now .,FALSE,FALSE
+out,MOT: oh I wish you'd behave .,FALSE,FALSE
+out,CHI: &=noise:tapeI wish you was a little kid .,FALSE,FALSE
+out,BRO: me ?,FALSE,FALSE
+out,CHI: I wish mommy was [>] .,FALSE,FALSE
+out,MOT: <you like> [<] some more cereal Bro ?,FALSE,FALSE
+out,BRO: no don't want that .,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,CHI: xxx oh !,FALSE,FALSE
+out,MOT: hey guys .,FALSE,FALSE
+out,CHI: what ?,FALSE,FALSE
+out,BRO: don't want a orange [>] .,FALSE,FALSE
+out,MOT: <we gotta really> [<] pray Jesus that we can go to California and visit <Grandpa> [>] and Grandma right ?,FALSE,FALSE
+out,CHI: no [<] .,FALSE,FALSE
+out,CHI: no I wanna stay with my friends .,FALSE,FALSE
+out,MOT: oh .,FALSE,FALSE
+out,MOT: in the summer you mean ?,FALSE,FALSE
+out,CHI: yes for my birthday .,FALSE,FALSE
+out,BRO: they don't got no swimming pool .,FALSE,FALSE
+out,CHI: mm .,FALSE,FALSE
+out,BRO: &=noise:tapexxx .,FALSE,FALSE
+out,CHI: mommy [>] .,FALSE,FALSE
+out,MOT: xxx [<] .,FALSE,FALSE
+out,CHI: mommy [>] .,FALSE,FALSE
+out,MOT: <what Bro> [<] ?,FALSE,FALSE
+out,CHI: <is he coming today> [>] ?,FALSE,FALSE
+out,MOT: <give it to me> [<] .,FALSE,FALSE
+out,MOT: no he is not coming today .,FALSE,FALSE
+out,MOT: <today is Sunday> [>] .,FALSE,FALSE
+out,CHI: xxx [<] .,FALSE,FALSE
+out,MOT: he doesn't work on <Sundays right Bro> [>] ?,FALSE,FALSE
+out,CHI: <he comes> [<] on Thursdays ?,FALSE,FALSE
+out,CHI: he is <coming on Thursday> [>] ?,FALSE,FALSE
+out,MOT: <Bro relax> [<] (.) please .,FALSE,FALSE
+out,CHI: xxx comes on Thursday ?,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,MOT: I don't know (.) he says he's gonna call [?] .,FALSE,FALSE
+out,BRO: I don't want this [>] .,FALSE,FALSE
+out,MOT: <they were> [<] so tired huh Chi the last time they came ?,FALSE,FALSE
+out,MOT: do you remember ?,FALSE,FALSE
+out,MOT: and Bro too ?,FALSE,FALSE
+out,MOT: you guys were tired .,FALSE,FALSE
+out,BRO: &=noise:tapexxx opened a window .,FALSE,FALSE
+out,MOT: you need any help Bro ?,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,MOT: I don't know what you're doing .,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,CHI: &=noise:tapetired [!] xxx .,FALSE,FALSE
+out,MOT: you're not having that right now .,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,MOT: that's for later .,FALSE,FALSE
+out,CHI: xxx .,FALSE,FALSE
+out,MOT: too sweet Bro <that's not even good for yourself> [>] .,FALSE,FALSE
+out,CHI: xxx [<] .,FALSE,FALSE
+out,BRO: xxx there's not much .,FALSE,FALSE
+out,CHI: I want some Cheerios [?] .,FALSE,FALSE
+out,MOT: Cheerios or cereal ?,FALSE,FALSE
+out,CHI: cereal .,FALSE,FALSE
+out,BRO: Cheerios .,FALSE,FALSE
+out,MOT: I don't have Cheerios .,FALSE,FALSE
+out,BRO: Cheerios .,FALSE,FALSE
+out,MOT: no that's called Fruity_Marshmallows .,FALSE,FALSE
+out,CHI: no not that !,FALSE,FALSE
+out,MOT: put that away Bro you started all this .,FALSE,FALSE
+out,CHI: I want that .,FALSE,FALSE
+out,BRO: xxx [>] .,FALSE,FALSE
+out,MOT: xxx [<] .,FALSE,FALSE
+out,CHI: I want that &=whining .,FALSE,FALSE
+out,CHI: Bro !,FALSE,FALSE
+out,MOT: Bro I don't wanna see a mess on my floor .,FALSE,FALSE
+out,CHI: &=cries .,FALSE,FALSE
+out,MOT: Chi .,FALSE,FALSE
+out,CHI: no .,FALSE,FALSE
+out,MOT: this one is fine .,FALSE,FALSE
+out,CHI: no <I don't like it> [>] .,FALSE,FALSE
+out,MOT: <it's perfect for now> [<] okay ?,FALSE,FALSE
+out,CHI: I want that (.) one .,FALSE,FALSE
+out,MOT: that one is no good .,FALSE,FALSE
+in,MOT: it's not a good breakfast .,TRUE,FALSE
+in,MOT: xxx Bro ate the raisin [//] raisin bran .,FALSE,TRUE
+out,CHI: no I like that .,FALSE,FALSE
+out,MOT: xxx when you just have a little of these you can have some of those [>] .,FALSE,FALSE
+out,CHI: no [<] !,FALSE,FALSE
+out,MOT: guess what Bro ?,FALSE,FALSE
+out,MOT: when you take a bath +...,FALSE,FALSE
+out,CHI: &=coughs .,FALSE,FALSE
+out,MOT: you're gonna take a bath xxx (.) we can do some reading typing (.) lots_of things xxx .,FALSE,FALSE
+out,CHI: <but we don't got a typewriter> [>] .,FALSE,FALSE
+out,BRO: <I needta> [<] type xxx .,FALSE,FALSE
+out,MOT: you did ?,FALSE,FALSE
+out,MOT: xxx [>] .,FALSE,FALSE
+out,CHI: <we don't have a typewriter> [<] .,FALSE,FALSE
+out,BRO: yeah .,FALSE,FALSE
+out,MOT: <you don't> [>] hafta type it you don't know how to type .,FALSE,FALSE
+out,CHI: xxx [<] .,FALSE,FALSE
+out,BRO: you can type it for me I'll tell you the letters .,FALSE,FALSE
+out,MOT: I'll tell you what I'll do .,FALSE,FALSE
+out,MOT: okay↑ you can write it and I'll type it .,FALSE,FALSE
+out,MOT: excellent [?] .,FALSE,FALSE
+out,CHI: &-uh &-uh .,FALSE,FALSE
+out,BRO: I can try .,FALSE,FALSE
+out,MOT: xxx just remember a typewriter is not a toy .,FALSE,FALSE
+out,BRO: I know Mot [!] you just said it .,FALSE,FALSE
+out,MOT: you hafta be careful xxx .,FALSE,FALSE
+out,BRO: xxx recording ?,FALSE,FALSE
+out,MOT: yeah it is .,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,MOT: xxx .,FALSE,FALSE
+out,MOT: &=noise:tapehere's your cereal .,FALSE,FALSE
+out,CHI: &=noise:tapeI don't like that kind .,FALSE,FALSE
+out,MOT: you're not hungry .,FALSE,FALSE
+out,MOT: that's what it is .,FALSE,FALSE
+in,BRO: long time ago <I> [//] I'd say &-um <amber's up there xxx> [//] Amber's up there xxx her teacher a poem .,TRUE,FALSE
+in,MOT: Amber doesn't know how to type .,FALSE,FALSE
+in,MOT: she's a little girl .,FALSE,FALSE
+in,MOT: she's like you .,FALSE,FALSE
+in,BRO: &-uh <I> [/] &-um she tell me the letters so I write it and I gave it to the xxx teacher .,FALSE,TRUE
+out,MOT: oh really ?,FALSE,FALSE
+out,CHI: she's not little she's bigger than Bro they measure and <she's bigger> [>] .,FALSE,FALSE
+out,MOT: well [<] she's a little younger right Bro ?,FALSE,FALSE
+out,BRO: yeah so I'm bigger .,FALSE,FALSE
+out,MOT: when is Amber's birthday July or August ?,FALSE,FALSE
+out,BRO: August <fourth I think> [>] .,FALSE,FALSE
+out,CHI: <I don't know> [<] .,FALSE,FALSE
+out,MOT: and yours is May right ?,FALSE,FALSE
+out,MOT: May June July August .,FALSE,FALSE
+out,MOT: so (.) she's three months younger than you .,FALSE,FALSE
+out,MOT: she's bigger huh ?,FALSE,FALSE
+out,MOT: she sure is big .,FALSE,FALSE
+out,MOT: &=noise:tapexxx are you enjoying your weekend ?,FALSE,FALSE
+out,BRO: <xxx I am> [>] .,FALSE,FALSE
+out,CHI: &=noise:tapeno <I want> [<] Cheerios [>] .,FALSE,FALSE
+out,MOT: <I am> [<] .,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,CHI: I want that &=whining .,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,MOT: xxx want the Raisin_Bran now ?,FALSE,FALSE
+out,CHI: no !,FALSE,FALSE
+out,MOT: then you going to hafta wait for me to fix the pancakes okay ?,FALSE,FALSE
+out,CHI: oh no no no no !,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,MOT: Chi ?,FALSE,FALSE
+out,BRO: you can put it in the other way .,FALSE,FALSE
+out,MOT: you're not having that &-uh (.) sweet stuff .,FALSE,FALSE
+out,MOT: it's only junk .,FALSE,FALSE
+out,MOT: put that right please .,FALSE,FALSE
+out,CHI: no .,FALSE,FALSE
+out,MOT: Bro .,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,CHI: 0 [=! whiny cry of protest] .,FALSE,FALSE
+out,MOT: so you really wanna go to Javier's house Bro ?,FALSE,FALSE
+out,BRO: yeah .,FALSE,FALSE
+out,CHI: I want +...,FALSE,FALSE
+out,MOT: well he seems like a nice boy huh ?,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,CHI: <&=whining want Cheerios &=crying> [<] [>] .,FALSE,FALSE
+out,MOT: <we're going> [<] to get to go (.) all of us (.) one day .,FALSE,FALSE
+out,BRO: yes .,FALSE,FALSE
+out,CHI: &=whining xxx <cereal xxx> [>] !,FALSE,FALSE
+out,BRO: xxx [<] .,FALSE,FALSE
+out,CHI: I want Cheerios &=whining .,FALSE,FALSE
+out,MOT: want some bread ?,FALSE,FALSE
+out,CHI: want cereal &=whining .,FALSE,FALSE
+out,BRO: I +/.,FALSE,FALSE
+out,CHI: no .,FALSE,FALSE
+out,BRO: <I> [/] I can my xxx .,FALSE,FALSE
+out,BRO: <I> [//] [=! sounds of hesitation] I know what it is xxx .,FALSE,FALSE
+out,MOT: xxx .,FALSE,FALSE
+out,BRO: Mom I still know xxx .,FALSE,FALSE
+out,CHI: xxx .,FALSE,FALSE
+out,MOT: xxx .,FALSE,FALSE
+out,CHI: &=crying .,FALSE,FALSE
+out,BRO: Mom !,FALSE,FALSE
+out,BRO: <xxx I do it with my eyes closed> [>] xxx .,FALSE,FALSE
+out,CHI: xxx [<] .,FALSE,FALSE
+out,BRO: eight [///] (.) no here .,FALSE,FALSE
+out,CHI: seven <six five four three two one> [>] .,FALSE,FALSE
+out,BRO: <eight (.) eight nine one> [<] one zero zero three .,FALSE,FALSE
+out,MOT: oh yeah that number three is &~t &-uh +...,FALSE,FALSE
+out,MOT: you did it backwards like [/] <it looks like a letter e@l xxx> [>] .,FALSE,FALSE
+out,BRO: <xxx did that xxx> [<] .,FALSE,FALSE
+out,MOT: &=noise:tapexxx went to Amber's house .,FALSE,FALSE
+out,BRO: let me see .,FALSE,FALSE
+out,BRO: let <me see xxx> [>] .,FALSE,FALSE
+out,MOT: <and spend the day at> [<] xxx .,FALSE,FALSE
+out,MOT: xxx .,FALSE,FALSE
+out,BRO: xxx this it the way it goes see ?,FALSE,FALSE
+out,MOT: are you_all done Bro ?,FALSE,FALSE
+out,MOT: how (a)bout a &=noise:tape xxx ?,FALSE,FALSE
+out,CHI: &=whining I want cheerio I want cheerio [>] .,FALSE,FALSE
+out,MOT: apple [<] ?,FALSE,FALSE
+in,CHI: I want <cheerio &=whining> [>] +...,TRUE,FALSE
+out,BRO: xxx [<] xxx [>] .,FALSE,FALSE
+in,CHI: <I want> [<] cheerio <I want cheerio I want cheerio I want cheerio I want cheerio I want cheerio> [>] .,FALSE,FALSE
+in,MOT: <Chi I already told you (.) either you eat raisin bran first and then that other cereal xxx> [<] .,FALSE,FALSE
+in,CHI: I want Cheerios [!] &=whining .,FALSE,FALSE
+in,BRO: I xxx call my friend xxx [//] xxx [//] <I should> [/] I shouldn't xxx talk to you [//] a lady (.) so I can talk +...,FALSE,FALSE
+in,MOT: please don't call Bro that's a long distance phone call I'm going hafta be paying for that .,FALSE,TRUE
+out,MOT: a lot .,FALSE,FALSE
+out,MOT: don't call .,FALSE,FALSE
+out,MOT: let him call you okay ?,FALSE,FALSE
+out,MOT: Bro don't call .,FALSE,FALSE
+out,MOT: thank you .,FALSE,FALSE
+out,MOT: let's wait for the boy to call you okay ?,FALSE,FALSE
+out,MOT: we're not that rich you know ?,FALSE,FALSE
+out,CHI: xxx .,FALSE,FALSE
+out,BRO: xxx .,FALSE,FALSE
+out,MOT: you can talk to Pedro .,FALSE,FALSE
+out,MOT: you can talk to (.) what's <his name Adam> [>] ?,FALSE,FALSE
+out,BRO: <xxx I> [<] wanna talk to that guy .,FALSE,FALSE
+in,BRO: oh I wanna talk to Javier .,TRUE,FALSE
+in,MOT: Javier lives far away .,FALSE,FALSE
+out,BRO: so ?,FALSE,FALSE
+in,MOT: that [/] that means the phone call you know is a long distance phone call and I hafta pay extra money .,FALSE,FALSE
+in,MOT: every time we call him .,FALSE,FALSE
+in,MOT: so we hafta wait for <this xxx to> [//] this boy to call you okay ?,FALSE,TRUE
+out,BRO: xxx .,FALSE,FALSE
+out,MOT: wait for me to do it .,FALSE,FALSE
+out,MOT: okay .,FALSE,FALSE
+out,MOT: so Chi you wanna wait for me to make a pancake xxx .,FALSE,FALSE

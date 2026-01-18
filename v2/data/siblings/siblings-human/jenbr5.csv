@@ -1,0 +1,169 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV: &-um (..) if you remember The Hungry Caterpillar ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: well we'd like to have you (.) read it or tell the story to your mom .
+out,FALSE,FALSE,INV: can you do [//] try that ?
+out,FALSE,FALSE,INV: okay great .
+out,FALSE,FALSE,INV: www .
+out,FALSE,FALSE,INV: so wherever you guys go we'll put the machine .
+out,FALSE,FALSE,INV: because it has always got me [!] on it .
+out,FALSE,FALSE,INV: my voice is too loud .
+out,FALSE,FALSE,MOT: (.) that's okay .
+out,FALSE,FALSE,MOT: Bro (.) stop running .
+out,FALSE,FALSE,MOT: <this isn't a gym> [>] .
+out,FALSE,FALSE,CHI: <and this thing and> [<] this thing ?
+out,FALSE,FALSE,MOT: well I think you're sposta tell me what's going on in the story .
+out,FALSE,FALSE,INV: you remember it [//] the story ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: right well you can (.) read or just tell your mom the pictures .
+out,FALSE,FALSE,INV: however you wanna do it .
+out,FALSE,FALSE,MOT: (.) what's that ?
+out,FALSE,FALSE,MOT: www [=! clears throat] [>] .
+in,TRUE,FALSE,CHI: the [<] moon .
+in,FALSE,FALSE,MOT: the moon .
+out,FALSE,FALSE,MOT: what's that ?
+out,FALSE,FALSE,CHI: &-um (..) that's +//.
+out,FALSE,FALSE,CHI: you do xxx that .
+out,FALSE,FALSE,CHI: xxx before [?] .
+out,FALSE,FALSE,MOT: yeah .
+in,FALSE,FALSE,CHI: here where the caterpillar lives .
+in,FALSE,FALSE,CHI: in this here .
+out,FALSE,FALSE,MOT: it's an egg huh ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: alright .
+out,FALSE,FALSE,MOT: (.) alright what's that ?
+in,FALSE,FALSE,CHI: the caterpillar .
+out,FALSE,FALSE,MOT: and what's this ?
+in,FALSE,FALSE,CHI: the sun .
+out,FALSE,FALSE,MOT: +^ sun yeah .
+in,FALSE,FALSE,MOT: sun's hot huh ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,BRO: Mom www .
+out,FALSE,FALSE,MOT: what [/] (.) what's this ?
+in,FALSE,FALSE,CHI: that's the caterpillar and [>] (.) the sun .
+out,FALSE,FALSE,MOT: mhm [<] .
+out,FALSE,FALSE,MOT: sun .
+out,FALSE,FALSE,CHI: and [>] +/.
+out,FALSE,FALSE,MOT: what's [<] he doing ?
+in,FALSE,FALSE,CHI: he's (.) climbin(g) up .
+out,FALSE,FALSE,MOT: mhm .
+in,FALSE,FALSE,MOT: what's he looking for ?
+in,FALSE,FALSE,CHI: food .
+out,FALSE,FALSE,MOT: food .
+in,FALSE,FALSE,MOT: what did he eat on Monday ?
+out,FALSE,FALSE,MOT: what's this ?
+in,FALSE,FALSE,CHI: apple .
+out,FALSE,FALSE,MOT: apple mhm .
+in,FALSE,FALSE,MOT: how many apples ?
+in,FALSE,FALSE,CHI: two .
+in,FALSE,FALSE,MOT: how many apples ?
+in,FALSE,FALSE,CHI: one .
+out,FALSE,FALSE,MOT: one .
+out,FALSE,FALSE,MOT: xxx .
+in,FALSE,FALSE,MOT: and on Tuesday he ate +//.
+out,FALSE,FALSE,MOT: what are these ?
+in,FALSE,FALSE,CHI: pears .
+out,FALSE,FALSE,MOT: pears .
+in,FALSE,FALSE,MOT: how many ?
+in,FALSE,FALSE,CHI: two .
+out,FALSE,FALSE,MOT: two .
+in,FALSE,FALSE,MOT: the very hungry caterpillar .
+out,FALSE,FALSE,CHI: &=giggles .
+in,FALSE,FALSE,MOT: and on Wednesday ?
+in,FALSE,FALSE,CHI: he ate three blueberries .
+in,FALSE,FALSE,MOT: and [?] plums .
+out,FALSE,FALSE,CHI: plums xxx .
+in,FALSE,FALSE,MOT: they look like blueberries but they (.) didn't mean to .
+in,FALSE,FALSE,MOT: and on Thursday ?
+out,FALSE,FALSE,MOT: oh &=laughs your favorite .
+in,FALSE,FALSE,CHI: he ate four &~g &-um +...
+in,FALSE,FALSE,MOT: you usually have these with whipped cream .
+out,FALSE,FALSE,MOT: what are these ?
+in,FALSE,FALSE,CHI: strawberries .
+out,FALSE,FALSE,MOT: strawberries okay .
+in,FALSE,FALSE,MOT: and on Friday he ate how many ?
+in,FALSE,FALSE,CHI: he ate five (.) oranges .
+in,FALSE,FALSE,MOT: oranges oranges [?] .
+out,FALSE,FALSE,CHI: oh God .
+in,FALSE,FALSE,MOT: and on Saturday he ate +...
+in,FALSE,FALSE,CHI: one cake .
+in,FALSE,FALSE,CHI: one icecream [>] +/.
+out,FALSE,FALSE,BRO: Mom [<] ?
+out,FALSE,FALSE,BRO: can I play [>] xxx ?
+out,FALSE,FALSE,CHI: one [<] +/.
+out,FALSE,FALSE,MOT: okay honey .
+out,FALSE,FALSE,CHI: one +...
+out,FALSE,FALSE,MOT: no this is Bro's reader [?] .
+in,FALSE,FALSE,CHI: pickle ?
+in,FALSE,FALSE,MOT: pickle right .
+in,FALSE,FALSE,BRO: pickle man .
+in,FALSE,FALSE,CHI: +^ cheese .
+out,FALSE,FALSE,MOT: cheese .
+in,FALSE,FALSE,CHI: salami [>] .
+in,FALSE,FALSE,BRO: the [<] pickle .
+out,FALSE,FALSE,MOT: salami [>] .
+out,FALSE,FALSE,BRO: the [<] pickle ?
+in,FALSE,FALSE,CHI: a lollipop .
+in,FALSE,FALSE,CHI: apple pie .
+in,FALSE,FALSE,MOT: I think it's cherry pie .
+in,FALSE,FALSE,CHI: cherry .
+out,FALSE,FALSE,BRO: hey !
+in,FALSE,FALSE,CHI: and a hotdog .
+out,FALSE,FALSE,MOT: sausage .
+in,FALSE,FALSE,CHI: sausage [>] .
+out,FALSE,FALSE,MOT: <close enough> [<] .
+out,FALSE,FALSE,MOT: same thing yeah .
+in,FALSE,FALSE,CHI: &-um a muffin .
+in,FALSE,FALSE,MOT: cupcake .
+out,FALSE,FALSE,CHI: cupcake .
+in,FALSE,FALSE,CHI: and a xxx .
+in,FALSE,FALSE,MOT: watermelon .
+in,FALSE,FALSE,MOT: you think he had a stomach ache after ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,MOT: yeah &=laughs .
+out,FALSE,FALSE,MOT: God I know I would .
+out,FALSE,FALSE,CHI: yeah .
+in,FALSE,FALSE,MOT: and then on Sunday ?
+in,FALSE,FALSE,MOT: what did he eat through ?
+in,FALSE,FALSE,CHI: a (.) leaf ?
+out,FALSE,FALSE,MOT: very good yeah mhm .
+in,FALSE,FALSE,MOT: that'll make your stomach feel better huh ?
+out,FALSE,FALSE,MOT: &-uh (.) then what happened ?
+in,FALSE,FALSE,CHI: then [?] he was (.) fat .
+out,FALSE,FALSE,MOT: to say the least huh ?
+out,FALSE,FALSE,MOT: and what happened ?
+in,FALSE,FALSE,MOT: what [/] what is his house called ?
+in,FALSE,FALSE,MOT: where did he go to live ?
+in,FALSE,FALSE,CHI: a cocoon .
+out,FALSE,FALSE,MOT: a cocoon yeah .
+in,FALSE,FALSE,MOT: you know how long he stayed in there for ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: no ?
+in,FALSE,FALSE,MOT: two weeks .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,MOT: oh .
+in,FALSE,FALSE,MOT: then what did he become ?
+in,FALSE,FALSE,CHI: a beautiful butterfly .
+out,FALSE,FALSE,MOT: yeah .
+in,FALSE,FALSE,MOT: pretty colors huh ?
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,MOT: yeah .
+in,FALSE,FALSE,CHI: all food colors .
+out,FALSE,FALSE,BRO: xxx how <you say this> [>] ?
+out,FALSE,FALSE,MOT: <yeah all the food> [<] colors huh ?
+out,FALSE,FALSE,CHI: goodbye [?] food .
+out,FALSE,FALSE,BRO: Mom .
+in,FALSE,TRUE,CHI: he was <eating food> [>] .
+out,FALSE,FALSE,BRO: Mama [<] .
+out,FALSE,FALSE,BRO: Mama .
+out,FALSE,FALSE,MOT: what ?
+out,FALSE,FALSE,BRO: how do you play this ?
+out,FALSE,FALSE,MOT: we'll play that in a little while .
+out,FALSE,FALSE,MOT: it was by Eric Carle .
+out,FALSE,FALSE,MOT: okay ?
+out,FALSE,FALSE,CHI: yup .
+out,FALSE,FALSE,CHI: that was fun .
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,INV: good .
+out,FALSE,FALSE,CHI: is that it Mom ?
+out,FALSE,FALSE,MOT: I don't know .

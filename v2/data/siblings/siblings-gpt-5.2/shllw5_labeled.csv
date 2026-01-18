@@ -1,0 +1,73 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,MOT: who do you wanna write a letter to ?
+out,FALSE,FALSE,INV1: great .
+out,FALSE,FALSE,CHI: &-um Uncle Paul .
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,INV1: okay .
+out,FALSE,FALSE,INV1: why don't you borrow this .
+out,FALSE,FALSE,INV1: I'm gonna go get another pen .
+out,FALSE,FALSE,MOT: okay .
+in,TRUE,FALSE,MOT: and they'll take it with them and then when they come back (.) they'll (.) bring it with them and you can mail it to him okay ?
+in,FALSE,TRUE,SIS: xxx with the baby ?
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,MOT: do you know how to spell uncle@q ?
+out,FALSE,FALSE,BRO: Mom .
+out,FALSE,FALSE,BRO: Mommy Mommy <Mommy> [>] Mommy !
+out,FALSE,FALSE,MOT: <what honey> [<] ?
+out,FALSE,FALSE,MOT: what ?
+out,FALSE,FALSE,MOT: you wanna piece of cheese ?
+out,FALSE,FALSE,BRO: <&-uh &-uh> [<] &-uh .
+out,FALSE,FALSE,MOT: (..) www .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,MOT: xxx what are we gonna write ?
+out,FALSE,FALSE,CHI: mm .
+out,FALSE,FALSE,BRO: &-uh yyy (.) Momma [>] .
+out,FALSE,FALSE,MOT: <what do you> [<] wanna write to him about ?
+out,FALSE,FALSE,BRO: mommy Ma !
+out,FALSE,FALSE,MOT: &-uh maybe ask him how he is ?
+out,FALSE,FALSE,BRO: Mommy &=cries .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,MOT: how are you .
+out,FALSE,FALSE,MOT: (.) do you know how to spell how@q ?
+out,FALSE,FALSE,SIS: can you open this [= package of cheese] for me please ?
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,INV1: www .
+out,FALSE,FALSE,SIS: &=laughs .
+out,FALSE,FALSE,SIS: thank you .
+out,FALSE,FALSE,INV1: you're welcome .
+out,FALSE,FALSE,MOT: (..) what is at the end ?
+out,FALSE,FALSE,MOT: when you ask a question ?
+out,FALSE,FALSE,CHI: question mark ?
+out,FALSE,FALSE,MOT: right .
+out,FALSE,FALSE,MOT: (..) Chi [?] xxx .
+out,FALSE,FALSE,MOT: no (.) Mommy will cut .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,MOT: what else you wanna write ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,MOT: (..) wow [?] I should have you write letters xxx the whole time when they're [= experimenters] here .
+out,FALSE,FALSE,INV1: hm: .
+out,FALSE,FALSE,MOT: usually when she writes xxx going Ma how do you spell this ?
+out,FALSE,FALSE,MOT: Ma how do you spell that ?
+out,FALSE,FALSE,INV1: &=laughs .
+out,FALSE,FALSE,CHI: I still have a letter in my desk for him .
+out,FALSE,FALSE,MOT: (.) and go [?] (.) see you soon .
+out,FALSE,FALSE,CHI: p@l s@l yoohoo@si .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,SIS: what kind of cheese is this ?
+out,FALSE,FALSE,MOT: sharp white .
+out,FALSE,FALSE,SIS: oh you know I ate that cheese Ma !
+out,FALSE,FALSE,BRO: Mommy Mommy [!] Mommy &=screams !
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,SIS: good going xxx [>] .
+out,FALSE,FALSE,MOT: www [<] .
+out,FALSE,FALSE,MOT: you can finish it .
+out,FALSE,FALSE,CHI: www &=hums .
+out,FALSE,FALSE,INV1: alright .
+out,FALSE,FALSE,INV2: very good .
+out,FALSE,FALSE,INV1: <can you> [/] can you read the whole thing for us ?
+out,FALSE,FALSE,CHI: dear Uncle Paul .
+out,FALSE,FALSE,CHI: how are you doing ?
+out,FALSE,FALSE,CHI: I love you .
+out,FALSE,FALSE,CHI: I miss you .
+out,FALSE,FALSE,CHI: see you soon (.) love Chi .
+out,FALSE,FALSE,INV1: alright (.) good .

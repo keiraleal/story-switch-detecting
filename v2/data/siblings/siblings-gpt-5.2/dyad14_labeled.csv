@@ -1,0 +1,256 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,ERI: look .
+out,FALSE,FALSE,ERI: how small the tiny handles are .
+out,FALSE,FALSE,CHI: oh cute !
+out,FALSE,FALSE,ERI: wanna come and play with me ?
+out,FALSE,FALSE,ERI: <xxx oh> [>] !
+out,FALSE,FALSE,CHI: <xxx sweet [?] bed> [<] .
+out,FALSE,FALSE,ERI: xxx [<] .
+out,FALSE,FALSE,ERI: I'm gonna be mama .
+out,FALSE,FALSE,ERI: that [= small bear figure] will be hers .
+out,FALSE,FALSE,CHI: oh look at the house !
+out,FALSE,FALSE,CHI: neat !
+out,FALSE,FALSE,CHI: oh !
+out,FALSE,FALSE,ERI: xxx .
+out,FALSE,FALSE,CHI: oh (.) cute [/] cute [/] cute (.) oh so sweet .
+out,FALSE,FALSE,ERI: xxx .
+out,FALSE,FALSE,CHI: <I'm> [/] I'm having this .
+out,FALSE,FALSE,ERI: pardon ?
+in,TRUE,FALSE,CHI: having this little boy and the father .
+in,FALSE,FALSE,CHI: they live together .
+in,FALSE,FALSE,ERI: these live together .
+out,FALSE,FALSE,ERI: look .
+out,FALSE,FALSE,ERI: oops [>] !
+out,FALSE,FALSE,CHI: xxx [<] .
+in,FALSE,TRUE,ERI: <rock_a_bye baby> [>] .
+out,FALSE,FALSE,CHI: <oh even the drawers come out> [<] .
+in,TRUE,FALSE,ERI: rock_a_bye baby on the treetop .
+out,FALSE,FALSE,ERI: it's cute isn't it ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,ERI: xxx yes it does .
+out,FALSE,FALSE,CHI: xxx in the corner .
+out,FALSE,FALSE,ERI: where xxx ?
+out,FALSE,FALSE,ERI: &=laughs .
+out,FALSE,FALSE,CHI: 0 [=! slight laugh] .
+out,FALSE,FALSE,ERI: here .
+out,FALSE,FALSE,CHI: I want +...
+out,FALSE,FALSE,ERI: 0 [=! giggles] .
+out,FALSE,FALSE,ERI: oh no you don't .
+out,FALSE,FALSE,ERI: oh yeah .
+out,FALSE,FALSE,ERI: that goes in here .
+out,FALSE,FALSE,ERI: that goes in here .
+out,FALSE,FALSE,CHI: 0 [=! humming] .
+out,FALSE,FALSE,ERI: how did you get those xxx ?
+out,FALSE,FALSE,ERI: xxx all over the place .
+out,FALSE,FALSE,CHI: 0 [=! humming] .
+out,FALSE,FALSE,ERI: 0 .
+out,FALSE,FALSE,ERI: <I'm taking this> [>] .
+out,FALSE,FALSE,CHI: <0 [=! gigles]> [<] .
+out,FALSE,FALSE,ERI: I'm taking these .
+out,FALSE,FALSE,ERI: all these to work with .
+out,FALSE,FALSE,ERI: hey who put these in here ?
+out,FALSE,FALSE,CHI: we hafta work together he said .
+out,FALSE,FALSE,ERI: yeah we are .
+out,FALSE,FALSE,ERI: as_soon_as I get that thing out .
+out,FALSE,FALSE,CHI: &~a:h !
+out,FALSE,FALSE,ERI: come back here with my drawers [>] !
+out,FALSE,FALSE,CHI: <oh no> [<] !
+out,FALSE,FALSE,ERI: all my drawers are going away from me .
+out,FALSE,FALSE,ERI: they just don't wanna be with me .
+out,FALSE,FALSE,ERI: that goes (.) here and that goes here (.) and this goes here .
+out,FALSE,FALSE,CHI: there we go .
+out,FALSE,FALSE,ERI: this goes here .
+out,FALSE,FALSE,CHI: put that right there .
+out,FALSE,FALSE,CHI: oh oh !
+out,FALSE,FALSE,ERI: can we put this (.) right here ?
+out,FALSE,FALSE,ERI: here (.) do these two things .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,CHI: oh (.) what's this for ?
+out,FALSE,FALSE,ERI: I don't know .
+out,FALSE,FALSE,ERI: how'm I supposed +/.
+out,FALSE,FALSE,INV: could you please stay on the carpet ?
+out,FALSE,FALSE,CHI: get out_of here !
+out,FALSE,FALSE,INV: thank_you .
+out,FALSE,FALSE,CHI: that's [!!] not how !
+out,FALSE,FALSE,CHI: that goes right there (.) this goes right there .
+out,FALSE,FALSE,ERI: and this goes right (.) here [>] .
+out,FALSE,FALSE,CHI: xxx [<] .
+out,FALSE,FALSE,ERI: right ?
+out,FALSE,FALSE,CHI: hm:: .
+out,FALSE,FALSE,ERI: 0 [=! giggles] .
+out,FALSE,FALSE,ERI: xxx .
+out,FALSE,FALSE,CHI: this [= furniture in house] (.) goes right here !
+out,FALSE,FALSE,CHI: don't you know +/.
+out,FALSE,FALSE,ERI: <don't you know> [?] .
+out,FALSE,FALSE,CHI: you hafta learn how [!!] to do this .
+out,FALSE,FALSE,ERI: you hafta learn how to be good .
+out,FALSE,FALSE,ERI: oh they're looking in .
+out,FALSE,FALSE,ERI: 0 .
+out,FALSE,FALSE,"CHI: don't say +""/."
+out,FALSE,FALSE,"CHI: +"" hi ."
+out,FALSE,FALSE,ERI: okay .
+out,FALSE,FALSE,"ERI: I won't say +""/."
+out,FALSE,FALSE,"ERI: +"" hi ."
+out,FALSE,FALSE,ERI: they're bugging us .
+out,FALSE,FALSE,ERI: how you sposta +...
+out,FALSE,FALSE,ERI: 0 .
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,ERI: 0 [=! giggles] .
+out,FALSE,FALSE,CHI: oh (.) aren't you being sweet .
+out,FALSE,FALSE,ERI: this is sweet too (.) <a little> [?] .
+out,FALSE,FALSE,ERI: hey Aimee !
+out,FALSE,FALSE,ERI: I just helped you fix that up !
+out,FALSE,FALSE,ERI: how did ya open [>] this xxx ?
+out,FALSE,FALSE,CHI: look [<] .
+out,FALSE,FALSE,ERI: try to open this up .
+out,FALSE,FALSE,ERI: it opens .
+out,FALSE,FALSE,ERI: what's in it ?
+out,FALSE,FALSE,ERI: why doesn't it open ?
+out,FALSE,FALSE,ERI: something in it and I want it .
+out,FALSE,FALSE,ERI: there that's better .
+out,FALSE,FALSE,ERI: I can get all these xxx out +/.
+out,FALSE,FALSE,CHI: hey a tree !
+out,FALSE,FALSE,ERI: xxx .
+out,FALSE,FALSE,ERI: hey <I know> [>] how it goes this .
+out,FALSE,FALSE,CHI: no [<] .
+out,FALSE,FALSE,ERI: no .
+out,FALSE,FALSE,ERI: like this .
+out,FALSE,FALSE,CHI: nah .
+out,FALSE,FALSE,CHI: oo [!!] I know how now .
+out,FALSE,FALSE,ERI: how do you think it goes ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,ERI: oh: [!!] Aimee (.) you sneaker !
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,ERI: it's a car isn't it ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,ERI: it's a tree trunk .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,ERI: what ?
+out,FALSE,FALSE,CHI: it is [!!] a car !
+out,FALSE,FALSE,ERI: chrrr@o .
+out,FALSE,FALSE,ERI: split in half car .
+out,FALSE,FALSE,ERI: <&=laughs> [>] .
+out,FALSE,FALSE,CHI: split car .
+out,FALSE,FALSE,ERI: split car .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,CHI: this is a tree .
+out,FALSE,FALSE,CHI: see look .
+out,FALSE,FALSE,CHI: it goes right there .
+out,FALSE,FALSE,ERI: oh .
+out,FALSE,FALSE,ERI: xxx .
+out,FALSE,FALSE,CHI: you play right here .
+out,FALSE,FALSE,ERI: &=laughs .
+out,FALSE,FALSE,CHI: oh this &=0is their benches !
+out,FALSE,FALSE,ERI: their benches ?
+out,FALSE,FALSE,ERI: oh yeah right .
+out,FALSE,FALSE,ERI: you got it alright .
+out,FALSE,FALSE,ERI: how did you know ?
+out,FALSE,FALSE,ERI: xxx other benches xxx .
+out,FALSE,FALSE,CHI: oh .
+out,FALSE,FALSE,ERI: mm (.) there'll be two benches I think .
+out,FALSE,FALSE,CHI: I'm not using these .
+out,FALSE,FALSE,ERI: well I'm using xxx .
+out,FALSE,FALSE,CHI: look (.) there .
+out,FALSE,FALSE,ERI: oh !
+out,FALSE,FALSE,ERI: see !
+out,FALSE,FALSE,ERI: oh oh (.) oh_oh_the_derry_oh [: hi_ho_the_derry_oh] .
+out,FALSE,FALSE,ERI: I'll never get that thing in (.) oh oh .
+out,FALSE,FALSE,ERI: I'm not playing with it .
+out,FALSE,FALSE,CHI: oh saucepan .
+out,FALSE,FALSE,ERI: <&=laughs> [>] .
+out,FALSE,FALSE,CHI: <&=laughs> [<] .
+out,FALSE,FALSE,ERI: hafta move it over here .
+out,FALSE,FALSE,CHI: where [<] does that other thing go ?
+out,FALSE,FALSE,ERI: xxx [<] .
+out,FALSE,FALSE,CHI: where did that go ?
+out,FALSE,FALSE,ERI: what ?
+out,FALSE,FALSE,CHI: oh !
+out,FALSE,FALSE,CHI: look !
+out,FALSE,FALSE,ERI: 0 .
+out,FALSE,FALSE,CHI: a little &-um: (.) thing that you +/.
+out,FALSE,FALSE,ERI: cut on .
+out,FALSE,FALSE,ERI: xxx .
+out,FALSE,FALSE,CHI: 0 [=! gasps] .
+out,FALSE,FALSE,CHI: oh !
+out,FALSE,FALSE,ERI: oh there's a door .
+out,FALSE,FALSE,ERI: oh look at this !
+out,FALSE,FALSE,ERI: <&=laughs> [>] .
+out,FALSE,FALSE,CHI: <&=laughs> [<] .
+out,FALSE,FALSE,CHI: it's cute .
+out,FALSE,FALSE,CHI: hm: .
+out,FALSE,FALSE,CHI: look [/] look [/] look [/] look [/] look [/] look (.) Erin !
+out,FALSE,FALSE,ERI: <&=laughs> [>] .
+out,FALSE,FALSE,CHI: <&=laughs> [<] .
+out,FALSE,FALSE,ERI: isn't that cute ?
+out,FALSE,FALSE,CHI: just get it in .
+out,FALSE,FALSE,ERI: xxx .
+out,FALSE,FALSE,"ERI: +"" I'm going to sleep ."
+out,FALSE,FALSE,CHI: where's that other book ?
+out,FALSE,FALSE,CHI: oh !
+out,FALSE,FALSE,CHI: look .
+out,FALSE,FALSE,"ERI: where you +""/."
+out,FALSE,FALSE,"ERI: +"" <going to> [>] ?"
+out,FALSE,FALSE,CHI: oh [<] !
+out,FALSE,FALSE,CHI: <I know> [<] what this is for !
+out,FALSE,FALSE,ERI: what [/] what (.) what's for ?
+out,FALSE,FALSE,ERI: oo: !
+out,FALSE,FALSE,ERI: for on top of that ?
+out,FALSE,FALSE,CHI: tsk .
+out,FALSE,FALSE,CHI: can't be .
+out,FALSE,FALSE,ERI: can I see ?
+out,FALSE,FALSE,ERI: cmon [: come on] (.) let's just try it .
+out,FALSE,FALSE,CHI: I already did .
+out,FALSE,FALSE,ERI: then I'll leave it there .
+out,FALSE,FALSE,"ERI: +"" I'm going to get a snack ."
+out,FALSE,FALSE,CHI: we hafta make a good house .
+out,FALSE,FALSE,ERI: yeah .
+out,FALSE,FALSE,"ERI: +"" I wanna get a snack ."
+out,FALSE,FALSE,ERI: over here table .
+out,FALSE,FALSE,"ERI: +"" xxx get snack ."
+out,FALSE,FALSE,CHI: I don't wanna play with this .
+out,FALSE,FALSE,ERI: oo: you're bad .
+out,FALSE,FALSE,CHI: I wanna play with playdough .
+out,FALSE,FALSE,ERI: then we have put all this back .
+out,FALSE,FALSE,ERI: xxx .
+out,FALSE,FALSE,CHI: just a minute .
+out,FALSE,FALSE,CHI: oh I'll help out .
+out,FALSE,FALSE,ERI: no you don't .
+out,FALSE,FALSE,CHI: that's not how (.) you [/] you make friends .
+out,FALSE,FALSE,ERI: I know you don't make friends .
+out,FALSE,FALSE,CHI: oo: !
+out,FALSE,FALSE,ERI: xxx so cute .
+out,FALSE,FALSE,ERI: I think +/.
+out,FALSE,FALSE,CHI: the house is empty xxx .
+in,FALSE,TRUE,ERI: tornado !
+in,TRUE,FALSE,CHI: &~a:h [!] and the door flew off !
+out,FALSE,FALSE,ERI: 0 [=! giggles] .
+in,FALSE,FALSE,ERI: tornado did that .
+in,FALSE,FALSE,ERI: goodbye house .
+out,FALSE,FALSE,CHI: oo: !
+out,FALSE,FALSE,ERI: I know that .
+out,FALSE,FALSE,CHI: neat !
+out,FALSE,FALSE,ERI: member [= remember] kindergarten ?
+out,FALSE,FALSE,CHI: oo !
+out,FALSE,FALSE,ERI: vroom@o .
+out,FALSE,FALSE,CHI: I don't wanna play with them .
+out,FALSE,FALSE,ERI: neither do I .
+out,FALSE,FALSE,CHI: hey (.) I wanna play with these .
+out,FALSE,FALSE,ERI: okay play with it .
+out,FALSE,FALSE,ERI: I'm not .
+out,FALSE,FALSE,CHI: nah .
+out,FALSE,FALSE,CHI: it's boring .
+out,FALSE,FALSE,CHI: I'm going to do this [= play+dough] .
+out,FALSE,FALSE,ERI: now this [!!] is how you be friends .
+out,FALSE,FALSE,ERI: we're gonna be on tv .
+out,FALSE,FALSE,CHI: no we aren't .
+out,FALSE,FALSE,CHI: how do you know ?
+out,FALSE,FALSE,ERI: I don't know .
+out,FALSE,FALSE,ERI: I just don't know .
+out,FALSE,FALSE,ERI: <how &-um> [//] like how (.) how (.) just how do I know ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: oops (.) sorry .
+out,FALSE,FALSE,ERI: oh my gosh !
+out,FALSE,FALSE,ERI: it's going off the table .
+out,FALSE,FALSE,ERI: I better move it down .
+out,FALSE,FALSE,ERI: <whoopshy [: whoopsie]> [>] .
+out,FALSE,FALSE,CHI: <push this in> [<] .

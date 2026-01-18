@@ -1,0 +1,235 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+in,TRUE,TRUE,FALSE,FALSE,CHI: the boy hasta sleep on the floor downstairs Shannon .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: this is the girl's room .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: know what happened ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,SHA: she [//] &-um he can sleep on the couch .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: downstairs .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,CHI: she gets upstairs all to herself .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,CHI: here's a rocking chair +...,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: Patti look .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &~a:h !,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: you scared me !,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,"CHI: +"" I think I'll put my &-uh (.) book in my drawer .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,"CHI: +"" oopsie (.) my drawer fell out .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,SHA: Patti I want my girls again .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: okay .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: this is a +...,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: how bout the boys get up here and the girls (o)kay ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: Patti .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,CHI: the rocking chair's gonna stay down here .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,TRUE,FALSE,CHI: where's your girl going ?,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: how bout the kids sleep up and the grownups sleep down ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: no .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,SHA: the grownups sleep up .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: where's the dad ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: oh here .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,SHA: xxx put them all together xxx .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: xxx .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,SHA: okay (.) the kids (.) go (.) here xxx .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: can't I have this little kid ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: hunhunh .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: <and you can have> [//] I'll have the two kids and you'll have those two ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: hunhunh .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: it'd be much more fair .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: 0 .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: then I'll have a boy and you'll have a boy (.) I'll have a girl and you'll have a girl .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: Shannon (.) it's no fair then .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: thanks .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: mm .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,SHA: okay (.) the children sleep up there xxx .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,CHI: can you move your legs over Shannon ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: but Patti +/.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: how bout we lay down ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: it's much more better .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"SHA: +"" I wanna get xxx downstairs .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: mm .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: hm: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"CHI: +"" I'll make your breakfast (.) before you go up [//] downstairs .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,SHA: <what's that> [/] what's that guy's name ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: don't know .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: Pat [//] Teddy .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: what's yours ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: mm [>] (.) Lynn .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: xxx [<] .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: (o)kay (.) what's &~y your dad's name ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: Dave .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: (o)kay (.) Dave (.) Lynn (.) Shannon .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: no .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,SHA: this is Dave .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,SHA: this is Lynn .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: what's that [= figure] ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: Dave_Lynn .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: no .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,CHI: these for Dave (.) those for Lynn .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,SHA: these two are Lynn ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: no no Patti .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: okay +/.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: <David and Lynn> [//] Dave and Lynn (.) Dave and +...,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: Kelly .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: no .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: xxx okay ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: okay .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: www .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: what's that thing [= camera blind] doing up there Shannon ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,SHA: they're taping .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oh well !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: la_la@wp .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: +"" sister what are you doing outside ?",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,SHA: no don't say that .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" just a minute .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,"CHI: +"" I'll get it mom .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" alright .",FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: sheesh !,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" yeah ?",FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,"SHA: +"" it's daddy .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: (o)kay xxx .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,"SHA: +"" (o)kay I'll shut the door (.) don't worry .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" thanks .",FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,SHA: sister's still outside playing in the backyard +/.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: we can't .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: cause &-um (.) <mom'is> [//] he's about to go to work (.) and she [//] mom [//] and the kid's are still sleeping .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: mom doesn't know that they're up and they're getting dressed .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: hey Shannon ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: Shannon ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: yeah ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: why were you whispering to Dave [?] why ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: huh ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: huh ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: I wasn't .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: yes you were .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: 0 [=! makes noises CV] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: &=laughs .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: what ?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,"SHA: +"" oh (.) oh I can't find my xxx (.) my school books [?] .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,"CHI: +"" what are you doing sister (.) you're still in your pajamas (.) you hafta get changed .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,"SHA: +"" I already changed .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" ah sis .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" what's in here ?",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"SHA: +"" I don't know .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: whatever +...,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: ah [>] !,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: that's the bookshelf !,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: ah [<] !,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: it's both of ours Shannon .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,SHA: yeah but I wanna see what's in it .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: books .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: oh !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: (.) it's xxx .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: let's put them up and in a big pile .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: okay .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: dump them all out .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: no .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,SHA: these [/] these are the school books so (.) that [/] that +/.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: yeah .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: they're all gonna put them like this .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: take them all out .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: (o)kay .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: I get +/.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I get +...,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: whoa !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: I xxx [>] .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,SHA: <I want> [<] the yellow one .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: I'm putting <them away> [>] .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,SHA: <it's time> [<] for school .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: (o)kay (.) one two (.) three four +/.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,SHA: where's the yellow one ?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,SHA: I get the (.) yellow one <and you get three> [>] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: <I want the red one though> [<] .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: no Patti .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,SHA: you get three .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,SHA: you already got three .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: xxx okay .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,SHA: Patti it was just like that (.) that's how it goes .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: ah_ha_hum@wp .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,"CHI: +"" wait for your brother .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"SHA: +"" I hafta go to work now .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" wait for your brother Lynn .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: +"" Lynn (.) wait for your brother .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"SHA: +"" bye .",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: daddy daddy +""/.",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" wait [>] !",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"SHA: +"" yes [<] .",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: kiss@o .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" wait for your brother Lynn .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"SHA: +"" goodbye .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,"CHI: +"" Lynn [!!] wait for your brother .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,"SHA: +"" I know I'm just waiting at the bus station .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: bus stop .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,"SHA: +"" I still hafta get my books .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,CHI: he can't hear him .,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,TRUE,FALSE,"CHI: +"" put them back in your drawer .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: Shannon (.) how bout Lynn and &-uh (.) what's this guy's name again ?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: how bout John ?,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: no .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,SHA: his name is Teddy .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" Lynn .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"SHA: +"" mhm ?",FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: +"" you're only allowed to take one book to school each day remember ?",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,SHA: <no I have> [//] I'm going in a different class today .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" each ?",FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: +"" well your brother's only going to one .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: he's in the same class as you .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"SHA: +"" oh well I hafta go (.) to +...",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"CHI: +"" it's grade four and five (.) you're (.) four (.) he's in five .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" no (.) what am I saying ?",TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"CHI: +"" <you're> [//] he [//] (.) he's in four and you're in five .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: 0 [=! sighs] .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"SHA: +"" dya [: do you] wanna see my big big friend ?",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" &-uh yes .",TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"SHA: +"" he's a bear too .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" &~a:h oh !",FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,"CHI: +"" you're big !",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: &=laughs .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,FALSE,"SHA: +"" we can slide down him .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" whee@o !",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" boom@o !",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" oh ah .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: Shannon (.) whee@o boom@o !,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: (.) he hasta go &~a:h .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: 0 [=! sighs] .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: +"" cmon [: come on] sis we hafta get our bags .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"CHI: +"" well I'm gettin(g) my bag .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"SHA: +"" I'm gettin(g) in the school bus .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" wait up !",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"SHA: +"" hurry !",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"SHA: +"" hurry !",TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"CHI: +"" I'm trying (.) tell him to wait for me .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"SHA: +"" hurry .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,"CHI: +"" I'm trying .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: +"" I hafta kiss daddy (.) and mom .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,"SHA: +"" I already did so hurry .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,"CHI: +"" kiss@o bye dad (.) bye mom kiss@o (.) I love you .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,"SHA: +"" Patti hurry the door's shutting .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: crash@o .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,"CHI: +"" I'm in .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: okay but +/.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" wait (.) our books !",FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,SHA: Patti that's where my books go .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,"SHA: +"" hurry we hafta take <all of our stuff> [//] all of our things .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"SHA: +"" <could I stay> [//] <I'm staying> [/] I'm staying over at Cathy's tonight .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" so am I .",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"SHA: +"" okay .",FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: +"" so I hafta bring my couch with me .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,SHA: Patti just pretend they're at Cathy's house already and they're playing .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" I hafta take +...",FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,"CHI: +"" we're not all finished sis (.) packing .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"SHA: +"" I know .",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" our school books remember ?",TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"CHI: +"" get our school books .",TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,"SHA: +"" I'll take my white chair (.) and my white .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,SHA: xxx [>] .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,"CHI: +"" <don't forget> [<] the fences (.) not my rocking chair .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,"SHA: +"" daddy and mommy are coming with us .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,"CHI: +"" cause we need everything out_of our house .",TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"SHA: +"" I know .",FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,"CHI: +"" sis (.) our books (.) we [//] they all hafta be together .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,"SHA: +"" no <I'm> [/] <I'm> [/] I'm just keeping mine .",TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,CHI: don't put it right there Shannon .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,CHI: put one there and one there .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: so other people can +...,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,"CHI: +"" sis (.) the bookshelf (.) we hafta put all our books in it .",TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,SHA: stay up (.) it won't stay up (.) we hafta move it here [?] .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: back (.) xxx make it so this [= the box lid] stays down .,TRUE,TRUE,TRUE,TRUE

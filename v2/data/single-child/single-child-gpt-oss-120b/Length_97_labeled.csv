@@ -1,0 +1,249 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,MOT: what's this ?
+out,FALSE,FALSE,CHI: a zebra .
+out,FALSE,FALSE,MOT: what color is he ?
+out,FALSE,FALSE,CHI: black and white .
+out,FALSE,FALSE,MOT: what else is in here ?
+out,FALSE,FALSE,MOT: that's what you like .
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,MOT: dinosaurs .
+out,FALSE,FALSE,CHI: where [?] xxx ?
+out,FALSE,FALSE,MOT: what's that ?
+out,FALSE,FALSE,CHI: giraffe [?] .
+out,FALSE,FALSE,MOT: talk louder so they can hear you on the tape .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,MOT: looks like they got it xxx animals .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,MOT: it's a puzzle .
+out,FALSE,FALSE,CHI: what [/] what is that [>] ?
+out,FALSE,FALSE,MOT: <find the> [<] pieces and see if you can +...
+out,FALSE,FALSE,MOT: +
+out,FALSE,FALSE,MOT: she likes doing puzzles .
+out,FALSE,FALSE,MOT: kind of easy for you ain't it ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,MOT: hm: ?
+out,FALSE,FALSE,MOT: (..) here's one .
+out,FALSE,FALSE,MOT: too easy .
+out,FALSE,FALSE,CHI: that one's xxx .
+out,FALSE,FALSE,MOT: one more .
+out,FALSE,FALSE,CHI: where is it ?
+out,FALSE,FALSE,MOT: maybe it's missing .
+out,FALSE,FALSE,CHI: oh .
+out,FALSE,FALSE,CHI: (..) it's done .
+out,FALSE,FALSE,MOT: try to do it with your eyes closed ?
+out,FALSE,FALSE,CHI: yeah .
+in,TRUE,FALSE,MOT: I'll mix them up .
+in,FALSE,TRUE,MOT: +^ I'll give you one .
+in,TRUE,FALSE,MOT: and close your eyes and you can feel .
+in,FALSE,FALSE,MOT: you can feel the squares .
+in,FALSE,FALSE,MOT: and then you can feel this .
+in,FALSE,TRUE,MOT: and you can try to guess where it goes .
+in,TRUE,FALSE,MOT: I'll give you the xxx .
+out,FALSE,FALSE,MOT: no peeking .
+in,FALSE,FALSE,MOT: you're peeking .
+out,FALSE,FALSE,MOT: (..) okay .
+in,FALSE,TRUE,MOT: here I'll give you the next one .
+out,FALSE,FALSE,MOT: don't peek .
+out,FALSE,FALSE,MOT: don't peek .
+out,FALSE,FALSE,MOT: good .
+out,FALSE,FALSE,MOT: figure out where that goes .
+out,FALSE,FALSE,MOT: darn these things .
+out,FALSE,FALSE,INV: <&=laughs > [<] .
+out,FALSE,FALSE,MOT: (..) no .
+out,FALSE,FALSE,MOT: too hard for you ?
+out,FALSE,FALSE,MOT: you hafta turn it around so it can go out from the outside .
+out,FALSE,FALSE,MOT: handle .
+out,FALSE,FALSE,MOT: (..) no .
+out,FALSE,FALSE,INV: &=laughs .
+out,FALSE,FALSE,MOT: there .
+out,FALSE,FALSE,MOT: doesn't go !
+out,FALSE,FALSE,MOT: try the other one .
+out,FALSE,FALSE,MOT: (..) try that one .
+out,FALSE,FALSE,MOT: (..) I'll let you peek quick .
+out,FALSE,FALSE,MOT: take one quick peek .
+out,FALSE,FALSE,MOT: okay that <was it> [>] .
+out,FALSE,FALSE,INV: <&=laughs > [<] .
+out,FALSE,FALSE,MOT: (..) &=laughs .
+out,FALSE,FALSE,CHI: another peek ?
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,INV: &=laughs .
+out,FALSE,FALSE,MOT: okay I'll let you look .
+out,FALSE,FALSE,MOT: I think you were xxx .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: what else it there ?
+out,FALSE,FALSE,MOT: I like the elephant .
+out,FALSE,FALSE,MOT: do you remember how many gallons [!] of water he drinks a day ?
+out,FALSE,FALSE,CHI: thirty ?
+out,FALSE,FALSE,MOT: no .
+out,FALSE,FALSE,CHI: forty ?
+out,FALSE,FALSE,MOT: close .
+out,FALSE,FALSE,CHI: want me to get all the animals ?
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: tell me what they are .
+out,FALSE,FALSE,CHI: (..) dinosaur .
+out,FALSE,FALSE,MOT: wow .
+out,FALSE,FALSE,MOT: what a big neck .
+out,FALSE,FALSE,MOT: (..) slow down .
+out,FALSE,FALSE,MOT: (..) what's this ?
+out,FALSE,FALSE,CHI: zebra .
+out,FALSE,FALSE,MOT: what color is it ?
+out,FALSE,FALSE,CHI: &-um black (.) it's black and +...
+out,FALSE,FALSE,CHI: a hippopotamus .
+out,FALSE,FALSE,MOT: is it ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,MOT: rhinoceros I think .
+out,FALSE,FALSE,CHI: rhinoceros ?
+out,FALSE,FALSE,CHI: hippopotamus .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: and (.) a tiger .
+out,FALSE,FALSE,MOT: oh yeah .
+out,FALSE,FALSE,CHI: elephant .
+out,FALSE,FALSE,MOT: look at his neck .
+out,FALSE,FALSE,MOT: what do you think about his neck ?
+out,FALSE,FALSE,CHI: it's &-um +...
+out,FALSE,FALSE,MOT: why did he have such a long neck ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,MOT: so he could reach up in the trees ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: hippopotamus .
+out,FALSE,FALSE,CHI: and (.) a purple (.) xxx [>] .
+out,FALSE,FALSE,MOT: xxx [<] .
+out,FALSE,FALSE,CHI: hippopotamus ?
+out,FALSE,FALSE,CHI: a purple (.) dinosaur [>] .
+out,FALSE,FALSE,MOT: <baby xxx> [<] .
+out,FALSE,FALSE,MOT: mm .
+out,FALSE,FALSE,CHI: I don't wanna eat it .
+out,FALSE,FALSE,CHI: I see zebra and a foal .
+out,FALSE,FALSE,MOT: think they had <purple ones> [=? triple horns] ?
+out,FALSE,FALSE,MOT: way back then ?
+out,FALSE,FALSE,MOT: hm: ?
+out,FALSE,FALSE,CHI: xxx I said xxx half of them in the kitchen table with all this stuff .
+out,FALSE,FALSE,MOT: you can do it right there [>] .
+out,FALSE,FALSE,CHI: where [<] ?
+out,FALSE,FALSE,MOT: she has got everything already out here .
+out,FALSE,FALSE,MOT: okay ?
+out,FALSE,FALSE,MOT: okay ?
+out,FALSE,FALSE,CHI: (.) a telephone .
+out,FALSE,FALSE,INV: <I don't mind if> [//] would that be easier for you guys or +...
+in,TRUE,FALSE,MOT: we can play with it xxx [>] .
+out,FALSE,FALSE,CHI: no [<] .
+out,FALSE,FALSE,MOT: okay ?
+in,FALSE,TRUE,MOT: then she hasta put everything back .
+out,FALSE,FALSE,MOT: you sit here and do it okay ?
+out,FALSE,FALSE,MOT: <you're on the taperecorder> [>] .
+in,TRUE,FALSE,CHI: <I wanna make a building> [<] .
+out,FALSE,FALSE,MOT: huh ?
+in,FALSE,FALSE,CHI: I'm gonna make a building .
+out,FALSE,FALSE,MOT: okay .
+in,FALSE,TRUE,MOT: +^ we can make it right here .
+out,FALSE,FALSE,MOT: this xxx .
+out,FALSE,FALSE,MOT: see if you can make xxx .
+out,FALSE,FALSE,MOT: (..) what's this for ?
+out,FALSE,FALSE,CHI: it's a ghost [?] .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: it's a ghost .
+out,FALSE,FALSE,MOT: picnic blanket .
+out,FALSE,FALSE,CHI: (..) don't do that !
+out,FALSE,FALSE,CHI: (.) no [?] .
+out,FALSE,FALSE,MOT: do it the other way .
+out,FALSE,FALSE,MOT: (..) go real slow start slowly .
+out,FALSE,FALSE,CHI: &=sneezes .
+out,FALSE,FALSE,MOT: <do another one on this side> [>] .
+out,FALSE,FALSE,CHI: xxx [<] ?
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,MOT: put something else on there .
+out,FALSE,FALSE,MOT: so it willn't fall .
+out,FALSE,FALSE,CHI: xxx no don't touch anything .
+out,FALSE,FALSE,CHI: (..) now .
+out,FALSE,FALSE,CHI: xxx [>] .
+out,FALSE,FALSE,MOT: <they're all there> [<] .
+out,FALSE,FALSE,MOT: (..) slow .
+out,FALSE,FALSE,MOT: slow .
+out,FALSE,FALSE,MOT: you have steady hands .
+out,FALSE,FALSE,CHI: I don't xxx [>] .
+out,FALSE,FALSE,MOT: xxx [<] .
+out,FALSE,FALSE,CHI: I can't move that .
+out,FALSE,FALSE,MOT: what ?
+out,FALSE,FALSE,CHI: and [?] a bridge .
+out,FALSE,FALSE,CHI: (.) careful +...
+out,FALSE,FALSE,MOT: oh well you xxx work .
+out,FALSE,FALSE,CHI: go ahead [>] bump my head .
+out,FALSE,FALSE,MOT: okay [<] .
+out,FALSE,FALSE,CHI: <now (.) and I willn't> [>] +...
+out,FALSE,FALSE,MOT: <you gotta fix xxx> [<] .
+out,FALSE,FALSE,CHI: and I willn't get up in the morning !
+out,FALSE,FALSE,CHI: (..) stop dropping everything [?] !
+out,FALSE,FALSE,MOT: did you tell Inv that ?
+out,FALSE,FALSE,MOT: there a man who went to bed ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: &=laughs .
+out,FALSE,FALSE,CHI: <it's in the story> [>] .
+out,FALSE,FALSE,MOT: <you did you told her> [<] ?
+out,FALSE,FALSE,CHI: nyah nyah nyah boo boo .
+out,FALSE,FALSE,CHI: www .
+out,FALSE,FALSE,INV: xxx .
+out,FALSE,FALSE,MOT: why couldn't he get up in the morning ?
+in,TRUE,FALSE,CHI: bumped his head .
+out,FALSE,FALSE,MOT: yeah xxx [>] .
+in,FALSE,TRUE,CHI: <and he's an> [<] old man snoring !
+out,FALSE,FALSE,MOT: there you go .
+out,FALSE,FALSE,MOT: xxx start over ?
+out,FALSE,FALSE,CHI: and xxx ?
+out,FALSE,FALSE,MOT: start over ?
+out,FALSE,FALSE,CHI: mm ?
+out,FALSE,FALSE,MOT: that's +...
+out,FALSE,FALSE,CHI: (..) there .
+out,FALSE,FALSE,CHI: and another long nong@c nong@c nong@c .
+out,FALSE,FALSE,CHI: one .
+out,FALSE,FALSE,MOT: two .
+out,FALSE,FALSE,CHI: it's not that [!] long .
+out,FALSE,FALSE,MOT: yes it is xxx .
+out,FALSE,FALSE,MOT: hafta go real (.) steady .
+out,FALSE,FALSE,CHI: don't touch me [?] .
+out,FALSE,FALSE,CHI: ah .
+out,FALSE,FALSE,CHI: ahhah !
+out,FALSE,FALSE,MOT: xxx put another one on too huh ?
+out,FALSE,FALSE,MOT: put something underneath it ?
+out,FALSE,FALSE,MOT: (..) uhoh [>] .
+out,FALSE,FALSE,CHI: xxx [<] ?
+out,FALSE,FALSE,CHI: can't move that !
+out,FALSE,FALSE,CHI: (be)cause xxx .
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,MOT: (..) what are you making ?
+out,FALSE,FALSE,MOT: a bridge ?
+out,FALSE,FALSE,MOT: (..) oh xxx .
+out,FALSE,FALSE,CHI: (..) I don't think <I can> [>] do this .
+out,FALSE,FALSE,MOT: <I know> [<] .
+out,FALSE,FALSE,CHI: www .
+out,FALSE,FALSE,MOT: keep going .
+out,FALSE,FALSE,CHI: if (.) I can get this one I may (.) not .
+out,FALSE,FALSE,CHI: oh +...
+out,FALSE,FALSE,CHI: www .
+out,FALSE,FALSE,CHI: stay on .
+out,FALSE,FALSE,CHI: (..) oh xxx +...
+out,FALSE,FALSE,MOT: you're playing with that ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,MOT: good .
+out,FALSE,FALSE,MOT: got a steadier hand than me .
+out,FALSE,FALSE,CHI: &-um .
+out,FALSE,FALSE,MOT: now what ?
+out,FALSE,FALSE,CHI: xxx one of those .
+in,TRUE,FALSE,CHI: and no (.) this willn't work .
+out,FALSE,FALSE,CHI: don't you know ?
+in,FALSE,TRUE,CHI: (..) you're [?] helping me not to drop it .
+out,FALSE,FALSE,MOT: that one looks good .
+out,FALSE,FALSE,MOT: you know what ?
+out,FALSE,FALSE,MOT: (be)cause [?] one side's heavier .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: not can't quite fit right ?
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,CHI: which way ?
+out,FALSE,FALSE,CHI: I need another one of these .
+out,FALSE,FALSE,CHI: find me another one of these ?
+out,FALSE,FALSE,MOT: put these on the side .
+out,FALSE,FALSE,MOT: one on this side and one on this side and one on that side .
+out,FALSE,FALSE,CHI: hey xxx .
+out,FALSE,FALSE,CHI: but there's no xxx touch +...
+in,TRUE,FALSE,CHI: I need two of these .
+out,FALSE,FALSE,CHI: can you find two of these ?
+in,FALSE,FALSE,CHI: I got one and then another one .

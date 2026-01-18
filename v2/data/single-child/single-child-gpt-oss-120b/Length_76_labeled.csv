@@ -1,0 +1,211 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV: did you ever do anything like that ?
+in,TRUE,FALSE,CHI: well I spilt milk sometimes .
+out,FALSE,FALSE,INV: tell me about it .
+in,FALSE,TRUE,CHI: my brother spilt something once .
+out,FALSE,FALSE,INV: oh really ?
+out,FALSE,FALSE,INV: what happened ?
+in,TRUE,FALSE,CHI: well I had like a sore throat too and I was laying on the couch and we were playing +//.
+in,FALSE,TRUE,CHI: my brother wiggled +//.
+in,TRUE,FALSE,CHI: the water was up on the ironing board .
+out,FALSE,FALSE,INV: the water was up on the ironing board ?
+in,FALSE,FALSE,CHI: and my brother wiggled it and the water fell and spread all over .
+out,FALSE,FALSE,INV: your brother wiggled it and it fell and spread all over ?
+out,FALSE,FALSE,INV: ah: (.) then ?
+in,FALSE,FALSE,CHI: we just waited until it dried .
+out,FALSE,FALSE,INV: made home made ice cream ?
+out,FALSE,FALSE,INV: oh: .
+out,FALSE,FALSE,INV: what else happened ?
+out,FALSE,FALSE,CHI: oh: .
+in,FALSE,TRUE,CHI: we rode on their motorcycle once .
+out,FALSE,FALSE,INV: went on a motorcycle ?
+out,FALSE,FALSE,INV: tell me about it .
+in,TRUE,FALSE,"CHI: well it's like a, I think, a trail bike ."
+out,FALSE,FALSE,INV: a trail bike ?
+in,FALSE,FALSE,"CHI: I rode it up to one end of the road, all the way back to their house ."
+out,FALSE,FALSE,INV: all the way back to their house and ?
+in,FALSE,FALSE,CHI: it wasn't very long .
+out,FALSE,FALSE,INV: it wasn't very long ?
+in,FALSE,TRUE,CHI: I rode with both girls .
+out,FALSE,FALSE,INV: you rode with both girls ?
+out,FALSE,FALSE,INV: oh .
+in,TRUE,FALSE,"CHI: I rode with the oldest one, the oldest one's name is Denise, I think ."
+out,FALSE,FALSE,INV: Denise ?
+in,FALSE,FALSE,CHI: and then I forgot what the other one's name is .
+out,FALSE,FALSE,INV: tell me about what happened on your trip when you went to visit your cousin .
+in,FALSE,TRUE,"CHI: well I think I was four or five, now I'm six ."
+out,FALSE,FALSE,INV: you were four or five then huh ?
+in,TRUE,FALSE,CHI: and one of my cousins were pulling me in the wagon .
+out,FALSE,FALSE,INV: they were pulling you in the wagon ?
+in,FALSE,FALSE,CHI: and when I got out I kind of tripped and I fell on my knee .
+out,FALSE,FALSE,INV: you fell on your knee ?
+in,FALSE,FALSE,CHI: it hurt .
+out,FALSE,FALSE,INV: it hurt ?
+in,FALSE,FALSE,CHI: hurt .
+in,FALSE,TRUE,CHI: it was a very nice house .
+out,FALSE,FALSE,INV: they have a very nice house ?
+in,TRUE,FALSE,"CHI: and I liked the outside in the back, very nice I like it a_lot ."
+out,FALSE,FALSE,INV: you do ?
+out,FALSE,FALSE,INV: oh: .
+in,FALSE,FALSE,CHI: lots of nice play places .
+out,FALSE,FALSE,CHI: you know what I do outside ?
+out,FALSE,FALSE,INV: what ?
+in,FALSE,TRUE,CHI: there is a dirt pile out in back of our barn .
+out,FALSE,FALSE,INV: you do ?
+in,TRUE,FALSE,CHI: yeah a big dirt pile .
+in,FALSE,FALSE,CHI: me and my brother Michael play on it .
+in,FALSE,FALSE,CHI: some day my dad Saturday my dad took a big chunk out of it .
+out,FALSE,FALSE,INV: chunk out of it ?
+in,FALSE,TRUE,CHI: yeah because there is a water hole by the hog barn .
+out,FALSE,FALSE,INV: yeah ?
+in,TRUE,FALSE,CHI: he wanted to fill it up so it wouldn't be so messy .
+out,FALSE,FALSE,INV: so it wouldn't be so messy ?
+in,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,FALSE,CHI: he took one big load full .
+in,FALSE,TRUE,CHI: he has a front end loader .
+out,FALSE,FALSE,INV: he has a front end loader ?
+in,TRUE,FALSE,"CHI: he took it full, took it over there and dumped it out ."
+out,FALSE,FALSE,INV: dumped it out .
+in,FALSE,FALSE,CHI: yeah and he took all the rocks out of it and threw them out .
+out,FALSE,FALSE,INV: took all the rock out and threw them out huh ?
+in,FALSE,FALSE,CHI: and flattened it out .
+out,FALSE,FALSE,INV: and flattened it out ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: oh .
+in,FALSE,TRUE,CHI: I like it a_lot out on the farm .
+out,FALSE,FALSE,INV: have you ever been in a car wreck like that ?
+in,TRUE,FALSE,CHI: we've had flat tires but we didn't get into a wreck .
+out,FALSE,FALSE,INV: tell me about it .
+in,FALSE,FALSE,CHI: well <we were coming> [//] we were going someplace and <a we> [//] just as we were turning off this one road .
+out,FALSE,FALSE,INV: uhhuh ?
+out,FALSE,FALSE,INV: just as you were turning off this one road ?
+in,FALSE,FALSE,CHI: we just heard psssst@o and we rode a little bit and it was a flat tire .
+out,FALSE,FALSE,INV: you rode a little bit and it was a flat tire ?
+in,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,FALSE,CHI: yeah and my dad hadta change it .
+in,FALSE,TRUE,CHI: yeah I know once when my mom was taking us to nursery school .
+out,FALSE,FALSE,INV: when you mom was taking you to nursery school ?
+out,FALSE,FALSE,INV: yeah ?
+in,TRUE,FALSE,CHI: and the steering came out .
+out,FALSE,FALSE,INV: the steering came out ?
+in,FALSE,FALSE,CHI: and she was just turning off that way .
+out,FALSE,FALSE,INV: and she was just turning off that way ?
+in,FALSE,FALSE,CHI: she was just turning that way and the steering came out and she couldn't turn it back and we went into the ditch .
+out,FALSE,FALSE,INV: you went into the ditch ?
+in,FALSE,TRUE,CHI: it kind of bent some rods up but my dad fixed it .
+out,FALSE,FALSE,INV: kind of bent some rods up and your dad fixed it ?
+in,TRUE,FALSE,CHI: we still got the same car we wrecked with .
+out,FALSE,FALSE,INV: did that ever happen to you ?
+in,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: it has ?
+out,FALSE,FALSE,INV: tell me about it .
+in,FALSE,FALSE,CHI: well when we were coming home from church one day .
+out,FALSE,FALSE,INV: coming home from church ?
+in,FALSE,FALSE,CHI: this car wrecked into a pole .
+out,FALSE,FALSE,INV: this car wrecked into a pole ?
+in,FALSE,FALSE,CHI: yeah and it was a lo:ng time before it even got out .
+in,FALSE,FALSE,CHI: we hadta turn around and go back the other way .
+out,FALSE,FALSE,INV: you hadta turn back and go back the other way ?
+in,FALSE,FALSE,CHI: it was the only way we could get home .
+out,FALSE,FALSE,INV: it's the only way we could get home huh ?
+in,FALSE,FALSE,CHI: very bad wreck .
+out,FALSE,FALSE,"INV: very bad wreck , oh ."
+in,FALSE,FALSE,CHI: the car was smashed up .
+out,FALSE,FALSE,INV: it was really smashed up huh ?
+in,FALSE,FALSE,CHI: in little pieces .
+out,FALSE,FALSE,INV: in little pieces wow !
+in,FALSE,FALSE,CHI: the back end was fine .
+in,FALSE,FALSE,CHI: I guess he had a blowout or the engine conked out and was turned off and ran into the telephone pole .
+out,FALSE,FALSE,INV: right into a telephone pole ?
+out,FALSE,FALSE,CHI: oh_boy .
+out,FALSE,FALSE,INV: oh_boy that one .
+in,FALSE,FALSE,CHI: the engine was so wrecked up that he couldn't move again .
+out,FALSE,FALSE,INV: couldn't move again huh ?
+in,FALSE,FALSE,CHI: I guess it ended up on the junk pile .
+out,FALSE,FALSE,INV: have you ever been to the doctor ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: oh yeah ?
+out,FALSE,FALSE,INV: tell me about it .
+out,FALSE,FALSE,CHI: I can't think of any times .
+in,FALSE,TRUE,CHI: once when I had a cold and I couldn't hear too +...
+in,TRUE,FALSE,INV: couldn't hear too good ?
+in,FALSE,FALSE,"CHI: +, good my mom took me to the doctor and she looked in my ears and there was a little bit of wax she said ."
+out,FALSE,FALSE,INV: little bit of wax uhhuh ?
+in,FALSE,TRUE,CHI: not much .
+in,TRUE,FALSE,CHI: she talked about this part goes all the way up to the ear .
+in,FALSE,FALSE,INV: right this part goes all the way up to the ear .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,TRUE,CHI: she asked questions and everything .
+in,TRUE,FALSE,CHI: I hadta sit there .
+in,FALSE,FALSE,CHI: I just sat there on the thing you lay on .
+out,FALSE,FALSE,INV: yeah ?
+in,FALSE,FALSE,CHI: sat there and sat there watching them .
+out,FALSE,FALSE,INV: watching them huh ?
+out,FALSE,FALSE,INV: you kind of sat watching them and +..?
+in,FALSE,TRUE,CHI: I like my doctor Doctor_Lastname .
+out,FALSE,FALSE,INV: have you ever been in a hospital ?
+in,TRUE,FALSE,CHI: my mom has .
+out,FALSE,FALSE,INV: oh tell me about it .
+in,FALSE,FALSE,CHI: I have too .
+out,FALSE,FALSE,INV: oh tell me about it .
+in,FALSE,TRUE,"CHI: when I [//] me , my mom , my dad , and my grandma all went to the doctor to see my mom when my little brother Michael was just born ."
+out,FALSE,FALSE,INV: uhhuh ?
+in,TRUE,FALSE,CHI: one time when we went there Daddy smoked a cigar .
+in,FALSE,FALSE,CHI: he doesn't smoke very much .
+out,FALSE,FALSE,INV: but he smoked a cigar ?
+in,FALSE,FALSE,CHI: he smoked it and he says and me go down there .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,TRUE,CHI: and he says his little piece of cigar about that big .
+in,TRUE,FALSE,CHI: he leaves it in the car and we go in to see Mommy .
+in,FALSE,TRUE,CHI: we didn't see Michael though .
+out,FALSE,FALSE,INV: you didn't see Michael though ?
+in,TRUE,FALSE,CHI: we talked with her .
+out,FALSE,FALSE,INV: you talked with her ?
+in,FALSE,TRUE,"CHI: we went back home and when Daddy got back in the car he took the cigar and lit it again and went +""/."
+in,TRUE,FALSE,"CHI: +"" phew: ."
+out,FALSE,FALSE,INV: he lit it again and he went phew: ?
+in,FALSE,TRUE,CHI: never forget it .
+in,TRUE,FALSE,"CHI: Spotty we took last and our big dog was named Smoky , nice and tame ."
+out,FALSE,FALSE,"INV: Smoky , nice and tame ?"
+in,FALSE,TRUE,CHI: she got killed by a truck .
+out,FALSE,FALSE,INV: oh no .
+out,FALSE,FALSE,INV: what happened ?
+in,TRUE,FALSE,CHI: this milk truck was taking a detour down our road .
+in,FALSE,TRUE,CHI: she never runs out down .
+in,TRUE,FALSE,CHI: me and my mom were coming down from nursery school where she picked me up and we saw her laying in the road and the man came out and told us what happened .
+in,FALSE,TRUE,CHI: we didn't have no dog for a couple of days .
+out,FALSE,FALSE,INV: oh you didn't have a dog for a couple of days ?
+in,TRUE,FALSE,CHI: then finally we went over and got Spot .
+out,FALSE,FALSE,INV: have you ever gotten jabbed with anything ?
+in,FALSE,TRUE,CHI: a thorn .
+out,FALSE,FALSE,"INV: a thorn , what happened ?"
+in,TRUE,FALSE,CHI: I was playing and I accidentally reached in to get my ball .
+out,FALSE,FALSE,INV: you were reaching in to get your ball ?
+in,FALSE,FALSE,CHI: I just went right back and I pricked one and it hurt .
+in,FALSE,FALSE,CHI: it went right into this finger .
+out,FALSE,FALSE,INV: it went into this finger ?
+in,FALSE,FALSE,CHI: and it stuck in there .
+in,FALSE,FALSE,CHI: my dad picked it out and my mom took it out with a needle .
+out,FALSE,FALSE,INV: your mom took it out with a needle ?
+in,FALSE,FALSE,CHI: I didn't like it very much .
+in,FALSE,TRUE,CHI: I remember when my brother got <a sliver> [/] a sliver .
+out,FALSE,FALSE,INV: oh tell me about it .
+in,TRUE,FALSE,CHI: we were playing outside .
+out,FALSE,FALSE,INV: mhm ?
+in,FALSE,FALSE,CHI: I don't know how it happened .
+in,FALSE,FALSE,CHI: we were playing outside and when we came in he had a sliver in his hand .
+out,FALSE,FALSE,INV: he had a sliver in his hand ?
+in,FALSE,FALSE,"CHI: just before he took a bath my dad came up and took it out and he was cry:ing , cry:ing oouwoo@i ."
+in,FALSE,FALSE,CHI: he cried for a little while .
+in,FALSE,FALSE,CHI: he started and he didn't wanna get into the tub .
+in,FALSE,FALSE,CHI: he started crying and crying .
+out,FALSE,FALSE,INV: have you ever broken anything ?
+in,FALSE,TRUE,CHI: yeah I broke a glass .
+out,FALSE,FALSE,INV: you broke a glass ?
+in,TRUE,FALSE,CHI: yeah it had nothing in it .
+out,FALSE,FALSE,INV: it had nothing in it ?
+in,FALSE,TRUE,CHI: it was way on the end and it landed on the floor and blew up .
+out,FALSE,FALSE,INV: it blew up and ?
+in,TRUE,FALSE,CHI: my dad hadta pick it up because my mom wasn't home .

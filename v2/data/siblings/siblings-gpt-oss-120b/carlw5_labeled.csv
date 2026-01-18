@@ -1,0 +1,123 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV1: we have one more thing to do .
+out,FALSE,FALSE,CHI: what [>] ?
+out,FALSE,FALSE,MOT: what [<] ?
+in,TRUE,FALSE,MOT: wow look at that .
+out,FALSE,FALSE,INV1: to <write &-uh> [/] write a short letter .
+in,FALSE,TRUE,MOT: it's short .
+in,TRUE,FALSE,CHI: what's a short [!] letter ?
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,INV1: <to whoever you wanna write to> [>] .
+in,FALSE,TRUE,CHI: <I don't have no pencil> [<] .
+in,TRUE,FALSE,MOT: like you could write something to me .
+in,FALSE,TRUE,CHI: or Greg .
+in,TRUE,FALSE,MOT: or something to one of the kids .
+out,FALSE,FALSE,CHI: or Greg .
+in,FALSE,FALSE,CHI: can you help me ?
+out,FALSE,FALSE,MOT: like put words together .
+out,FALSE,FALSE,MOT: +^ like for [?] a sentence .
+out,FALSE,FALSE,CHI: 0 .
+in,FALSE,TRUE,MOT: <well you could> [//] (.) think what you wanna write .
+in,TRUE,FALSE,MOT: +^ and you could ask me how to spell it .
+in,FALSE,FALSE,MOT: and I could help you .
+in,FALSE,FALSE,MOT: if you don't know how .
+out,FALSE,FALSE,MOT: answer that xxx .
+out,FALSE,FALSE,BRO: www .
+in,FALSE,FALSE,CHI: what does this say ?
+out,FALSE,FALSE,BRO: www [>] ?
+out,FALSE,FALSE,CHI: huh [<] ?
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: I'm hoping ?
+out,FALSE,FALSE,BRO: www .
+in,FALSE,TRUE,MOT: if you're saying happy@q that's sposta be an a@l .
+out,FALSE,FALSE,BRO: www [>] .
+out,FALSE,FALSE,CHI: no [<] .
+out,FALSE,FALSE,CHI: I@q +...
+out,FALSE,FALSE,MOT: ++ hope@q .
+out,FALSE,FALSE,CHI: yeah [>] .
+in,TRUE,FALSE,MOT: <so [<] you [?] put the e@l instead of a p@l [?]> [>] .
+out,FALSE,FALSE,BRO: www [<] .
+out,FALSE,FALSE,MOT: tell her yeah !
+out,FALSE,FALSE,BRO: yeah .
+out,FALSE,FALSE,SIS: <xxx this> [>] ?
+out,FALSE,FALSE,MOT: <no no no> [<] no .
+out,FALSE,FALSE,MOT: not this one .
+out,FALSE,FALSE,MOT: e@l here .
+in,FALSE,TRUE,CHI: I do it xxx .
+out,FALSE,FALSE,MOT: (.) get out_of my fridge .
+out,FALSE,FALSE,CHI: (.) I hope +...
+in,TRUE,FALSE,CHI: how you spell Greg@q ?
+out,FALSE,FALSE,MOT: t@l (.) r@l (.) e@l (.) g@l .
+out,FALSE,FALSE,CHI: huh ?
+out,FALSE,FALSE,MOT: g@l .
+in,FALSE,FALSE,CHI: I wrote (.) Greg@q .
+in,FALSE,TRUE,CHI: how do you spell come back ?
+out,FALSE,FALSE,MOT: c@l (.) o@l (.) m@l (.) e@l (.) s@l .
+out,FALSE,FALSE,CHI: come .
+out,FALSE,FALSE,MOT: right .
+in,TRUE,FALSE,CHI: now how do you spell back@q ?
+out,FALSE,FALSE,MOT: get out_of the (.) fridge !
+out,FALSE,FALSE,CHI: b@l +...
+out,FALSE,FALSE,MOT: www !
+out,FALSE,FALSE,SIS: no &=whines .
+out,FALSE,FALSE,MOT: no .
+out,FALSE,FALSE,SIS: <but I'm hungry [?]> [=! whining] .
+out,FALSE,FALSE,MOT: a@l [>] .
+out,FALSE,FALSE,CHI: b@l [<] .
+out,FALSE,FALSE,MOT: c@l (.) k@l .
+out,FALSE,FALSE,CHI: k@l .
+out,FALSE,FALSE,MOT: soon +...
+out,FALSE,FALSE,CHI: s@l o@l o@l n@l ?
+out,FALSE,FALSE,MOT: (.) there you go .
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,CHI: I'm done !
+out,FALSE,FALSE,MOT: how much +//.
+out,FALSE,FALSE,MOT: ow watch my foot .
+out,FALSE,FALSE,CHI: I'm done !
+out,FALSE,FALSE,INV2: that's it ?
+out,FALSE,FALSE,INV2: you wanna sign it ?
+out,FALSE,FALSE,MOT: show xxx .
+out,FALSE,FALSE,BRO: do I get to +/.
+in,FALSE,TRUE,MOT: no you ain't keeping the change .
+out,FALSE,FALSE,CHI: xxx [>] .
+out,FALSE,FALSE,BRO: come [<] one xxx .
+out,FALSE,FALSE,MOT: a dollar .
+out,FALSE,FALSE,BRO: a dollar !
+in,TRUE,FALSE,MOT: get out_of here no !
+in,FALSE,TRUE,BRO: I wanna buy [!] something .
+out,FALSE,FALSE,BRO: www .
+in,TRUE,FALSE,SIS: can I go with him ?
+in,FALSE,TRUE,CHI: <what is> [/] what is this ?
+out,FALSE,FALSE,SIS: Mama .
+in,TRUE,FALSE,MOT: what does your name begin with ?
+in,FALSE,TRUE,MOT: that's what you do last .
+out,FALSE,FALSE,CHI: no f@l r@l .
+in,TRUE,FALSE,MOT: what does your name begin with ?
+in,FALSE,TRUE,CHI: no I'm writin(g) from [>] .
+in,TRUE,FALSE,MOT: <I know> [<] [/] I know what you're talking about .
+in,FALSE,TRUE,MOT: what does your name begin with ?
+out,FALSE,FALSE,CHI: m@l .
+out,FALSE,FALSE,MOT: right !
+out,FALSE,FALSE,MOT: put it down .
+out,FALSE,FALSE,MOT: right .
+out,FALSE,FALSE,MOT: now you do your name .
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,MOT: www &=laughs silly .
+out,FALSE,FALSE,MOT: there you go .
+out,FALSE,FALSE,MOT: +^ how_about your last name ?
+out,FALSE,FALSE,CHI: xxx w@l a@l t@l s@l o@l (.) n@l [!] .
+out,FALSE,FALSE,MOT: there you go .
+out,FALSE,FALSE,MOT: get up !
+out,FALSE,FALSE,MOT: get out !
+out,FALSE,FALSE,CHI: I'm done !
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,INV2: could you +/.
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,INV2: could you read that to us ?
+out,FALSE,FALSE,MOT: read it .
+out,FALSE,FALSE,MOT: +^ would you read it xxx ?
+out,FALSE,FALSE,MOT: go ahead .
+in,TRUE,FALSE,CHI: I hope Greg (.) comes (.) back [!] soon .
+out,FALSE,FALSE,CHI: from Chi [= full name] .
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,INV1: alright .

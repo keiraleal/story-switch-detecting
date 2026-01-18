@@ -1,0 +1,317 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV: hello .
+out,FALSE,FALSE,INV: now who are you ?
+out,FALSE,FALSE,CHI: Sarah .
+out,FALSE,FALSE,INV: Sarah .
+out,FALSE,FALSE,INV: now Sarah
+out,FALSE,FALSE,CHI: Mrs Graham's .
+out,FALSE,FALSE,INV: is that that lady in there ?
+out,FALSE,FALSE,CHI: &=nods .
+out,FALSE,FALSE,INV: is she nice ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: is she ?
+out,FALSE,FALSE,INV: what have you been doing during break time ?
+in,TRUE,FALSE,CHI: &=coughs doing some sentences .
+in,FALSE,FALSE,CHI: <we had> [//] well
+in,FALSE,FALSE,CHI: and [?] we hadta put them right .
+out,FALSE,FALSE,INV: oh
+out,FALSE,FALSE,INV: could you do that ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: yeah ?
+out,FALSE,FALSE,INV: was it easy ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: did you come top ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: who came top ?
+in,FALSE,TRUE,CHI: nobody .
+in,TRUE,FALSE,CHI: don't do that [% act=not imperative] .
+out,FALSE,FALSE,INV: don't you ?
+in,FALSE,TRUE,INV: I'm trying to record something off the radio .
+out,FALSE,FALSE,INV: 0 .
+out,FALSE,FALSE,INV: have you got a taperecorder at home ?
+out,FALSE,FALSE,CHI: yes .
+in,TRUE,FALSE,INV: &-um it's a song and I'll let you listen to it later .
+out,FALSE,FALSE,INV: d(o) you wanna play some games today ?
+out,FALSE,FALSE,CHI: &=nods .
+out,FALSE,FALSE,INV: yeah ?
+in,FALSE,TRUE,INV: I got this game .
+in,TRUE,FALSE,INV: this is a game that my sister got for christmas .
+in,FALSE,FALSE,INV: so I thought I'd show it to you .
+out,FALSE,FALSE,INV: did you get anything for christmas ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: what did you get ?
+out,FALSE,FALSE,CHI: got &-um a show stable for my xxx ponies .
+out,FALSE,FALSE,INV: really ?
+out,FALSE,FALSE,INV: who d(o) you get that from ?
+out,FALSE,FALSE,CHI: my mummie and daddy .
+out,FALSE,FALSE,INV: mummie and daddy .
+out,FALSE,FALSE,INV: xxx away .
+out,FALSE,FALSE,INV: did you have a good christmas then ?
+out,FALSE,FALSE,INV: did you gets lots_of toys ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: have you ever seen anything like this [= board game] before ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,INV: have you seen this game before ?
+out,FALSE,FALSE,CHI: no .
+in,FALSE,FALSE,INV: show you what you gotta do .
+in,FALSE,TRUE,INV: right that's a sort of field .
+in,TRUE,FALSE,INV: and then just gonna try and make picture with it .
+in,FALSE,TRUE,INV: it's my sister's game but she won't mind us playing with it .
+out,FALSE,FALSE,INV: so what shall we start with ?
+in,TRUE,FALSE,INV: I'll take them off .
+out,FALSE,FALSE,CHI: &-um that .
+out,FALSE,FALSE,INV: that .
+out,FALSE,FALSE,INV: what d(o) you think that is ?
+out,FALSE,FALSE,CHI: &-um barn .
+out,FALSE,FALSE,INV: where d(o) you think that should go ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,INV: where shall we put it ?
+out,FALSE,FALSE,CHI: &=points .
+out,FALSE,FALSE,INV: yeah and what now ?
+out,FALSE,FALSE,CHI: the hay .
+out,FALSE,FALSE,INV: what
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: have you ever been to a farm ?
+out,FALSE,FALSE,CHI: &-um no .
+out,FALSE,FALSE,INV: no ?
+out,FALSE,FALSE,INV: (be)cause I think this is going to be a farm √¢‚Ç¨≈æ isn't it ?
+out,FALSE,FALSE,INV: &-um shall we put a horsie on ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: put him eating the hay .
+out,FALSE,FALSE,INV: there xxx .
+out,FALSE,FALSE,INV: d(o) you like horses ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what d(o) you think his name is
+out,FALSE,FALSE,INV: what shall we call him ?
+out,FALSE,FALSE,CHI: Ned .
+out,FALSE,FALSE,INV: Ned .
+out,FALSE,FALSE,INV: look
+out,FALSE,FALSE,INV: shall we do that one ?
+out,FALSE,FALSE,INV: who's he then ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,INV: shall we call him Dobbin ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: can you ride horses ?
+in,FALSE,TRUE,CHI: I tried once with a saddle .
+out,FALSE,FALSE,INV: yeah .
+out,FALSE,FALSE,INV: and what happened ?
+in,TRUE,FALSE,CHI: I didn't fall off .
+in,FALSE,TRUE,INV: I xxx a horse once .
+in,TRUE,FALSE,INV: I really hurt myself .
+in,FALSE,TRUE,CHI: so has my sister .
+in,TRUE,FALSE,CHI: and I had a go .
+in,FALSE,FALSE,CHI: that's when I rode xxx on a horse .
+out,FALSE,FALSE,INV: really ?
+out,FALSE,FALSE,INV: does she like horses your sister then ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: is she in this school
+out,FALSE,FALSE,CHI: no she xxx .
+out,FALSE,FALSE,INV: is she older than you ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: what's her name then ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,INV: have you got any more brothers and sisters ?
+out,FALSE,FALSE,CHI: no
+out,FALSE,FALSE,INV: d(o) you get on well with her ?
+out,FALSE,FALSE,CHI: yes
+out,FALSE,FALSE,INV: do you ?
+out,FALSE,FALSE,INV: whose fault is that ?
+out,FALSE,FALSE,CHI: both of ours .
+out,FALSE,FALSE,INV: does mummie get angry when you argue ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: what does she say ?
+in,FALSE,TRUE,CHI: <don't> [//] √¢‚Ç¨≈ìstop doing that else I'll bang your heads together√¢‚Ç¨¬ù .
+out,FALSE,FALSE,INV: oh
+out,FALSE,FALSE,INV: does she smack you ?
+out,FALSE,FALSE,CHI: &-um yes .
+out,FALSE,FALSE,INV: what do you do when you're naughty then ?
+in,TRUE,FALSE,CHI: go in my bedroom .
+out,FALSE,FALSE,INV: shall we put this tree on ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: looks a bit like a christmas tree
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: did you have a tree like that at christmas ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: what was it like ?
+out,FALSE,FALSE,CHI: it was plastic .
+out,FALSE,FALSE,INV: was it ?
+out,FALSE,FALSE,INV: not a real one .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: what did you put on it ?
+out,FALSE,FALSE,CHI: just decorations .
+out,FALSE,FALSE,INV: did you help to decorate the tree ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: did you ?
+out,FALSE,FALSE,INV: were you good at that ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: what else did you do at christmas then ?
+out,FALSE,FALSE,CHI: &-um
+out,FALSE,FALSE,INV: did he ?
+out,FALSE,FALSE,INV: is he nice your grandad ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: and what else did you do ?
+out,FALSE,FALSE,INV: did you go out for a walk or something ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: where ?
+out,FALSE,FALSE,INV: did you go somewhere nice ?
+in,FALSE,TRUE,CHI: we went round the new houses .
+out,FALSE,FALSE,INV: new houses ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: where are they ?
+in,TRUE,FALSE,CHI: over [=? oh they're] in Burghfield Common .
+out,FALSE,FALSE,INV: would you like to live in one of those new houses then ?
+in,FALSE,FALSE,CHI: my mum would .
+in,FALSE,FALSE,CHI: but I wouldn't .
+out,FALSE,FALSE,INV: why not ?
+in,FALSE,FALSE,CHI: because I wanna stay where I [?] &~r &~l live .
+out,FALSE,FALSE,INV: why d(o) you wanna stay there though ?
+in,FALSE,TRUE,CHI: (be)cause it's got a nice sandpit .
+in,TRUE,FALSE,CHI: and I've got a nice house .
+out,FALSE,FALSE,INV: yeah
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: what things have you got in your bedroom ?
+out,FALSE,FALSE,CHI: &-um I've [=? we've] got a bed
+out,FALSE,FALSE,INV: and what are your favorite toys then ?
+out,FALSE,FALSE,CHI: my show stable and my rollerskates .
+out,FALSE,FALSE,INV: hey
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: that's really difficult .
+out,FALSE,FALSE,INV: are you good at that ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: really ?
+out,FALSE,FALSE,INV: doesn't it take a really long time to learn how to do it though ?
+out,FALSE,FALSE,CHI: no .
+in,FALSE,TRUE,CHI: I learnt when I was five .
+in,TRUE,FALSE,CHI: I'm seven now .
+in,FALSE,TRUE,INV: I fall over when I try doing roller skates .
+out,FALSE,FALSE,INV: what's she doing ?
+out,FALSE,FALSE,CHI: she's feeding the horse .
+out,FALSE,FALSE,INV: what's she giving him ?
+out,FALSE,FALSE,CHI: oats .
+out,FALSE,FALSE,INV: is that what they like ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: wonder what else horses eat .
+out,FALSE,FALSE,INV: oh
+out,FALSE,FALSE,INV: what shall we put on it now ?
+out,FALSE,FALSE,INV: looks like a tractor .
+out,FALSE,FALSE,INV: where should that go ?
+out,FALSE,FALSE,CHI: 0 .
+in,TRUE,FALSE,INV: there's something missing there .
+in,FALSE,FALSE,INV: it's got noone in it .
+in,FALSE,TRUE,CHI: he could drive it .
+out,FALSE,FALSE,INV: think so .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: show me how you think he should sit there then .
+out,FALSE,FALSE,CHI: &=shows .
+out,FALSE,FALSE,INV: yeah hey
+out,FALSE,FALSE,INV: where do you think he's going in his tractor ?
+in,TRUE,FALSE,CHI: &-um to the farmyard .
+out,FALSE,FALSE,INV: yeah ?
+out,FALSE,FALSE,INV: what's he going to do ?
+in,FALSE,FALSE,CHI: he's going to feed the horses and pigs and cows .
+out,FALSE,FALSE,INV: let's put some pigs on .
+out,FALSE,FALSE,INV: what do pigs eat
+out,FALSE,FALSE,CHI: &-um
+out,FALSE,FALSE,INV: do you think they eat grass ?
+out,FALSE,FALSE,CHI: yeah
+out,FALSE,FALSE,INV: 0 [% act=child coughs] you've got a cold as_well
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: what do you do in Mrs Graham's class then ?
+in,FALSE,TRUE,CHI: we write .
+in,TRUE,FALSE,CHI: and we do maths .
+out,FALSE,FALSE,INV: are you good at maths ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: do you like it ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: what do you hafta do in maths ?
+out,FALSE,FALSE,CHI: well
+in,FALSE,FALSE,CHI: and you hafta &~wri [?] &~w do what it says in the maths .
+out,FALSE,FALSE,INV: really ?
+out,FALSE,FALSE,INV: like what
+out,FALSE,FALSE,CHI: yes .
+in,FALSE,FALSE,CHI: and sometimes it's got coloring pictures .
+out,FALSE,FALSE,INV: oh
+out,FALSE,FALSE,INV: what else do you do apart from maths ?
+out,FALSE,FALSE,CHI: language .
+out,FALSE,FALSE,CHI: Guidelines +/.
+out,FALSE,FALSE,INV: what's that ?
+out,FALSE,FALSE,CHI: it's a milk churn .
+out,FALSE,FALSE,INV: oh yeah .
+out,FALSE,FALSE,CHI: maths .
+out,FALSE,FALSE,CHI: language .
+out,FALSE,FALSE,CHI: Guidelines and measuring .
+out,FALSE,FALSE,INV: measuring ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what do you do measuring with ?
+out,FALSE,FALSE,CHI: a ruler .
+out,FALSE,FALSE,INV: oh
+out,FALSE,FALSE,INV: what
+out,FALSE,FALSE,INV: <long ruler> [>] ?
+out,FALSE,FALSE,CHI: yes [<] .
+out,FALSE,FALSE,CHI: there's a bed <with a house> [?] .
+out,FALSE,FALSE,CHI: what's this ?
+out,FALSE,FALSE,INV: don't know .
+out,FALSE,FALSE,INV: d(o) you think it looks a bit like a kennel ?
+out,FALSE,FALSE,CHI: it looks like a bed .
+out,FALSE,FALSE,INV: wait a minute
+out,FALSE,FALSE,INV: it might be a toilet or something [>] .
+out,FALSE,FALSE,CHI: <it could [=? can]> [<] be a door .
+out,FALSE,FALSE,INV: yeah .
+out,FALSE,FALSE,CHI: &-um .
+out,FALSE,FALSE,INV: but where ?
+out,FALSE,FALSE,CHI: or it could be a little hut .
+out,FALSE,FALSE,INV: xxx or something .
+out,FALSE,FALSE,INV: oh I know
+out,FALSE,FALSE,CHI: a duck or a goose .
+out,FALSE,FALSE,INV: it's not a turkey √¢‚Ç¨≈æ is it ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: did you have a turkey at christmas ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: what else did you have on christmas dinner ?
+out,FALSE,FALSE,CHI: I had some potatoes and some vegetables +...
+out,FALSE,FALSE,INV: didn't you have any christmas pudding then ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: it's my favorite
+out,FALSE,FALSE,INV: what's your favorite food then ?
+in,FALSE,TRUE,CHI: &-um fish fingers .
+out,FALSE,FALSE,INV: yeah ?
+out,FALSE,FALSE,INV: I like beefburgers best .
+out,FALSE,FALSE,INV: what do you have with your fish fingers ?
+in,TRUE,FALSE,CHI: chips and peas .
+in,FALSE,TRUE,CHI: my sister has beans .
+out,FALSE,FALSE,INV: don't you like beans ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: I thought everybody liked beans .
+out,FALSE,FALSE,INV: what are you going to do this evening then
+out,FALSE,FALSE,INV: this afternoon
+out,FALSE,FALSE,CHI: going to [?] gymnastics .
+out,FALSE,FALSE,INV: really
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: what's this d(o) you think ?
+out,FALSE,FALSE,INV: this thing over here ?
+out,FALSE,FALSE,CHI: &-um
+out,FALSE,FALSE,INV: xxx .
+out,FALSE,FALSE,INV: what are you going to do at the weekend ?
+out,FALSE,FALSE,CHI: &-um
+out,FALSE,FALSE,INV: are you ?
+out,FALSE,FALSE,INV: who with ?
+in,TRUE,FALSE,CHI: my mummie and daddy and my sister .
+out,FALSE,FALSE,INV: what are you going to do there ?
+in,FALSE,TRUE,CHI: going to look at some egyptian things .
+in,TRUE,FALSE,CHI: (be)cause we're doing a play about Egyptians .
+out,FALSE,FALSE,INV: oh good .
+out,FALSE,FALSE,INV: <tell me about that> [>] .
+out,FALSE,FALSE,CHI: <next week> [<] .
+out,FALSE,FALSE,INV: next week ?
+out,FALSE,FALSE,CHI: yeah .
+in,FALSE,TRUE,CHI: <and we and a we're &~g we're going to have some> [/] we're going to have a xxx man called .
+in,TRUE,FALSE,CHI: &-um going to do a play about this book Mrs Graham read out to us .
+out,FALSE,FALSE,CHI: forgotten the name of it .
+out,FALSE,FALSE,INV: are you in the play ?
+out,FALSE,FALSE,CHI: yes
+out,FALSE,FALSE,INV: xxx [<] .
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,INV: d(o) you hafta learn to say the lines and things ?
+out,FALSE,FALSE,CHI: yes
+in,FALSE,TRUE,CHI: I did read it in a play of Hansel and Gretel with my friend .
+out,FALSE,FALSE,INV: really ?

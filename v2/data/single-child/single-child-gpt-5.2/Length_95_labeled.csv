@@ -1,0 +1,305 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,EXP: when's your birthday (.) Eric ?
+out,FALSE,FALSE,CHI: on October the +/.
+out,FALSE,FALSE,EXP: twelfth ?
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,CHI: twenty one .
+out,FALSE,FALSE,EXP: oh (.) the twenty first .
+out,FALSE,FALSE,EXP: did you have a birthday party ?
+out,FALSE,FALSE,EXP: do you remember ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: what'd you do at your birthday party ?
+out,FALSE,FALSE,CHI: I ate my cake .
+out,FALSE,FALSE,EXP: what kind ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,EXP: you don't remember ?
+out,FALSE,FALSE,EXP: do you remember what you got for your birthday ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: what did you get ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,EXP: I thought you remembered .
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,EXP: don't know ?
+out,FALSE,FALSE,EXP: what would you wanna get when you have a birthday this year ?
+out,FALSE,FALSE,EXP: what do you want ?
+in,TRUE,FALSE,CHI: &-um (.) a transformer .
+out,FALSE,FALSE,EXP: transformer ?
+in,FALSE,FALSE,CHI: transformer truck .
+out,FALSE,FALSE,EXP: what does that do ?
+in,FALSE,TRUE,CHI: change .
+out,FALSE,FALSE,EXP: it changes ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: what do you do with it (.) though ?
+in,TRUE,FALSE,CHI: it changes and it talks .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: it what ?
+in,FALSE,FALSE,CHI: talks .
+out,FALSE,FALSE,EXP: it talks ?
+out,FALSE,FALSE,EXP: I don't believe you .
+out,FALSE,FALSE,EXP: what does it say ?
+in,FALSE,FALSE,CHI: say move .
+in,FALSE,TRUE,CHI: let's go .
+out,FALSE,FALSE,EXP: it goes ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: so it talks and it goes ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: is that what a transformer does ?
+out,FALSE,FALSE,CHI: yeah .
+in,TRUE,FALSE,CHI: and it change in (.) to a little transformer car .
+out,FALSE,FALSE,EXP: oh .
+in,FALSE,FALSE,EXP: it's a transformer car .
+out,FALSE,FALSE,EXP: what else would you wanna get +/.
+in,FALSE,FALSE,CHI: and a transformer car .
+in,FALSE,FALSE,EXP: oh (.) and a transformer car .
+out,FALSE,FALSE,EXP: then what does the car do ?
+in,FALSE,FALSE,CHI: goes and a transformer ambulance xxx .
+out,FALSE,FALSE,EXP: oh .
+in,FALSE,TRUE,CHI: you get all circles .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: that's a good place for it to go .
+out,FALSE,FALSE,EXP: what else would you want for your birthday ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: a what +/.
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: garages ?
+in,TRUE,FALSE,CHI: no (.) gobots .
+in,FALSE,FALSE,EXP: gobots .
+out,FALSE,FALSE,EXP: what are they ?
+in,FALSE,TRUE,CHI: they're &-um (.) t [/] things changes .
+in,TRUE,FALSE,CHI: they go at change .
+in,FALSE,FALSE,CHI: they change .
+in,FALSE,TRUE,CHI: and robot xxx .
+out,FALSE,FALSE,EXP: wow .
+out,FALSE,FALSE,EXP: what's your favorite tv program (.) Eric ?
+in,TRUE,FALSE,CHI: &-um (.) Tom and Jerry and .
+out,FALSE,FALSE,EXP: what is ?
+in,FALSE,FALSE,CHI: Tom and Jerry (.) xxx and something else .
+out,FALSE,FALSE,EXP: I can't understand what you said .
+in,FALSE,FALSE,CHI: Tom and Jerry .
+out,FALSE,FALSE,EXP: oh (.) Tom and Jerry .
+out,FALSE,FALSE,EXP: it's a cartoon ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: what happens in Tom and Jerry ?
+in,FALSE,FALSE,CHI: th [/] they can't get Jerry .
+out,FALSE,FALSE,EXP: so what's Jerry ?
+in,FALSE,FALSE,CHI: a mouse .
+in,FALSE,FALSE,EXP: oh (.) Jerry's a mouse .
+out,FALSE,FALSE,EXP: what do they do together ?
+in,FALSE,TRUE,CHI: they shake hands .
+out,FALSE,FALSE,EXP: they shake hands ?
+in,TRUE,FALSE,EXP: I thought you said they chase each other .
+in,FALSE,TRUE,CHI: the Tom does .
+in,TRUE,FALSE,EXP: Tom does .
+out,FALSE,FALSE,EXP: oh .
+out,FALSE,FALSE,EXP: which is your favorite (.) Tom or Jerry [>] .
+out,FALSE,FALSE,CHI: <Tom> [<] .
+out,FALSE,FALSE,EXP: why ?
+out,FALSE,FALSE,CHI: (be)cause .
+out,FALSE,FALSE,CHI: and Jerry .
+out,FALSE,FALSE,EXP: both of (th)em ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: you don't like one better ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: hm ?
+out,FALSE,FALSE,CHI: xxx the best .
+out,FALSE,FALSE,EXP: who's that ?
+out,FALSE,FALSE,CHI: a cartoon .
+out,FALSE,FALSE,EXP: why do you like that one best ?
+out,FALSE,FALSE,EXP: what do you like about it ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: and I want this .
+out,FALSE,FALSE,EXP: you want that one (.) too ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: what color's that ?
+out,FALSE,FALSE,CHI: orange (.) his earring .
+out,FALSE,FALSE,EXP: what happened last time you watched Tom and Jerry ?
+out,FALSE,FALSE,EXP: did you watch this morning ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: what happened ?
+in,FALSE,TRUE,CHI: they went on a boat .
+in,TRUE,FALSE,CHI: a ship +/.
+out,FALSE,FALSE,EXP: what'd they do on a boat ?
+in,FALSE,TRUE,CHI: Jerry shot the (.) &-uh +...
+out,FALSE,FALSE,EXP: what did Jerry try to do ?
+in,TRUE,FALSE,CHI: xxx them up .
+out,FALSE,FALSE,EXP: shut them up ?
+in,FALSE,FALSE,CHI: no (.) trap them up .
+out,FALSE,FALSE,EXP: oh .
+in,FALSE,FALSE,CHI: trap them I mean .
+out,FALSE,FALSE,EXP: what's your favorite thing to eat for dinner ?
+out,FALSE,FALSE,CHI: eat for dinner ?
+out,FALSE,FALSE,CHI: I like +/.
+out,FALSE,FALSE,EXP: what do you like ?
+out,FALSE,FALSE,CHI: roast beef .
+out,FALSE,FALSE,EXP: roast beef .
+out,FALSE,FALSE,EXP: that is good .
+out,FALSE,FALSE,EXP: what else do you like to eat ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: what ?
+in,FALSE,TRUE,CHI: I eat some xxx .
+out,FALSE,FALSE,EXP: Fritos ?
+out,FALSE,FALSE,CHI: xxx .
+in,TRUE,FALSE,CHI: I ate it .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: oh yum .
+in,FALSE,FALSE,CHI: the first xxx after dinner I ate [//] eat .
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,FALSE,CHI: ice cream cone .
+in,FALSE,FALSE,EXP: ice cream cones .
+out,FALSE,FALSE,EXP: what flavor is your favorite ?
+in,FALSE,FALSE,CHI: strawberry .
+out,FALSE,FALSE,EXP: strawberry ?
+in,FALSE,TRUE,CHI: xxx got purple .
+out,FALSE,FALSE,EXP: mm (.) how do you like it ?
+out,FALSE,FALSE,EXP: on a cone or in the dish or what ?
+in,TRUE,FALSE,CHI: in a cone .
+out,FALSE,FALSE,EXP: what kind of come ?
+in,FALSE,FALSE,CHI: cone xxx .
+out,FALSE,FALSE,EXP: just a come huh ?
+out,FALSE,FALSE,EXP: what don't you like to eat ?
+out,FALSE,FALSE,CHI: oil xxx I don't eat .
+out,FALSE,FALSE,EXP: you don't eat oil .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,EXP: what else don't you like to eat ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,EXP: is there anything that your mom or dad makes you eat that you don't
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: what ?
+out,FALSE,FALSE,CHI: oil .
+out,FALSE,FALSE,EXP: oil ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: nothing else ?
+out,FALSE,FALSE,EXP: do you like broccoli ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: and spinach ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: anything you don't like ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: I like spinach .
+out,FALSE,FALSE,EXP: you do ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: how much can you eat ?
+out,FALSE,FALSE,CHI: a lot .
+out,FALSE,FALSE,EXP: how much ?
+out,FALSE,FALSE,CHI: I don't [//] I ate [//] eat a lot .
+out,FALSE,FALSE,EXP: a lot huh ?
+out,FALSE,FALSE,EXP: what's your favorite game ?
+in,FALSE,TRUE,CHI: sorry game .
+out,FALSE,FALSE,EXP: what is it ?
+in,TRUE,FALSE,CHI: sorry game .
+out,FALSE,FALSE,EXP: how do you play that ?
+in,FALSE,TRUE,CHI: you get &-um [/] you get on home and you pick a card .
+out,FALSE,FALSE,EXP: what do the cards say ?
+in,TRUE,FALSE,CHI: number .
+in,FALSE,FALSE,CHI: they say numbers on it .
+out,FALSE,FALSE,EXP: what do you do with a number ?
+in,FALSE,TRUE,CHI: you [/] you see it xxx .
+in,TRUE,FALSE,CHI: then you put it down .
+in,FALSE,FALSE,CHI: and then somebody goes .
+out,FALSE,FALSE,EXP: and then somebody goes ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: where do they go ?
+in,FALSE,TRUE,CHI: to home and pick card .
+out,FALSE,FALSE,EXP: sorry ?
+out,FALSE,FALSE,EXP: Is that the name of the game ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: oh (.) I knew that game .
+out,FALSE,FALSE,EXP: that's a fun one .
+out,FALSE,FALSE,EXP: how many people play ?
+out,FALSE,FALSE,CHI: just three .
+out,FALSE,FALSE,EXP: three ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: who plays with you ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: who ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: is that somebody in your class ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: is that a best friend ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: but I know .
+out,FALSE,FALSE,EXP: what ?
+out,FALSE,FALSE,CHI: Michael Smith .
+out,FALSE,FALSE,EXP: Michael Smith too ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: and victor .
+out,FALSE,FALSE,EXP: and victor .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: who goes first ?
+out,FALSE,FALSE,EXP: how do you know who goes first ?
+in,TRUE,FALSE,CHI: the [/] the boy .
+in,FALSE,TRUE,CHI: one boy goes first (.) then the next player goes next .
+out,FALSE,FALSE,EXP: girls can't play ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: yeah ?
+out,FALSE,FALSE,EXP: well that's good .
+out,FALSE,FALSE,EXP: how do you tell who wins ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: hm ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: how do you know who wins ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: this doesn't stick .
+out,FALSE,FALSE,EXP: it doesn't stick ?
+out,FALSE,FALSE,EXP: here (.) let me have it .
+out,FALSE,FALSE,EXP: how do you tell who wins sorry ?
+out,FALSE,FALSE,CHI: when they xxx .
+out,FALSE,FALSE,EXP: what ?
+out,FALSE,FALSE,CHI: I don't remember it .
+out,FALSE,FALSE,EXP: you don't remember ?
+out,FALSE,FALSE,CHI: I know one membery .
+out,FALSE,FALSE,EXP: oh .
+out,FALSE,FALSE,EXP: here you go .
+out,FALSE,FALSE,EXP: now it sticks .
+out,FALSE,FALSE,EXP: what did you do first thing in the morning when you got up this
+out,FALSE,FALSE,CHI: &-uh +/.
+out,FALSE,FALSE,EXP: whoopie (.) now it stuck on you .
+out,FALSE,FALSE,CHI: get dressed .
+out,FALSE,FALSE,EXP: you got dressed ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: how did you know what to wear ?
+out,FALSE,FALSE,EXP: how did you know what to wear ?
+out,FALSE,FALSE,CHI: what's this ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,EXP: does your mom put your clothes out ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,CHI: I do .
+out,FALSE,FALSE,EXP: you do it ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: oh .
+out,FALSE,FALSE,EXP: do you get up first in the morning ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: how do you wake up ?
+out,FALSE,FALSE,EXP: how do you wake up ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,EXP: you don't know ?
+out,FALSE,FALSE,EXP: you just wake up (.) just [/] just wake up ?
+out,FALSE,FALSE,CHI: just wake up in the morning .
+out,FALSE,FALSE,EXP: doesn't your mom wake you up ?
+out,FALSE,FALSE,CHI: I do .
+out,FALSE,FALSE,EXP: who wakes you up in the morning ?
+out,FALSE,FALSE,CHI: I do .
+out,FALSE,FALSE,EXP: you do ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: do you have an alarm clock ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: no ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: you do ?
+out,FALSE,FALSE,EXP: well who sets that ?
+in,TRUE,FALSE,CHI: no one does .
+out,FALSE,FALSE,EXP: no one does ?
+in,FALSE,FALSE,CHI: di [//] does it by itself .
+out,FALSE,FALSE,EXP: oh .
+out,FALSE,FALSE,EXP: and when does your mom get up ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,EXP: when does she get up ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,EXP: how do get ready for school (.) Eric ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,EXP: what do you do to get ready for school ?
+out,FALSE,FALSE,CHI: get my school clothes on .
+out,FALSE,FALSE,EXP: you put your school clothes on ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,EXP: and what else ?
+out,FALSE,FALSE,CHI: I don't know .

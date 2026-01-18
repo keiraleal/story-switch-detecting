@@ -1,0 +1,316 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV: have you got one of those games at home ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: have you seen one of them ?
+in,TRUE,FALSE,CHI: I had one once but it breaked .
+out,FALSE,FALSE,INV: it what ?
+out,FALSE,FALSE,INV: it broke ?
+out,FALSE,FALSE,INV: did you say ?
+in,FALSE,FALSE,CHI: it broke and +...
+out,FALSE,FALSE,INV: how can it break ?
+in,FALSE,TRUE,CHI: my sister cutted it up .
+out,FALSE,FALSE,INV: oh really ?
+out,FALSE,FALSE,INV: did she cut those stickers or what did she do ?
+out,FALSE,FALSE,INV: or did she cut this game ?
+in,TRUE,FALSE,CHI: she cut the (.) cardboard .
+out,FALSE,FALSE,INV: the cardboard ?
+out,FALSE,FALSE,INV: why did she do that ?
+out,FALSE,FALSE,CHI: I don't know .
+in,FALSE,TRUE,CHI: cause we was [?] fighting .
+in,TRUE,FALSE,CHI: and she just cut it .
+out,FALSE,FALSE,INV: really ?
+out,FALSE,FALSE,INV: were you annoyed with her ?
+out,FALSE,FALSE,INV: what did you do to her ?
+in,FALSE,TRUE,CHI: I frothed [?] her .
+out,FALSE,FALSE,INV: is your sister younger ?
+in,TRUE,FALSE,CHI: she's four .
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,TRUE,CHI: we fight in bed .
+out,FALSE,FALSE,INV: you fight in bed ?
+out,FALSE,FALSE,INV: why do you fight ?
+in,TRUE,FALSE,CHI: cause (.) she keeps on tickling me on my legs in bed .
+out,FALSE,FALSE,INV: really ?
+in,FALSE,TRUE,CHI: to [?] wake me up .
+out,FALSE,FALSE,INV: and what do you do to her ?
+in,TRUE,FALSE,CHI: I just say &-um √¢‚Ç¨≈ìgo to sleep√¢‚Ç¨¬ù and then she starts crying .
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,INV: does she hafta go to bed earlier than you ?
+in,FALSE,TRUE,CHI: <she went> [/] she went reall(y) [=? really] early one day .
+in,TRUE,FALSE,CHI: one day I was ill .
+in,FALSE,FALSE,CHI: and I went to bed after the news .
+in,FALSE,TRUE,CHI: and she stayed up and watched Dallas .
+out,FALSE,FALSE,INV: really ?
+out,FALSE,FALSE,INV: what did your mother say to that ?
+in,TRUE,FALSE,CHI: my daddy just let her stay up .
+out,FALSE,FALSE,INV: did he ?
+in,FALSE,TRUE,CHI: to watch Dallas when my mummie went to work .
+out,FALSE,FALSE,INV: &-um I see .
+out,FALSE,FALSE,INV: did she like watching Dallas ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: well
+in,TRUE,FALSE,INV: if you want you can put the chicken somewhere else but I leave them on now .
+in,FALSE,TRUE,INV: so you put the things on again .
+in,TRUE,FALSE,CHI: I put it (.) there .
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,INV: where should the haystack go ?
+out,FALSE,FALSE,CHI: there .
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,INV: have you ever been on a farm ?
+out,FALSE,FALSE,CHI: no .
+in,FALSE,TRUE,CHI: I've been on one but that was a long time ago .
+in,TRUE,FALSE,CHI: in my holidays I might go see her .
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,INV: is that a friend of yours ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: would you like to live on a farm ?
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: and have cows and pigs .
+out,FALSE,FALSE,CHI: I can't get it off .
+out,FALSE,FALSE,INV: &-um it's very difficult .
+out,FALSE,FALSE,INV: one hasta use one's fingernails .
+out,FALSE,FALSE,CHI: I [=? I'll] put the xxx there .
+out,FALSE,FALSE,CHI: what's that ?
+out,FALSE,FALSE,INV: I think they are two houses .
+out,FALSE,FALSE,INV: two more farmhouses .
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,INV: where shall that go ?
+out,FALSE,FALSE,CHI: down there .
+out,FALSE,FALSE,CHI: is that some bits of gate ?
+out,FALSE,FALSE,INV: it could be
+out,FALSE,FALSE,CHI: shall I put it over there ?
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,INV: is nobody allowed to enter this gate ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: what will you do if people come in ?
+out,FALSE,FALSE,CHI: shoot (th)em .
+out,FALSE,FALSE,INV: shoot them ?
+out,FALSE,FALSE,CHI: I take that xxx bush there .
+out,FALSE,FALSE,INV: looks as_if it's growing on the stone .
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,CHI: pump .
+out,FALSE,FALSE,INV: it's a pump .
+out,FALSE,FALSE,CHI: uhhuh .
+in,FALSE,FALSE,CHI: should be inside the house .
+out,FALSE,FALSE,INV: why should it be inside the house ?
+in,FALSE,FALSE,CHI: so_that they could have some water .
+out,FALSE,FALSE,INV: so_that they could have some water ?
+in,FALSE,TRUE,CHI: and they got it outside there .
+out,FALSE,FALSE,CHI: &-um .
+in,TRUE,FALSE,INV: I think in the old houses they didn't have water inside .
+out,FALSE,FALSE,CHI: no
+out,FALSE,FALSE,INV: inside the house ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,CHI: <get out> [?] broom .
+out,FALSE,FALSE,INV: where does the broom go ?
+out,FALSE,FALSE,CHI: on <the roof> [?] there or lying on there .
+out,FALSE,FALSE,CHI: shall I put it by the man ?
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,CHI: looks like a window .
+out,FALSE,FALSE,INV: like a window ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,INV: well
+out,FALSE,FALSE,CHI: it's out_of wood √¢‚Ç¨≈æ isn't it ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: what do you think this is ?
+out,FALSE,FALSE,CHI: bit of gate ?
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,CHI: shall I put it down there ?
+out,FALSE,FALSE,INV: &-um if you wanna
+out,FALSE,FALSE,CHI: looks like a thing to &~s [//] put wood for sawing .
+out,FALSE,FALSE,CHI: she should be by the geese .
+out,FALSE,FALSE,CHI: you go <up there> [?] .
+out,FALSE,FALSE,INV: is she feeding the geese ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: what is she doing ?
+out,FALSE,FALSE,CHI: she's got a egg in her hand .
+out,FALSE,FALSE,INV: she's got an egg in her hand ?
+out,FALSE,FALSE,INV: I see .
+out,FALSE,FALSE,INV: is that a goose egg ?
+out,FALSE,FALSE,CHI: I think so .
+out,FALSE,FALSE,CHI: I put it there .
+out,FALSE,FALSE,CHI: looks like he's sawing .
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,INV: there is a saw there somewhere .
+out,FALSE,FALSE,INV: I think it's in that carriage over there .
+out,FALSE,FALSE,CHI: &-um there it is .
+out,FALSE,FALSE,CHI: shall I get [?] it ?
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,CHI: in a minute xxx .
+out,FALSE,FALSE,CHI: I'm gonna put these all in the barn .
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,CHI: two .
+out,FALSE,FALSE,CHI: or there's three .
+in,FALSE,TRUE,CHI: look like little baby cows' bottles xxx .
+out,FALSE,FALSE,INV: baby cows ?
+in,TRUE,FALSE,CHI: xxx they do have bottles when their mummie dies .
+out,FALSE,FALSE,INV: &-um I see .
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,INV: how do you know ?
+out,FALSE,FALSE,CHI: I dunno [: don't know] .
+in,FALSE,TRUE,CHI: I watch it on tv sometimes .
+out,FALSE,FALSE,CHI: where shall I put those ?
+in,TRUE,FALSE,INV: we don't really have any baby cows .
+in,FALSE,TRUE,CHI: or xxx to baby pigs .
+in,TRUE,FALSE,CHI: they have some .
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: xxx now .
+out,FALSE,FALSE,CHI: put [/] put one in his mouth .
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,INV: you put it on it's mouth .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: the cows are eating some hay ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,CHI: pig .
+out,FALSE,FALSE,INV: what is he doing ?
+out,FALSE,FALSE,CHI: he looks like he's feeding something [//] somebody .
+out,FALSE,FALSE,CHI: how_about feeding the chickens or hens ?
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,INV: it sounds a good idea .
+out,FALSE,FALSE,CHI: xxx what this is .
+in,FALSE,TRUE,CHI: I haven't seen one of these ones [//] one before .
+out,FALSE,FALSE,INV: you haven't ?
+out,FALSE,FALSE,CHI: no .
+in,TRUE,FALSE,INV: I think it's for chopping pieces of wood
+in,FALSE,TRUE,CHI: looks like <his thing> [?] .
+out,FALSE,FALSE,INV: what does it look like ?
+in,TRUE,FALSE,CHI: <does it> [//] it looks like a thing which scrapes xxx .
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,CHI: where shall I put that ?
+out,FALSE,FALSE,INV: xxx near the house .
+out,FALSE,FALSE,CHI: in a minute I'm gonna get a sword .
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,INV: we have some sacks .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: goose and house .
+in,FALSE,TRUE,CHI: shall I get a man and put him on there on <the horse> [?] cause he is running
+in,TRUE,FALSE,INV: he is .
+in,FALSE,TRUE,CHI: they're all running .
+in,TRUE,FALSE,CHI: that one and that one and these two .
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,INV: can you get it off ?
+out,FALSE,FALSE,CHI: &-um .
+out,FALSE,FALSE,CHI: they're stuck .
+out,FALSE,FALSE,CHI: I put these up by the barn .
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,INV: what do you think is in the sacks ?
+out,FALSE,FALSE,CHI: corn (..) <for the mill> [?] .
+out,FALSE,FALSE,CHI: put one by the house .
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,INV: could feed another pig .
+out,FALSE,FALSE,INV: or why not the horse ?
+out,FALSE,FALSE,INV: so what shall we do with the saw now ?
+out,FALSE,FALSE,CHI: put it in that xxx .
+out,FALSE,FALSE,INV: okay .
+out,FALSE,FALSE,CHI: where he's sawing .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: how are we gonna get it moving ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,CHI: done it .
+out,FALSE,FALSE,INV: good .
+out,FALSE,FALSE,INV: very good .
+out,FALSE,FALSE,INV: it's very full
+out,FALSE,FALSE,INV: very crowded .
+out,FALSE,FALSE,CHI: uhhuh .
+in,FALSE,TRUE,CHI: I thought the animals would be in a shed .
+out,FALSE,FALSE,INV: the animals would be in a shed ?
+out,FALSE,FALSE,CHI: uhhuh .
+in,TRUE,FALSE,CHI: looking out_of some of the windows .
+out,FALSE,FALSE,INV: uhhuh .
+in,FALSE,TRUE,INV: probably it's a cowstall .
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: have you ever been in a cowstall ?
+out,FALSE,FALSE,CHI: <my gran
+out,FALSE,FALSE,INV: wouldn't he ?
+out,FALSE,FALSE,INV: why not ?
+out,FALSE,FALSE,CHI: don't know .
+out,FALSE,FALSE,INV: were you scared of the cows ?
+out,FALSE,FALSE,CHI: no .
+in,TRUE,FALSE,CHI: he just said no@q .
+out,FALSE,FALSE,INV: &-um .
+in,FALSE,TRUE,INV: it would have disturbed the cows if you had gone in there .
+in,TRUE,FALSE,CHI: I know but I [/] I teases him .
+in,FALSE,TRUE,CHI: I say √¢‚Ç¨≈ìcan I go and see the cows but I see the horses instead√¢‚Ç¨¬ù .
+out,FALSE,FALSE,INV: you see what instead ?
+in,TRUE,FALSE,CHI: the horses instead .
+in,FALSE,FALSE,CHI: I tease him so_that I can stroke the horses .
+out,FALSE,FALSE,INV: so could you see the horses ?
+out,FALSE,FALSE,INV: did he let you see the horses then ?
+in,FALSE,TRUE,CHI: when he lets me go and see the cows I just go and creep in .
+in,TRUE,FALSE,CHI: xxx cows I just go and creep to see the horses .
+out,FALSE,FALSE,INV: &-um .
+in,FALSE,TRUE,INV: it's very smelly
+in,TRUE,FALSE,CHI: even in the pig's .
+out,FALSE,FALSE,INV: yes .
+in,FALSE,FALSE,INV: it's even worse in the pigstall .
+out,FALSE,FALSE,INV: tell me
+out,FALSE,FALSE,INV: what do you like doing here ?
+out,FALSE,FALSE,CHI: language .
+out,FALSE,FALSE,INV: language ?
+out,FALSE,FALSE,INV: Emma said you did some muddled up sentences today .
+out,FALSE,FALSE,INV: did you like that ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,CHI: I hafta try and finish mine .
+out,FALSE,FALSE,INV: you haven't finished yours yet ?
+out,FALSE,FALSE,INV: do you like maths ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,CHI: half of it .
+out,FALSE,FALSE,CHI: <I hate
+out,FALSE,FALSE,INV: what is that ?
+out,FALSE,FALSE,INV: &-um
+out,FALSE,FALSE,INV: taking five away from ten ?
+out,FALSE,FALSE,CHI: like twenty take away ten .
+out,FALSE,FALSE,INV: &-um .
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,INV: we're going to play another game now .
+in,FALSE,TRUE,INV: tiger has got quite a big mouth √¢‚Ç¨≈æ hasn't he ?
+out,FALSE,FALSE,CHI: uhhuh .
+in,TRUE,FALSE,CHI: he roars a lot .
+in,FALSE,FALSE,CHI: that's why he's got big mouth .
+out,FALSE,FALSE,INV: he does what a lot ?
+in,FALSE,FALSE,CHI: he roars a lot .
+in,FALSE,FALSE,INV: he roars a lot
+in,FALSE,TRUE,INV: horse and tiger often fight with each_other .
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: sometimes you know +...
+out,FALSE,FALSE,CHI: have you got any brothers or sisters ?
+in,TRUE,FALSE,CHI: I got one sister and a brother .
+out,FALSE,FALSE,INV: do you fight with them ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: uhhuh .
+in,FALSE,TRUE,CHI: and xxx and xxx start beating them .
+in,TRUE,FALSE,CHI: and they start beating me .
+out,FALSE,FALSE,INV: really ?
+in,FALSE,FALSE,CHI: I'm rolling and kicking .
+in,FALSE,TRUE,CHI: we jump on the settee and fight .
+out,FALSE,FALSE,INV: you jump on the settee and fight ?
+in,TRUE,FALSE,CHI: <and we j> [/] and we have pillow fights sometimes .
+out,FALSE,FALSE,INV: you do ?
+out,FALSE,FALSE,INV: I think when I was a child we +...
+in,FALSE,TRUE,CHI: my brother and I got on the wardrobe and we jumped from the wardrobe on to the settee .
+in,TRUE,FALSE,CHI: my sister jumps from the wardrobe to a +...
+out,FALSE,FALSE,CHI: she xxx +...
+in,FALSE,FALSE,CHI: there's a little wardrobe in the middle &~n there's a big one .
+in,FALSE,TRUE,CHI: she climbs on [?] and then jumps on to my mum's bed .
+out,FALSE,FALSE,INV: does your mum know about this ?
+out,FALSE,FALSE,CHI: uhhuh .
+in,TRUE,FALSE,CHI: she's only got &-um &-um five legs .
+in,FALSE,TRUE,CHI: and one's missing .
+out,FALSE,FALSE,INV: your sister ?
+out,FALSE,FALSE,INV: or who's got five legs ?
+in,TRUE,FALSE,CHI: my < mum> [/] mum's and when it's got a [/] a book xxx .
+in,FALSE,TRUE,CHI: xxx granddaddy saw it once .
+out,FALSE,FALSE,INV: did he ?
+out,FALSE,FALSE,CHI: she xxx .
+in,TRUE,FALSE,CHI: my [/] my brother jumps from my &~b [/] beds on to the [//] my mum's bed .
+in,FALSE,TRUE,CHI: my sister jumps from the wardrobe .

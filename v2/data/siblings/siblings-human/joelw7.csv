@@ -1,0 +1,259 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV: okay .
+out,FALSE,FALSE,INV: okay .
+out,FALSE,FALSE,INV: I've read your book .
+out,FALSE,FALSE,INV: I think it is fun to read .
+out,FALSE,FALSE,INV: the caterpillar eats too much .
+out,FALSE,FALSE,INV: the butterfly is colorful .
+out,FALSE,FALSE,"INV: from , Chi ."
+out,FALSE,FALSE,INV: well .
+out,FALSE,FALSE,INV: your mom has (.) this book that you've seen before .
+out,FALSE,FALSE,INV: +^ like what you said you've read a million times .
+out,FALSE,FALSE,INV: &-um and what we'd like &-um (.) you to do is to write a letter (.) to Eric Carle (.) who is the author .
+out,FALSE,FALSE,INV: see there (.) his name ?
+out,FALSE,FALSE,INV: &-um <and you can say> [//] it's your letter so you can say basically anything you wanna him .
+out,FALSE,FALSE,INV: &-um and if you need you can look over the [/] the book again .
+out,FALSE,FALSE,INV: &-um xxx (.) I presume (.) you'd like to write with a pencil .
+out,FALSE,FALSE,INV: &=chuckles .
+out,FALSE,FALSE,INV: so here's a pencil and here's some paper we made .
+in ,TRUE,FALSE,CHI: you gonna send it to him ?
+out,FALSE,FALSE,INV: yeah !
+in ,FALSE,TRUE,CHI: good .
+out,FALSE,FALSE,INV: he lives in Massachusetts .
+out,FALSE,FALSE,INV: <so> [>] +...
+in ,TRUE,FALSE,MOT: see [<] here's a picture of (h)im .
+in ,FALSE,FALSE,MOT: he lives in Massachusetts .
+in ,FALSE,TRUE,MOT: so write something nice .
+in ,TRUE,FALSE,CHI: where do I write my name ?
+in ,FALSE,FALSE,MOT: you [//] it's a letter so you wanna like put the date ?
+out,FALSE,FALSE,CHI: +^ oh yeah .
+out,FALSE,FALSE,INV: &=laughs .
+out,FALSE,FALSE,MOT: oh wait a minute .
+out,FALSE,FALSE,MOT: +^ the [//] is [//] oh yeah .
+out,FALSE,FALSE,MOT: +^ it doesn't matter .
+out,FALSE,FALSE,MOT: +^ no .
+in ,FALSE,FALSE,MOT: it does matter (be)cause you put your sincerely Chi down here .
+in ,FALSE,FALSE,MOT: so you wanna start the paper off like this [= right side up] .
+in ,FALSE,FALSE,CHI: today's the twenty second ?
+out,FALSE,FALSE,INV: &-uh .
+in ,FALSE,FALSE,CHI: or twenty third ?
+out,FALSE,FALSE,INV: twenty third .
+in ,FALSE,FALSE,MOT: twenty third .
+in ,FALSE,FALSE,MOT: (..) <what're you doing> [=! laughing] ?
+in ,FALSE,FALSE,CHI: nineteen ninety four .
+in ,FALSE,FALSE,MOT: what_about nineteen ninety four you kook@c ?
+out,FALSE,FALSE,CHI: &-uh (.) January first !
+in ,FALSE,FALSE,"MOT: wouldn't you put January twenty third , nineteen ninety four ?"
+in ,FALSE,FALSE,MOT: and it should go over here besides [>] .
+in ,FALSE,FALSE,BRO: Mom .
+in ,FALSE,TRUE,CHI: nope .
+out,FALSE,FALSE,BRO: www .
+in ,TRUE,FALSE,MOT: we live in a divorced family now .
+in ,FALSE,TRUE,MOT: we didn't useta .
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,MOT: what is this ?
+out,FALSE,FALSE,MOT: that's a big mess .
+out,FALSE,FALSE,CHI: oh yeah .
+out,FALSE,FALSE,CHI: it is .
+out,FALSE,FALSE,MOT: &=laughs .
+in ,TRUE,FALSE,CHI: <that's what my &~tea> [//] that's what my last year's teacher taught me .
+out,FALSE,FALSE,MOT: those j@l-s ?
+in ,FALSE,TRUE,MOT: no there's nothin(g) wrong with the j@l but after yyy yyy there's no a@l r@l y@l .
+out,FALSE,FALSE,CHI: oh !
+out,FALSE,FALSE,INV: <oh> [>] .
+out,FALSE,FALSE,MOT: <you hafta make that right> [>] .
+out,FALSE,FALSE,CHI: oh .
+out,FALSE,FALSE,MOT: u@l a@l .
+out,FALSE,FALSE,MOT: a@l r@l y@l .
+in ,FALSE,FALSE,MOT: there you go [>] .
+in ,TRUE,FALSE,CHI: <can we> [<] rent the game ?
+in ,FALSE,FALSE,CHI: after .
+in ,FALSE,TRUE,MOT: no I don't think so .
+in ,TRUE,FALSE,MOT: erase that a little bit better (be)cause it looks sloppy .
+in ,FALSE,FALSE,MOT: (..) we're gonna go to the autobahn@s:deu today because +...
+in ,FALSE,TRUE,MOT: +^ was it in art class ?
+out,FALSE,FALSE,MOT: (..) in [>] +/.
+in ,TRUE,FALSE,CHI: I'm [<] not going there !
+in ,FALSE,FALSE,CHI: I hated it .
+out,FALSE,FALSE,MOT: alright .
+in ,FALSE,FALSE,MOT: +^ I <don't wanna> [>] talk about it .
+in ,FALSE,TRUE,CHI: <I hate her> [<] .
+in ,TRUE,FALSE,MOT: +^ dear mister Carle .
+in ,FALSE,FALSE,MOT: is that his name ?
+in ,FALSE,TRUE,MOT: Carl Earle or Earl Carle ?
+out,FALSE,FALSE,INV: &=laughs [>] .
+out,FALSE,FALSE,CHI: &=laughs [<] .
+out,FALSE,FALSE,INV: it's Carle .
+out,FALSE,FALSE,INV: it's Eric (.) <Carle> [>] .
+out,FALSE,FALSE,MOT: oh [<] Eric Carle ?
+out,FALSE,FALSE,INV: &=laughs [>] .
+out,FALSE,FALSE,MOT: &=laughs [<] .
+out,FALSE,FALSE,INV: problem with last names that are first names .
+out,FALSE,FALSE,INV: &=laughs .
+out,FALSE,FALSE,INV: (.) Carle Earle &=chuckles .
+in ,TRUE,FALSE,MOT: dear Eric Carle .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: c@l a@l r@l l@l e@l .
+out,FALSE,FALSE,CHI: (..) yeah ?
+in ,FALSE,FALSE,MOT: comma .
+in ,FALSE,FALSE,MOT: now just write him a nice little letter .
+out,FALSE,FALSE,CHI: 0 .
+in ,FALSE,FALSE,MOT: I've been reading your book .
+in ,FALSE,FALSE,MOT: or something or no +...
+in ,FALSE,FALSE,MOT: whatever you wanna write .
+in ,FALSE,FALSE,MOT: (..) write the +...
+in ,FALSE,TRUE,MOT: good boy .
+in ,TRUE,FALSE,MOT: Chi presses real hard with his pencil .
+out,FALSE,FALSE,INV: &=chuckles .
+in ,FALSE,FALSE,MOT: I would think his fingers would so sore [>] .
+out,FALSE,FALSE,INV: yeah [<] they <probably do> [>] .
+in,FALSE,FALSE,CHI: <they get sore> [<] after an hour .
+out,FALSE,FALSE,MOT: yeah I told you .
+in ,FALSE,TRUE,MOT: I've been telling you for years you don't hafta press so hard .
+in ,TRUE,FALSE,MOT: I read your book +...
+in ,FALSE,FALSE,MOT: there should probably be a comma after I read your book .
+in ,FALSE,FALSE,MOT: I think +...
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,MOT: yeah &=laughing .
+in ,FALSE,FALSE,MOT: what's a good adjective for his book ?
+in ,FALSE,FALSE,CHI: (..) I think it's weird .
+in ,FALSE,FALSE,MOT: oh say something nice .
+out,FALSE,FALSE,INV: he can say that &=chuckling .
+out,FALSE,FALSE,INV: +^ it's his letter .
+in ,FALSE,FALSE,MOT: well maybe I think it's fun to read ?
+in ,FALSE,FALSE,MOT: something nice .
+in ,FALSE,TRUE,MOT: <he colors in his period> [=! laughing] .
+out,FALSE,FALSE,MOT: &=laughs [>] .
+out,FALSE,FALSE,CHI: what [!] ?
+out,FALSE,FALSE,CHI: you expect me to have a little <hole in the middle> [>] ?
+out,FALSE,FALSE,MOT: <I like it> [<] .
+out,FALSE,FALSE,MOT: 0 [=! laughs harder] .
+out,FALSE,FALSE,CHI: so [/] so it's like what is that ?
+out,FALSE,FALSE,MOT: alright .
+out,FALSE,FALSE,MOT: let's go .
+out,FALSE,FALSE,MOT: wait .
+out,TRUE,FALSE,MOT: +^ tell him more .
+in ,FALSE,FALSE,MOT: dear Eric Carle [/] Carle .
+in ,FALSE,FALSE,MOT: I've read your book I think it's fun to read .
+out,FALSE,FALSE,MOT: go ahead .
+out,FALSE,FALSE,MOT: +^ tell him more .
+in ,FALSE,TRUE,MOT: just wanna say somethin(g) about how much <he eats> [>] ?
+in ,TRUE,FALSE,CHI: <the caterpillar's> [<] fat .
+out,FALSE,FALSE,INV: &=laughs [>] .
+out,FALSE,FALSE,MOT: &=laughs [<] [>] .
+out,FALSE,FALSE,CHI: &=laughs [<] .
+in ,FALSE,FALSE,CHI: the caterpillar eats too much .
+out,FALSE,FALSE,MOT: go ahead .
+out,FALSE,FALSE,MOT: +^ whatever you want .
+in ,FALSE,FALSE,CHI: (.) how do you spell caterpillar@q ?
+out,FALSE,FALSE,CHI: &=laughs .
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,MOT: good question .
+in ,FALSE,FALSE,CHI: look on the front [= of the book] maybe it was &-uh +...
+out,FALSE,FALSE,MOT: &=laughs [>] .
+out,FALSE,FALSE,INV: tadah &=laughing [<] !
+in ,FALSE,TRUE,CHI: the hungry caterpillar .
+in ,TRUE,FALSE,MOT: just make it [= the letter p] go down &~be below the line .
+in ,FALSE,FALSE,MOT: (.) oh you press so [!] hard .
+in ,FALSE,FALSE,MOT: ease up .
+in ,FALSE,FALSE,MOT: you make your hand hurt .
+in ,FALSE,FALSE,MOT: how many o@l-s in too@q ?
+in ,FALSE,FALSE,MOT: for too much ?
+in ,FALSE,FALSE,CHI: oh !
+in ,FALSE,FALSE,MOT: eats too [>] +...
+in ,FALSE,TRUE,CHI: there's [<] three different too .
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,MOT: that one +...
+out,FALSE,FALSE,MOT: +^ you had it .
+out,FALSE,FALSE,MOT: that's right .
+out,FALSE,FALSE,MOT: too much .
+out,FALSE,FALSE,CHI: oh yeah .
+out,FALSE,FALSE,CHI: too [!] much .
+out,FALSE,FALSE,MOT: <too much> [>] .
+out,FALSE,FALSE,CHI: it's <too [!] much> [<] .
+out,FALSE,FALSE,MOT: &-uh oh .
+out,FALSE,FALSE,MOT: <look at> [=! laughing] !
+out,FALSE,FALSE,INV: &=laughs .
+out,FALSE,FALSE,CHI: what ?
+in ,TRUE,FALSE,MOT: that's like Daniel's name .
+in ,FALSE,FALSE,MOT: Mutchler .
+out,FALSE,FALSE,CHI: oh !
+in ,FALSE,FALSE,MOT: you put a t@q in much@q .
+out,FALSE,FALSE,INV: oh .
+out,FALSE,FALSE,CHI: yyy (.) yyy [>] .
+in ,FALSE,FALSE,MOT: he has a friend Mutchler [<] .
+in ,FALSE,TRUE,MOT: (.) with a t@q .
+out,FALSE,FALSE,CHI: (.) okay goodbye .
+in ,TRUE,TRUE,MOT: the caterpillar eats too much .
+out,FALSE,FALSE,CHI: blah blah blah blah blah .
+in ,TRUE,FALSE,CHI: goodbye .
+in ,FALSE,TRUE,CHI: I'm just gone .
+out,FALSE,FALSE,INV: &=laughs [<] .
+out,FALSE,FALSE,MOT: &=laughs [<] .
+out,FALSE,FALSE,INV: you'll spell blah blah blah blah blah ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: &=chuckles .
+in ,TRUE,FALSE,CHI: all I'll do is put lines .
+out,FALSE,FALSE,MOT: &=laughs .
+in ,FALSE,FALSE,INV: well you got lines there .
+out,FALSE,FALSE,CHI: &=laughs .
+in ,FALSE,TRUE,MOT: like the way the [/] the grownups talk in Charlie_Brown ?
+out,FALSE,FALSE,INV: yeah &=laughs .
+out,FALSE,FALSE,MOT: got that (.) <blah blah blah> [>] .
+out,FALSE,FALSE,INV: &=laughs [<] [>] .
+out,FALSE,FALSE,CHI: <hey Mom www> [<] .
+out,FALSE,FALSE,INV: www .
+out,FALSE,FALSE,@Comment: Time is 32:00
+out,FALSE,FALSE,MOT: alright .
+in ,TRUE,FALSE,MOT: so say something else .
+in ,FALSE,FALSE,MOT: now talk about the butterfly for a second .
+in ,FALSE,FALSE,CHI: the butterfly <was really colorful> [>] .
+in ,FALSE,FALSE,MOT: <or say something like> [<] +/.
+out,FALSE,FALSE,MOT: yeah !
+in ,FALSE,FALSE,MOT: there you go .
+in ,FALSE,FALSE,CHI: (.) I wonder why they call (th)em [//] (.) butterflies butterflies (be)cause they're not made outta [: out_of] butter .
+out,FALSE,FALSE,MOT: you're right .
+out,FALSE,FALSE,INV: I wonder which came first .
+out,FALSE,FALSE,INV: +^ butter or butterflies ?
+out,FALSE,FALSE,INV: (.) probably butter .
+in ,FALSE,TRUE,CHI: butterfly or wings flapping ?
+out,FALSE,FALSE,MOT: that's right .
+in ,TRUE,FALSE,MOT: now f@l l@l y@l .
+in ,FALSE,FALSE,MOT: put both names [= in signature] .
+out,FALSE,FALSE,@Comment: Time is 32:58
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,MOT: Chi [= Chi's first and last names] .
+out,FALSE,FALSE,CHI: yeah huh ?
+in ,FALSE,FALSE,MOT: (.) maybe you'd better put Chi [= Chi's last name] down here .
+in ,FALSE,TRUE,MOT: you're gonna get squished .
+out,FALSE,FALSE,INV: &=laughs .
+out,FALSE,FALSE,CHI: hm: .
+out,FALSE,FALSE,CHI: &=sighs .
+out,FALSE,FALSE,MOT: very nice .
+out,FALSE,FALSE,INV: thanks .
+out,FALSE,FALSE,INV: ca(n) I see ?
+out,FALSE,FALSE,INV: dear Eric .
+out,FALSE,FALSE,INV: I read your book .
+out,FALSE,FALSE,INV: I think it's fun to read .
+out,FALSE,FALSE,INV: the caterpillar eats <too much> [=! laughing] .
+out,FALSE,FALSE,INV: the butterfly is colorful .
+out,FALSE,FALSE,INV: from Chi [= Chi's first and last names] .
+out,FALSE,FALSE,INV: thanks !
+out,FALSE,FALSE,CHI: where ?
+out,FALSE,FALSE,INV: it's funny .
+out,FALSE,FALSE,INV: +^ you write big and your brother writes little .
+out,FALSE,FALSE,MOT: yeah .
+in ,TRUE,FALSE,MOT: +^ they are [!] very different (.) people .
+in ,FALSE,FALSE,CHI: for me to write a story [!] if I hafta do a report ?
+out,FALSE,FALSE,INV: uhhuh .
+in ,FALSE,FALSE,CHI: if I hafta write a story ?
+in ,FALSE,FALSE,CHI: it takes me like three pages just for Bro [/] Bro can do everything I put on one page .
+out,FALSE,FALSE,@Comment: Time is 34:00
+out,FALSE,FALSE,CHI: and I +/.
+out,FALSE,FALSE,INV: &=laughs [>] .
+out,FALSE,FALSE,MOT: &=laughs [<] .
+in ,FALSE,TRUE,CHI: and I do everything on like three pages &=laughs .
+out,FALSE,FALSE,INV: that'll serve you well when they say +/.
+out,FALSE,FALSE,INV: &~w <I need a> [//] you know I need a paper that's five pages long .
+out,FALSE,FALSE,MOT: &=laughs [>] .
+out,FALSE,FALSE,INV: it'll be easier for you to [/] to do it .

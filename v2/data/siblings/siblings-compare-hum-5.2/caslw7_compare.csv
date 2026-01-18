@@ -1,0 +1,25 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+in,TRUE,TRUE,TRUE,FALSE,MOT: you can use the (.) two spaces if you want .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,@Comment: Time is 4:55,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,"@Comment: MOT and Chi are sitting shoulder to shoulder on the couch; Chi has the paper on a book on his lap. Chi is very focused; Mot watches with her hands in her lap , and has to spend some time fending off baby brother; although Mot is paying attention to Chi , she doesn't interrupt him at all; Chi looks up to think , then returns to writing , still focused; Chi finishes and looks up when Mot says 'nice name' (Chi signed in cursive); EXP phrases instructions to Chi to 'write a letter with your Mom' (so Mot knows she CAN be involved)",FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,@Comment: Dear mame than you for the Raiders hat and the purite one. The baseball cards were grat and the purite team cards. And for When you came back Last year and the prasins you brot back. from Chi,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,MOT: like your green paper that you do your handwriting on .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: (..) wow .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,MOT: nice [/] nice name .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,CHI: 0 .,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,TRUE,FALSE,MOT: you signed it nice .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: in script xxx .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: could you read it for us ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: dear xxx [>] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,BRO2: &=cries [<] .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: xxx Mamie ?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: Mamie@q .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: say [>] +/.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: dear [<] Mamie .,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,CHI: thank you for the Raiders hat and the Pirate one .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,CHI: the baseball cards were great (.) and the Pirate team cards .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,CHI: and for when you came back last year and the (..) pirate [//] (.) presents [!] you brought back .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,CHI: mm that's it .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,INV: wow .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,CHI: from Chi .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,MOT: great .,FALSE,TRUE,FALSE,TRUE

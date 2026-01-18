@@ -1,0 +1,114 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV1: alright we have just one more thing to do .
+out,FALSE,FALSE,INV1: and that's it .
+out,FALSE,FALSE,MOT: uhhuh .
+out,FALSE,FALSE,INV1: and that is to write a letter .
+out,FALSE,FALSE,INV1: and you can write to anybody you want .
+in,TRUE,FALSE,CHI: write a letter ?
+out,FALSE,FALSE,INV1: right .
+out,FALSE,FALSE,INV1: and we're going to hafta take it with us but if you want we can bring it back .
+out,FALSE,FALSE,INV1: <and you can send it> [>] .
+in,FALSE,TRUE,CHI: <it's okay you can take it> [<] with .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,INV1: or we can send it for you if <you want> [>] .
+out,FALSE,FALSE,CHI: nuh huh [<] .
+out,FALSE,FALSE,INV1: oh uhoh .
+out,FALSE,FALSE,INV1: don't touch [>] that .
+out,FALSE,FALSE,CHI: uhoh [<] .
+in,TRUE,FALSE,MOT: go over to the table .
+out,FALSE,FALSE,MOT: who you gonna write a letter to ?
+in,FALSE,FALSE,CHI: you !
+in,FALSE,FALSE,MOT: who me ?
+out,FALSE,FALSE,MOT: okay .
+in,FALSE,FALSE,MOT: go to the table .
+in,FALSE,FALSE,MOT: take the time .
+in,FALSE,FALSE,MOT: print the letters .
+in,FALSE,FALSE,MOT: xxx I wanna be able to read it !
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,TRUE,MOT: let's read that xxx .
+in,TRUE,FALSE,MOT: come on see that .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,INV2: you wanna do this ?
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,CHI: xxx the y@q wrong .
+in,FALSE,TRUE,CHI: (be)cause <I write> [//] I made a xxx .
+in,TRUE,FALSE,CHI: and <then I> [/] then I made an n@l [?] .
+out,FALSE,FALSE,INV2: hm: .
+out,FALSE,FALSE,INV2: can you do it over ?
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,out
+in,FALSE,TRUE,CHI: I can do it over .
+out,FALSE,FALSE,INV2: xxx .
+in,TRUE,FALSE,CHI: I xxx do it over .
+out,FALSE,FALSE,CHI: on the other side .
+out,FALSE,FALSE,INV2: oh on the other side .
+in,FALSE,FALSE,CHI: (..) I xxx do that !
+out,FALSE,FALSE,CHI: xxx I wonder !
+in,FALSE,TRUE,CHI: how do you spell dear@q ?
+out,FALSE,FALSE,INV2: xxx ?
+in,TRUE,FALSE,CHI: how do you spell dear@q ?
+in,FALSE,FALSE,CHI: when you're writing to somebody ?
+out,FALSE,FALSE,CHI: d@l [>] .
+out,FALSE,FALSE,INV2: d@l [<] e@l a@l r@l .
+out,FALSE,FALSE,CHI: d@l e@l a@l r@l .
+out,FALSE,FALSE,INV2: you wanna have your mom help you ?
+out,FALSE,FALSE,CHI: 0 [=! shakes head] .
+out,FALSE,FALSE,INV2: why not ?
+in,FALSE,FALSE,CHI: I can do it !
+out,FALSE,FALSE,INV2: okay .
+out,FALSE,FALSE,CHI: (.) oops .
+in,FALSE,FALSE,CHI: I did it &~a +//.
+in,FALSE,FALSE,CHI: I did it wrong again &=growls .
+in,FALSE,FALSE,CHI: I'll just do it over .
+out,FALSE,FALSE,CHI: (..) iy@q +...
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: (..) oops .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,CHI: (..) see .
+in,FALSE,FALSE,CHI: I messed up because (be)cause I just said dear mom I am so happy that you are +...
+in,FALSE,TRUE,CHI: (..) (be)cause I say (.) <you are at> [//] you +...
+in,TRUE,FALSE,CHI: you are at are &=laughs .
+in,FALSE,TRUE,CHI: +^ <(be)cause the> [//] I hafta put the are@q down here (be)cause I forgot it !
+out,FALSE,FALSE,MOT: xxx .
+in,TRUE,FALSE,MOT: she xxx food downstairs right ?
+out,FALSE,FALSE,INV1: &=laughs .
+in,FALSE,TRUE,MOT: xxx the ones who are [//] what you wanted to one more .
+out,FALSE,FALSE,CHI: nope .
+in,TRUE,FALSE,CHI: got that wrong !
+in,FALSE,TRUE,MOT: what is that ?
+out,FALSE,FALSE,MOT: something xxx .
+in,TRUE,FALSE,MOT: you know that ?
+out,FALSE,FALSE,BRO: www .
+out,FALSE,FALSE,MOT: mhm .
+in,FALSE,FALSE,CHI: look Mom .
+in,FALSE,FALSE,MOT: this is a long story .
+out,FALSE,FALSE,BRO: (..) Mommy .
+out,FALSE,FALSE,MOT: yeah .
+in,FALSE,TRUE,CHI: I hafta make xxx old xxx .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,CHI: oh .
+in,TRUE,FALSE,CHI: but I don't know how to spell everybody@q .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,CHI: (..) see ?
+in,FALSE,FALSE,CHI: I hafta (.) erase these [= incorrect attempts at everybody] out (.) from my xxx .
+in,FALSE,TRUE,CHI: <my mom knows> [//] (.) she willn't read (th)em .
+out,FALSE,FALSE,MOT: www .
+in,TRUE,FALSE,CHI: (..) what's that [= tape player] for ?
+out,FALSE,FALSE,INV2: it's to tape you .
+out,FALSE,FALSE,CHI: okay .
+in,FALSE,TRUE,MOT: (..) you hafta sign the letter .
+out,FALSE,FALSE,MOT: you know ?
+out,FALSE,FALSE,MOT: (.) what you writing below there ?
+in,TRUE,FALSE,MOT: that [//] oh you [/] you're not finished yet ?
+in,FALSE,TRUE,CHI: no I'm just writing dear Chi .
+in,TRUE,FALSE,MOT: not dear Chi it's from [!] Chi .
+out,FALSE,FALSE,CHI: +^ oh .
+out,FALSE,FALSE,MOT: what you want ?
+out,FALSE,FALSE,BRO: xxx .
+out,FALSE,FALSE,MOT: www .
+out,FALSE,FALSE,INV1: alright .
+out,FALSE,FALSE,MOT: Mommy !
+out,FALSE,FALSE,MOT: yes xxx +/.
+in,FALSE,FALSE,CHI: don't read these !
+in,FALSE,FALSE,CHI: (be)cause I don't want you to read them .

@@ -1,0 +1,279 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV: have you ever spilt anything ?
+in,TRUE,FALSE,CHI: yeah milk &=giggles .
+out,FALSE,FALSE,INV: tell me about it .
+out,FALSE,FALSE,INV: what happened ?
+in,FALSE,TRUE,CHI: I was &-uh reaching over like that and my +//.
+in,TRUE,FALSE,CHI: (be)cause the ketchup and it's goes poom@o and the +...
+in,FALSE,TRUE,CHI: &~hum &~hum I spilled gum one time
+out,FALSE,FALSE,INV: gum all over the floor ?
+in,TRUE,FALSE,CHI: it was a carpet .
+in,FALSE,FALSE,CHI: and usually gum doesn't come out_of a carpet .
+out,FALSE,FALSE,INV: right .
+in,FALSE,FALSE,CHI: well anyhow my mom just put an icecube on it .
+in,FALSE,FALSE,CHI: <and so it did> [//] and it came right off .
+out,FALSE,FALSE,INV: have you ever been on a trip ?
+in,FALSE,TRUE,CHI: oh we've gone to Michigan .
+out,FALSE,FALSE,INV: Michigan ?
+out,FALSE,FALSE,INV: well tell me about it .
+out,FALSE,FALSE,INV: tell me about the trip .
+in,TRUE,FALSE,CHI: well there's a_lot_o(f) &~ah &~ah pine trees there .
+in,FALSE,FALSE,CHI: all you could smell is pine trees .
+out,FALSE,FALSE,INV: pine trees ?
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,FALSE,CHI: and we slept out in a tent one time .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,TRUE,CHI: we didn't have our brother though .
+in,TRUE,FALSE,CHI: and (.) we'd have a_lot_of fun .
+in,FALSE,FALSE,CHI: we'd go deress@c like a little path and me and my sister went down the path .
+out,FALSE,FALSE,INV: you and your sister went down the path ?
+in,FALSE,FALSE,CHI: uhhuh and my day +//.
+in,FALSE,FALSE,CHI: oh I gotta tell you the important part .
+out,FALSE,FALSE,INV: okay .
+in,FALSE,TRUE,CHI: see we [//] &~wen the whole family went up to the [//] ah this great big path .
+in,TRUE,FALSE,CHI: then we kept on going up and then finally gotta a hill .
+in,FALSE,FALSE,CHI: we went up then [/] then there was another hill we went down and a [//] then <we got> [//] we turned so many curves that we couldn't find our way back home .
+in,FALSE,FALSE,CHI: and it was early in the morning .
+in,FALSE,FALSE,CHI: so we didn't get home about un(til) midnight .
+out,FALSE,FALSE,INV: (un)til about midnight huh ?
+in,FALSE,TRUE,CHI: uhhuh .
+in,TRUE,FALSE,CHI: then <my dad> [//] (be)cause he goes all nuts my dad likes shortcuts but his shortcuts are the long way .
+in,FALSE,TRUE,CHI: but when my mom wants to take a shortcut they are shortcuts .
+in,TRUE,FALSE,INV: so when your mom takes shortcuts they are shortcuts .
+in,FALSE,TRUE,"CHI: yeah and my when my dad says +""/."
+in,TRUE,FALSE,"CHI: +"" oh let's take a shortcut ."
+in,FALSE,TRUE,"CHI: mom goes +""/."
+in,TRUE,FALSE,"CHI: +"" oh no you don't ."
+in,FALSE,FALSE,CHI: she doesn't wanna get lost again .
+out,FALSE,FALSE,INV: have you ever been on a boat ?
+out,FALSE,FALSE,CHI: no
+in,FALSE,TRUE,CHI: ah oh yeah we've been on a boat .
+out,FALSE,FALSE,INV: oh tell me about it .
+in,TRUE,FALSE,CHI: you_know one of those great big boats ?
+in,FALSE,FALSE,CHI: those great big ones ?
+in,FALSE,TRUE,CHI: we've gone on those before .
+in,TRUE,FALSE,CHI: they're real(ly) fun .
+out,FALSE,FALSE,INV: are they ?
+out,FALSE,FALSE,INV: tell me about it .
+in,FALSE,FALSE,CHI: we were on it and ah we were sitting on it and I fell asleep .
+in,FALSE,FALSE,CHI: <my sister> [//] and we went back ah by this great big island and you_know my sister was trying to wake me up .
+in,FALSE,FALSE,"CHI: and <I was> [/] I was [//] kept on sleeping (be)cause ah we like one time my mom said +""/."
+in,FALSE,FALSE,"CHI: +"" get up"
+in,FALSE,TRUE,"CHI: +"" there's a fire ."
+in,TRUE,FALSE,CHI: and there really wasn't .
+in,FALSE,TRUE,CHI: she was trying to trick us to see if we were really awake and we weren't .
+in,TRUE,FALSE,CHI: she could even hit us over the back and we won't wake up .
+out,FALSE,FALSE,INV: she can even hit you over the back and you won't wake up ?
+in,FALSE,FALSE,CHI: uhhuh .
+in,FALSE,FALSE,CHI: that's what my sister did and I still didn't wake up so +...
+in,FALSE,FALSE,CHI: and then finally I just woke up .
+in,FALSE,TRUE,"CHI: and I looked and I go +""/."
+in,TRUE,FALSE,"CHI: +"" where are we ?"
+in,FALSE,FALSE,"CHI: +"" where are we ?"
+in,FALSE,TRUE,"CHI: and she goes +""/."
+in,TRUE,FALSE,"CHI: +"" I don't know ."
+in,FALSE,TRUE,"CHI: +"" ask Mom ."
+in,TRUE,FALSE,"CHI: so I asked her and she goes +""/."
+in,FALSE,TRUE,"CHI: +"" what kind of eye I'm in ."
+in,TRUE,FALSE,CHI: then we just kept on going .
+in,FALSE,TRUE,CHI: my mom has though and you know what ?
+in,TRUE,FALSE,CHI: my [//] ah <the policeman> [//] we had this one truck and it was kind_of like stolen and the policeman got it back and my dad usually teases us .
+in,FALSE,TRUE,"CHI: he goes +""/."
+in,TRUE,FALSE,"CHI: +"" policeman cars ."
+in,FALSE,TRUE,"CHI: and I go +""/."
+in,TRUE,FALSE,"CHI: +"" uhuh ."
+in,FALSE,TRUE,CHI: and they really did .
+in,TRUE,FALSE,"CHI: and he stopped her and said +""/."
+in,FALSE,TRUE,"CHI: +"" you better fix your engine ."
+out,FALSE,FALSE,INV: you better fix your engine huh ?
+in,TRUE,FALSE,CHI: it was real funny .
+out,FALSE,FALSE,CHI: I know a kid ah
+out,FALSE,FALSE,INV: the man opened up the door ?
+out,FALSE,FALSE,CHI: I don't like that so well .
+out,FALSE,FALSE,INV: have you ever been to the fair ?
+out,FALSE,FALSE,CHI: you think this is a good deal ?
+in,FALSE,TRUE,CHI: my mom &~ah on this &~a blue thing
+in,TRUE,FALSE,CHI: and this [//] we loved the merry-go-round .
+in,FALSE,FALSE,CHI: we just loved it .
+in,FALSE,FALSE,CHI: we were about four years on it .
+in,FALSE,FALSE,CHI: we loved it .
+in,FALSE,TRUE,CHI: and &~a this man said if we give him free food he'll give us free rides .
+in,TRUE,FALSE,CHI: so &~tha that's what happened and &~nen when we got about seven years old he &~ah owned the jumping board .
+in,FALSE,TRUE,CHI: there we stood in it and he still give us free rides .
+in,TRUE,FALSE,CHI: I think that's a pretty good deal .
+out,FALSE,FALSE,INV: that sounds pretty nice .
+in,FALSE,FALSE,CHI: yeah but we still get free food &=giggles .
+out,FALSE,FALSE,INV: right
+out,FALSE,FALSE,CHI: I like that .
+out,FALSE,FALSE,CHI: you know what ?
+in,FALSE,TRUE,CHI: ah now last year they had ah you_know these &~midder motorcycles .
+in,TRUE,FALSE,CHI: and I was
+out,FALSE,FALSE,INV: mhm .
+in,FALSE,TRUE,CHI: and he wanted me to go on them .
+out,FALSE,FALSE,INV: he wanted you to go on them huh ?
+in,TRUE,FALSE,CHI: &=laughs yeah that was funny .
+in,FALSE,TRUE,CHI: one time &~a my grandpa
+in,TRUE,FALSE,CHI: he's real(ly) old now .
+in,FALSE,FALSE,CHI: but he was going sled riding one time and he didn't know but he was going so fast and he put his head down and you know those like little things ?
+in,FALSE,TRUE,CHI: he [//] well anyhow he leaned down and he poked his eye out .
+out,FALSE,FALSE,INV: have you ever been bitten ?
+in,TRUE,FALSE,CHI: I almost lost my eye .
+out,FALSE,FALSE,INV: what happened ?
+out,FALSE,FALSE,INV: tell me about it .
+in,FALSE,TRUE,CHI: my ah grandpa was ah he had a dog the Irish Wolfhound .
+out,FALSE,FALSE,INV: an Irish Wolfhound ?
+in,TRUE,FALSE,CHI: he's always wanted one I guess and I wrecked it for him .
+out,FALSE,FALSE,INV: what happened ?
+in,FALSE,TRUE,CHI: because see my mom said to stay away from the dog and I did .
+in,TRUE,FALSE,CHI: but then when mommy was rushing out I asked her if I could go over there and pet him .
+in,FALSE,FALSE,CHI: as long as she's out there .
+in,FALSE,FALSE,CHI: so I went over and pet him and I petted about twice and he just ran up and bit me .
+out,FALSE,FALSE,INV: he ran up and bit you ?
+in,FALSE,TRUE,CHI: so my grandpa's not gonna keep the dog then always bites
+in,TRUE,FALSE,CHI: (be)cause now he won't keep the dog that bites .
+in,FALSE,FALSE,CHI: so he said maybe he might ah you know ah raise one from a pup then they won't bite or nothing and that's the best way to do it .
+out,FALSE,FALSE,INV: do you have any pets ?
+in,FALSE,FALSE,CHI: we might get a German_Shepherd .
+in,FALSE,FALSE,"CHI: and I go +""/."
+in,FALSE,FALSE,"CHI: +"" we get a German_Shepherd"
+in,FALSE,TRUE,"CHI: +"" I'll be down to Grandma's all the time ."
+in,TRUE,FALSE,CHI: my sister almost lost her cheek .
+in,FALSE,FALSE,CHI: her whole cheek .
+in,FALSE,TRUE,CHI: a German_Shepherd .
+in,TRUE,FALSE,CHI: ah it was over like here's ah a car and a dog was over by the car chewing a bone ?
+in,FALSE,FALSE,CHI: while we were walking up sidewalk .
+in,FALSE,TRUE,CHI: and it just dropped the bone and come [//] came up and just grabbed [!] her cheek and she really got it .
+out,FALSE,FALSE,INV: she really got it huh ?
+in,TRUE,FALSE,CHI: if he wouldn't have let go her whole cheek would have came off .
+in,FALSE,TRUE,CHI: <when I was> [//] when a dog bit me that Irish_Wolfhound bit me in a thing &~ah (be)cause my grandpa's had a heart attack .
+in,TRUE,FALSE,CHI: he had it twice in a row .
+in,FALSE,FALSE,CHI: the same time but he didn't die .
+out,FALSE,FALSE,INV: oh .
+out,FALSE,FALSE,INV: that's good .
+in,FALSE,TRUE,"CHI: and (.) Grandma &~woul wanted was my mom said +""/."
+in,TRUE,FALSE,CHI: come here .
+in,FALSE,FALSE,CHI: so she came .
+in,FALSE,TRUE,CHI: and then Grandpa was pulling up the thing .
+in,TRUE,FALSE,CHI: you know when you have a heart attack you're not sposta get worried ?
+in,FALSE,TRUE,CHI: and he [//] Grandma goes like that like then we told her not to &~ah tell him <that &~ah we> [//] <that he> [//] that the dog bit me .
+in,TRUE,FALSE,CHI: and so Grandma told him he was worrying a_lot .
+out,FALSE,FALSE,INV: have you ever been to the doctor ?
+in,FALSE,TRUE,CHI: you [/] you know those like real long needles ?
+in,TRUE,FALSE,CHI: anyhow he hadta give me one of the what was it ?
+in,FALSE,FALSE,CHI: I guess right here .
+out,FALSE,FALSE,INV: right there or even up there ?
+in,FALSE,FALSE,CHI: someplace around in here .
+in,FALSE,TRUE,"CHI: I [/] I go +""/."
+in,TRUE,FALSE,"CHI: +"" you gonna give it to me in the buns ?"
+in,FALSE,FALSE,"CHI: and he goes +""/."
+in,FALSE,TRUE,"CHI: +"" no &=giggles ."
+in,TRUE,FALSE,CHI: and <he go> [//] I asked him a_lot_of questions .
+in,FALSE,TRUE,"CHI: he goes +""/."
+in,TRUE,FALSE,"CHI: +"" why you're nosy ."
+in,FALSE,TRUE,"CHI: I go +""/."
+in,TRUE,FALSE,"CHI: +"" you are ."
+in,FALSE,TRUE,CHI: (be)cause I never had him before you_know ?
+in,TRUE,FALSE,CHI: he was Doctor_Lastname and you know what he did ?
+in,FALSE,FALSE,CHI: most doctors don't explain what <you're go> [//] what they're going do you right ?
+in,FALSE,FALSE,CHI: this doctor did .
+in,FALSE,FALSE,CHI: he told me all what he was gonna do and if it was gonna hurt or not .
+in,FALSE,FALSE,"CHI: gosh it feels when he was sewing it up you_know it [//] I go +""/."
+in,FALSE,FALSE,"CHI: +"" that tickles ."
+out,FALSE,FALSE,INV: that tickles ?
+in,FALSE,FALSE,CHI: he put a like piece of paper over me and sewed it .
+in,FALSE,FALSE,CHI: who in the did it feeled [: felt] [* m:=ed] like he was sewing the paper onto my eye or something .
+in,FALSE,TRUE,CHI: ah Mona she the one that cuts my hair ?
+in,TRUE,FALSE,CHI: and her sister is a nurse .
+in,FALSE,TRUE,CHI: and she's the one that's holding me down you_know .
+out,FALSE,FALSE,INV: holding down huh ?
+in,TRUE,FALSE,CHI: so <I went> [//] you_know didn't I move or anything .
+in,FALSE,FALSE,INV: move around or anything .
+in,FALSE,TRUE,"CHI: he said I was the best one there that you_know had a bitten eye because he said +""/."
+in,TRUE,FALSE,"CHI: +"" you can kick and whatever you want you must ."
+in,FALSE,FALSE,"CHI: he said +""/."
+in,FALSE,FALSE,"CHI: +"" all others kick their feet ."
+in,FALSE,FALSE,CHI: I didn't kick my feet .
+in,FALSE,TRUE,CHI: I just laid there and screamed .
+out,FALSE,FALSE,INV: laid there and screamed huh ?
+in,TRUE,FALSE,CHI: uhhuh I was hurt .
+in,FALSE,TRUE,CHI: I heared [: heard] [* m:=ed] the rabies shot is the worst of all .
+out,FALSE,FALSE,CHI: you know what happened to my grandma ?
+out,FALSE,FALSE,INV: what ?
+out,FALSE,FALSE,CHI: see
+in,TRUE,FALSE,CHI: and it's going down in her feet .
+in,FALSE,TRUE,CHI: well anyhow she hadta go to
+out,FALSE,FALSE,CHI: I think it was .
+out,FALSE,FALSE,INV: right .
+in,TRUE,FALSE,CHI: and she has arthritis right here too .
+in,FALSE,TRUE,CHI: and they hadta take right here .
+in,TRUE,FALSE,CHI: they took her bones
+in,FALSE,FALSE,CHI: and I bet that hurt .
+in,FALSE,TRUE,CHI: and she broke this little thing .
+in,TRUE,FALSE,CHI: there's a [//] you_know a bottle right here and a little bottle here .
+in,FALSE,TRUE,CHI: there's &~a little like tubes that glow into it .
+in,TRUE,FALSE,INV: little tubes that glow into it .
+in,FALSE,TRUE,CHI: and &~a there's whole bunch of wires <and you> [//] and it goes up to ninety and you gotta get it all in there .
+in,TRUE,FALSE,CHI: I can't even ever do it .
+in,FALSE,FALSE,CHI: I can only get it up to about sixty .
+out,FALSE,FALSE,INV: up to about sixty huh ?
+in,FALSE,FALSE,CHI: I was sposta get up to +...
+in,FALSE,TRUE,CHI: I only sposta do it three times if you're not sick .
+in,TRUE,FALSE,CHI: you can do it more if you're sick so I thought it was pretty fun
+out,FALSE,FALSE,INV: yeah that sounds +/.
+in,FALSE,TRUE,CHI: +< everybody can do it except me .
+out,FALSE,FALSE,INV: have you ever visited anyone in the hospital ?
+out,FALSE,FALSE,CHI: oh I gotta tell you about this .
+out,FALSE,FALSE,INV: okay .
+in,TRUE,FALSE,CHI: ah when I lived in Oberlin ah we had a neighbor and ah her name was Doris Anna and Ralph ?
+out,FALSE,FALSE,INV: huhuh Doris and Anna and Ralph ?
+in,FALSE,FALSE,CHI: umum Doris was ah Anna's daughter .
+in,FALSE,FALSE,INV: oh Anna's daughter .
+in,FALSE,TRUE,CHI: she had a little girl named Nicole .
+in,TRUE,FALSE,CHI: well anyhow one time Ralph was mowing the lawn and Nicole liked to walk right behind or right beside the lawnmower .
+in,FALSE,FALSE,CHI: and ah
+in,FALSE,TRUE,CHI: and Anna didn't care because she thought it was one of us .
+in,TRUE,FALSE,CHI: and my sister that how she didn't think of anything .
+in,FALSE,TRUE,CHI: and a it wasn't
+in,TRUE,FALSE,CHI: and oh Nicole gotta the hospital she said its all Ralphs fault
+in,FALSE,FALSE,CHI: really it wasn't Ralphs fault because she was the one that was walking there .
+in,FALSE,FALSE,CHI: I guess she blaming everybody .
+in,FALSE,TRUE,CHI: I guess it was pretty bad .
+out,FALSE,FALSE,INV: do you have any pets ?
+in,TRUE,FALSE,CHI: and Christy
+in,FALSE,FALSE,CHI: she was my only dog .
+in,FALSE,FALSE,CHI: me and my sister's only dog .
+in,FALSE,FALSE,CHI: you could even pick her up without her growling or nothing and I loved her .
+in,FALSE,FALSE,CHI: and ah one day she liked to run by the cars and she was over by Anna's house .
+in,FALSE,TRUE,CHI: and my mom was coming in not very fast and she ran so fast that she ran and she ran right by the tire and she got hit .
+out,FALSE,FALSE,INV: do you have any other pets ?
+out,FALSE,FALSE,CHI: then let's see .
+in,TRUE,FALSE,CHI: oh Tilly .
+out,FALSE,FALSE,INV: and she got hit huh ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: you know some &~a colleges ?
+out,FALSE,FALSE,CHI: college people ?
+out,FALSE,FALSE,INV: uhhuh .
+in,FALSE,TRUE,CHI: well anyhow &-uh they gave my mom &~fo I forget how much money but &-uh they gave this great big dog like a horse .
+out,FALSE,FALSE,CHI: the dog was big as a horse ?
+in,TRUE,FALSE,CHI: and they &-uh sold it to Mommy .
+in,FALSE,TRUE,CHI: <and they took> [//] and one day she took a +//.
+in,TRUE,FALSE,CHI: &-uh she love us .
+in,FALSE,TRUE,CHI: and &-uh one time she went over to Anna's house and got a woodchuck and she was sick .
+out,FALSE,FALSE,INV: and she was sick ?
+in,TRUE,FALSE,CHI: and &-uh my mom said [//] called Anna (be)cause she didn't have a car or nothing .
+in,FALSE,TRUE,"CHI: and Anna [/] Anna was doing her garden and she goes +""/."
+in,TRUE,FALSE,"CHI: +"" will you take me to the vet so I can &-uh see what's wrong with Tilly ?"
+in,FALSE,TRUE,"CHI: and she goes +""/."
+in,TRUE,FALSE,"CHI: +"" no because I [//] &-uh I'm doing my garden ."
+in,FALSE,TRUE,CHI: and the next day was dead because of the thing .
+in,TRUE,FALSE,"CHI: my mom called her up and said +""/."
+in,FALSE,TRUE,"CHI: +"" aren't you glad now that Tilly's dead ?"
+in,TRUE,FALSE,CHI: because she like Tilly too .
+in,FALSE,TRUE,CHI: and then she died .
+in,TRUE,FALSE,CHI: we had another
+in,FALSE,FALSE,CHI: &-uh she had little pups and she smothered them and we wrapped +/.
+out,FALSE,FALSE,INV: and she smothered them ?
+in,FALSE,TRUE,CHI: we <gave them> [//] gave her away .
+in,TRUE,FALSE,CHI: and &-uh she smothered her babies and ran off and got hit .
+in,FALSE,TRUE,CHI: I don't know why dogs do that but one time when Sunny was at Sally's house &=giggles ah
+in,TRUE,FALSE,CHI: she was real happy to see us .

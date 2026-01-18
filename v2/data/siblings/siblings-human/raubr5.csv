@@ -1,0 +1,55 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,@Comment: Time is 0:18
+out,FALSE,FALSE,"@Comment: Chi and Mot sit facing one another with little Bro standing behind Mot. Chi decodes well and enunciates clearly , though his delivery sounds a bit choppy. He omits one line toward the beginning of the story. Mot corrects Chi once , but otherwise stays in the background and allows Chi to take ownership of the book reading. A good deal of Mot's attention goes toward quieting Bro who tries to participate in book reading"
+out,FALSE,FALSE,@Situation: Chi holds book on own
+out,FALSE,FALSE,CHI: &-uh for my sister Christa .
+out,FALSE,FALSE,MOT: (.) come on .
+in,TRUE,TRUE,CHI: in the (.) light of the moon a little egg lay on a leaf .
+in,TRUE,TRUE,BRO: &~h I'm good at this .
+out,FALSE,FALSE,MOT: excuse us .
+out,FALSE,FALSE,BRO: &=laughs .
+out,FALSE,FALSE,MOT: excuse us .
+out,FALSE,FALSE,MOT: shh !
+in,TRUE,FALSE,CHI: he started to look for some food .
+in,FALSE,FALSE,CHI: <one Monday> [//] on Monday he ate through &~a one apple but he was still hungry .
+in,FALSE,FALSE,CHI: on Tuesday he ate through two peas but he [>] +/.
+out,FALSE,FALSE,MOT: nope [<] .
+out,FALSE,FALSE,MOT: <two [/] two &~p> [>] .
+in,FALSE,FALSE,CHI: <two pears> [<] but he was still hungry .
+in,FALSE,FALSE,CHI: on Wednesday he ate through three plums (.) but he was still hungry .
+in,FALSE,FALSE,CHI: on Thursday he ate through four strawberries but he was still hungry .
+in,FALSE,FALSE,CHI: on Friday he ate through five oranges (.) but he was still hungry .
+in,FALSE,FALSE,CHI: on Saturday he ate through one piece of chocolate cake (.) one icecream cone (.) one pickle [>] .
+out,FALSE,FALSE,BRO: <one pickle> [<] .
+in,FALSE,FALSE,CHI: one slice of Swiss cheese (.) one slice of &~sal (.) &~s +...
+in,FALSE,TRUE,BRO: salami [>] !
+out,FALSE,FALSE,CHI: salami [<] .
+in,TRUE,FALSE,BRO: how do you know ?
+in,FALSE,TRUE,CHI: I know .
+out,FALSE,FALSE,CHI: one lollipop [/] lollipop (.) one piece of (.) cherry pie .
+out,FALSE,FALSE,MOT: stop !
+in,TRUE,TRUE,CHI: one &~sh (.) sausage (.) one cupcake (.) and one <slice of> [>] (.) watermelon .
+in,TRUE,FALSE,BRO: <you forgot this> [<] .
+out,FALSE,FALSE,BRO: you forgot this !
+in,FALSE,FALSE,CHI: no I didn't .
+in,FALSE,TRUE,MOT: he got it right .
+in,TRUE,FALSE,CHI: that night he had a stomachache .
+in,FALSE,TRUE,CHI: &~aw I think he ate it .
+out,FALSE,FALSE,INV1: &=laughs .
+in,TRUE,TRUE,BRO: he ate through a leaf .
+in,TRUE,TRUE,CHI: <the next day he [/] he was> [//] the next day was Sunday again .
+in,TRUE,FALSE,CHI: the (.) caterpillar ate through (.) one nice green leaf and after that he felt (.) much better .
+in,FALSE,FALSE,CHI: now he wasn't hungry any more (.) and he wasn't a little caterpillar any more .
+in,FALSE,TRUE,CHI: he was a big (.) fat [!] caterpillar .
+in,TRUE,FALSE,CHI: he built a small house called a cocoon (.) around himself .
+in,FALSE,TRUE,CHI: he stayed inside for more than two weeks .
+in,TRUE,FALSE,CHI: then he nibbled a hole (.) in the cocoon (.) pushed [/] (.) pushed his way out +...
+in,FALSE,FALSE,BRO: here's the little butterfly .
+out,FALSE,FALSE,INV1: &=laughs .
+in,FALSE,TRUE,CHI: he was a beautiful butterfly .
+out,FALSE,FALSE,MOT: yup .
+out,FALSE,FALSE,CHI: the end .
+out,FALSE,FALSE,INV2: that was <very good> [>] .
+out,FALSE,FALSE,MOT: good [<] .
+out,FALSE,FALSE,INV1: good job .

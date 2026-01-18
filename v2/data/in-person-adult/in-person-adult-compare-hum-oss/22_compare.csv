@@ -1,0 +1,415 @@
+in/out/ambiguous,start_human,start_llm,end_human,end_llm,Transcript,story_seg_human,story_seg_llm,intersection,union
+out,FALSE,FALSE,FALSE,FALSE,RAND: ʔuh: You know it's: it was really pretty straightforward this morning.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: And y- z,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: I thought you did a good job all the way through.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: I mean you were on top of what you were scanning.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: ⌊ Hm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Thanks ⌋.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: um.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: should've kept that one Horizon Fauker jet.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: just t- keep em on the right.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Why did you switch em.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,LANC: Well ʔuh looking at something I would get,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: it didn't seem like I could get someone else out.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,LANC: But um a:nd part of it to provide a good service but then.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: ʔuh Well ʔuh that- that,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: I guess that's one reason the two eight's kind of,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: well two eight's kinda nice sometimes because ʔuh: ʔuh I mean when we're on ten all the departures seemed like they're going out the left.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: so you really want your arrivals on the right.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: When you're landing two eight then you can get departures off of almost both at any time.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: So you always got a hole.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: N_yeah.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: So but uh don't feel bad about keeping Horizon on the right boy because.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: sure doesn't hurt them to taxi any.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,RAND: They're so used to having A number one service.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: ⌊ Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: plus ⌋ when they're ⌈ departing.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: every one of em came,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: they're right by ⌉ the gate.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Everyone,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: even even one or,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: one or two of em I said I'll advise if the left becomes available.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: ⌈ and they said w-.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: ⌊ and they,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: they still ask ⌋.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: we'd like the ⌉ left if it becomes available.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: I know they still ask.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: And Viking is the same way.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: So.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: There's: sh:,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: there's sure nothing wrong with keeping em on the right though.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Um Traffic Watch Eight we discussed.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: So radar service terminated.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: um call me inbound or.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: You wanna say radar service terminated frequency change approved.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Report back inbound.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Or I I think that something a littleʔ little more like that's better than just saying radar service terminated because he's kinda,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Left hanging.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,RAND: And you could just say radar service terminated report back inbound and then he'll,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: he'll either come back and say well I'm departing the area now back to Hillsborrow Or I'll call you back inbound.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,RAND: So that gives you an idea.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: But uh a:nd uh ʔuh: Along with that Let TC do more of the work for you.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay % laugh.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: ʔyou know Um just tell her what you want her to do.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: I was thinking of a couple instances where you could've used her more than you did.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: I was thinking that for my rundowns you know that would ʔuh that's,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: that would have been a help but on the other s- the other hand.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,BILL: I wanna get it on tape heck of a job Lance.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: ⌈.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: ⌊ Oh thank you very much.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Did you hear that?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: um ⌋.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: The problem with doing rundowns is that ⌉ it's kind of over in your face.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah Yeah.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: So.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Cause the light's kind of pretty far over to the left there but sh- you can you can have her do it if you want.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Um I would,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: I'm just working at doing as much of these other things as I possibly can Because they'll be times when I won't have a TC and just,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: just ⌈ challenging myself.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: ⌊ And that's okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: ⌋.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: ⌉ Um what were some of the things other than,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: what- what were some of the things that that I should have used ⌈ her for that I didn't.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Depending on who your,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: ⌉.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,RAND: Who your TC is if c- certain people sit down there they d,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: they have a tendency to do everything for you.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: And sometimes that is p,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: that is really pretty nice.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: If you just if you just all you have to do is stand up and look out the window and look at the bright.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: and talk.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: ʔuh: You- no other w,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: no other coordination or or ARTS functions or anything That really is nice.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: That's ideal.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: It it really helps.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,RAND: the situation.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,RAND: So but ʔuh: Right now like you say maybe it is better for you to do some of that stuff.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: um I don't think there was I mean I had just a couple that I switched to the left you know maybe three or so that I switched to the left uh p,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,LANC: uh probably two or three and so there was that I didn't have any ARTS entries I had you know Traffic Watch to slew out to.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: um.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: For the most part I mean I was able to k,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,LANC: I think I was able to keep up with that stuff.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: With the ARTS.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: I mean there wasn't really nothing much to do.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: um.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: No there wasn't.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: So.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: But there could be.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: If there's VFRs departing or.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,LANC: I told her to do my VFR guys.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: ʔOh ʔYeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,LANC: And um to write down my VFRs.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,LANC: That's % laugh one thing I gotta kick myself to do.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Now are we still required to w,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: write like the Empires that coming in through the gates VFR?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Don't they?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: We are?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Any VFR.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: Now isn't that aren't they when they c,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,LANC: But what if they've,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,LANC: c- well I guess we have no way of knowing if they've come in IFR and then cancelled VFR.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Well yeah because they have a strip on it downstairs.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: So.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: ʔI don't,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: ʔuh: actually ʔuh I'm like you I don't really know what the point is of that.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Because we do have a record of em anyway.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: But.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: ʔuh when the,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,FALSE,RAND: when the,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: order came across or whatever or this memorandum that said to write down all VFR arrivals.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: So if they're a VFR arrival you're supposed to write it down.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: I'll do that then.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Unhunh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: When Horizon eight didn't answer you there?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Go back to ground?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: or just move on to something else.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: I mean you tried him a couple times.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: You say Horizon eight XXXXX if they don't get the hint if he's,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: but if you can't get him just go on.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,FALSE,RAND: and do something else that you can do.,TRUE,TRUE,TRUE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,RAND: United was calling ready to go.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: So shoot.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: just let United go.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: Horizon.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: you can't do nothing with him so just have him hold there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: So just go on to the next.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: Next thing and do tell ground.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: He might be still on ground frequency which is,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: uh usually not too likely because you know.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: At that point.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: At that point well he's out there.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: you know He's,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: and he's probably sitting there.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: and th- he's not hearing anything from the tower you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: he's probably looking at his radio about then.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: Yeah I think I was a little bit rigid in my planning of that cause I wanted to,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,LANC: had to plan to get him out at that point.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,LANC: a:nd I should've been more flexible and.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: But uh you know everything else I saw you- your separation was was really good this morning.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: I mean you really tightened em up.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: Maybe a couple times almost a l:ittle bit ⌈ too tigh:t % laugh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,LANC: a little too tight.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: Cause uh ⌉ ʔuh,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: I don't know y- a couple times you had like one just barely at departure end a jet at departure and you cleared another jet for takeoff.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: And it worked out great.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Oh.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: One guy out the right and then,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: oh th,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,LANC: both guys out the ⌈ left.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: Both guys out to the left.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: ⌉.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: And it worked out good but ʔuh I think it worked out because this guy was real slow on on starting his departure roll.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: You know.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: usually you gotta get em just a little bit off the departure end.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: before you clear the next guy.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: And watch out for the uh the th:seven hundreds.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: hundreds Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: Or three hundreds and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: Because uh ʔuh: they'll really climb.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: And they can go fast too.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: So well you know just take into consideration the type of aircrafts.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: It takes the seven a little b- while to get wound up while the seven'll really go.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: But uh ʔuh,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: I mean it was really good.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,RAND: Good departure separation.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Thanks.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: I was impressed.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: A:nd you saw: a little bit about the sixty?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Heading?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: ʔuh Listen to the readbacks for,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,RAND: If I know he's at thirty.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: But you can wrap em around to thirty or sixty to avoid the MBA and that works great because: otherwise you got sixty?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: There was that one time you had,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: two: south plan aircraft and one westbound,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,RAND: or river metro and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: I d,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: I actually didn't think you were gonna have three miles between the two first.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: south plan air lane but you did.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: That was perfect.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: The one that I kept on runway heading for ⌈ a bit?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: or ⌉.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: And that was good it was real good planning to keep that one Caravan on runway heading when you had the other one going sixty?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: To ensure that you had oh and you had the one going forty.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: or some⌈thing.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: and then you had the ⌉ Metro going s:,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: going sixty.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: But you kept the Metro on this runway heading.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Which is really good planning.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: So.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: I'm,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: I'm,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: less and less impacted.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: For lack of a better word.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: by these g,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: for some reason with all these um I think the bulk of my planning seems to revolve around these little guys when I can turn em fitting em in with all my other guys for some reason I mean y- and that is you know those guys having a very fec- effective part in the whole fan of all our departures.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: And um.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Hm.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: I think they're they're a- affecting me less than they did in the past.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Does that make sense?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Do you know what I mean?,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Um cause i,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: there was a time where I mean that sequence was good too.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: but there was a time when yeah an ʔi,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,LANC: it it may happen again.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,FALSE,FALSE,FALSE,FALSE
+in,TRUE,TRUE,FALSE,FALSE,LANC: Who knows,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: where I've got the little West Coasts in here and all these guys off the right and left where am I actually gonna fit these guys in and they're all calling they're ready way early.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: And.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Well the sequence uh can't be too bad.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: When you got,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: when you can feed from charley.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: xxx.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: and from bravo and from alpha.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: You know ʔuh the sequence can't be too bad I mean all he did.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: You got something you can do.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: All he did is send em all out.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: I mean you got all the West Coasts in the row over on charley.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: you got the jets in a row on bravo and you got n- various things over here.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: So you can pick and choose.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: You know y,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: I mean as a ground control you can just send em all out there and then when they get there then you can start arranging the strips.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: You know the way you want almost.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: You know th- that's.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: that it works great.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: That way.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,LANC: Because you don't have to sequence em at some other point in their taxi route you know.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: They're b,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,LANC: they,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: ʔe,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: essentially on their own taxiway up through,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,LANC: up to the approach end.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: So.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: So that was about all.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: that I,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: you know that I had.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: I mean I was paying pretty close attention there and I didn't really see much of a problem.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Oh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Thanks.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: N:o significant problems.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: xxx to talk about.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: I'm glad.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,TRUE,TRUE,RAND: See there was S,TRUE,TRUE,TRUE,TRUE
+in,TRUE,TRUE,FALSE,FALSE,RAND: Oh um don't always ʔuh: um don't insist on always saying seven hundred.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: If you say,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: ⌈ Oh.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Why hadn't you,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: at some ⌉ point after he is leaving seven just wait till he is leaving seven hundred you mean?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Sometimes you can do that.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: There was a couple times you didn't need to say it when when you did.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: It was out in the,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Well I mean ⌈ y- w,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: Could've either waited just a bit.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: it was at ⌋,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: He was at a hundred climb and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Or he was a,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: just go ahead and say turn left heading one six zero.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: Or turn left heading two six zero.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: For a Metro.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: I mean if you leave em on runway heading for a little bit.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: they're gonna be at the altitude you need so but that's no big deal.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: A:nd uh I was watching Jet Speed come in and you got Delta out in front of Jet Speed.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: It seemed like you were a little tense with that but really pay attention to the speeds when they're coming in.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,FALSE,RAND: He was doing a hundred and twenty outside of Laker there.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Did you see that?,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: So that,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: that worked out great.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: I wondered if you'd saw,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: I mean there was lots of room.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: Lots of ⌈ time.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: He ⌉ wasn't he z- wasn't flying as a normal.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: For some reason he just used the,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: Or is it uh Exec Jet.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: One of those guys is usually really fast.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Jet Speed is th- I know fast on the pr- departure.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Flight.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: it seems.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: ʔuh I think.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,LANC: It seems like that was the one but yeah Flight when they fly the later jet.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Um yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: And I think I might have said for delta niners or to no delay or something like that and.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: ⌊ Yeah.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: I think you did ⌋.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,LANC: And he was actually floating at,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: ʔuh the Jet Speed wasn't,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: yeah.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: Yeah you had a_lot_of time.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: When the Twins get airborne you got a jet following the twin- twin's gonna go southwest bound?,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: If you got thousand feet and the twin's climbing out of four or five hundred you can start your transmission then to the to the jet.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: Twin Cesna ahead is: will be turning southwest bound momentarily runway two eight left clear for takeoff.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,RAND: It says in sight.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Just didn't wanna be sure he gets his turn in?,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: .,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Okay.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: The Caravan's coming across if you wanna get,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Yeah what do you say.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Cause I've heard different phraseology and I af- feel like I was stumbling over that I think I said it- couple different ways.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: A mile west or something,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: I'll- I just say ʔuh: you know on a day like this it's so easy to see em I would just say the Caravan ahead is southwest bound.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Runway two eight left clear for takeoff.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: And and they'll a_lot_of times they'll say uh in sight.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: If they don't say in sight they'll say ʔuh: they'll I would assume they have em in sight because they won't go.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Unless they seem em.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: I mean that's important to them to see the traffic.,FALSE,TRUE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: but it's safe it's a safe operation.,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,FALSE,TRUE,RAND: Because ʔuh one thing you could do is is turn the Caravan to forty.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: .,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Mhm.,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: To get him across.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: And then just before you ship em send em back to fifty xxx something like that.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: Hm.,TRUE,FALSE,FALSE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,LANC: .,TRUE,FALSE,FALSE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: Cause the track's what im- what's important.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: But but fifty was working out fine today.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: Fifteen degrees and a mile.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,RAND: Is what you need so or less.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,RAND: using visual.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: Yeah In fact it was a Was the West Coast that,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,FALSE,FALSE,LANC: was it the Horizon who said he could do the visual with the Twin Cesna ahead or was it vice versa one of the two.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,ENV: .,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Yeah.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,FALSE,FALSE,TRUE,LANC: And at that point I said don't need it now.,TRUE,TRUE,TRUE,TRUE
+in,FALSE,TRUE,TRUE,FALSE,LANC: They got it.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Somebody in there?,FALSE,TRUE,FALSE,TRUE
+in,TRUE,FALSE,TRUE,TRUE,LANC: I think Laura went in there yeah.,TRUE,TRUE,TRUE,TRUE
+out,FALSE,FALSE,FALSE,FALSE,BILL: Comm line for you.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,BILL: XXX have a call on the other line.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: This is Randy.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: Okay.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,RAND: M_bye.,FALSE,FALSE,FALSE,FALSE
+out,FALSE,FALSE,FALSE,FALSE,@End,FALSE,FALSE,FALSE,FALSE

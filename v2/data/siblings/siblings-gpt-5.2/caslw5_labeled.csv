@@ -1,0 +1,22 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,MOT: you can use the (.) two spaces if you want .
+out,FALSE,FALSE,MOT: like your green paper that you do your handwriting on .
+out,FALSE,FALSE,MOT: (..) wow .
+out,FALSE,FALSE,MOT: nice [/] nice name .
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,MOT: you signed it nice .
+out,FALSE,FALSE,MOT: in script xxx .
+out,FALSE,FALSE,INV: could you read it for us ?
+out,FALSE,FALSE,CHI: dear xxx [>] .
+out,FALSE,FALSE,BRO2: &=cries [<] .
+out,FALSE,FALSE,CHI: xxx Mamie ?
+out,FALSE,FALSE,MOT: Mamie@q .
+out,FALSE,FALSE,MOT: say [>] +/.
+in,TRUE,FALSE,CHI: dear [<] Mamie .
+in,FALSE,TRUE,CHI: thank you for the Raiders hat and the Pirate one .
+in,TRUE,FALSE,CHI: the baseball cards were great (.) and the Pirate team cards .
+in,FALSE,TRUE,CHI: and for when you came back last year and the (..) pirate [//] (.) presents [!] you brought back .
+out,FALSE,FALSE,CHI: mm that's it .
+out,FALSE,FALSE,INV: wow .
+out,FALSE,FALSE,CHI: from Chi .
+out,FALSE,FALSE,MOT: great .

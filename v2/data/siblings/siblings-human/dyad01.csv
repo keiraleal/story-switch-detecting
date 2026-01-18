@@ -1,0 +1,175 @@
+in/out/ambiguous,start,end,Transcript
+in,TRUE,FALSE,CHI: do you wanna play with the playdough anymore ?
+out,FALSE,FALSE,STE: &-uh: (.) <do you wanna> [>] ?
+out,FALSE,FALSE,CHI: <do you wanna> [<] play with this ?
+out,FALSE,FALSE,STE: yeah .
+in,FALSE,FALSE,STE: let's go play with that .
+out,FALSE,TRUE,CHI: bulldozer .
+in,TRUE,FALSE,CHI: look at the bulldozer .
+out,FALSE,FALSE,CHI: neat .
+in,FALSE,TRUE,STE: I like this thing [= toy dump+truck] .
+out,FALSE,FALSE,STE: whoa !
+in,TRUE,TRUE,STE: it just popped open .
+out,FALSE,FALSE,CHI: vroom@o .
+in,TRUE,TRUE,STE: oh I see what this is for .
+out,FALSE,FALSE,STE: xxx .
+out,FALSE,FALSE,STE: oh a bolt is xxx .
+in,TRUE,FALSE,CHI: I can't get this guy in .
+out,FALSE,FALSE,STE: 0 .
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,FALSE,CHI: <I've got a wrench> [>] .
+in,FALSE,FALSE,STE: <I'll never get this guy in> [<] .
+in,FALSE,FALSE,STE: oh I got this guy in .
+in,FALSE,TRUE,STE: I thought I never would .
+in,TRUE,FALSE,STE: let's drive the truck .
+in,FALSE,TRUE,STE: that's my truck .
+in,TRUE,TRUE,STE: I closed it [= dumper on the truck] the wrong way .
+out,FALSE,FALSE,STE: see ?
+in,TRUE,TRUE,CHI: wanna play with the bulldozer ?
+out,FALSE,FALSE,CHI: I'm gonna +/.
+out,FALSE,FALSE,STE: holy !
+in,TRUE,TRUE,STE: this thing doesn't fit in .
+out,FALSE,FALSE,STE: <oh (.) see> [>] .
+out,FALSE,FALSE,CHI: <swoosh@o> [<] .
+out,FALSE,FALSE,STE: look at this .
+in,TRUE,TRUE,STE: break the playdough .
+out,FALSE,FALSE,CHI: 0 .
+in,TRUE,TRUE,CHI: that's a broom .
+out,FALSE,FALSE,STE: oh neat .
+out,FALSE,FALSE,STE: Dev .
+out,FALSE,FALSE,STE: what does that do ?
+out,FALSE,FALSE,STE: whoa !
+out,FALSE,FALSE,CHI: wait a minute .
+in,TRUE,FALSE,CHI: let me [//] <I'll> [/] I'll do it .
+in,FALSE,TRUE,STE: there's something under it +...
+out,FALSE,FALSE,STE: xxx .
+out,FALSE,FALSE,CHI: hrmmm@o .
+out,FALSE,FALSE,STE: oh neat !
+out,FALSE,FALSE,STE: look at this Dev .
+out,FALSE,FALSE,STE: Devon !
+out,FALSE,FALSE,CHI: what ?
+out,FALSE,FALSE,STE: 0 .
+in,TRUE,FALSE,CHI: get the wheelbarrow .
+out,FALSE,FALSE,STE: 0 .
+out,FALSE,FALSE,STE: whoa !
+in,FALSE,TRUE,STE: this [= truck tailgate] popped out .
+out,FALSE,FALSE,STE: 0 .
+in,TRUE,FALSE,CHI: there now (.) we got those four in .
+in,FALSE,TRUE,CHI: now we gotta get a barrel .
+out,FALSE,FALSE,STE: oh yeah .
+out,FALSE,FALSE,STE: look at this .
+out,FALSE,FALSE,STE: shhhh@o .
+out,FALSE,FALSE,CHI: what's that ?
+out,FALSE,FALSE,CHI: firetruck ?
+out,FALSE,FALSE,STE: no .
+in,TRUE,FALSE,STE: I don't know what it is .
+out,FALSE,FALSE,STE: that's what .
+in,FALSE,TRUE,STE: I'm just putting stuff on here .
+out,FALSE,FALSE,CHI: ah !
+out,FALSE,FALSE,STE: oh !
+out,FALSE,FALSE,STE: look at this .
+out,FALSE,FALSE,STE: ah neat .
+out,FALSE,FALSE,STE: even a little handle .
+out,FALSE,FALSE,CHI: look it .
+in,TRUE,TRUE,CHI: they got a teddy_bear .
+out,FALSE,FALSE,STE: oh neat .
+out,FALSE,FALSE,STE: xxx this [= cement mixer] .
+out,FALSE,FALSE,STE: 0 .
+out,FALSE,FALSE,CHI: look at the flag .
+out,FALSE,FALSE,STE: oh yeah .
+out,FALSE,FALSE,STE: the flag ?
+out,FALSE,FALSE,STE: yeah .
+in,TRUE,TRUE,STE: I'll try to get this on .
+out,FALSE,FALSE,STE: got it !
+out,FALSE,FALSE,CHI: oh !
+out,FALSE,FALSE,STE: what is this ?
+out,FALSE,FALSE,STE: tools !
+out,FALSE,FALSE,STE: in the toolbox .
+in,TRUE,FALSE,CHI: put all the tools back in .
+out,FALSE,FALSE,STE: 0 .
+out,FALSE,FALSE,STE: saw .
+out,FALSE,FALSE,STE: yow !
+out,FALSE,FALSE,STE: that's xxx .
+out,FALSE,FALSE,STE: what the +...
+out,FALSE,FALSE,STE: 0 .
+out,FALSE,FALSE,STE: another flag .
+out,FALSE,FALSE,CHI: wanna trade ?
+out,FALSE,FALSE,STE: (o)kay .
+in,FALSE,TRUE,CHI: I'll take this [= toolbox] .
+out,FALSE,FALSE,STE: holy !
+in,TRUE,TRUE,STE: this time it [= cement mixer] even dumps .
+out,FALSE,FALSE,STE: shhh@o .
+out,FALSE,FALSE,CHI: what's that ?
+out,FALSE,FALSE,STE: I don't know .
+out,FALSE,FALSE,STE: wrong way .
+out,FALSE,FALSE,CHI: I know .
+in,TRUE,FALSE,CHI: this can hook onto the back of this .
+out,FALSE,FALSE,STE: oh yeah .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,STE: no .
+out,FALSE,FALSE,STE: right here .
+out,FALSE,FALSE,STE: right there .
+out,FALSE,FALSE,CHI: I know .
+out,FALSE,FALSE,CHI: vroom@o shhhh@o .
+out,FALSE,FALSE,STE: oh yeah .
+in,FALSE,TRUE,STE: I remember these things [= construction toys] .
+out,FALSE,FALSE,STE: xxx .
+in,TRUE,TRUE,STE: I like those xxx .
+out,FALSE,FALSE,STE: 0 .
+out,FALSE,FALSE,CHI: there .
+out,FALSE,FALSE,STE: xxx .
+out,FALSE,FALSE,STE: oh neat .
+in,TRUE,TRUE,STE: all I need is a little bolt .
+out,FALSE,FALSE,STE: E: te_te_te_te_te@wp .
+out,FALSE,FALSE,CHI: vrooom@o .
+out,FALSE,FALSE,CHI: okay (.) I +...
+out,FALSE,FALSE,CHI: xxx .
+in,TRUE,TRUE,CHI: I'm done playing with this .
+out,FALSE,FALSE,CHI: a flashlight .
+out,FALSE,FALSE,STE: 0 .
+out,FALSE,FALSE,CHI: pow@o pow@o .
+out,FALSE,FALSE,CHI: xxx .
+in,TRUE,FALSE,CHI: I got a screwdriver .
+out,FALSE,FALSE,STE: 0 .
+out,FALSE,FALSE,STE: screwdriver ?
+out,FALSE,FALSE,STE: xxx .
+out,FALSE,FALSE,STE: xxx s(c)rewdriver .
+in,FALSE,TRUE,STE: I need a screwdriver .
+out,FALSE,FALSE,STE: xxx .
+out,FALSE,FALSE,STE: oh .
+out,FALSE,FALSE,STE: what ?
+in,TRUE,FALSE,STE: look at what I've got .
+out,FALSE,FALSE,STE: 0 .
+in,FALSE,TRUE,STE: oh (.) forgot to put this one on .
+out,FALSE,FALSE,CHI: wrong xxx .
+out,FALSE,FALSE,CHI: how do you get that on ?
+out,FALSE,FALSE,STE: xxx .
+out,FALSE,FALSE,STE: hey where's the screwdriver ?
+in,TRUE,FALSE,CHI: I need it .
+out,FALSE,FALSE,STE: oh !
+out,FALSE,FALSE,STE: look at this .
+in,FALSE,TRUE,CHI: oh (.) it [= wrench] can't screw .
+out,FALSE,FALSE,STE: oh (.) so I see something .
+out,FALSE,FALSE,CHI: finally .
+out,FALSE,FALSE,STE: finally .
+out,FALSE,FALSE,STE: xxx .
+out,FALSE,FALSE,STE: 0 .
+out,FALSE,FALSE,STE: oh yeah .
+out,FALSE,FALSE,STE: still going down .
+out,FALSE,FALSE,CHI: there !
+out,FALSE,FALSE,CHI: shew@o .
+in,TRUE,FALSE,STE: too bad Mike or Ben couldn't come .
+out,FALSE,FALSE,CHI: huh ?
+in,FALSE,TRUE,STE: too bad Mike or Ben couldn't come .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: xxx a frisbee .
+out,FALSE,FALSE,CHI: shhhh@o .
+in,TRUE,FALSE,STE: that's not no frisbee .
+in,FALSE,TRUE,STE: make it a bit tight .
+out,FALSE,FALSE,STE: okay a bit more xxx .
+out,FALSE,FALSE,STE: yow !
+out,FALSE,FALSE,STE: got it .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,STE: zoom@o .
+out,FALSE,FALSE,STE: 0 .
+out,FALSE,FALSE,STE: look what I made .

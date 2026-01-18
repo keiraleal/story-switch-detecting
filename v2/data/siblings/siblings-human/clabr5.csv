@@ -1,0 +1,253 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV1: okay (.) <this is> [//] I'm sure you've seen this book before .
+out,FALSE,FALSE,@Comment: Time is 0:20
+out,FALSE,FALSE,"@Comment: Chi and Mot seated next to one another on the couch , with book on Chi's lap; Mot provides words when Chi hesitates -- the majority of the longer words; Chi always repeats word after Mot give is; Mot also gives a few semantic clues , such as that warm is not hot and not cold; Chi uses both pictures and print in reading - ie , reads cake instead of chocolate cake , and Mot corrects her; in fact during Saturday foods context notes say Mot is pointing to pictures as Chi reads; at end , around cocoon page , Chi more or less gives up totally and just waits to be fed words by Mot"
+out,FALSE,FALSE,INV1: it's the same book we used last year .
+out,FALSE,FALSE,MOT: &=laughs .
+in,TRUE,TRUE,MOT: it look like an easier one .
+out,FALSE,FALSE,INV1: alright (.) now what I want you to do is translate it into Spanish .
+out,FALSE,FALSE,INV1: xxx .
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,INV1: (.) I'm kidding .
+out,FALSE,FALSE,INV1: Chi was telling me all about how she's learning Spanish .
+in,TRUE,FALSE,MOT: yeah (.) she loves it !
+in,FALSE,FALSE,MOT: <I don't know> [/] (.) I don't know Spanish at all .
+in,FALSE,FALSE,MOT: she come home with Spanish homework sometime(s) that (.) I xxx &=laughs .
+in,FALSE,TRUE,MOT: I hafta get somebody that knows Spanish &=laughs to help her (be)cause I don't know it at all .
+out,FALSE,FALSE,INV1: that's good (.) that's great that they [?] learn it .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,INV1: when they're this age (.) (be)cause it's so much easier than when they're older .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,BRO: 0 [=! cries out softly] .
+out,FALSE,FALSE,MOT: come on now +...
+out,FALSE,FALSE,BRO: &=whimpers .
+out,FALSE,FALSE,MOT: <here here here here here here here> [/] here .
+out,FALSE,FALSE,INV1: (.) can I borrow your pen or do you wanna take notes ?
+out,FALSE,FALSE,INV2: &-um (.) yeah xxx .
+in,TRUE,TRUE,MOT: you wanna look at the pages ?
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,INV2: xxx do you need a clipboard ?
+out,FALSE,FALSE,MOT: The Very Hungry Callapilla [: Caterpillar] .
+out,FALSE,FALSE,BRO: ah ?
+out,FALSE,FALSE,MOT: xxx .
+out,FALSE,FALSE,INV1: <you've seen> [>] this one (.) right ?
+out,FALSE,FALSE,MOT: xxx [<] .
+out,FALSE,FALSE,INV1: so just &-um go ahead and read it to your mom +...
+out,FALSE,FALSE,MOT: okay [?] .
+out,FALSE,FALSE,INV1: okay ?
+out,FALSE,FALSE,CHI: The Very Hungry Caterpillar .
+out,FALSE,FALSE,CHI: The Very Hungry Caterpillar .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: for +...
+out,FALSE,FALSE,CHI: for (.) my +...
+out,FALSE,FALSE,MOT: (.) sister@q .
+out,FALSE,FALSE,CHI: sister +...
+out,FALSE,FALSE,MOT: (.) Christa@q .
+out,FALSE,FALSE,CHI: Christa .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: in the +...
+out,FALSE,FALSE,MOT: (..) light@q .
+out,FALSE,FALSE,CHI: light (.) of (.) the +...
+out,FALSE,FALSE,MOT: lemme [: let me] see .
+out,FALSE,FALSE,CHI: moon ?
+out,FALSE,FALSE,CHI: a little +...
+out,FALSE,FALSE,MOT: what's that .
+out,FALSE,FALSE,CHI: egg +...
+out,FALSE,FALSE,MOT: (.) lay@q .
+out,FALSE,FALSE,CHI: lay on a (.) leaf .
+out,FALSE,FALSE,MOT: uhhuh .
+out,FALSE,FALSE,CHI: (.) one (...) sunny +/.
+out,FALSE,FALSE,MOT: Sunday@q .
+out,FALSE,FALSE,CHI: Sunday@q +...
+out,FALSE,FALSE,MOT: (.) morning@q .
+out,FALSE,FALSE,CHI: morning .
+out,FALSE,FALSE,BRO: 0 [=! cries out] !
+out,FALSE,FALSE,CHI: the +...
+in,TRUE,FALSE,MOT: (..) it's not hot it's not cold but it's what ?
+out,FALSE,FALSE,BRO: (.) 0 [=! cries out] [>] !
+in,FALSE,TRUE,MOT: <if you're> [<] not hot (.) if you're not cold (.) it's what ?
+out,FALSE,FALSE,CHI: warm .
+out,FALSE,FALSE,CHI: s:unny .
+out,FALSE,FALSE,MOT: sun .
+out,FALSE,FALSE,CHI: sun +...
+out,FALSE,FALSE,MOT: ++ came@q .
+out,FALSE,FALSE,CHI: came (.) up (.) and +...
+out,FALSE,FALSE,MOT: ++ pop@q .
+in,TRUE,FALSE,CHI: pop (..) out (.) of (.) the egg (.) came a +...
+out,FALSE,FALSE,MOT: ++ tiny@q .
+in,FALSE,TRUE,CHI: tiny (.) and (.) very (.) hungry (.) caterpillar .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: (..) he@q +...
+out,FALSE,FALSE,MOT: ++ started@q .
+out,FALSE,FALSE,CHI: started to (.) like .
+out,FALSE,FALSE,MOT: nope look@q .
+out,FALSE,FALSE,CHI: look (.) for (.) some food .
+out,FALSE,FALSE,MOT: mhm .
+in,TRUE,FALSE,CHI: (.) on (..) Monday (.) he +/.
+out,FALSE,FALSE,MOT: mhm .
+in,FALSE,FALSE,CHI: ate +...
+out,FALSE,FALSE,MOT: through .
+in,FALSE,FALSE,CHI: through (..) one apple .
+in,FALSE,TRUE,CHI: but (.) he (.) was still hungry .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: (..) one@q +/.
+out,FALSE,FALSE,MOT: on .
+in,TRUE,FALSE,CHI: +^ on (.) Tuesday he (...) ate +...
+out,FALSE,FALSE,MOT: (.) through@q .
+out,FALSE,FALSE,CHI: through two +...
+out,FALSE,FALSE,MOT: what's that ?
+in,FALSE,FALSE,CHI: (.) pears@q .
+out,FALSE,FALSE,MOT: uhhuh .
+in,FALSE,TRUE,CHI: (.) but he was still hungry .
+out,FALSE,FALSE,MOT: mhm .
+in,TRUE,FALSE,CHI: (..) on Wednesday he ate (.) through +...
+out,FALSE,FALSE,MOT: (.) how many ?
+out,FALSE,FALSE,CHI: three +...
+out,FALSE,FALSE,MOT: what's that ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,MOT: plums .
+in,FALSE,TRUE,CHI: plums (.) <but he was> [/] but he was (.) still hungry .
+out,FALSE,FALSE,MOT: yup .
+out,FALSE,FALSE,CHI: &=sniffs .
+out,FALSE,FALSE,CHI: (..) on Tuesday +/.
+out,FALSE,FALSE,MOT: nope .
+out,FALSE,FALSE,MOT: on &~Thur +/.
+out,FALSE,FALSE,CHI: +^ Thursday !
+out,FALSE,FALSE,MOT: mhm .
+in,TRUE,FALSE,CHI: he (.) ate (.) through (.) four +...
+out,FALSE,FALSE,MOT: what's that ?
+i,FALSE,FALSE,CHI: (.) strawberries (.) but he was still hungry .
+in,FALSE,TRUE,CHI: (..) on Friday he ate through (.) five [!] oranges (.) but he was still &-um hungry .
+out,FALSE,FALSE,CHI: on (.) &~s Sunday +/.
+out,FALSE,FALSE,MOT: Saturday@q .
+out,FALSE,FALSE,BRO: &=noises [>] .
+out,FALSE,FALSE,CHI: <Saturday> [<] (.) he ate through +...
+out,FALSE,FALSE,MOT: one .
+out,FALSE,FALSE,CHI: one +...
+out,FALSE,FALSE,MOT: piece .
+out,FALSE,FALSE,CHI: +^ piece of cake .
+out,FALSE,FALSE,MOT: chocolate [!] cake .
+out,FALSE,FALSE,CHI: of chocolate cake +...
+out,FALSE,FALSE,MOT: what's this ?
+out,FALSE,FALSE,CHI: one (.) icecream +...
+out,FALSE,FALSE,MOT: cone .
+out,FALSE,FALSE,CHI: cone +...
+out,FALSE,FALSE,MOT: one +...
+out,FALSE,FALSE,CHI: +^ one (.) pickle (.) one cheese +...
+out,FALSE,FALSE,MOT: nope .
+out,FALSE,FALSE,MOT: one slice of Swiss [!] cheese .
+out,FALSE,FALSE,CHI: one &~t &~s slice of trIs@u [: Swiss] cheese .
+out,FALSE,FALSE,CHI: (.) one@q +...
+out,FALSE,FALSE,MOT: ++ slice@q .
+out,FALSE,FALSE,CHI: slice of (..) salami ?
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: one lollipop (..) one +...
+out,FALSE,FALSE,MOT: ++ piece@q .
+out,FALSE,FALSE,CHI: piece of +...
+out,FALSE,FALSE,MOT: (.) cherry pie .
+out,FALSE,FALSE,CHI: cherry pie (.) one +...
+out,FALSE,FALSE,BR2: www .
+out,FALSE,FALSE,CHI: (..) one@q +...
+out,FALSE,FALSE,MOT: (.) okay look .
+in,TRUE,TRUE,MOT: can you say that +//.
+out,FALSE,FALSE,MOT: +^ one sausage .
+out,FALSE,FALSE,CHI: one sausage (.) one (.) www &=sniffs +...
+out,FALSE,FALSE,MOT: what is this ?
+out,FALSE,FALSE,CHI: muffin .
+out,FALSE,FALSE,MOT: cupcake .
+out,FALSE,FALSE,CHI: cupcake one +...
+out,FALSE,FALSE,MOT: and [!] one slice of +...
+out,FALSE,FALSE,CHI: and one slice of wallamelon [: watermelon] .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,BRO: pop !
+out,FALSE,FALSE,CHI: that +...
+out,FALSE,FALSE,BR2: xxx [>] .
+out,FALSE,FALSE,BRO: www [<] .
+out,FALSE,FALSE,BR2: xxx .
+out,FALSE,FALSE,MOT: (..) that night .
+in,TRUE,FALSE,CHI: that night he (..) did [//] didn't [>] +/.
+in,FALSE,FALSE,MOT: he [<] [/] he (.) had .
+in,FALSE,FALSE,CHI: he had a +...
+out,FALSE,FALSE,MOT: ++ stomach ache@q .
+in,FALSE,TRUE,CHI: stomach ache@q .
+out,FALSE,FALSE,CHI: (..) he [//] no the@q +...
+out,FALSE,FALSE,MOT: ++ next .
+out,FALSE,FALSE,CHI: next day (..) was +...
+out,FALSE,FALSE,MOT: +^ S:unday .
+out,FALSE,FALSE,CHI: S:unday (.) www &=sniffs +...
+out,FALSE,FALSE,MOT: again .
+out,FALSE,FALSE,CHI: again [!] he +...
+out,FALSE,FALSE,MOT: nope .
+in,TRUE,FALSE,CHI: the caterpillar (.) want [?] ?
+out,FALSE,FALSE,MOT: ate .
+out,FALSE,FALSE,CHI: ate +...
+out,FALSE,FALSE,CHI: &=sniffs .
+out,FALSE,FALSE,MOT: (.) through@q .
+out,FALSE,FALSE,CHI: through (..) one +...
+out,FALSE,FALSE,MOT: (.) nice@q .
+out,FALSE,FALSE,CHI: nice green leaf (.) and +...
+out,FALSE,FALSE,MOT: ++ after@q .
+in,FALSE,FALSE,CHI: after (.) that (.) he +...
+out,FALSE,FALSE,MOT: ++ felt@q .
+in,FALSE,TRUE,CHI: felt www &=sniffs (..) much better .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: (.) no he +/.
+out,FALSE,FALSE,MOT: now [!] .
+in,TRUE,FALSE,CHI: now he +...
+out,FALSE,FALSE,MOT: ++ wasn't .
+in,FALSE,FALSE,CHI: wasn't (.) hungry (.) again ?
+out,FALSE,FALSE,MOT: any .
+in,FALSE,TRUE,CHI: anymore (.) &~a and he wasn't +/.
+in,TRUE,TRUE,BR2: why don't you show her to get that .
+out,FALSE,FALSE,MOT: shh (.) Bro .
+out,FALSE,FALSE,CHI: a little callapillar [: caterpillar] (.) anymore .
+in,TRUE,FALSE,CHI: he (.) was a big (...) fan [?] ?
+out,FALSE,FALSE,MOT: fat .
+in,FALSE,TRUE,CHI: fat [!] caterpillar .
+out,FALSE,FALSE,MOT: mhm .
+out,FALSE,FALSE,CHI: (.) he@q +...
+out,FALSE,FALSE,MOT: ++ built@q .
+out,FALSE,FALSE,CHI: built a +...
+out,FALSE,FALSE,MOT: ++ small@q .
+out,FALSE,FALSE,CHI: small (.) home +/.
+out,FALSE,FALSE,MOT: ++ house@q .
+out,FALSE,FALSE,CHI: house +...
+out,FALSE,FALSE,MOT: ++ called@q .
+out,FALSE,FALSE,CHI: called a +...
+out,FALSE,FALSE,MOT: ++ cocoon@q +...
+out,FALSE,FALSE,CHI: cocoon +...
+out,FALSE,FALSE,MOT: ++ around@q .
+out,FALSE,FALSE,CHI: around +...
+out,FALSE,FALSE,MOT: (..) himself@q .
+out,FALSE,FALSE,CHI: himself (.) he +...
+out,FALSE,FALSE,MOT: (.) stayed@q .
+out,FALSE,FALSE,CHI: stayed (.) in +...
+out,FALSE,FALSE,MOT: (.) inside .
+out,FALSE,FALSE,CHI: inside of +...
+out,FALSE,FALSE,MOT: nope (.) inside@q +...
+out,FALSE,FALSE,CHI: +^ for@q +...
+out,FALSE,FALSE,MOT: (.) more@q .
+out,FALSE,FALSE,CHI: more +...
+out,FALSE,FALSE,MOT: (.) than@q .
+out,FALSE,FALSE,CHI: than two +...
+out,FALSE,FALSE,MOT: (.) weeks@q .
+out,FALSE,FALSE,CHI: weeks .
+out,FALSE,FALSE,MOT: (..) then@q .
+out,FALSE,FALSE,CHI: then he +...
+out,FALSE,FALSE,MOT: (.) nibbled@q .
+out,FALSE,FALSE,CHI: nibbled a +...
+out,FALSE,FALSE,MOT: ++ hole@q .
+out,FALSE,FALSE,CHI: hole (..) in (.) the cocoon +...
+out,FALSE,FALSE,MOT: ++ pushed@q .
+out,FALSE,FALSE,CHI: pushed (.) his +...
+out,FALSE,FALSE,MOT: ++ way@q .
+out,FALSE,FALSE,CHI: way +...
+out,FALSE,FALSE,MOT: ++ out@q .
+out,FALSE,FALSE,CHI: out (.) and [>] +...
+out,FALSE,FALSE,BRO: &=noises [<] .
+in,TRUE,FALSE,CHI: he was a +...
+out,FALSE,FALSE,MOT: (.) beautiful@q .
+in,FALSE,TRUE,CHI: beautiful butterfly !
+out,FALSE,FALSE,MOT: yup .
+out,FALSE,FALSE,INV1: alright (.) <good job> [>] .
+out,FALSE,FALSE,MOT: &=laughs [<] .

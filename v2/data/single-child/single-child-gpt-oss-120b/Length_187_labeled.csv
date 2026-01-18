@@ -1,0 +1,305 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,MOT: no I don't care how she [= dog] looks at you .
+out,FALSE,FALSE,MOT: you don't give her any food .
+out,FALSE,FALSE,MOT: (..) sorry Ginger !
+out,FALSE,FALSE,CHI: oh too bad Ginger xxx .
+out,FALSE,FALSE,CHI: come (h)ere Ginger !
+out,FALSE,FALSE,CHI: Ginger !
+out,FALSE,FALSE,CHI: +^ come (h)ere !
+out,FALSE,FALSE,CHI: +^ come on puppy .
+out,FALSE,FALSE,SIS: come here .
+out,FALSE,FALSE,MOT: hey you know what we'll give her though ?
+out,FALSE,FALSE,MOT: some of this (.) dark meat that I don't like .
+out,FALSE,FALSE,MOT: 0 [=! smacking lips] .
+out,FALSE,FALSE,MOT: here Ginge(r) .
+out,FALSE,FALSE,MOT: there you go puppy .
+out,FALSE,FALSE,SIS: &=laughs .
+out,FALSE,FALSE,CHI: she's not a puppy .
+out,FALSE,FALSE,CHI: +^ she's a dog !
+out,FALSE,FALSE,CHI: a lady !
+out,FALSE,FALSE,MOT: she's an <old lady> [>] .
+out,FALSE,FALSE,CHI: <unlike you> [<] .
+out,FALSE,FALSE,MOT: she's an <old [!] lady> [>] .
+out,FALSE,FALSE,SIS: <&-um you're [= Mot]> [<] an <old lady> [>] .
+out,FALSE,FALSE,MOT: oh &=gasps !
+out,FALSE,FALSE,MOT: Chi !
+out,FALSE,FALSE,CHI: what &=laughing ?
+out,FALSE,FALSE,MOT: listen .
+out,FALSE,FALSE,MOT: <you gotta watch it> [>] !
+out,FALSE,FALSE,CHI: &=laughs [<] .
+out,FALSE,FALSE,CHI: &=laughs .
+out,FALSE,FALSE,CHI: well Sis said you're an old <lady though> [>] .
+out,FALSE,FALSE,MOT: <alright so tell> [<] me about your trip to the moon today .
+out,FALSE,FALSE,MOT: +^ how was it ?
+out,FALSE,FALSE,CHI: good .
+out,FALSE,FALSE,SIS: wrong !
+out,FALSE,FALSE,MOT: what did you see ?
+in,TRUE,FALSE,CHI: I saw (.) in this crater ?
+out,FALSE,FALSE,MOT: yeah [>] .
+in,FALSE,FALSE,CHI: it [<] was comin(g) towards me .
+out,FALSE,FALSE,MOT: hm: ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,MOT: did you duck ?
+out,FALSE,FALSE,CHI: nope .
+out,FALSE,FALSE,MOT: it hit you ?
+out,FALSE,FALSE,CHI: yep .
+out,FALSE,FALSE,MOT: bummer .
+out,FALSE,FALSE,MOT: did it hurt ?
+in,FALSE,TRUE,CHI: no (.) I only got a bump .
+out,FALSE,FALSE,MOT: you only got a what ?
+in,TRUE,FALSE,CHI: bump [!] on my head !
+out,FALSE,FALSE,CHI: +^ who ate this ?
+out,FALSE,FALSE,MOT: a little bump on your head from a big crater ?
+out,FALSE,FALSE,MOT: wow .
+out,FALSE,FALSE,CHI: yes .
+in,FALSE,FALSE,CHI: a little bump on my head <from a big crater> [>] .
+out,FALSE,FALSE,MOT: <did you see the purple people> [<] ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,MOT: hm: [>] .
+in,FALSE,TRUE,CHI: but [<] I saw <a green &~peop> [//] orange people .
+out,FALSE,FALSE,MOT: you did ?
+in,TRUE,FALSE,CHI: I seen xxx [>] .
+out,FALSE,FALSE,MOT: the [<] orangites@wp ?
+out,FALSE,FALSE,CHI: mhm .
+in,FALSE,TRUE,CHI: no the purplites@wp .
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,SIS: can you &~po please pour more some water ?
+out,FALSE,FALSE,CHI: and xxx .
+out,FALSE,FALSE,CHI: I'm gonna be famous someday ?
+out,FALSE,FALSE,CHI: guess what I saw ?
+out,FALSE,FALSE,MOT: what ?
+in,TRUE,FALSE,CHI: the man on the moon .
+out,FALSE,FALSE,MOT: you did ?
+out,FALSE,FALSE,CHI: mhm .
+in,FALSE,FALSE,CHI: I <really saw him> [>] .
+out,FALSE,FALSE,MOT: <is he> [<] really made of green cheese ?
+out,FALSE,FALSE,CHI: yep .
+out,FALSE,FALSE,MOT: he is ?
+out,FALSE,FALSE,MOT: did you take a bite out_of him ?
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,MOT: you did .
+out,FALSE,FALSE,CHI: 0 [=! chomping sound effect] [>] .
+out,FALSE,FALSE,MOT: oh [<] I hate green cheese .
+out,FALSE,FALSE,MOT: I never woulda [: would have] .
+in,FALSE,FALSE,CHI: I have .
+in,FALSE,TRUE,CHI: I didn't though .
+out,FALSE,FALSE,SIS: ugh [>] !
+out,FALSE,FALSE,MOT: <well Ginge(r)> [<] I don't like the way you're looking at me .
+out,FALSE,FALSE,MOT: +^ get outta [: out_of] here .
+out,FALSE,FALSE,CHI: &=laughs .
+out,FALSE,FALSE,CHI: come here Ginger !
+out,FALSE,FALSE,CHI: &=laughs .
+out,FALSE,FALSE,MOT: (.) don't call the dog like that if you don't have food for her .
+out,FALSE,FALSE,MOT: +^ that's what she's expecting .
+out,FALSE,FALSE,CHI: &=laughs [>] .
+out,FALSE,FALSE,SIS: &=laughs [<] .
+out,FALSE,FALSE,MOT: are you [= Sis] givin(g) her your food ?
+out,FALSE,FALSE,SIS: no .
+out,FALSE,FALSE,MOT: hey Ginger .
+out,FALSE,FALSE,MOT: +^ come here .
+out,FALSE,FALSE,SIS: <oh no> [=! laughing] [>] .
+out,FALSE,FALSE,CHI: hey [<] .
+out,FALSE,FALSE,SIS: oh my xxx .
+out,FALSE,FALSE,SIS: (.) <she likes it> [>] .
+out,FALSE,FALSE,CHI: <oh can I have that> [<] ?
+out,FALSE,FALSE,SIS: could I have that ?
+out,FALSE,FALSE,MOT: nope .
+out,FALSE,FALSE,MOT: finish eating .
+out,FALSE,FALSE,SIS: &=cries .
+out,FALSE,FALSE,SIS: Mommy &=crying +/.
+in,TRUE,FALSE,MOT: I got more .
+in,FALSE,FALSE,MOT: there's plenty more that I can cook .
+in,FALSE,FALSE,MOT: if you [<] finish eatin(g) .
+out,FALSE,FALSE,SIS: right &=laughs [<] .
+out,FALSE,FALSE,CHI: I like that .
+in,FALSE,FALSE,MOT: <but you don't eat you don't get any> [>] .
+out,FALSE,FALSE,CHI: <&-um what's> [<] the xxx please .
+out,FALSE,FALSE,MOT: the what ?
+out,FALSE,FALSE,SIS: what're those veins ?
+out,FALSE,FALSE,CHI: duh nothin(g) .
+out,FALSE,FALSE,SIS: &=laughs .
+out,FALSE,FALSE,CHI: Mom .
+out,FALSE,FALSE,MOT: put +//.
+out,FALSE,FALSE,MOT: eat that the right way !
+out,FALSE,FALSE,SIS: <&=laughs > [>] .
+out,FALSE,FALSE,MOT: I'm [<] startin(g) to get a little bit mad .
+out,FALSE,FALSE,CHI: alright .
+out,FALSE,FALSE,CHI: Mama ?
+out,FALSE,FALSE,SIS: me ?
+out,FALSE,FALSE,CHI: can I give her [= Ginger the dog] this ?
+out,FALSE,FALSE,MOT: yeah .
+out,FALSE,FALSE,CHI: what [>] ?
+out,FALSE,FALSE,SIS: me [<] ?
+out,FALSE,FALSE,MOT: after she [= Ginger the dog] finishes she's lickin(g) my plate .
+out,FALSE,FALSE,CHI: (.) hey .
+in,FALSE,TRUE,MOT: Nana forgot the dog food .
+out,FALSE,FALSE,SIS: &=laughs .
+out,FALSE,FALSE,CHI: &=laughs [>] .
+in,TRUE,FALSE,MOT: she [= Nana] [<] didn't get it .
+in,FALSE,TRUE,MOT: I gave her [= Ginger the dog] all the (.) skin to the turkey but +...
+out,FALSE,FALSE,CHI: hey Ginge(r) .
+out,FALSE,FALSE,CHI: 0 [=! calls dog] .
+out,FALSE,FALSE,SIS: here Ginge(r) .
+out,FALSE,FALSE,CHI: right here .
+out,FALSE,FALSE,CHI: right here .
+out,FALSE,FALSE,CHI: right here .
+out,FALSE,FALSE,CHI: come on .
+out,FALSE,FALSE,CHI: +^ right here .
+out,FALSE,FALSE,CHI: &=frustrated .
+out,FALSE,FALSE,SIS: &=laughs .
+out,FALSE,FALSE,SIS: (.) &=laughs .
+out,FALSE,FALSE,MOT: (..) what's with you two ?
+in,TRUE,FALSE,CHI: she ate (th)em .
+out,FALSE,FALSE,MOT: course she did .
+in,FALSE,FALSE,MOT: +^ she'll eat anything .
+in,FALSE,TRUE,CHI: no I don't have any more food <for you> [>] .
+in,TRUE,FALSE,MOT: <oh whose> [<] dog is it that eats carrot sticks ?
+in,FALSE,TRUE,MOT: or remember when I went over to Joanne's house ?
+out,FALSE,FALSE,CHI: yeah [>] .
+out,FALSE,FALSE,SIS: mhm [<] .
+in,TRUE,FALSE,MOT: &-um they were havin(g) that party for Trevor ?
+in,FALSE,FALSE,MOT: +^ that luncheon ?
+out,FALSE,FALSE,CHI: uhhuh .
+in,FALSE,TRUE,MOT: her dog (.) eats carrot sticks .
+out,FALSE,FALSE,SIS: xxx .
+out,FALSE,FALSE,CHI: <&=chuckles > [>] .
+in,TRUE,FALSE,MOT: whole [<] carrots .
+in,FALSE,FALSE,MOT: you just give him the carrots and he just sat and he chomps them .
+out,FALSE,FALSE,SIS: &=laughs .
+out,FALSE,FALSE,CHI: the dog ?
+out,FALSE,FALSE,MOT: yeah .
+in,FALSE,TRUE,SIS: xxx well (.) <it must have been a> [>] dog rabbit .
+in,TRUE,FALSE,MOT: <she did (th)em two at a time> [<] .
+in,FALSE,FALSE,MOT: did (th)em two at a time .
+in,FALSE,TRUE,MOT: and this dog (.) chomps carrots .
+out,FALSE,FALSE,SIS: xxx <well xxx> [>] .
+in,TRUE,FALSE,MOT: <and then the> [<] other one +...
+out,FALSE,FALSE,CHI: more butter !
+in,FALSE,TRUE,MOT: and then every night at eight o@l clock exactly they get Hoodsies .
+in,TRUE,FALSE,MOT: the both of them !
+in,FALSE,TRUE,MOT: she lifts up the cover and gives them a dish of ice cream every single night .
+out,FALSE,FALSE,CHI: 0 [=! bursts out laughing] .
+out,FALSE,FALSE,SIS: &=laughs .
+in,TRUE,FALSE,MOT: and I told her (.) that she was so good to her dogs I'm sure she would make a fine mother for two little girls .
+in,FALSE,TRUE,MOT: and that I will send my girls over next week at eight o@l clock .
+out,FALSE,FALSE,SIS: will you ?
+out,FALSE,FALSE,MOT: &=chuckles .
+out,FALSE,FALSE,SIS: will you ?
+out,FALSE,FALSE,CHI: (wi)ll you please [>] ?
+out,FALSE,FALSE,SIS: who's [<] Joanne ?
+in,TRUE,FALSE,SIS: Joanne [>] +/.
+in,FALSE,TRUE,MOT: the [<] secretary at Prudential ?
+in,TRUE,FALSE,SIS: that old [>] +/.
+out,FALSE,FALSE,CHI: <<is that the lady> [//] [<] that guy> [//] that girl who's at Ray Donald's ?
+in,FALSE,TRUE,MOT: <didn't you see it> [//] no that's the secretary for Cross Mutual .
+out,FALSE,FALSE,MOT: no &-um +...
+out,FALSE,FALSE,CHI: (.) no the first [>] +/.
+in,TRUE,FALSE,MOT: <remember she's> [<] kinda [: kind of] heavy with glasses ?
+out,FALSE,FALSE,CHI: oh !
+in,FALSE,TRUE,MOT: we see her at Purity a lot ?
+out,FALSE,FALSE,CHI: (.) oh yeah .
+out,FALSE,FALSE,CHI: hey !
+out,FALSE,FALSE,SIS: <s(up)posed to go> [=! sound effect] out_of it +/.
+in,TRUE,FALSE,MOT: unfortunately I don't think she wants two little girls .
+out,FALSE,FALSE,CHI: why not ?
+out,FALSE,FALSE,CHI: what did she say that +...
+out,FALSE,FALSE,MOT: hm: .
+in,FALSE,TRUE,MOT: said she'd give you a Hoodsie and send you home .
+out,FALSE,FALSE,CHI: &=laughs .
+in,TRUE,FALSE,MOT: I told her forget it then .
+in,FALSE,TRUE,MOT: if you're gonna send (th)em home I'll just keep (th)em .
+in,TRUE,FALSE,MOT: Heather [>] +/.
+in,FALSE,TRUE,CHI: <no you> [//] no she never said that .
+in,TRUE,FALSE,CHI: <you never> [/] you never asked [!] her !
+in,FALSE,TRUE,CHI: you never told [!] her that [>] .
+out,FALSE,FALSE,MOT: <0 [=! sharp intake of breath]> [<] .
+out,FALSE,FALSE,CHI: you never did right ?
+out,FALSE,FALSE,MOT: don't put [//] <put your fingers around like that while I'm xxx> [>] .
+out,FALSE,FALSE,CHI: &=laughs [<][>] .
+out,FALSE,FALSE,SIS: &=laughs [<] .
+in,TRUE,FALSE,MOT: yeah I did .
+in,FALSE,TRUE,MOT: +^ I told her take my kids (.) please .
+out,FALSE,FALSE,SIS: &=laughs .
+in,TRUE,FALSE,CHI: yeah you never said it .
+in,FALSE,TRUE,MOT: I begged her .
+in,TRUE,FALSE,MOT: please !
+out,FALSE,FALSE,CHI: <did she> [/] did she say how many kids you have ?
+in,FALSE,TRUE,MOT: no she knows .
+out,FALSE,FALSE,CHI: she knows you have five kids ?
+in,TRUE,FALSE,MOT: of_course she knows .
+in,FALSE,FALSE,SIS: of_course she knows .
+out,FALSE,FALSE,SIS: +^ yeah right .
+out,FALSE,FALSE,SIS: yep [>] !
+in,FALSE,TRUE,MOT: don't [<] you remember (.) the secretary at Prudential ?
+out,FALSE,FALSE,CHI: no I don't know .
+out,FALSE,FALSE,SIS: &=laughs .
+in,TRUE,FALSE,MOT: whose desk was right at the front door when you walk in ?
+out,FALSE,FALSE,MOT: Heather do you remember her ?
+out,FALSE,FALSE,SIS: I do !
+in,FALSE,TRUE,MOT: right next_to John Terrell's desk ?
+in,TRUE,FALSE,CHI: <I know John> [//] I don't know John Terrell .
+out,FALSE,FALSE,CHI: is he the Donald_Duck guy ?
+out,FALSE,FALSE,CHI: who's the [>] Donald_Duck guy ?
+out,FALSE,FALSE,MOT: no [<] .
+in,FALSE,FALSE,SIS: his name is John .
+in,FALSE,FALSE,MOT: no his name's not John .
+in,FALSE,FALSE,CHI: <yes it is> [>] .
+out,FALSE,FALSE,MOT: <what's his name> [<] ?
+out,FALSE,FALSE,MOT: oh my god .
+in,FALSE,FALSE,MOT: I forget his name .
+out,FALSE,FALSE,MOT: how could I forget ?
+in,FALSE,FALSE,CHI: hey the guy next door does <Donald_Duck> [>] .
+in,FALSE,FALSE,MOT: <I worked with> [<] the guy for two years .
+out,FALSE,FALSE,MOT: what's his name .
+in,FALSE,FALSE,MOT: John Terrell +...
+in,FALSE,FALSE,MOT: John Cunningham +...
+out,FALSE,FALSE,MOT: &=gasps .
+in,FALSE,FALSE,MOT: +^ I forget his name .
+out,FALSE,FALSE,CHI: 0 [=! sharp intake of breath] .
+out,FALSE,FALSE,CHI: &-uh oh [>] !
+in,FALSE,TRUE,MOT: Michael .
+in,TRUE,FALSE,MOT: Michael McCannon .
+out,FALSE,FALSE,CHI: oh yeah .
+out,FALSE,FALSE,SIS: hm: [>] .
+out,FALSE,FALSE,CHI: I forgot [<] .
+in,FALSE,TRUE,CHI: no wonder why he drinks (.) soda cans .
+out,FALSE,FALSE,CHI: &=sighs .
+out,FALSE,FALSE,SIS: oh [>] +...
+out,FALSE,FALSE,CHI: <and &-uh> [<] +...
+out,FALSE,FALSE,SIS: &=laughs .
+in,TRUE,FALSE,CHI: (.) he's so odd .
+out,FALSE,FALSE,SIS: &=laughs .
+out,FALSE,FALSE,MOT: who ?
+out,FALSE,FALSE,MOT: +^ Michael ?
+out,FALSE,FALSE,CHI: mhm .
+out,FALSE,FALSE,MOT: no [>] .
+out,FALSE,FALSE,SIS: who [<] Michael ?
+in,FALSE,TRUE,MOT: he's a cutie .
+out,FALSE,FALSE,SIS: him [>] ?
+out,FALSE,FALSE,CHI: ugh [=! expression of disgust] !
+out,FALSE,FALSE,SIS: ugh [=! expression of disgust] !
+out,FALSE,FALSE,CHI: &=laughs .
+in,TRUE,FALSE,CHI: I'm gonna tell him you marry him .
+in,FALSE,FALSE,CHI: you married him .
+out,FALSE,FALSE,MOT: alright .
+out,FALSE,FALSE,MOT: tell Daddy first .
+out,FALSE,FALSE,SIS: 0 [=! expression of disgust] .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,SIS: Daddy !
+out,FALSE,FALSE,SIS: (.) never mind !
+out,FALSE,FALSE,MOT: you know Daddy went to the store <for me> [>] .
+out,FALSE,FALSE,SIS: oh &=laughs [<] .
+out,FALSE,FALSE,CHI: excuse me I hafta burp .
+out,FALSE,FALSE,MOT: don't push yourself too far .
+out,FALSE,FALSE,CHI: I just burped .
+out,FALSE,FALSE,MOT: are you [>] &-um all done ?
+out,FALSE,FALSE,SIS: hey [<] !
+out,FALSE,FALSE,MOT: (be)cause I gotta hop in the shower .
+out,FALSE,FALSE,CHI: whoa !
+out,FALSE,FALSE,MOT: two minutes [>] .
+out,FALSE,FALSE,CHI: yeah [<] .
+out,FALSE,FALSE,SIS: I'm [<] almost done .
+out,FALSE,FALSE,CHI: (ex)cept for my two rolls .
+out,FALSE,FALSE,CHI: that's it .
+out,FALSE,FALSE,MOT: alright .
+out,FALSE,FALSE,MOT: eat them and I'll cut you a piece of apple pie [>] .

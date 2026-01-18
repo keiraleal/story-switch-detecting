@@ -1,0 +1,254 @@
+in/out/ambiguous,start,end,Transcript
+in,TRUE,FALSE,JAR: I have a little checkered flag in the back .
+out,FALSE,FALSE,CHI: ah .
+out,FALSE,FALSE,CHI: beep_beep_beep_beep@o roar@o .
+out,FALSE,FALSE,CHI: crash@o .
+in,FALSE,TRUE,"CHI: +"" xxx help me get in ."
+in,TRUE,FALSE,JAR: I got the most gadgets .
+out,FALSE,FALSE,CHI: come on Jar .
+in,FALSE,TRUE,JAR: I only need one man .
+out,FALSE,FALSE,CHI: okay (.) now (.) all these guys +...
+in,TRUE,FALSE,JAR: I hafta jump in the back .
+in,FALSE,TRUE,"JAR: get all the gadgets , ya silly I'm not <carrying them all> [>] ."
+out,FALSE,FALSE,CHI: hey [<] !
+out,FALSE,FALSE,CHI: <that's mine> [<] .
+out,FALSE,FALSE,JAR: eeow@o eeow@o eeow@o .
+out,FALSE,FALSE,JAR: ssh@o .
+out,FALSE,FALSE,CHI: breaker it up break it up .
+in,TRUE,FALSE,JAR: we hafta get the xxx .
+in,FALSE,FALSE,"CHI: +"" hurry (.) get all of those gadgets in ."
+in,FALSE,FALSE,"JAR: +"" it's going to explode run !"
+out,FALSE,FALSE,"CHI: +"" come on ."
+out,FALSE,FALSE,JAR: erk@o .
+out,FALSE,FALSE,"CHI: +"" oh (.) look at that !"
+out,FALSE,FALSE,JAR: xxx .
+out,FALSE,FALSE,CHI: oh no .
+in,FALSE,TRUE,"JAR: +"" Mr Possel is after us +/."
+in,TRUE,FALSE,"CHI: +"" we hafta get up there before it explodes !"
+out,FALSE,FALSE,CHI: do_do_do_do_do_do_do@o .
+in,FALSE,TRUE,"JAR: +"" we hafta get all of the cookie cutters ."
+out,FALSE,FALSE,CHI: &=laughs .
+out,FALSE,FALSE,"JAR: we hafta get +""/."
+out,FALSE,FALSE,"JAR: +"" <all the gadgets> [>] ."
+out,FALSE,FALSE,CHI: <do_do_do_do@o> [<] .
+out,FALSE,FALSE,CHI: come on .
+out,FALSE,FALSE,JAR: xxx .
+out,FALSE,FALSE,CHI: xxx .
+in,TRUE,FALSE,JAR: xxx (.) it's going to explode !
+out,FALSE,FALSE,JAR: pow@o ssh@o !
+in,FALSE,TRUE,JAR: &-uh oh you exploded (.) I don't care about the cookie cutters I'm driving away .
+out,FALSE,FALSE,JAR: rrr@o .
+out,FALSE,FALSE,CHI: eeow@o crash@o !
+out,FALSE,FALSE,JAR: you guys +...
+out,FALSE,FALSE,CHI: oh come on .
+out,FALSE,FALSE,CHI: (.) xxx [>] .
+out,FALSE,FALSE,JAR: xxx [<] .
+in,TRUE,FALSE,CHI: come on we hafta drive away !
+out,FALSE,FALSE,CHI: (.) see you guys .
+in,FALSE,TRUE,JAR: I have two men .
+out,FALSE,FALSE,"CHI: +"" help !"
+out,FALSE,FALSE,"CHI: +"" yikes !"
+in,TRUE,FALSE,JAR: <I can't> [/] I can't move any of these .
+in,FALSE,TRUE,JAR: (.) wait (.) this guy can fit in the back .
+out,FALSE,FALSE,CHI: no it's mine .
+out,FALSE,FALSE,CHI: do_do_do_do_do@o .
+in,TRUE,FALSE,CHI: don't worry I'll bring you up .
+out,FALSE,FALSE,"CHI: +"" okay ."
+out,FALSE,FALSE,CHI: do_do_do_do_do@o .
+out,FALSE,FALSE,CHI: pow@o !
+out,FALSE,FALSE,CHI: yikes !
+in,FALSE,TRUE,JAR: have all the gadgets (.) except [>] for this [= tool box] !
+out,FALSE,FALSE,CHI: <can I have this> [<] ?
+out,FALSE,FALSE,CHI: yikes !
+in,TRUE,FALSE,CHI: help look at all this stuff !
+out,FALSE,FALSE,CHI: come on xxx .
+in,FALSE,FALSE,CHI: (.) look at how much stuff I have .
+out,FALSE,FALSE,CHI: mmmm@o .
+out,FALSE,FALSE,JAR: I have lots .
+in,FALSE,FALSE,CHI: I have more than you .
+out,FALSE,FALSE,CHI: vroom@o .
+in,FALSE,TRUE,JAR: &-uh oh the pepperoni pizza's blowing up .
+in,TRUE,FALSE,CHI: ah (.) come on everybody get out (.) hurry we need some road blocks .
+out,FALSE,FALSE,JAR: look out !
+in,FALSE,FALSE,CHI: hurry get all the road blocks out .
+out,FALSE,FALSE,CHI: hurry get that .
+out,FALSE,FALSE,JAR: xxx .
+in,FALSE,FALSE,CHI: hurry (.) get out all the men (.) it looks like stop !
+out,FALSE,FALSE,JAR: come on .
+in,FALSE,FALSE,JAR: (.) don't stop now .
+out,FALSE,FALSE,CHI: thank goodness .
+out,FALSE,FALSE,CHI: come on .
+in,FALSE,FALSE,CHI: (.) thank goodness come on (.) everybody back in .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,CHI: (.) oh thanks .
+in,FALSE,TRUE,JAR: you should have the girl .
+out,FALSE,FALSE,CHI: &=laughs .
+out,FALSE,FALSE,CHI: let's help .
+out,FALSE,FALSE,"JAR: +"" help ."
+out,FALSE,FALSE,CHI: xxx .
+in,TRUE,FALSE,JAR: let's get this guy .
+in,FALSE,FALSE,CHI: no this is my guy .
+in,FALSE,FALSE,JAR: that was my guy .
+in,FALSE,FALSE,JAR: (.) I'll give you these for him .
+out,FALSE,FALSE,CHI: xxx give it .
+out,FALSE,FALSE,JAR: okay .
+out,FALSE,FALSE,CHI: here .
+in,FALSE,FALSE,JAR: no it's special .
+in,FALSE,TRUE,CHI: no the truck for it .
+out,FALSE,FALSE,JAR: no .
+out,FALSE,FALSE,CHI: the truck +...
+in,TRUE,FALSE,JAR: everything's exploding !
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,JAR: xxx .
+in,FALSE,TRUE,CHI: come on hurry hook up (.) you hook up to me .
+out,FALSE,FALSE,JAR: oh you got +...
+out,FALSE,FALSE,JAR: hey !
+in,TRUE,FALSE,JAR: I don't got a hook up .
+out,FALSE,FALSE,CHI: &=laughs .
+in,FALSE,TRUE,CHI: oh oh (.) we'll hafta crash through it .
+out,FALSE,FALSE,CHI: (.) crash@o .
+out,FALSE,FALSE,JAR: ee_er@o ee_er@o ee_er@o .
+out,FALSE,FALSE,CHI: look at this [= play+house] (.) neat [?] .
+out,FALSE,FALSE,JAR: ee_er@o ee_er@o e_er@o .
+out,FALSE,FALSE,CHI: give it up .
+in,TRUE,FALSE,CHI: (.) wait I'll give you this for that .
+out,FALSE,FALSE,JAR: no .
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,TRUE,JAR: it's all the gadgets .
+out,FALSE,FALSE,CHI: no this one for that one (o)kay ?
+out,FALSE,FALSE,JAR: no .
+out,FALSE,FALSE,JAR: (.) this for that .
+in,TRUE,FALSE,CHI: here (.) I'll give you this truck and that truck (.) for the gadgets and the truck .
+out,FALSE,FALSE,JAR: no !
+out,FALSE,FALSE,CHI: do_do_do_do_do@o .
+out,FALSE,FALSE,JAR: look out !
+in,FALSE,TRUE,JAR: get out_of the pylons .
+out,FALSE,FALSE,CHI: come on .
+out,FALSE,FALSE,CHI: (.) take xxx .
+in,TRUE,FALSE,CHI: (.) this truck takes the people you truck your truck takes the equipment .
+out,FALSE,FALSE,JAR: equipment ?
+in,FALSE,FALSE,JAR: someone hasta drive this .
+in,FALSE,FALSE,CHI: I know there's only one person in the world to drive that .
+out,FALSE,FALSE,JAR: ee_er@o ee_er@o ee_er@o .
+out,FALSE,FALSE,CHI: and some +...
+out,FALSE,FALSE,CHI: pow@o crash@o .
+out,FALSE,FALSE,CHI: hey hurry xxx !
+in,FALSE,FALSE,JAR: he gots@n some equipment .
+out,FALSE,FALSE,JAR: rrr@o .
+out,FALSE,FALSE,CHI: vroom@o .
+out,FALSE,FALSE,CHI: beep_beep@o .
+out,FALSE,FALSE,CHI: put_put_put@o .
+in,FALSE,TRUE,JAR: look out it's a hot spot &~a:h !
+in,TRUE,FALSE,JAR: all the goo's jumping down .
+out,FALSE,FALSE,"CHI: +"" &~a:h !"
+in,FALSE,TRUE,CHI: come on let's get out_of here !
+out,FALSE,FALSE,JAR: xxx .
+out,FALSE,FALSE,CHI: xxx .
+in,TRUE,FALSE,JAR: <he gets> [//] he's a marshmallow .
+in,FALSE,TRUE,JAR: (.) marshmallows [>] look out for all the marshmallows .
+in,TRUE,FALSE,"JAR: (.) <they're , jumping everywhere> [>] !"
+in,FALSE,TRUE,JAR: (.) <all the marshmallow pizza> [/] all the marshmallow pizza .
+out,FALSE,FALSE,CHI: &~a:h [<] !
+out,FALSE,FALSE,CHI: &~a:h [<] !
+out,FALSE,FALSE,CHI: do_do_do_do_do@o .
+in,TRUE,FALSE,JAR: I only takes the gadgets .
+out,FALSE,FALSE,CHI: pardon ?
+in,FALSE,FALSE,JAR: I only take the gadgets .
+in,FALSE,TRUE,JAR: (.) everybody hasta get the marshmallows .
+out,FALSE,FALSE,JAR: does this go up ?
+out,FALSE,FALSE,CHI: put_put@o .
+out,FALSE,FALSE,CHI: 0 [=! yells] .
+in,TRUE,FALSE,CHI: don't worry I'll take that .
+out,FALSE,FALSE,CHI: (.) do_do_do_dodo@o .
+out,FALSE,FALSE,CHI: vroom@o !
+in,FALSE,TRUE,JAR: this is the thing you're supposed <to move back with> [>] .
+in,TRUE,FALSE,CHI: <I'll mix it> [<] .
+out,FALSE,FALSE,JAR: xxx .
+in,FALSE,FALSE,CHI: I'll mix up (.) for some cement .
+in,FALSE,TRUE,JAR: how does this guy sit in the seat ?
+in,TRUE,FALSE,JAR: (.) he willn't be a good boy .
+in,FALSE,TRUE,CHI: look at him mixing some cement .
+in,TRUE,FALSE,JAR: here's a whole pile .
+out,FALSE,FALSE,CHI: no way .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,"CHI: +"" yikes !"
+out,FALSE,FALSE,"CHI: +"" help !"
+out,FALSE,FALSE,"CHI: +"" help !"
+out,FALSE,FALSE,JAR: xxx .
+in,FALSE,TRUE,CHI: hurry everyone get to my truck !
+in,TRUE,FALSE,JAR: no no one get to my truck !
+in,FALSE,TRUE,JAR: I don't get a man now .
+in,TRUE,FALSE,JAR: come on I [/] I don't want the lady (.) you have her .
+in,FALSE,TRUE,CHI: I have this stuff .
+out,FALSE,FALSE,CHI: (.) no give it .
+out,FALSE,FALSE,JAR: &=laughs .
+in,TRUE,FALSE,CHI: I need a driver for this guy .
+out,FALSE,FALSE,JAR: xxx .
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,TRUE,JAR: there is no more gadgets .
+out,FALSE,FALSE,CHI: look at this .
+in,TRUE,FALSE,JAR: I only have two seats .
+out,FALSE,FALSE,CHI: look at this .
+out,FALSE,FALSE,CHI: (.) xxx .
+in,FALSE,TRUE,JAR: I can do that (.) I just hafta (.) take up my thing .
+in,TRUE,FALSE,JAR: (.) I can't do that .
+out,FALSE,FALSE,JAR: (.) I can +...
+out,FALSE,FALSE,JAR: how do you do that ?
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,FALSE,CHI: (.) don't worry I'll take you somewhere else .
+out,FALSE,FALSE,JAR: xxx .
+in,FALSE,TRUE,JAR: let's dump off all the gadgets .
+in,TRUE,FALSE,CHI: don't worry I'll follow you somewhere safe .
+out,FALSE,FALSE,CHI: (.) xxx .
+in,FALSE,FALSE,CHI: (.) thanks a lot this is really great .
+out,FALSE,FALSE,CHI: (.) oo great !
+in,FALSE,TRUE,CHI: I'm getting him covered in glue (.) goo .
+out,FALSE,FALSE,JAR: goo glue xxx .
+in,TRUE,FALSE,CHI: I don't know which one's goo or glue .
+out,FALSE,FALSE,JAR: xxx .
+out,FALSE,FALSE,CHI: don't say it don't say it .
+out,FALSE,FALSE,JAR: I know .
+out,FALSE,FALSE,JAR: don't !
+out,FALSE,FALSE,CHI: I wanna see it (.) I wanna see it .
+in,FALSE,TRUE,JAR: that's the gadgets .
+in,TRUE,FALSE,CHI: I wanna see it .
+in,FALSE,FALSE,JAR: that's the gadgets .
+out,FALSE,FALSE,CHI: do_do_do_do_do@o .
+in,FALSE,FALSE,JAR: I have a saw I have +...
+out,FALSE,FALSE,CHI: look at this .
+out,FALSE,FALSE,JAR: look at this .
+out,FALSE,FALSE,CHI: can I +...
+in,FALSE,FALSE,CHI: come on (.) please can I have a turn ?
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,FALSE,JAR: it's a special gadget .
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,FALSE,JAR: they're only for special gadgets .
+in,FALSE,TRUE,CHI: watch the truck .
+in,TRUE,FALSE,JAR: get the spray painter .
+in,FALSE,TRUE,JAR: (.) look out everybody jump into my truck !
+in,TRUE,FALSE,CHI: hurry we need some oil .
+in,FALSE,FALSE,CHI: (.) get the oil out .
+out,FALSE,FALSE,CHI: hurry !
+out,FALSE,FALSE,JAR: xxx .
+out,FALSE,FALSE,CHI: xxx .
+in,FALSE,FALSE,JAR: we need some oil .
+in,FALSE,FALSE,JAR: (.) you're going to blow up if you have it .
+in,FALSE,TRUE,JAR: (.) pour it on yourself .
+out,FALSE,FALSE,CHI: oh I know .
+out,FALSE,FALSE,CHI: wait .
+out,FALSE,FALSE,JAR: xxx .
+in,TRUE,FALSE,CHI: I have a little xxx .
+out,FALSE,FALSE,JAR: xxx .
+in,FALSE,TRUE,JAR: (.) how do you go like this ?
+out,FALSE,FALSE,CHI: &=laughs .
+in,TRUE,FALSE,CHI: I'll trade you some trucks .
+out,FALSE,FALSE,JAR: no .
+in,FALSE,FALSE,CHI: but you hafta give me the equipment .
+in,FALSE,FALSE,CHI: I'll trade you these two trucks for the equipment .
+out,FALSE,FALSE,JAR: that's for the +...
+in,FALSE,TRUE,JAR: you got flags (.) you can put flags in .
+in,TRUE,FALSE,CHI: yes I can see .
+in,FALSE,FALSE,CHI: I'll even show you .
+out,FALSE,FALSE,CHI: (.) where's the flag ?
+out,FALSE,FALSE,CHI: where's the flag ?
+in,FALSE,FALSE,CHI: (.) see I'll show you .

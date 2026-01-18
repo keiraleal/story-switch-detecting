@@ -1,0 +1,305 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV: have you ever been to a farm ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what's it like ?
+out,FALSE,FALSE,CHI: it's nice .
+out,FALSE,FALSE,INV: what did you see there ?
+out,FALSE,FALSE,CHI: ducks .
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,CHI: pigs horses and cows and sheep .
+out,FALSE,FALSE,INV: what's he doing that horse ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,INV: where shall I put him ?
+out,FALSE,FALSE,CHI: near here .
+out,FALSE,FALSE,INV: wonder what's in those sacks .
+out,FALSE,FALSE,CHI: flour for &~g windmill .
+out,FALSE,FALSE,INV: for the windmill ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: shall we put the windmill on then ?
+out,FALSE,FALSE,INV: what else ?
+out,FALSE,FALSE,CHI: there [=? there's] some more bottles .
+out,FALSE,FALSE,INV: let's have those .
+out,FALSE,FALSE,INV: shall we put one of those houses on ?
+out,FALSE,FALSE,CHI: this .
+out,FALSE,FALSE,INV: that might be a barn .
+out,FALSE,FALSE,INV: who took you to the farm then ?
+out,FALSE,FALSE,CHI: &-um
+out,FALSE,FALSE,INV: with all your friends ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: great .
+out,FALSE,FALSE,CHI: bottles .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: there are some more .
+out,FALSE,FALSE,CHI: xxx .
+in,TRUE,FALSE,INV: I've probably lost the little one .
+out,FALSE,FALSE,CHI: is that sticky ?
+in,FALSE,FALSE,INV: there it is .
+out,FALSE,FALSE,INV: or is that the one you had before ?
+out,FALSE,FALSE,CHI: no
+out,FALSE,FALSE,CHI: two .
+in,FALSE,TRUE,INV: you've found it .
+out,FALSE,FALSE,CHI: there's another .
+out,FALSE,FALSE,INV: what_about the tractor ?
+out,FALSE,FALSE,CHI: &-um .
+out,FALSE,FALSE,INV: I'd love to go on a real tractor .
+out,FALSE,FALSE,CHI: we did .
+out,FALSE,FALSE,INV: did you ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: when ?
+out,FALSE,FALSE,CHI: <when we went> [?] .
+out,FALSE,FALSE,INV: what's it like ?
+out,FALSE,FALSE,INV: does it make a noise ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: down here .
+out,FALSE,FALSE,INV: what_about finding someone to drive it ?
+out,FALSE,FALSE,CHI: &-um him .
+out,FALSE,FALSE,INV: I wonder where he's gonna drive it to ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: what ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,INV: what are these ?
+out,FALSE,FALSE,CHI: logs .
+out,FALSE,FALSE,INV: do you think ?
+out,FALSE,FALSE,CHI: I know what that's for .
+out,FALSE,FALSE,INV: what's it for ?
+out,FALSE,FALSE,CHI: to milk &~g cow .
+out,FALSE,FALSE,INV: let's put them on then .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: wherever you think .
+out,FALSE,FALSE,CHI: xxx here .
+out,FALSE,FALSE,INV: did you see someone milking a cow ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: coming off .
+out,FALSE,FALSE,CHI: what's this ?
+out,FALSE,FALSE,INV: let's see .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: what is it ?
+out,FALSE,FALSE,CHI: for &~g ducks .
+out,FALSE,FALSE,INV: to keep them dry .
+out,FALSE,FALSE,INV: what have you been doing this morning ?
+out,FALSE,FALSE,CHI: writing .
+out,FALSE,FALSE,INV: are you good at that ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what did you write ?
+out,FALSE,FALSE,CHI: &-um about +...
+out,FALSE,FALSE,INV: a story .
+in,TRUE,FALSE,CHI: xxx it was about .
+out,FALSE,FALSE,INV: it was only this morning .
+in,FALSE,FALSE,CHI: &-um about &~g play .
+in,FALSE,FALSE,CHI: we had a play (.) in &~g road .
+out,FALSE,FALSE,INV: when ?
+in,FALSE,TRUE,CHI: on friday morning .
+out,FALSE,FALSE,INV: when that man came round ?
+out,FALSE,FALSE,INV: did you watch that ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what was it like ?
+in,TRUE,FALSE,CHI: there was Dark Vader and Superman .
+in,FALSE,FALSE,INV: they actually came to the school .
+out,FALSE,FALSE,CHI: no
+out,FALSE,FALSE,INV: what did they do ?
+in,FALSE,FALSE,CHI: &-um Dark Vader put a spell onto people .
+in,FALSE,FALSE,INV: people in the school .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what happened to them .
+out,FALSE,FALSE,INV: did they die ?
+out,FALSE,FALSE,CHI: no
+out,FALSE,FALSE,INV: who else was there in the play ?
+in,FALSE,FALSE,CHI: there was a man call [=? called] Mickey .
+ambiguous,FALSE,FALSE,CHI: xxx dusty bin .
+in,FALSE,TRUE,INV: he lived in that .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what for ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,INV: was it funny ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: where's Miss Johnson gone ?
+out,FALSE,FALSE,INV: she's going to come back at about half past two .
+out,FALSE,FALSE,CHI: where shall we put this pig ?
+out,FALSE,FALSE,INV: put it there .
+out,FALSE,FALSE,CHI: I know <could how we co> [//] we're gonna put this .
+out,FALSE,FALSE,INV: what is it ?
+out,FALSE,FALSE,CHI: a tree .
+out,FALSE,FALSE,INV: did you have a tree like that at christmas ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what did you have on it ?
+out,FALSE,FALSE,CHI: bobbles and lights .
+out,FALSE,FALSE,INV: did you get a good christmas present ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what did you get ?
+out,FALSE,FALSE,CHI: &-um &-um &-um a guess who game .
+out,FALSE,FALSE,INV: is that difficult ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,CHI: another bottle .
+out,FALSE,FALSE,INV: what is it ?
+out,FALSE,FALSE,CHI: to put xxx outside .
+out,FALSE,FALSE,INV: what is it though ?
+out,FALSE,FALSE,CHI: a wall made of [?] bricks .
+out,FALSE,FALSE,INV: what_about that cart ?
+out,FALSE,FALSE,CHI: this .
+out,FALSE,FALSE,INV: yeah .
+in,TRUE,FALSE,CHI: and the horse goes with it .
+in,FALSE,TRUE,INV: it's pulling it .
+out,FALSE,FALSE,INV: yeah [>] .
+out,FALSE,FALSE,CHI: xxx [<] this .
+out,FALSE,FALSE,INV: what's that ?
+out,FALSE,FALSE,CHI: hay .
+out,FALSE,FALSE,INV: press it on .
+out,FALSE,FALSE,CHI: got any cows .
+out,FALSE,FALSE,INV: can't see them now .
+out,FALSE,FALSE,CHI: one .
+out,FALSE,FALSE,INV: might be a bull .
+out,FALSE,FALSE,CHI: there's a drinking tap .
+out,FALSE,FALSE,INV: yeah .
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: you won't have room to put that house on .
+out,FALSE,FALSE,CHI: this .
+out,FALSE,FALSE,INV: uhhuh .
+out,FALSE,FALSE,CHI: it might +...
+out,FALSE,FALSE,INV: right .
+out,FALSE,FALSE,CHI: and xxx .
+out,FALSE,FALSE,INV: what's she doing ?
+out,FALSE,FALSE,CHI: 0 .
+out,FALSE,FALSE,INV: wonder what she's doing ?
+out,FALSE,FALSE,CHI: she might be carrying (..) saw to +...
+out,FALSE,FALSE,INV: she can chop the wood .
+out,FALSE,FALSE,CHI: move this one .
+out,FALSE,FALSE,CHI: might be making fence .
+out,FALSE,FALSE,INV: that's good .
+out,FALSE,FALSE,INV: that's a good fence .
+out,FALSE,FALSE,CHI: mister .
+out,FALSE,FALSE,INV: does he fit ?
+out,FALSE,FALSE,INV: like that .
+out,FALSE,FALSE,CHI: looks like a little girl .
+out,FALSE,FALSE,INV: yeah it does .
+out,FALSE,FALSE,INV: what's that thing ?
+out,FALSE,FALSE,CHI: I don't know .
+out,FALSE,FALSE,CHI: don't know .
+out,FALSE,FALSE,CHI: what's this ?
+out,FALSE,FALSE,INV: a little hut .
+out,FALSE,FALSE,CHI: hut for +...
+out,FALSE,FALSE,INV: three more bits .
+out,FALSE,FALSE,CHI: where's that bucket ?
+out,FALSE,FALSE,INV: here .
+out,FALSE,FALSE,INV: what's that for ?
+out,FALSE,FALSE,CHI: to brush cow .
+out,FALSE,FALSE,INV: what are they doing in the hall ?
+out,FALSE,FALSE,CHI: they're doing music .
+out,FALSE,FALSE,INV: do you music as_well ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: he's got a mummie horse .
+out,FALSE,FALSE,INV: I don't know where .
+out,FALSE,FALSE,CHI: it might be +...
+out,FALSE,FALSE,INV: shall we do a better game ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: what's this big board for ?
+out,FALSE,FALSE,INV: 0 .
+in,TRUE,FALSE,INV: this is the lady sweeping the floor .
+in,FALSE,FALSE,INV: this lady's holding a baby .
+in,FALSE,FALSE,INV: this is the lady with the green coat on .
+out,FALSE,FALSE,INV: which one do you want first ?
+in,FALSE,FALSE,CHI: one with &~g baby .
+out,FALSE,FALSE,INV: who next ?
+in,FALSE,FALSE,CHI: lady with &~g green coat on .
+out,FALSE,FALSE,INV: and ?
+in,FALSE,TRUE,CHI: the lady sweeping the floor .
+in,TRUE,FALSE,INV: this man is carrying some milk bottles .
+in,FALSE,FALSE,INV: this man's got a blue bag over his shoulder .
+in,FALSE,FALSE,INV: this is the man who's kneeling .
+in,FALSE,FALSE,INV: this man has got a brown suit on .
+out,FALSE,FALSE,INV: who shall we have first ?
+out,FALSE,FALSE,CHI: where're we putting these ?
+out,FALSE,FALSE,INV: keep them there .
+in,FALSE,FALSE,CHI: I want the man with the milk .
+out,FALSE,FALSE,INV: who shall we have next ?
+in,FALSE,FALSE,CHI: the man with &~g brown suit on .
+in,FALSE,FALSE,CHI: he's coimg [: going] out to get &~g milk .
+out,FALSE,FALSE,INV: who else ?
+in,FALSE,FALSE,CHI: postman .
+in,FALSE,FALSE,CHI: the man kneeling down .
+in,FALSE,FALSE,INV: this girl's putting a dolly in her pram .
+in,FALSE,FALSE,INV: this is the girl that's running .
+in,FALSE,FALSE,INV: this girl's kneeling on the floor .
+out,FALSE,FALSE,INV: who shall we have first ?
+out,FALSE,FALSE,INV: where have the people gone ?
+out,FALSE,FALSE,CHI: must have put them back in t(he) box .
+in,FALSE,FALSE,CHI: the one what's running .
+out,FALSE,FALSE,INV: who next ?
+in,FALSE,FALSE,CHI: the girl kneeling down .
+in,FALSE,FALSE,CHI: and the girl putting &~g dolly in t(he) pram .
+out,FALSE,FALSE,CHI: we've nearly filled that board up .
+in,FALSE,FALSE,INV: that's the ball that the boy is kicking .
+in,FALSE,FALSE,INV: these are the two balls that the girl's holding .
+in,FALSE,FALSE,INV: this ball's got red spots on .
+out,FALSE,FALSE,INV: which one first ?
+in,FALSE,FALSE,CHI: football .
+out,FALSE,FALSE,INV: what else have I got ?
+in,FALSE,FALSE,CHI: boy playing football .
+in,FALSE,FALSE,CHI: the [/] the girl holding two balls .
+out,FALSE,FALSE,INV: what's she doing ?
+in,FALSE,TRUE,CHI: juggling .
+out,FALSE,FALSE,INV: can you juggle ?
+out,FALSE,FALSE,CHI: no .
+in,TRUE,FALSE,INV: I can't .
+in,FALSE,FALSE,INV: always drop the balls .
+in,FALSE,FALSE,CHI: I do .
+in,FALSE,TRUE,CHI: I catch one and drop one .
+in,TRUE,FALSE,INV: this is the car that the boy's pulling .
+in,FALSE,FALSE,INV: this is the blue car .
+in,FALSE,FALSE,INV: this car's got green wheels .
+in,FALSE,FALSE,CHI: go-cart .
+out,FALSE,FALSE,INV: yes
+out,FALSE,FALSE,INV: can you remember those ?
+in,FALSE,TRUE,CHI: the go-cart .
+out,FALSE,FALSE,INV: have you got a go-cart ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: have you got a bike ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: what kind ?
+out,FALSE,FALSE,CHI: &-um a chopper .
+out,FALSE,FALSE,INV: I bet you fall off sometimes .
+out,FALSE,FALSE,CHI: yeah
+out,FALSE,FALSE,INV: getting on .
+out,FALSE,FALSE,CHI: on t(he) seat .
+out,FALSE,FALSE,CHI: it's got a flat tyre now .
+out,FALSE,FALSE,CHI: blue car .
+out,FALSE,FALSE,INV: yeah .
+out,FALSE,FALSE,CHI: the go +...
+out,FALSE,FALSE,INV: what was it again ?
+out,FALSE,FALSE,CHI: <the the car what the &~b> [//] boy who [?] pulling the car .
+out,FALSE,FALSE,INV: what kind of car is it ?
+out,FALSE,FALSE,CHI: a racing car .
+in,TRUE,FALSE,INV: this is a brown cat that's standing .
+in,FALSE,FALSE,INV: this grey cat's lying down .
+out,FALSE,FALSE,INV: which one do you want ?
+in,FALSE,FALSE,CHI: <the grey &~c the brown> [//] the grey cat .
+out,FALSE,FALSE,INV: and ?
+in,FALSE,FALSE,CHI: a brown cat .
+in,FALSE,FALSE,INV: this is the dog that's jumping up .
+in,FALSE,FALSE,INV: this dog is lying down .
+in,FALSE,FALSE,CHI: the dog what's jumping up .
+in,FALSE,TRUE,CHI: grey dog .
+out,FALSE,FALSE,INV: do you like dogs ?
+out,FALSE,FALSE,CHI: my sister does .
+out,FALSE,FALSE,CHI: I don't .
+out,FALSE,FALSE,INV: why not ?
+out,FALSE,FALSE,CHI: I don't .
+out,FALSE,FALSE,CHI: they bark .
+out,FALSE,FALSE,INV: you're not scared of them .
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: 0 .
+out,FALSE,FALSE,CHI: this one then that one .
+out,FALSE,FALSE,INV: then what ?
+out,FALSE,FALSE,CHI: this .
+out,FALSE,FALSE,CHI: then +...
+out,FALSE,FALSE,CHI: this .
+out,FALSE,FALSE,CHI: no
+out,FALSE,FALSE,CHI: then this one .
+out,FALSE,FALSE,INV: so what happens in that story ?
+in,TRUE,FALSE,CHI: gots [: got] [* +es] knock down .
+out,FALSE,FALSE,INV: what was he doing ?
+in,FALSE,TRUE,CHI: he was running across road with &~g ball .
+out,FALSE,FALSE,INV: you've never been knocked down √¢‚Ç¨≈æ have you .
+out,FALSE,FALSE,CHI: no .
+in,TRUE,FALSE,CHI: I've been to &~g hospital for my arm .
+out,FALSE,FALSE,INV: what happened to your arm ?
+in,FALSE,TRUE,CHI: I got it burnt up here .

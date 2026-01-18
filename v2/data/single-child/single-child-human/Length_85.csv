@@ -1,0 +1,224 @@
+in/out/ambiguous,start,end,Transcript
+in,TRUE,FALSE,INV: I was here before and I had a sore throat so I was drinking Kool_Aid you_know .
+in,FALSE,FALSE,INV: you_know that kind_of makes your throat feel better ?
+out,FALSE,FALSE,CHI: yeah .
+in,FALSE,FALSE,"CHI: I have &~shh throat , real sore ."
+out,FALSE,FALSE,INV: sore throat ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: you did ?
+out,FALSE,FALSE,INV: tell me about it .
+in,FALSE,FALSE,CHI: <I had> [//] I went down to the trailer .
+in,FALSE,FALSE,CHI: and my mom took some Kool_Aid <for me> [//] (.) for all of us .
+in,FALSE,TRUE,CHI: and [/] and that Kool_Aid helped with water in it .
+out,FALSE,FALSE,INV: have you ever spilled anything ?
+out,FALSE,FALSE,CHI: no: .
+out,FALSE,FALSE,INV: no: ?
+out,FALSE,FALSE,"CHI: only water , yech [: yuck] ."
+out,FALSE,FALSE,INV: oh tell me about it .
+out,FALSE,FALSE,"INV: there , that's probably plenty ."
+out,FALSE,FALSE,INV: did you wanna put some there ?
+out,FALSE,FALSE,INV: there .
+out,FALSE,FALSE,INV: tell me about when you spilled the water .
+in,TRUE,FALSE,CHI: &-um see I spilled the water because I put too much in my cup .
+out,FALSE,FALSE,INV: you put too much in your cup ?
+out,FALSE,FALSE,INV: uhhuh ?
+out,FALSE,FALSE,CHI: yep .
+out,FALSE,FALSE,INV: and ?
+in,FALSE,FALSE,CHI: then [/] then my mom cleaneded [: cleaned] [* m:+ed] it up .
+out,FALSE,FALSE,INV: your mom cleaned it up ?
+in,FALSE,FALSE,CHI: yeah .
+in,FALSE,TRUE,CHI: she's a good girl .
+out,FALSE,FALSE,INV: have you ever been on a trip like that ?
+out,FALSE,FALSE,CHI: nope .
+in,TRUE,FALSE,CHI: but I went to Washington on a trip like that .
+out,FALSE,FALSE,INV: oh tell me about it .
+in,FALSE,FALSE,"CHI: we went to Washington, you know, we [/] we stopped and eat and I hurried and ate my hamburger and my pop and my french fries and my mom and dad didn't hurry up ."
+out,FALSE,FALSE,INV: they didn't hurry up ?
+in,FALSE,TRUE,CHI: so I was the only one that beat .
+out,FALSE,FALSE,INV: have you ever been to Cleveland ?
+out,FALSE,FALSE,INV: or any other place ?
+in,TRUE,FALSE,CHI: I went to Cleveland_Zoo .
+out,FALSE,FALSE,INV: oh tell me about it .
+in,FALSE,FALSE,CHI: &-um I went to Cleveland .
+in,FALSE,TRUE,CHI: you_know we saw all <kinds of> [//] type [* m:a] of &~el animals running across the street and my dad didn't hit none .
+in,FALSE,FALSE,"INV: when I travel , I go mostly by car ."
+out,FALSE,FALSE,INV: have you ever been on a plane or train or anything ?
+out,FALSE,FALSE,CHI: no: .
+out,FALSE,FALSE,INV: you also go mostly by car too huh ?
+out,FALSE,FALSE,CHI: yeah .
+in,TRUE,FALSE,CHI: but I been on a airplane .
+out,FALSE,FALSE,INV: oh .
+out,FALSE,FALSE,INV: tell me about it .
+in,FALSE,FALSE,"CHI: &-um we went on the airplane you_know I looked out and went +""/."
+in,FALSE,FALSE,"CHI: +"" oh_my_gosh it's far away down !"
+in,FALSE,FALSE,"CHI: +"" how are we going to get down ?"
+out,FALSE,FALSE,CHI: oops .
+out,FALSE,FALSE,CHI: whoops .
+in,FALSE,FALSE,"INV: +"" oh_my_gosh it's far away down ."
+in,FALSE,FALSE,"INV: +"" how are we going to get down ?"
+out,FALSE,FALSE,INV: that's what you said ?
+in,FALSE,FALSE,CHI: yeah .
+in,FALSE,TRUE,CHI: and airplane stopped <because we were at> [//] &-um didn't [//] because we couldn't get to the movies .
+in,TRUE,FALSE,CHI: <because we> [/] &-um because we were go [//] going to run out of gas .
+in,FALSE,FALSE,CHI: we didn't have that much gas .
+out,FALSE,FALSE,INV: because you didn't have that much gas ?
+out,FALSE,FALSE,CHI: uhhuh .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,TRUE,CHI: <and we> [/] and we couldn't go to the gas station because we hadta byebye yesterday you_know ?
+out,FALSE,FALSE,INV: never been in an accident huh ?
+in,TRUE,FALSE,"CHI: no oh wait, we saw a car, you know, ran in a car ."
+out,FALSE,FALSE,INV: you ran into a car ?
+in,FALSE,FALSE,"CHI: no no, a different car ."
+out,FALSE,FALSE,INV: oh you saw a car run into another car ?
+in,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,FALSE,"CHI: and, see, well, and the police came, you know, we checked the car to see and there was a man in there had a broken leg ."
+out,FALSE,FALSE,INV: there was a man that had a broken leg ?
+in,FALSE,FALSE,CHI: yep .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,FALSE,CHI: and one old lady had a broken arm .
+out,FALSE,FALSE,INV: and the little lady had a broken arm ?
+in,FALSE,TRUE,CHI: a big lady though .
+out,FALSE,FALSE,INV: have you seen anything else go crash ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: oh tell me about it .
+in,TRUE,FALSE,"CHI: well see , li(tt)le lady you_know ."
+out,FALSE,FALSE,INV: a little lady uhhuh ?
+ambiguous,FALSE,FALSE,CHI: whoops .
+out,FALSE,FALSE,INV: yeah ?
+in,FALSE,FALSE,CHI: and (.) she ran across the street .
+in,FALSE,FALSE,CHI: a car hit her .
+out,FALSE,FALSE,INV: she ran across the street and a car hit her ?
+out,FALSE,FALSE,CHI: yeah .
+in,FALSE,TRUE,CHI: she didn't watch .
+out,FALSE,FALSE,CHI: hey can I paint this ?
+out,FALSE,FALSE,INV: sure .
+out,FALSE,FALSE,INV: so she ran across the street and she didn't watch ?
+out,FALSE,FALSE,INV: uhhuh ?
+out,FALSE,FALSE,CHI: right .
+out,FALSE,FALSE,CHI: she just ran and got the ball .
+out,FALSE,FALSE,INV: she ran and got the ball ?
+out,FALSE,FALSE,INV: this is a little lady ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: uhhuh ?
+in,TRUE,FALSE,CHI: a little girl and a little boy .
+out,FALSE,FALSE,INV: uhhuh ?
+ambiguous,FALSE,FALSE,CHI: whoops .
+out,FALSE,FALSE,INV: yeah ?
+out,FALSE,FALSE,INV: a little girl and she ran across the street to get her ball ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: yeah ?
+in,FALSE,FALSE,CHI: and a car ran over her .
+out,FALSE,FALSE,INV: a car ran over her ?
+ambiguous,FALSE,FALSE,CHI: oohhhweee@i .
+out,FALSE,FALSE,INV: ohhhwee@i huh ?
+in,FALSE,FALSE,CHI: ye:p car sure did hit her .
+out,FALSE,FALSE,INV: it sure did hit her huh ?
+in,FALSE,FALSE,CHI: yeah she was dead .
+out,FALSE,FALSE,INV: oh she was ?
+in,FALSE,FALSE,CHI: yeah .
+in,FALSE,TRUE,CHI: ah: (.) I didn't know she was dead .
+out,FALSE,FALSE,INV: did anything like that ever happen to you ?
+in,TRUE,FALSE,"CHI: well I ripped my pants, you know, because someone told me to, &-um, stick my tongue out, you know ."
+in,FALSE,FALSE,"CHI: I hadta do what they did, you know, I hadta stretch my legs far out as they did and I ripped my pants all the way ."
+in,FALSE,FALSE,INV: everybody was laughing .
+out,FALSE,FALSE,INV: anything like that ever happen to you ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: yeah ?
+in,FALSE,FALSE,CHI: everybody sticked [: stuck] [* m:=ed] their tongue out at me .
+out,FALSE,FALSE,INV: everybody stuck their tongue out at you ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: &-uh what happened ?
+in,FALSE,FALSE,CHI: I cried because they would never stop it they said .
+in,FALSE,FALSE,INV: they would never stop it .
+out,FALSE,FALSE,CHI: ri:ght .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,FALSE,CHI: and I told Miss_Morris and Miss_Morris said +...
+out,FALSE,FALSE,INV: and you told Miss Morris ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: uhhuh ?
+out,FALSE,FALSE,CHI: and you know what she said ?
+out,FALSE,FALSE,INV: what'd she say ?
+in,FALSE,FALSE,"CHI: she said +""/."
+in,FALSE,TRUE,"CHI: +"" you guys are bad !"
+out,FALSE,FALSE,INV: do you know anybody else who had brothers and sisters (.) that fight like that ?
+in,TRUE,FALSE,CHI: yeah &-uh two twins you_know that was eating a sucker you_know .
+in,FALSE,FALSE,CHI: one had red and one had orange .
+in,FALSE,FALSE,CHI: one didn't like the red and one didn't like the orange so they traded .
+out,FALSE,FALSE,INV: so they traded ?
+in,FALSE,FALSE,CHI: yeah and they caused germs .
+out,FALSE,FALSE,INV: and they caused germs ?
+out,FALSE,FALSE,CHI: yeah .
+in,FALSE,TRUE,CHI: nobody wipeded [: wiped] [* m:+ed] the germs off .
+out,FALSE,FALSE,INV: have you ever been to the doctor's ?
+in,TRUE,FALSE,CHI: 0of course I went to the dentist .
+out,FALSE,FALSE,INV: you went to the +//.
+out,FALSE,FALSE,INV: oh !
+in,FALSE,FALSE,CHI: and you_know_what my friend Scotty +...
+in,FALSE,FALSE,CHI: I went to the hospital you_know .
+in,FALSE,FALSE,CHI: oh did that hurt .
+out,FALSE,FALSE,INV: what happened ?
+in,FALSE,FALSE,"CHI: &-um &~sc what was that round thing with the stick at the top that you hit a ball with , a hard ball ?"
+out,FALSE,FALSE,INV: a bat ?
+in,FALSE,FALSE,CHI: yeah .
+in,FALSE,FALSE,CHI: and he hit me .
+in,FALSE,FALSE,CHI: you_know I was in back of him and he hit me and before I got in the house it was bleeding so hard .
+in,FALSE,FALSE,CHI: way down to my legs .
+out,FALSE,FALSE,INV: way down to your legs ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: uhhuh and +..?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: &-uh okay .
+out,FALSE,FALSE,INV: it was bleeding down your legs and +..?
+in,FALSE,TRUE,CHI: well Scotty you_know he got a spanking .
+out,FALSE,FALSE,INV: so you also went to the dentist ?
+out,FALSE,FALSE,INV: tell me about when you went to the dentist .
+in,TRUE,FALSE,CHI: well I went to the dentist just yesterday .
+out,FALSE,FALSE,INV: yesterday ?
+out,FALSE,FALSE,INV: oh .
+in,FALSE,TRUE,CHI: yeah I got my teeth .
+out,FALSE,FALSE,CHI: aren't they shiny ?
+out,FALSE,FALSE,INV: have you ever &-um visited anyone in the hospital ?
+in,TRUE,FALSE,CHI: course [: of_course] I visited my [/] my mommy in the hospital .
+out,FALSE,FALSE,INV: you did ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: oh .
+out,FALSE,FALSE,INV: tell me about it .
+in,FALSE,FALSE,CHI: she was in the hospital .
+in,FALSE,FALSE,CHI: she gave me a sucker .
+in,FALSE,TRUE,CHI: because I wasn't going before I had that .
+out,FALSE,FALSE,INV: did you get hurt any other time when you hadta go to the doctor ?
+in,TRUE,FALSE,CHI: nope (.) But my mommy hadta go to the doctor .
+out,FALSE,FALSE,INV: oh what happened ?
+in,FALSE,FALSE,"CHI: nothing (.) She, she [/] she had, the doctor hadta check our baby ."
+out,FALSE,FALSE,INV: check her baby ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: uhhuh ?
+out,FALSE,FALSE,CHI: xxx .
+out,FALSE,FALSE,INV: the doctor hadta check her baby huh ?
+in,FALSE,TRUE,CHI: yeah she's got a baby in her tummy .
+out,FALSE,FALSE,INV: have you ever gotten a shot ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: never gotten a shot ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: you have ?
+in,TRUE,FALSE,CHI: right before I went to kindergarten .
+out,FALSE,FALSE,INV: you did ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: oh what happened ?
+in,FALSE,FALSE,"CHI: <see my mother> [//] (.) <well my grandmother> [//] see , my mother hadta work ."
+in,FALSE,FALSE,CHI: she had me stay there on two Friday when I didn't have school .
+out,FALSE,FALSE,INV: she made you stay on Friday when you didn't have school ?
+out,FALSE,FALSE,CHI: right .
+out,FALSE,FALSE,INV: uhhuh ?
+in,FALSE,FALSE,CHI: and I got shots .
+out,FALSE,FALSE,INV: you got shots ?
+in,FALSE,FALSE,CHI: yeah and I gotta [//] &-um a ice cream cone because I wasn't bad .
+out,FALSE,FALSE,INV: because you weren't bad huh ?
+out,FALSE,FALSE,CHI: no: .
+out,FALSE,FALSE,CHI: you know why ?
+out,FALSE,FALSE,INV: why ?
+in,FALSE,FALSE,CHI: because I wasn't crying before I got that shot .
+out,FALSE,FALSE,INV: you weren't crying before you got that shot ?
+out,FALSE,FALSE,CHI: nope .
+in,FALSE,TRUE,CHI: but I was afraid to go in there .

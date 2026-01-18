@@ -1,0 +1,68 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,CHI: you write it .
+out,FALSE,FALSE,@Comment: Time is 6:19
+out,FALSE,FALSE,@Comment: Dear Matthew ples Do not use my Game from Chi.
+out,FALSE,FALSE,"@Comment: Chi has book on his lap. Mot tells Chi to write to Bro and prompts , by asking how you start a letter; Chi comes up with what to say on his own. after asking permission from EXs , MOT helps with spelling. There is lots_of laughing throughout the writing process (not always sure why they are laughing)"
+out,FALSE,FALSE,MOT: &=laughs [>] .
+out,FALSE,FALSE,INV1: &=laughs [<] .
+out,FALSE,FALSE,MOT: nope it's your job .
+out,FALSE,FALSE,CHI: nope &=laughs .
+in,TRUE,FALSE,MOT: you hafta write a letter .
+out,FALSE,FALSE,MOT: who you wanna write a letter to ?
+out,FALSE,FALSE,MOT: +^ here [>] .
+out,FALSE,FALSE,CHI: <I dunno [: don't know]> [<] .
+out,FALSE,FALSE,MOT: here .
+in,FALSE,TRUE,MOT: you can even use a pen .
+out,FALSE,FALSE,BRO: me me !
+in,TRUE,TRUE,MOT: write a letter to Bro .
+out,FALSE,FALSE,CHI: &=laughs .
+out,FALSE,FALSE,MOT: there you go .
+in,TRUE,FALSE,MOT: how do you start a letter ?
+in,FALSE,TRUE,MOT: (..) write on the line .
+out,FALSE,FALSE,MOT: and write xxx .
+out,FALSE,FALSE,CHI: how do you spell dear@q ?
+out,FALSE,FALSE,MOT: +^ a@l r@l .
+out,FALSE,FALSE,CHI: is that it ?
+out,FALSE,FALSE,MOT: mm .
+in,TRUE,FALSE,MOT: should I be telling him how to spell (.) if he asks ?
+out,FALSE,FALSE,MOT: is that alright ?
+out,FALSE,FALSE,INV2: mhm .
+out,FALSE,FALSE,MOT: okay .
+out,FALSE,FALSE,MOT: d@l e@l a@l r@l .
+in,FALSE,TRUE,MOT: you know how to <spell Bro@q xxx> [>] .
+out,FALSE,FALSE,CHI: <d@l e@l a@l (.) r@l> [<] .
+in,TRUE,TRUE,MOT: make sure it gets on the line nice and neat .
+in,TRUE,FALSE,MOT: (..) do you wanna know how to spell that right ?
+in,FALSE,TRUE,CHI: how do you spell please@q ?
+out,FALSE,FALSE,MOT: oh oh .
+out,FALSE,FALSE,MOT: that's okay .
+out,FALSE,FALSE,MOT: <go (a)head> [/] (.) go (a)head .
+out,FALSE,FALSE,MOT: (.) what's that word ?
+out,FALSE,FALSE,CHI: do not .
+out,FALSE,FALSE,MOT: okay .
+in,TRUE,TRUE,MOT: thought it was donut@q .
+out,FALSE,FALSE,CHI: &=giggles .
+out,FALSE,FALSE,MOT: go ahead .
+out,FALSE,FALSE,CHI: (.) how do you spell use@q ?
+out,FALSE,FALSE,MOT: u@l s@l e@l .
+in,TRUE,TRUE,BRO: (.) I know what he's gonna write xxx .
+out,FALSE,FALSE,MOT: &=laughs .
+out,FALSE,FALSE,MOT: put it back .
+out,FALSE,FALSE,@Comment: Time is 8:12
+out,FALSE,FALSE,CHI: (.) &=laughs .
+in,TRUE,TRUE,MOT: are you gonna say anything else in your letter ?
+out,FALSE,FALSE,CHI: no www &=laughs .
+out,FALSE,FALSE,MOT: well how does he know who it's from ?
+out,FALSE,FALSE,CHI: 0 .
+in,TRUE,FALSE,MOT: (..) put an r@l in there .
+out,FALSE,FALSE,CHI: (..) &=laughs .
+in,FALSE,FALSE,MOT: <return it> [//] return the books .
+in,FALSE,TRUE,MOT: and the pen .
+out,FALSE,FALSE,CHI: don't give xxx .
+out,FALSE,FALSE,INV1: &=laughs [>] .
+out,FALSE,FALSE,INV2: &=laughs [<] .
+out,FALSE,FALSE,INV2: well <can you> [>] [//] can you read it us ?
+in,TRUE,FALSE,BRO: <I know what it says> [<] .
+in,FALSE,TRUE,CHI: dear Bro please (.) do not use my game for [//] <from Chi> [=! laughing] .
+out,FALSE,FALSE,INV1: &=laughs .
+out,FALSE,FALSE,BRO: yes I'm doing it !

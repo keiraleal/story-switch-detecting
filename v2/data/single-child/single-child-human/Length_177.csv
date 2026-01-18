@@ -1,0 +1,284 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,"INV: before we talk about chess, I'd like to learn something about you ."
+in,TRUE,FALSE,INV: I'm going to ask you a few general questions .
+in,FALSE,TRUE,"INV: then you can ask me some questions, too ."
+out,FALSE,FALSE,INV: okay ?
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,INV: do you have any brothers or sisters ?
+out,FALSE,FALSE,"CHI: yes, one brother and two sisters ."
+out,FALSE,FALSE,INV: what are their names ?
+out,FALSE,FALSE,CHI: my brother is [^ ic] karston .
+out,FALSE,FALSE,CHI: and then my two sisters are [^ ic] athena and francis .
+out,FALSE,FALSE,INV: how old are they ?
+out,FALSE,FALSE,CHI: karsten is [^ ic] five .
+out,FALSE,FALSE,CHI: and athena is [^ ic] seven .
+out,FALSE,FALSE,CHI: and francis is [^ ic] ten .
+out,FALSE,FALSE,INV: so I guess that puts you kind of in the middle there .
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,CHI: one of the middles but the older one .
+out,FALSE,FALSE,INV: what else can you tell me about them ?
+out,FALSE,FALSE,"CHI: well francis, wait I can not think [^ ic] of anything except that karsten is [^ nom] so cute and athena is [^ nom] sort of like one of those boy one of those mixed boy girl ."
+out,FALSE,FALSE,CHI: she is [^ ic] a girl .
+out,FALSE,FALSE,CHI: and that is [^ ic] the girl part .
+out,FALSE,FALSE,CHI: and then she is [^ ic] a boy .
+out,FALSE,FALSE,CHI: well she likes [^ ic] sports .
+out,FALSE,FALSE,CHI: and she is [^ ic] rough and stuff .
+out,FALSE,FALSE,CHI: well not really rough .
+out,FALSE,FALSE,CHI: she is [^ ic] pretty tough .
+out,FALSE,FALSE,CHI: and then francis is [^ ic] pretty fragile .
+out,FALSE,FALSE,INV: do you have any pets at home ?
+in,TRUE,FALSE,"CHI: yes, two cats ."
+out,FALSE,FALSE,INV: can you tell me anything about your pets ?
+in,FALSE,FALSE,CHI: well they are [^ ic] about one year old .
+in,FALSE,FALSE,CHI: and we go [^ ic] and snuggle them and pet them daily .
+in,FALSE,FALSE,CHI: and we feed [^ ic] them daily .
+in,FALSE,FALSE,"CHI: and we get [^ ic] the water about once in three days, well a bit more than that because the water freezes [^ avc] over night ."
+in,FALSE,FALSE,CHI: so then there is their names are [^ ic] midnight and starlight .
+out,FALSE,FALSE,INV: those are pretty names .
+in,FALSE,FALSE,CHI: and you can pretty much tell [^ ic] what color midnight is [^ nom] .
+in,FALSE,FALSE,CHI: black .
+in,FALSE,FALSE,CHI: but starlight is [^ ic] sort of brown and black .
+in,FALSE,TRUE,CHI: mostly brown like a mix .
+out,FALSE,FALSE,INV: do you like to read books or magazines ?
+in,TRUE,FALSE,CHI: umm I sometimes well my mom and dad want [^ ic] me to read books .
+in,FALSE,FALSE,"CHI: but when I do [^ avc] read them, I sort of get [^ ic] like hypnotized ."
+in,FALSE,FALSE,CHI: and I cannot stop [^ ic] reading if it is [^ avc] a good book .
+in,FALSE,FALSE,"CHI: but about every night, I read [^ ic] magazines to karsten ."
+out,FALSE,FALSE,INV: and what have you read recently ?
+in,FALSE,FALSE,CHI: well he really likes [^ ic] the ranger ricks because I read [^ avc] him like the animal stuff .
+in,FALSE,TRUE,CHI: and then there is [^ ic] a comic .
+out,FALSE,FALSE,INV: what book did you read recently ?
+in,TRUE,FALSE,CHI: well he likes [^ ic] hearing them over again .
+in,FALSE,FALSE,CHI: so I have [^ ic] recently done gorilla .
+in,FALSE,FALSE,CHI: and I have done .
+in,FALSE,FALSE,"CHI: wait, there is [^ ic] a raccoon one ."
+in,FALSE,TRUE,CHI: and then &-uh I forgot [^ ic] the other two .
+out,FALSE,FALSE,INV: so you like to read it sounds like .
+out,FALSE,FALSE,INV: do you have any questions for me ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,@G: Chess_Con
+out,FALSE,FALSE,INV: now I would like to ask you about chess .
+out,FALSE,FALSE,INV: how long have you played chess ?
+out,FALSE,FALSE,CHI: for about six years .
+out,FALSE,FALSE,INV: how old were you when you first started to play ?
+out,FALSE,FALSE,CHI: three .
+out,FALSE,FALSE,INV: and who taught you how to play chess ?
+out,FALSE,FALSE,"CHI: a mix because my grand dad, mom and dad, computer games, and chess clubs and stuff ."
+out,FALSE,FALSE,CHI: at my school and stuff .
+out,FALSE,FALSE,INV: do you have a chess rating ?
+out,FALSE,FALSE,CHI: no xxx .
+out,FALSE,FALSE,INV: who rates ?
+out,FALSE,FALSE,CHI: it is [^ ic] some book .
+out,FALSE,FALSE,INV: a book ?
+out,FALSE,FALSE,CHI: yeah .
+out,FALSE,FALSE,INV: do you have a chess coach or a teacher ?
+in,TRUE,FALSE,CHI: that is [^ ic] a hard question because I go [^ avc] to chess club that has [^ rc] a teacher and a coach .
+in,FALSE,FALSE,CHI: but we just got [^ ic] the coach like two weeks ago .
+out,FALSE,FALSE,"INV: so who is your teacher, chess teacher ."
+in,FALSE,FALSE,CHI: one of my friend's mom .
+out,FALSE,FALSE,CHI: I do [^ ic] not really know her name .
+out,FALSE,FALSE,INV: and who is your chess coach ?
+in,FALSE,FALSE,CHI: I know [^ ic] he is pretty .
+in,FALSE,FALSE,"CHI: well, you could call [^ ic] him chubby ."
+in,FALSE,FALSE,CHI: because I know [^ ic] calling is not nice .
+in,FALSE,FALSE,CHI: and then he has [^ ic] sort of whitish gray hair .
+in,FALSE,TRUE,CHI: so he is [^ ic] pretty old .
+out,FALSE,FALSE,CHI: but that is [^ ic] pretty much all I know [^ nom] about him .
+out,FALSE,FALSE,INV: how often do you play chess say in a typical week ?
+in,TRUE,FALSE,CHI: about two games a week .
+out,FALSE,FALSE,INV: two games a week ?
+in,FALSE,FALSE,"CHI: yeah, because I usually play [^ ic] card games ."
+out,FALSE,FALSE,INV: who do you play with most ?
+in,FALSE,FALSE,CHI: my mom .
+out,FALSE,FALSE,INV: so you play two games a week with your mom .
+out,FALSE,FALSE,CHI: mostly yeah .
+in,FALSE,TRUE,CHI: I sometimes play [^ ic] with my school friends .
+out,FALSE,FALSE,INV: can you name any famous chess players ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: do you ever play chess on a computer ?
+out,FALSE,FALSE,CHI: a lot .
+out,FALSE,FALSE,CHI: I have [^ ic] like three chess programs .
+out,FALSE,FALSE,INV: and can you tell me about that ?
+out,FALSE,FALSE,INV: I have never done that .
+out,FALSE,FALSE,CHI: one is [^ ic] majestic chess .
+out,FALSE,FALSE,CHI: and that is [^ ic] my favorite one by far .
+out,FALSE,FALSE,CHI: and it is [^ ic] like advanced chess .
+out,FALSE,FALSE,CHI: and that is [^ ic] about my level .
+out,FALSE,FALSE,CHI: and then there is [^ ic] chessmates which is [^ rc] beginning chess .
+out,FALSE,FALSE,CHI: and there is [^ ic] like two things two chess games at my mom's work .
+out,FALSE,FALSE,CHI: one is [^ ic] like space chess .
+out,FALSE,FALSE,"CHI: and then the other is [^ ic] like normal chess, just against the computer ."
+out,FALSE,FALSE,INV: you play a lot of different chess games .
+out,FALSE,FALSE,CHI: yes .
+out,FALSE,FALSE,INV: is that challenging for you ?
+out,FALSE,FALSE,CHI: some of them like the normal chess one and space and chess in space .
+out,FALSE,FALSE,INV: can you adjust how hard they play ?
+out,FALSE,FALSE,CHI: in a scale in one and ten &-uh chess mates is [^ ic] probably one .
+out,FALSE,FALSE,CHI: and majestic chess is [^ ic] probably seven .
+out,FALSE,FALSE,CHI: and then chess in space would probably be [^ ic] eight .
+out,FALSE,FALSE,CHI: and then normal chess is [^ ic] probably nine and a half .
+out,FALSE,FALSE,INV: so that is the most difficult one .
+out,FALSE,FALSE,INV: now tell me why you enjoy chess .
+in,TRUE,FALSE,CHI: for one thing it is [^ ic] fun .
+in,FALSE,FALSE,CHI: and two you just have [^ ic] a good feeling when you have [^ avc] won .
+in,FALSE,FALSE,CHI: and I am [^ ic] good at chess .
+in,FALSE,FALSE,CHI: and well I know [^ ic] every game I play [^ rc] I pretty much get [^ nom] better .
+out,FALSE,FALSE,INV: how do you know you get better ?
+in,FALSE,FALSE,"CHI: because like my grand dad says [^ ic] stuff like, he says ."
+in,FALSE,FALSE,CHI: and my chess coach says [^ ic] stuff like &-uh it is [^ nom] better when you lose [^ avc] because you learn [^ avc] their moves and then you are [^ nom] able to do those .
+in,FALSE,FALSE,"CHI: so then if you always play [^ avc] them and lose and then you play [^ avc] other people and stuff and then people who you loose [^ rc] before, you might be [^ ic] able to beat them ."
+in,FALSE,FALSE,"CHI: and then they might then if you play [^ avc] them again, they might have [^ ic] new moves ."
+in,FALSE,FALSE,CHI: and if you played [^ avc] the people you have play [^ rc] after them you might beat [^ ic] them .
+in,FALSE,FALSE,INV: so you learn new moves when you lose .
+in,FALSE,FALSE,"CHI: and sometimes when you win [^ avc] because when you win [^ avc], it is [^ ic] not always by a long shot ."
+in,FALSE,FALSE,CHI: like sometimes I win [^ ic] .
+in,FALSE,FALSE,"CHI: and all I have is [^ ic] a queen, two pawns ."
+in,FALSE,FALSE,CHI: and that is [^ ic] about all .
+in,FALSE,FALSE,INV: so it is pretty evenly matched game .
+in,FALSE,TRUE,CHI: completely even at starting .
+out,FALSE,FALSE,@G: Chess_Expo
+out,FALSE,FALSE,"INV: I am not to familiar with the game of chess, you probably know a lot more about it than I do ."
+out,FALSE,FALSE,INV: so I would like you to explain some things to me .
+out,FALSE,FALSE,INV: first of all how many people may play a game of chess at one time ?
+out,FALSE,FALSE,CHI: with just one chess set ?
+out,FALSE,FALSE,INV: yes .
+out,FALSE,FALSE,CHI: two .
+out,FALSE,FALSE,INV: I have heard of simultaneous matches .
+out,FALSE,FALSE,INV: do you know what that is ?
+out,FALSE,FALSE,CHI: no .
+out,FALSE,FALSE,INV: please tell me about the different pieces and how they are supposed to move .
+in,TRUE,FALSE,CHI: first there are [^ ic] pawns which like are [^ rc] worth like one point .
+in,FALSE,FALSE,CHI: and they can move [^ ic] two forward on their first move and otherwise one .
+in,FALSE,FALSE,CHI: but you can have [^ ic] a choice to move two or one .
+in,FALSE,FALSE,CHI: then with other pawns you are only allowed [^ ic] to attack diagonally .
+in,FALSE,FALSE,CHI: and then you are able say it is .
+in,FALSE,FALSE,CHI: you move [^ ic] there and then another one .
+in,FALSE,FALSE,CHI: and then another pawn moves [^ ic] two .
+in,FALSE,FALSE,CHI: because it is [^ ic] like they are saying [^ nom] oh you cannot get [^ nom] me because I am [^ avc] right beside you .
+in,FALSE,FALSE,CHI: but then there is [^ ic] a move for that if you are [^ avc] the pawn that did not happen [^ rc] to .
+in,FALSE,FALSE,CHI: you just said [^ ic] the thing .
+in,FALSE,FALSE,CHI: you can move [^ ic] diagonal if they had just moved [^ avc] one and captured them .
+in,FALSE,FALSE,CHI: and then there is [^ ic] a knight which is [^ rc] worth three points .
+in,FALSE,FALSE,CHI: it moves [^ ic] two in one way and then one in another way .
+in,FALSE,FALSE,CHI: and it does not have it does not really have [^ ic] special moves .
+in,FALSE,FALSE,CHI: it is [^ ic] just able to jump over pieces .
+in,FALSE,FALSE,CHI: but it is [^ ic] not what it jumps [^ nom] over that it catches [^ rc] .
+in,FALSE,FALSE,CHI: it is [^ ic] what it lands [^ nom] on .
+in,FALSE,FALSE,CHI: it is [^ ic] the best against queens because queens have [^ avc] the power of rook and bishops .
+in,FALSE,FALSE,CHI: then comes [^ ic] the bishop which is [^ rc] able to move however it wants [^ avc] diagonally .
+in,FALSE,FALSE,CHI: and it does not really have [^ ic] any special moves either .
+in,FALSE,FALSE,CHI: and then the rook that can move [^ ic] straight in any direction .
+in,FALSE,FALSE,"CHI: oh yeah, it and the king ."
+in,FALSE,FALSE,"CHI: if the bishop, rook and queen or bishop and rook on the other side are [^ avc] both gone then the king is [^ ic] able to castle which means [^ avc] that instead of moving one space always her can move [^ nom] two ."
+in,FALSE,FALSE,CHI: and then the rook jumps [^ ic] over him and goes right beside him .
+in,FALSE,FALSE,CHI: and then there is [^ ic] the queen which has [^ rc] the powers of a rook and a bishop .
+out,FALSE,FALSE,CHI: and the oh I forgot [^ ic] to count points .
+in,FALSE,FALSE,CHI: the bishop is [^ ic] four points .
+in,FALSE,FALSE,CHI: and the rook is [^ ic] five points .
+in,FALSE,FALSE,"CHI: but then the queen, since it has [^ avc] both of their powers, it is [^ ic] nine points ."
+in,FALSE,FALSE,CHI: but then the king is [^ ic] unlimited points because if you lose [^ avc] him .
+in,FALSE,FALSE,CHI: well you cannot really lose [^ ic] him because when he cannot move [^ avc] anywhere and he is [^ avc] in danger then you lose [^ nom] the game if you are [^ avc] the one who did [^ rc] not do that .
+in,FALSE,FALSE,CHI: and it is [^ ic] your king that is [^ rc] in danger .
+in,FALSE,FALSE,CHI: and there is like well no piece can set [^ ic] the piece in danger because then on the next move the pawn would be [^ avc] able to capture the king .
+in,FALSE,TRUE,CHI: and the king cannot move [^ ic] into danger .
+out,FALSE,FALSE,CHI: and that is [^ ic] about all the basics and stuff .
+out,FALSE,FALSE,INV: now tell me about the goals of chess .
+out,FALSE,FALSE,"INV: in other words, what are the players trying to do ."
+out,FALSE,FALSE,CHI: trying to checkmate [^ ic] .
+out,FALSE,FALSE,CHI: but if they are [^ avc] losing by far then it is [^ ic] stalemate .
+out,FALSE,FALSE,CHI: stalemate is [^ ic] a tie .
+out,FALSE,FALSE,CHI: I only know [^ ic] like three or four of the ways to stalemate .
+out,FALSE,FALSE,CHI: but there are [^ ic] seven stalemates .
+out,FALSE,FALSE,INV: seven ways to stalemate .
+out,FALSE,FALSE,"CHI: yeah, but all of them, &-uh, your opponent has to like say [^ ic] your opponent does [^ nom] not know one ."
+out,FALSE,FALSE,CHI: that is [^ ic] a huge advantage because then you are [^ avc] able to try to do that one on him .
+out,FALSE,FALSE,INV: how many ways are there to checkmate ?
+out,FALSE,FALSE,CHI: millions like any possibility that you can make [^ ic] .
+in,TRUE,FALSE,"CHI: oh and the king, how he moves [^ ic] is [^ nom] he has [^ nom] exactly the same power as the queen, is they can go [^ nom] anywhere around him as much as they want [^ avc] ."
+in,FALSE,FALSE,CHI: but then the king can only go [^ ic] just one space anywhere around him .
+in,FALSE,FALSE,CHI: so it is [^ ic] pretty easy to get in danger and stuff .
+in,FALSE,FALSE,"CHI: and when you get [^ avc] him in danger, you say [^ ic] check so your opponent notices [^ avc] ."
+in,FALSE,FALSE,"CHI: and then there is [^ ic] like &-uh, &-uh or something ."
+in,FALSE,FALSE,CHI: then you show [^ ic] them how he is [^ nom] in check .
+in,FALSE,FALSE,"CHI: and then say he, anywhere, well if he moves [^ avc] into danger or something it is [^ ic] an illegal move ."
+in,FALSE,FALSE,"CHI: but say [^ ic] he cannot move [^ nom] anywhere &-uh and he is [^ nom] in danger, that checkmate can be [^ nom] any possibility with any position on the board ."
+in,FALSE,FALSE,CHI: he just has [^ ic] to not be able to move anywhere and be in danger .
+in,FALSE,FALSE,CHI: that is [^ ic] why I do [^ nom] not like castling much because you are [^ avc] trapping your king in the corner .
+in,FALSE,FALSE,CHI: and what you never want [^ nom] to do is [^ ic] have [^ nom] your king exactly at the corner especially when they are [^ avc] smoking you .
+in,FALSE,TRUE,CHI: and that is [^ ic] about all .
+out,FALSE,FALSE,INV: now tell me the rules that players need to follow .
+out,FALSE,FALSE,INV: in other words tell me everything you can think of about the game of just so that someone who has never played before would know how to play .
+out,FALSE,FALSE,"CHI: well normally, like the basics or something, because normally it would take [^ ic] like fifteen minutes for a week everyday ."
+out,FALSE,FALSE,CHI: so then it would be [^ ic] about .
+out,FALSE,FALSE,CHI: you can never put [^ ic] your king in check .
+out,FALSE,FALSE,CHI: and you have [^ ic] to move him exactly the right way .
+out,FALSE,FALSE,CHI: and there are [^ ic] tons of rules .
+out,FALSE,FALSE,CHI: I do not know [^ ic] them all .
+out,FALSE,FALSE,CHI: but I usually play [^ ic] completely right .
+out,FALSE,FALSE,"CHI: oh yeah, you cannot ever touch [^ ic] your opponents pieces unless you are [^ avc] taking them ."
+out,FALSE,FALSE,CHI: do you mean [^ ic] like the person knew [^ nom] how to move the pieces or something ?
+out,FALSE,FALSE,"INV: well, just the rules ."
+out,FALSE,FALSE,INV: you already talked about how to move the pieces .
+out,FALSE,FALSE,CHI: okay .
+out,FALSE,FALSE,CHI: well that is [^ ic] about it .
+out,FALSE,FALSE,INV: okay now I would like you to tell me what a player should do in order to win the game of chess .
+out,FALSE,FALSE,CHI: make check mate [^ ic] .
+out,FALSE,FALSE,CHI: that is [^ ic] the goal .
+out,FALSE,FALSE,INV: are there some key strategies that every good player should know to win ?
+in,TRUE,FALSE,"CHI: well one is to &-uh, I usually play ."
+in,FALSE,FALSE,CHI: I do not try [^ ic] to checkmate my opponent unless they are [^ avc] really bad and they will let anything slip [^ avc] until I catch [^ avc] their queen .
+in,FALSE,FALSE,CHI: and a good strategy is [^ ic] catching their queen .
+in,FALSE,FALSE,"CHI: it is [^ ic] like trapping, like moving your queen where your bishop usually starts [^ nom] at and then moving your bishop in danger of their queen ."
+in,FALSE,FALSE,CHI: and then most of the time they do not see [^ ic] your queen .
+in,FALSE,FALSE,CHI: so then but then my mom usually sees [^ ic] it because I have [^ avc] tried it on her like three thousand times .
+in,FALSE,FALSE,"CHI: and it has only worked [^ ic] like half of the time, the first half ."
+in,FALSE,FALSE,"CHI: so then, &-uh, it like you and then the queen tries [^ ic] to take your bishop ."
+in,FALSE,FALSE,CHI: and then you use [^ ic] your queen to catch their queen .
+in,FALSE,FALSE,CHI: that is [^ ic] what my main thing of catching the queen .
+in,FALSE,FALSE,"CHI: and then you try [^ ic] to checkmate them because one unless they have [^ avc] their queen and their rooks, if they just have [^ avc] like one rook and if they lost [^ avc] a rook and a queen, they are [^ avc] usually on the defense trying to get their pawns to the other side because you get [^ avc] any piece you want [^ rc] besides a king if you get [^ avc] your pawn to the other side ."
+in,FALSE,FALSE,CHI: but pretty much all computer games just give [^ ic] you a queen .
+in,FALSE,FALSE,CHI: that is [^ ic] pretty much the best thing you can get [^ rc] .
+in,FALSE,TRUE,"CHI: but I sometimes on those that let you [^ rc], I get [^ ic] knights because they can move [^ avc] where queens cannot [^ nom] ."
+out,FALSE,FALSE,CHI: and that is [^ ic] about all .
+out,FALSE,FALSE,INV: how long does it take to play a game of chess .
+out,FALSE,FALSE,CHI: if the people are equal ?
+out,FALSE,FALSE,INV: sure .
+out,FALSE,FALSE,CHI: forty five minutes .
+out,FALSE,FALSE,INV: what makes a game last a long time ?
+in,TRUE,FALSE,"CHI: it is [^ ic] some, well like a ninth of the time ."
+in,FALSE,FALSE,CHI: is I am [^ ic] thinking .
+in,FALSE,FALSE,CHI: but then it is just it is [^ ic] going to take a lot of moves to get checkmate because you have got [^ avc] to .
+in,FALSE,FALSE,CHI: it takes [^ ic] like five minutes to get that catch their queen thing developed then another move to catch the queen once the queen got [^ avc] its set .
+in,FALSE,FALSE,CHI: it takes [^ ic] like six moves to do that in the first place .
+in,FALSE,FALSE,CHI: and each time it takes [^ ic] five seconds to think .
+in,FALSE,FALSE,CHI: and that and then you imagine [^ ic] if you have [^ nom] hundreds of plots like that and only half of them work [^ nom] .
+in,FALSE,FALSE,CHI: and then you have [^ ic] to do them over .
+in,FALSE,FALSE,CHI: and then like every time half of them work [^ ic] .
+in,FALSE,TRUE,CHI: it would take [^ ic] a long time .
+out,FALSE,FALSE,"INV: so you said plot, do you mean plan ."
+in,TRUE,FALSE,CHI: yeah a plan .
+out,FALSE,FALSE,"INV: and when you are planning your attack, how many moves ahead do you think ?"
+in,FALSE,FALSE,CHI: I usually have [^ ic] a range of about fifteen .
+in,FALSE,FALSE,CHI: more like ten .
+in,FALSE,TRUE,CHI: my mom would know [^ ic] because she always fights [^ avc] me .
+out,FALSE,FALSE,INV: that is amazing .
+out,FALSE,FALSE,INV: what makes a game end quickly .
+out,FALSE,FALSE,CHI: good strategies .
+out,FALSE,FALSE,CHI: or try playing [^ ic] a bad player a beginner .
+out,FALSE,FALSE,INV: do you know how to use a chess clock .
+out,FALSE,FALSE,CHI: not really .
+in,TRUE,FALSE,CHI: I sometimes use [^ ic] it .
+in,FALSE,FALSE,CHI: like I just do not know [^ ic] how to set it up and stuff .
+in,FALSE,FALSE,CHI: but I use [^ ic] it .
+out,FALSE,FALSE,"INV: well, can you tell me about it a little bit ?"
+in,FALSE,FALSE,"CHI: well, there is [^ ic] a bunch of different times you can set [^ rc] ."
+in,FALSE,TRUE,CHI: like when I play [^ avc] chess at my chess club I usually do [^ ic] it for ten minutes for each player .
+out,FALSE,FALSE,INV: okay .
+out,FALSE,FALSE,INV: is there anything else you want to tell me about chess .
+in,TRUE,FALSE,CHI: it is [^ ic] very fun .
+in,FALSE,FALSE,"CHI: and it is [^ ic] one of those things that, if you lose [^ avc] you learn [^ nom] more ."
+in,FALSE,FALSE,"CHI: and it is not really it is [^ ic] one hundred percent skill, well, ninety nine ."
+in,FALSE,FALSE,CHI: who forgets [^ ic] a lot of stuff .
+in,FALSE,TRUE,CHI: and they may forget [^ ic] that your queen is [^ nom] very dangerous .
+out,FALSE,FALSE,CHI: and that is [^ ic] about all .
+out,FALSE,FALSE,INV: well thanks very much .

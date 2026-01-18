@@ -1,0 +1,60 @@
+in/out/ambiguous,start,end,Transcript
+out,FALSE,FALSE,INV: alright (.) do you remember this book Chi [?] ?
+out,FALSE,FALSE,BRO: xxx &=shouts .
+out,FALSE,FALSE,BRO: it's the same book we've been reading right ?
+out,FALSE,FALSE,MOT: oh yeah .
+out,FALSE,FALSE,CHI: The Very Hungry Caterpillar .
+out,FALSE,FALSE,INV: do you think you can read that to your mom ?
+in,TRUE,FALSE,CHI: (..) in the light of the moon a little (.) egg (.) lay (.) on a leaf .
+in,FALSE,TRUE,CHI: one Sunday morning the warm (.) sun came up and pop [!] out_of the egg (.) came a tiny (..) and very hungry caterpillar .
+in,TRUE,FALSE,CHI: on Monday +//.
+out,FALSE,FALSE,CHI: (.) oh !
+in,FALSE,TRUE,CHI: he stayed to look for some food .
+in,TRUE,FALSE,CHI: <on Monday he ate through> [>] .
+in,FALSE,TRUE,BRO: <yeah> [<] &=excited !
+in,TRUE,FALSE,CHI: one [>] apple (.) but he still +//.
+out,FALSE,FALSE,BRO: <yeah> [<] !
+in,FALSE,FALSE,CHI: (.) he was still hungry .
+in,FALSE,TRUE,CHI: on Tuesday he ate (.) two pears but he was still hungry [>] .
+out,FALSE,FALSE,BRO: <yeah> [<] !
+in,TRUE,FALSE,CHI: on Wednesday he ate (.) three (.) plums xxx [>] +/.
+out,FALSE,FALSE,MOT: Chi [<] you keep missin(g) this word .
+in,FALSE,FALSE,MOT: <on Wednesday he ate> [>] +...
+out,FALSE,FALSE,BRO: &=laughs [<] .
+out,FALSE,FALSE,MOT: what's this word ?
+in,FALSE,TRUE,CHI: through ?
+out,FALSE,FALSE,MOT: yeah !
+in,TRUE,FALSE,CHI: through three &~pl plums (.) but he still was hungry .
+in,FALSE,TRUE,CHI: on Thursday (.) he ate through four strawberries (.) but he was still [!] hungry .
+in,TRUE,FALSE,CHI: on Friday he ate (.) through five oranges (.) but he was still [!] hungry .
+in,FALSE,FALSE,CHI: on Saturday he ate through (.) one piece (.) of chocolate cake (.) one icecream (.) corn ?
+in,FALSE,FALSE,MOT: cone .
+in,FALSE,FALSE,CHI: cone [//] (.) icecream cone (.) one pickle .
+in,FALSE,TRUE,CHI: one sl:ice of Sw:iss cheese (.) a <slice of> [/] slice of salami .
+in,TRUE,FALSE,CHI: one lollipop (.) one piece (.) of cherry pie (.) one sausage one cupcake and a (.) slice of watermelon .
+out,FALSE,FALSE,CHI: oh !
+in,FALSE,TRUE,CHI: that night he had a stomachache .
+in,TRUE,FALSE,CHI: the next day (.) was Sunday again .
+in,FALSE,TRUE,CHI: the caterpillar (.) ate through (..) one nice green leaf (.) and after (.) that he &~fel felt much better .
+out,FALSE,FALSE,CHI: 0 [=! clears throat] .
+in,TRUE,FALSE,CHI: now he wasn't hungry +//.
+out,FALSE,FALSE,BRO: yeah [>] !
+in,FALSE,TRUE,CHI: anymore [<] (.) and he wasn't little [//] a little caterpillar an [= any] (.) more .
+in,TRUE,FALSE,CHI: he was a big fat caterpillar .
+in,FALSE,TRUE,CHI: he built [>] +/.
+out,FALSE,FALSE,BRO: yeah [<] [=! very loudly] !
+in,TRUE,FALSE,CHI: built a small (.) house called a (.) cancun@c [= cocoon] around himself .
+out,FALSE,FALSE,MOT: &=smiles .
+in,FALSE,FALSE,CHI: he stayed inside more than two weeks .
+in,FALSE,TRUE,CHI: then nibbled a hole in a (.) corn +/.
+in,TRUE,FALSE,MOT: &~n not cancun@c but &~co +...
+in,FALSE,FALSE,CHI: cocoon .
+out,FALSE,FALSE,MOT: right .
+in,FALSE,TRUE,CHI: pushed his way out and +...
+in,TRUE,FALSE,CHI: he was a butterfly .
+out,FALSE,FALSE,MOT: no (.) wait +...
+in,FALSE,FALSE,CHI: he was a beautiful [!] butterfly .
+out,FALSE,FALSE,MOT: right [>] !
+out,FALSE,FALSE,BRO: yeah &=laughs [<] !
+out,FALSE,FALSE,MOT: you sound like you memorized this book .
+out,FALSE,FALSE,INV: very good !
